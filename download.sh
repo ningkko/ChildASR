@@ -10,5 +10,5 @@ find . -name "*.zip" | while read filename; do unzip -o -d "`dirname "$filename"
 find . -name "*.zip" -type f -delete
 
 # put them under the same folder
-find . -name '*.cha' -exec mv {} data/ \;
+# find . -name '*.cha' -exec mv {} data/ \;
 

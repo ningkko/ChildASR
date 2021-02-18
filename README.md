@@ -1,7 +1,6 @@
 # ChildASR
 Work done for L3@BC
 
-
 Lit review: https://public.3.basecamp.com/p/9v7jBAYbvW9amJC594Y5sXAn
 
 To download transcripts from childesDB (stored in data/):
@@ -12,8 +11,12 @@ To download transcripts from childesDB (stored in data/):
 ```
 python3 prep.py
 ```
-This should create a website.txt file
+This should create a website.txt file that contains all downloading links and a files.pkl file containing all names of individual transcripts in the xls file.
 4. run the following command to download all corpora in website.txt and recursively unzip all zip files to extract CHAT transcripts (zip files will be deleted after unzipping).
 ```
 sh download.sh
+```
+5. run the following command to delete files not in the files.pkl indicator
+```
+python3 delete_files.py
 ```
