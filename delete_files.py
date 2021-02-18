@@ -5,13 +5,15 @@ no_remove = pickle.load(file)
 
 i = 0
 import os
+import shutil
+
 for f in os.listdir('data/.'):
-    if os.path.isdir(f):
-        os.rmdir(f)
+    if os.path.isdir('data/'+f):
+        shutil.rmtree('data/'+f)
 
     elif f not in no_remove:
         print('unlink:' + f ) 
-        os.remove(f)
+        os.remove('data/'+f)
 
     else:
         i+=1

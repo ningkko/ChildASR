@@ -14,7 +14,7 @@ with open("websites.txt","w") as file:
 	file.write("\n".join(websites))
 
 def _cut(x):
-	return x.split("/")[-1]
+	return x.split("/")[-1]+'.cha'
 
 df["files"] = df["path"].apply(lambda x: _cut(x))
 files = set(df['files'].unique())
