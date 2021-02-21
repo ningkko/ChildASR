@@ -16,7 +16,10 @@ import numpy as np
 import math
 # import argparse
 
-import enchant
+# import enchant
+
+from nltk.corpus import words
+nltk_eng_dict = set(words.words())
 
 def get_words(corpus_name):
     """
@@ -67,12 +70,16 @@ def plot(corpus_name, words):
     _dict={}
 
     # get rid of punctuations and non-eng words
-    d = enchant.Dict("en_US")
-    for k,v in l.items():
-        if d.check(k):
-            _dict[k]=v
+    # d = enchant.Dict("en_US")
+    # for k,v in l.items():
+    #     if d.check(k):
+    #         _dict[k]=v
     
-    _dict = dict(sorted(_dict.items(), key=lambda item: item[1]))
+    for k,v in l.items():
+        if k in nltk_eng_dict:
+            _dict[k]=v
+
+    _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
     
     df = pd.DataFrame(list(_dict.items()))
     df.columns = ["word","count"]
@@ -85,8 +92,9 @@ def plot(corpus_name, words):
 
     plt.clf()
 
-    keys = list(map(str,_dict.keys()))
-    values = list(map(int,_dict.values()))
+    l = int(len(_dict)*0.2)
+    keys = list(map(str,_dict.keys()))[l:]
+    values = list(map(int,_dict.values()))[l:]
     
     plt.axes().set_ylim([0, int(math.ceil(max(values)*1.5))])
     plt.bar(keys, values)

@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# coding: utf-8
+
 """Interfacing with CHAT data files."""
 
 import sys
@@ -12,8 +15,8 @@ from collections import Counter
 from itertools import chain
 from functools import wraps
 
-from pylangacq.measures import get_MLUm, get_MLUw, get_TTR, get_IPSyn
-from pylangacq.util import (
+from src.pylangacq.measures import get_MLUm, get_MLUw, get_TTR, get_IPSyn
+from src.pylangacq.util import (
     ENCODING,
     CLITIC,
     get_participant_code,

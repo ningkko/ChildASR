@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# coding: utf-8
+
 import pkg_resources
 
 from src.pylangacq.chat import read_chat, Reader

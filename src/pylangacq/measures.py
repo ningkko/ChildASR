@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# coding: utf-8
+
+
 from src.pylangacq.util import CLITIC, get_lemma_from_mor
 from src.pylangacq.dependency import DependencyGraph
 
