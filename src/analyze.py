@@ -3,6 +3,8 @@ import glob
 import pickle
 import sys
 import os
+import tqdm
+
 
 from src.pylangacq.chat import *
 from src.pylangacq.dependency import *
@@ -21,7 +23,26 @@ import math
 from nltk.corpus import words
 nltk_eng_dict = set(words.words())
 
-def get_words(corpus_name):
+def find_eng_words(words):
+    """
+    :param: a list of words
+    :output: a pandas dataframe of unique words and their frenquencies 
+    """
+
+    _dict={}
+
+    l = Counter(words)
+    for k,v in l.items():
+        if k in nltk_eng_dict:
+            _dict[k]=v
+
+    _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
+    
+    df = pd.DataFrame(list(_dict.items()))
+    df.columns = ["word","count"]
+    return df
+
+def get_words_from_cha(corpus_name):
     """
     This function reads all .cha files for a corpus and return all words including punctuations
     :return: all words (non-unique) appear in a corpus
@@ -29,9 +50,11 @@ def get_words(corpus_name):
     glob_par_list = []
     all_words = []
 
-    file_path = "src/prep/"+corpus_name+"/*.cha"
+    file_path = corpus_name+"/*.cha"
     files = glob.glob(file_path)
     
+    pbar = tqdm.tqdm(total=len(files))
+
     for file in files:
         # print(file)
         eve = read_chat(file)
@@ -44,57 +67,40 @@ def get_words(corpus_name):
                 if p not in glob_par_list:
                     glob_par_list.append(p)
                 all_words += words
-    
-    with open("src/words/"+corpus_name+".pkl", 'wb') as f:
-        pickle.dump(all_words, f)
+        pbar.update(1)
+
+    return all_words
+
+def get_words(corpus_name):
+
+    all_words = get_words_from_cha(corpus_name)
+    word_freq = find_eng_words(all_words)
+
+    output_filename = corpus_name+"_word_freq.csv"
+    df.to_csv("src/words/"+output_filename,index=False)
 
     with open(corpus_name+"_par.txt","w") as ff:
         ff.write(str(glob_par_list))
 
-    print("%s contains %i words including punctuations."%(corpus_name, len(all_words)))
+    print("%s contains %i words including punctuations."%(corpus_name, word_freq["count"].sum()))
     return all_words
 
 
 def plot(corpus_name, words):
 
-    # parser = argparse.ArgumentParser(description='preprocessing the data')
-    # parser.add_argument('--input_path', type=str,
-    #                     help='The path to xls file')
-    # args = parser.parse_args()
-    # input_file_name = args.input_path.split(".")[0]
-
-    # with open(args.input_path, 'rb') as f:
-    #     data = pickle.load(f)
-
-    l = Counter(words)
-    _dict={}
-
-    # get rid of punctuations and non-eng words
-    # d = enchant.Dict("en_US")
-    # for k,v in l.items():
-    #     if d.check(k):
-    #         _dict[k]=v
-    
-    for k,v in l.items():
-        if k in nltk_eng_dict:
-            _dict[k]=v
-
-    _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
-    
-    df = pd.DataFrame(list(_dict.items()))
-    df.columns = ["word","count"]
-
-    output_filename = corpus_name+"_word_freq.csv"
+    """
+    :param corpus_name: 
+    :param words: 
+    """
 
     if not os.path.isdir("analysis"):
         os.mkdir("analysis")
-    df.to_csv("analysis/"+output_filename,index=False)
 
     plt.clf()
 
     l = int(len(_dict)*0.2)
-    keys = list(map(str,_dict.keys()))[l:]
-    values = list(map(int,_dict.values()))[l:]
+    keys = words["word"][l:]
+    values = words["count"][l:]
     
     plt.axes().set_ylim([0, int(math.ceil(max(values)*1.5))])
     plt.bar(keys, values)

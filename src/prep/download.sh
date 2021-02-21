@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # iteratively download
 while read p; do
   wget -e robots=off -R "index.html*" -N -nH -l inf -r --no-parent "$p"
