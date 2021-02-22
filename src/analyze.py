@@ -52,7 +52,7 @@ def get_words_from_cha(corpus_name):
 
     file_path = corpus_name+"/*.cha"
     files = glob.glob(file_path)
-    
+
     pbar = tqdm.tqdm(total=len(files))
 
     for file in files:
@@ -69,6 +69,9 @@ def get_words_from_cha(corpus_name):
                 all_words += words
         pbar.update(1)
 
+    with open(corpus_name+"_par.txt","w") as ff:
+        ff.write(str(glob_par_list))
+
     return all_words
 
 def get_words(corpus_name):
@@ -77,12 +80,9 @@ def get_words(corpus_name):
     word_freq = find_eng_words(all_words)
 
     output_filename = corpus_name+"_word_freq.csv"
-    df.to_csv("src/words/"+output_filename,index=False)
+    word_freq.to_csv("src/words/"+output_filename,index=False)
 
-    with open(corpus_name+"_par.txt","w") as ff:
-        ff.write(str(glob_par_list))
-
-    print("%s contains %i words including punctuations."%(corpus_name, word_freq["count"].sum()))
+    print("%s contains %i words."%(corpus_name, word_freq["count"].sum()))
     return all_words
 
 
