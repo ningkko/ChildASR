@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/c-00010671-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|01;08.18|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	07-NOV-1972
+@Types:	long, toyplay, TD
+*CHI:	Mommy awake .
+%mor:	n:prop|Mommy v|awake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1694
+*CHI:	Daddy Mommy awake .
+%mor:	n:prop|Daddy n:prop|Mommy v|awake .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	1694
+*CHI:	get baby out .
+%mor:	v|get n|baby adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%sit:	1695
+*CHI:	clean baby .
+%mor:	adj|clean n|baby .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	1695
+*CHI:	children out car .
+%mor:	n|child&PL prep|out n|car .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%sit:	1696
+*CHI:	man vote too .
+%mor:	n|man n|vote adv|too .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+%sit:	1697
+*CHI:	diaper came .
+%mor:	n|diaper v|come&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1698
+*CHI:	don't do that .
+%mor:	mod|do~neg|not v|do pro:dem|that .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1699
+*CHI:	baby help Mommy Daddy .
+%mor:	n|baby n|help n:prop|Mommy n:prop|Daddy .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|NAME 4|2|APP 5|2|PUNCT
+%sit:	1700
+*MOT:	the baby helps the Mommy and the Daddy ?
+%mor:	det:art|the n|baby v|help-3S det:art|the n:prop|Mommy coord|and
+	det:art|the n:prop|Daddy ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|CONJ 7|8|DET 8|6|COORD
+	9|3|PUNCT
+%sit:	1700
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1700
+*CHI:	Laura like Deedee [: Joanna] .
+%mor:	n:prop|Laura v|like n:prop|Joanna .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1701
+*CHI:	goody goody goddy .
+%mor:	co|goody co|goody adj|god&dn-Y .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%sit:	1701
+*CHI:	no want .
+%mor:	co|no v|want .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	1702
+*CHI:	no want .
+%mor:	co|no v|want .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	1702
+*MOT:	where's your other shoe and sock, my dear friend ?
+%mor:	pro:int|where~cop|be&3S det:poss|your qn|other n|shoe coord|and
+	n|sock cm|cm det:poss|my adj|dear n|friend ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|5|CONJ 7|6|COORD 8|5|LP
+	9|11|DET 10|11|MOD 11|5|APP 12|2|PUNCT
+%sit:	1703
+*CHI:	in crib .
+%mor:	prep|in n|crib .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	1703
+*CHI:	in Laura crib .
+%mor:	prep|in n:prop|Laura n|crib .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%sit:	1703
+*CHI:	petty [: pretty] flower .
+%mor:	adj|pretty n|flower .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	1704
+*CHI:	top going .
+%mor:	n|top part|go-PRESP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+%sit:	1705
+*CHI:	all done .
+%mor:	post|all part|do&PASTP .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%sit:	1705
+*CHI:	I got it .
+%mor:	pro:sub|I v|get&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1705
+*CHI:	I got it .
+%mor:	pro:sub|I v|get&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1705
+@End

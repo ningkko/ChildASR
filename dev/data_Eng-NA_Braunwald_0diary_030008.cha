@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/c-00011110-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;00.08|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	28-FEB-1974
+@Types:	long, toyplay, TD
+*CHI:	they're all sleeping next to each other .
+%mor:	pro:sub|they~aux|be&PRES post|all part|sleep-PRESP adv|next prep|to
+	qn|each qn|other .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|PQ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|QUANT 8|6|POBJ
+	9|4|PUNCT
+%sit:	513
+*CHI:	they're all really sleeping next to each other .
+%mor:	pro:sub|they~aux|be&PRES post|all adv|really part|sleep-PRESP
+	adv|next prep|to qn|each qn|other .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|PQ 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|JCT 8|9|QUANT
+	9|7|POBJ 10|5|PUNCT
+%sit:	513
+*MOT:	uhhuh, look at that .
+%mor:	co|uhhuh cm|cm v|look prep|at pro:dem|that .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%sit:	513
+*MOT:	why are you so angry at Daddy ?
+%mor:	pro:int|why cop|be&PRES pro:per|you adv|so adj|angry prep|at
+	n:prop|Daddy ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|5|JCT 5|3|POSTMOD 6|5|JCT 7|6|POBJ
+	8|2|PUNCT
+%sit:	514
+*CHI:	I can't share him with you and Jo [: Joanna] .
+%mor:	pro:sub|I mod|can~neg|not v|share pro:obj|him prep|with pro:per|you
+	coord|and n:prop|Joanna .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|CONJ
+	9|8|COORD 10|4|PUNCT
+%sit:	514
+*CHI:	but (be)fore I go to bed I want my vitamin c@l .
+%mor:	conj|but prep|before pro:sub|I v|go prep|to n|bed pro:sub|I v|want
+	det:poss|my n|vitamin n:let|c .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|8|CJCT 5|4|JCT 6|5|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|10|POSTMOD 12|8|PUNCT
+%sit:	515
+@End

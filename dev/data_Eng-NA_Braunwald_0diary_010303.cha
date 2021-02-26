@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00010511-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|1;03.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	23-MAY-1972
+@Types:	long, toyplay, TD
+*CHI:	hi, Mommy .
+%mor:	co|hi cm|cm n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	5
+*CHI:	hi, bowwow .
+%mor:	co|hi cm|cm on|+on|bow+on|wow .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	6
+*CHI:	hi, baby .
+%mor:	co|hi cm|cm n|baby .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	7
+*CHI:	baby, baby .
+%mor:	n|baby cm|cm n|baby .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	8
+*MOT:	baby what ?
+%mor:	v|baby pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	8
+*CHI:	baba [= banana] .
+%mor:	n|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	8
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	9
+*CHI:	hi, Dada, hi, Dada .
+%mor:	co|hi cm|cm n:prop|Dada cm|cm co|hi cm|cm n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|5|LP 7|1|ENUM 8|1|PUNCT
+%sit:	10
+*CHI:	boo boo .
+%mor:	n|boo n|boo .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	11
+*SIS:	hi, baby .
+%mor:	co|hi cm|cm n|baby .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	12
+*CHI:	hi, baby .
+%mor:	co|hi cm|cm n|baby .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	12
+*CHI:	Deedee [: Joanna] .
+%mor:	n:prop|Joanna .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	13
+*CHI:	hi, Deedee .
+%mor:	co|hi cm|cm n:prop|Deedee .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	14
+@End

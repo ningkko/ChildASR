@@ -1,0 +1,693 @@
+@UTF8
+@PID:	11312/a-00011408-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@ID:	eng|EisenbergGuo|CHI|3;07.|female|||Target_Child|||
+@ID:	eng|EisenbergGuo|INV|||||Investigator|||
+@Comment:	Language = English
+@Comment:	Subjectid = 006MD
+@Comment:	ethnicity = white
+@Comment:	mother education = college
+@Comment:	father education = college (mother 2)
+@Comment:	SPELT-P2 = 105
+@Comment:	Context = picture
+@Comment:	Segment = c-unit
+@G:	Doll
+@Time Start:	14:48
+@Types:	cross, pictures, TD
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	<he wants> [/?] she wants to ride [^ elexical] her dolly [^ eu] .
+%mor:	pro:sub|she v|want-3S inf|to v|ride pro:obj|her n|doll-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+*CHI:	but <it> [/?] she forgot to put her in her desk drawer .
+%mor:	conj|but pro:sub|she v|forget&PAST inf|to v|put&ZERO pro:obj|her
+	prep|in det:poss|her n|desk n|drawer .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|3|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	she's running .
+%mor:	pro:sub|she~aux|be&3S part|run-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	he's pointing to go this way and ride <her thing (.) and> [/?] that
+	thing .
+%mor:	pro:sub|he~aux|be&3S part|point-PRESP inf|to v|go det:dem|this
+	n|way coord|and n|ride det:dem|that n|thing .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|7|CONJ
+	9|11|MOD 10|11|DET 11|8|COORD 12|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%com:	no response .
+*INV:	just tell me anything else about the picture .
+%mor:	adv|just v|tell pro:obj|me pro:indef|anything post|else prep|about
+	det:art|the n|picture .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|4|PQ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*CHI:	<the girl> [/?] but the daddy's holding the doll .
+%mor:	conj|but det:art|the n|daddy~aux|be&3S part|hold-PRESP det:art|the
+	n|doll .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	and she's holding her with his hand [^ eu] .
+%mor:	coord|and pro:sub|she~aux|be&3S part|hold-PRESP pro:obj|her
+	prep|with det:poss|his n|hand .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+@G:	Dressing
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the girl's holding her shoes on her hand .
+%mor:	det:art|the n|girl~aux|be&3S part|hold-PRESP det:poss|her n|shoe-PL
+	prep|on det:poss|her n|hand .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*CHI:	and <&th> [/?] they're wearing their shoes on their foot
+	[^ ew:feet] [^ emorph] [^ eu] .
+%mor:	coord|and pro:sub|they~aux|be&PRES part|wear-PRESP det:poss|their
+	n|shoe-PL prep|on det:poss|their n|foot .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*INV:	what else is happening in the picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:art|the n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the daddy's getting ready for something .
+%mor:	det:art|the n|daddy~aux|be&3S part|get-PRESP adj|ready prep|for
+	pro:indef|something .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	<and the girl was> [/?] and the boy is getting ready too .
+%mor:	coord|and det:art|the n|boy aux|be&3S part|get-PRESP adj|ready
+	adv|too .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PRED 7|5|JCT 8|5|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the dog is holding a shoe so he can [^ modal] go too .
+%mor:	det:art|the n|dog aux|be&3S part|hold-PRESP det:art|a n|shoe co|so
+	pro:sub|he mod|can v|go adv|too .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|COM 8|10|SUBJ
+	9|10|AUX 10|4|COMP 11|10|JCT 12|4|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	the daddy is looking <in the in in the> [/?] in <<I don't know what
+	that word is> [/?]> [/?] xxx +...
+%mor:	det:art|the n|daddy aux|be&3S part|look-PRESP adv|in +...
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+@G:	Washing
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the girl is standing in love with her dress [^ other] [^ eu] .
+%mor:	det:art|the n|girl aux|be&3S part|stand-PRESP prep|in n|love
+	prep|with det:poss|her n|dress .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the boy got some dirt <and mud> [/?] and &uh some water and mud .
+%mor:	det:art|the n|boy v|get&PAST qn|some n|dirt coord|and qn|some
+	n|water coord|and n|mud .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|CONJ 7|8|QUANT
+	8|6|COORD 9|8|CONJ 10|9|COORD 11|3|PUNCT
+*CHI:	<and &uh &uh> [/?] and that's not good .
+%mor:	coord|and pro:dem|that~cop|be&3S neg|not adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the boy's carrying it .
+%mor:	det:art|the n|boy~aux|be&3S part|carry-PRESP pro:per|it .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	he's gonna [^ cat] carry the bucket .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|carry det:art|the
+	n|bucket .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	<and> [/?] but [^ econj] the dog splashed the girl [^ eu] .
+%mor:	conj|but det:art|the n|dog v|splash-PAST det:art|the n|girl .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@G:	Bubbles
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the boy, <he> [/?] he was making something with water and mud .
+%mor:	det:art|the n|boy cm|cm pro:sub|he aux|be&PAST&13S part|make-PRESP
+	pro:indef|something prep|with n|water coord|and n|mud .
+%gra:	1|2|DET 2|0|INCROOT 3|2|LP 4|6|SUBJ 5|6|AUX 6|2|CMOD 7|6|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|2|PUNCT
+*CHI:	but the girl dropped her thing .
+%mor:	conj|but det:art|the n|girl v|drop-PAST det:poss|her n|thing .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	<and> [/?] and <the &g> [/?] the other girl was playing .
+%mor:	coord|and det:art|the qn|other n|girl aux|be&PAST&13S
+	part|play-PRESP .
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	he [^ ew:she] [^ epronoun] tripped on the feet and the leg [^ eu] .
+%mor:	pro:sub|he v|trip-PAST prep|on det:art|the n|foot&PL coord|and
+	det:art|the n|leg .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|2|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	<he> [/?] he's mad
+	[% “he” referring to the boy who the girl tripped over] .
+%mor:	pro:sub|he~cop|be&3S adj|mad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	the bread falled [^ ew:fell] [^ ev] [^ eu] .
+%mor:	det:art|the n|bread part|fall-PASTP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|2|PUNCT
+@G:	Leaves
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the girl is raking the leaf pile .
+%mor:	det:art|the n|girl aux|be&3S part|rake-PRESP det:art|the n|leaf
+	n|pile .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*INV:	can you say that again ?
+%mor:	mod|can pro:per|you v|say comp|that adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+*CHI:	the girl is xxx the leaf pile .
+%mor:	det:art|the n|girl cop|be&3S det:art|the n|leaf n|pile .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*CHI:	and the other girl is trying to clean xxx +/.
+%mor:	coord|and det:art|the qn|other n|girl aux|be&3S part|try-PRESP
+	inf|to v|clean +/.
+%gra:	1|6|LINK 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|6|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the girl is trying to clean it up .
+%mor:	det:art|the n|girl aux|be&3S part|try-PRESP inf|to v|clean
+	pro:per|it adv|up .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*CHI:	the girl is trying to clean it up [^ ns] .
+%mor:	det:art|the n|girl aux|be&3S part|try-PRESP inf|to v|clean
+	pro:per|it adv|up .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the little boy is raking [^ earg] [^ eu] .
+%mor:	det:art|the adj|little n|boy aux|be&3S part|rake-PRESP .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	and the daddy's raking [^ earg] [^ eu] .
+%mor:	coord|and det:art|the n|daddy~aux|be&3S part|rake-PRESP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*CHI:	mother's raking [^ earg] [^ eu] .
+%mor:	n|mother~aux|be&3S part|rake-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	the doggy <&I &I> [/?] is right there .
+%mor:	det:art|the adj|dog&dn-Y cop|be&3S adv|right adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+@G:	Cake
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the cake has black on it .
+%mor:	det:art|the n|cake v|have&3S n|black prep|on pro:per|it .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	but it wasn't sposta .
+%mor:	conj|but pro:per|it aux|be&PAST&13S~neg|not
+	part|suppose-PASTP~inf|to .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	what else is happening in the picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:art|the n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the dog made all this black .
+%mor:	det:art|the n|dog v|make&PAST adv|all det:dem|this n|black .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the cake is all dirty .
+%mor:	det:art|the n|cake cop|be&3S adv|all adj|dirt&dn-Y .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	they hafta make another one .
+%mor:	pro:sub|they mod|have~inf|to v|make qn|another pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*INV:	and tell me one more thing about the picture .
+%mor:	coord|and v|tell pro:obj|me pro:indef|one qn|more n|thing
+	prep|about det:art|the n|picture .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ2 4|2|OBJ 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*CHI:	she's gonna [^ cat] &uh wipe it all up .
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|wipe pro:per|it
+	adv|all adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|JCT 8|5|JCT
+	9|3|PUNCT
+*CHI:	she's gonna wipe it .
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|wipe pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+@G:	Supermarket
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the girl's pushing the cart .
+%mor:	det:art|the n|girl~aux|be&3S part|push-PRESP det:art|the n|cart .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	the daddy's pushing the cart .
+%mor:	det:art|the n|daddy~aux|be&3S part|push-PRESP det:art|the n|cart .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	she's trying to get oranges .
+%mor:	pro:sub|she~aux|be&3S part|try-PRESP inf|to v|get n|orange-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the boy's trying to get (.) some <<what's that what's that> [/?]>
+	[/?] xxx +...
+%mor:	det:art|the n|boy~aux|be&3S part|try-PRESP inf|to v|get qn|some
+	+...
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|PRED 8|4|PUNCT
+*INV:	the boy knocked down the boxes off the shelf .
+%mor:	det:art|the n|boy v|knock-PAST adv|down det:art|the n|box-PL
+	prep|off det:art|the n|shelf .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*INV:	and then what will happen in just a little while ?
+%mor:	coord|and adv:tem|then pro:int|what mod|will v|happen adv|in
+	adv|just det:art|a adj|little n|while ?
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|10|JCT 8|10|DET
+	9|10|MOD 10|5|JCT 11|5|PUNCT
+*CHI:	they will [^ modal] fall .
+%mor:	pro:sub|they mod|will v|fall .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	<the the mommy> [/?] that [^ ew:those] [^ emorph] people was
+	[^ ew:were] [^ ev] getting some red things [^ eu] .
+%mor:	comp|that n|person&PL aux|be&PAST&13S part|get-PRESP qn|some n|red
+	n|thing-PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|4|PUNCT
+@G:	Cookie
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the mommy spilled it .
+%mor:	det:art|the n|mommy v|spill-PAST pro:per|it .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	he's <&g> [/?] trying to get a cookie .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP inf|to v|get det:art|a n|cookie
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	<but> [/?] he's falling .
+%mor:	pro:sub|he~aux|be&3S part|fall-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	he's trying to get a cookie [^ ns] .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP inf|to v|get det:art|a n|cookie
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*CHI:	but he's too short to .
+%mor:	conj|but pro:sub|he~cop|be&3S adv|too adj|short prep|to .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|3|PUNCT
+*CHI:	she hadta get hers .
+%mor:	pro:sub|she mod|have&PAST~inf|to v|get pro:poss|hers .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	she's washing the plate .
+%mor:	pro:sub|she~aux|be&3S part|wash-PRESP det:art|the n|plate .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	<the plate> [/?] that plate 0is [^ ev] already washed [^ eu] .
+%mor:	det:dem|that n|plate 0aux|be&3S adv|already part|wash-PASTP .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*INV:	can you tell me that again ?
+%mor:	mod|can pro:per|you v|tell pro:obj|me comp|that adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|5|JCT 7|3|PUNCT
+*CHI:	the plate 0is already washed [^ ns] .
+%mor:	det:art|the n|plate 0aux|be&3S adv|already part|wash-PASTP .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+@G:	Sandbox
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	<&h> [/?] he's trying to pour something on him .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP inf|to v|pour
+	pro:indef|something prep|on pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	he's mad .
+%mor:	pro:sub|he~cop|be&3S adj|mad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the mommy, she stand [* m:03s] [^ ev] like this [^ eu] .
+%mor:	det:art|the n|mommy cm|cm pro:sub|she v|stand prep|like
+	pro:dem|this .
+%gra:	1|2|DET 2|0|INCROOT 3|2|LP 4|5|SUBJ 5|2|CMOD 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the wagon's down there .
+%mor:	det:art|the n|wagon~cop|be&3S prep|down n|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	she's gonna <skip> [/?] (.) trip .
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|trip .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	&um the buckets and the shovel and the other shovel's [^ ew:are]
+	[^ ev] down there [^ eu] .
+%mor:	det:art|the n|bucket-PL coord|and det:art|the n|shovel coord|and
+	det:art|the qn|other adj|shovel&dn-POSS prep|down n|there .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|CONJ 7|9|DET
+	8|9|QUANT 9|6|COORD 10|9|JCT 11|10|POBJ 12|2|PUNCT
+@G:	Bus
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	the bus is there .
+%mor:	det:art|the n|bus cop|be&3S adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	but [^ emorph] they're mad at her [^ eu] .
+%mor:	conj|but pro:sub|they~cop|be&PRES adj|mad prep|at pro:obj|her .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	the dog's in the road .
+%mor:	det:art|the n|dog~cop|be&3S prep|in det:art|the n|road .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	he's trying to drive .
+%mor:	pro:sub|he~aux|be&3S part|try-PRESP inf|to v|drive .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*CHI:	the bus is driving .
+%mor:	det:art|the n|bus aux|be&3S part|drive-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	they're pulling him and giving [^ ew:taking] [^ elexical] him for
+	0a [^ emorph] walk [^ eu] .
+%mor:	pro:sub|they~aux|be&PRES part|pull-PRESP pro:obj|him coord|and
+	part|give-PRESP pro:obj|him prep|for 0det:art|a n|walk .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	these lights are flashing .
+%mor:	pro:dem|these n|light-PL aux|be&PRES part|flash-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+@G:	Cat
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	&um the cat needs help .
+%mor:	det:art|the n|cat v|need-3S n|help .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	they're calling him .
+%mor:	pro:sub|they~aux|be&PRES part|call-PRESP pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	he's standing and watching him <and> [/?] and see [* m:0ing]
+	[^ emorph] if he's falling [^ eu] .
+%mor:	pro:sub|he~aux|be&3S part|stand-PRESP coord|and part|watch-PRESP
+	pro:obj|him coord|and v|see conj|if pro:sub|he~aux|be&3S
+	part|fall-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|OBJ 7|3|CONJ 8|7|COORD
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|3|CJCT 13|3|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	he's falling .
+%mor:	pro:sub|he~aux|be&3S part|fall-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	&uh the branch is falling .
+%mor:	det:art|the n|branch aux|be&3S part|fall-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+@G:	Snow
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	they're trying to iceskate in the snow &=laughs .
+%mor:	pro:sub|they~aux|be&PRES part|try-PRESP prep|to n|+n|ice+n|skate
+	prep|in det:art|the n|snow .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and xxx .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	<&uh they're &p> [/?] they're making a snowman .
+%mor:	pro:sub|they~aux|be&PRES part|make-PRESP det:art|a n|+n|snow+n|man
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the daddy's shoveling .
+%mor:	det:art|the n|daddy~aux|be&3S part|shovel-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	he's shoveling .
+%mor:	pro:sub|he~aux|be&3S part|shovel-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	he's throwing snowballs .
+%mor:	pro:sub|he~aux|be&3S part|throw-PRESP n|+n|snow+n|ball-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	he was throwing an oval one .
+%mor:	pro:sub|he aux|be&PAST&13S part|throw-PRESP det:art|a n|oval
+	pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	he was throwing a circle [^ ew:round] [^ elexical] one [^ eu] .
+%mor:	pro:sub|he aux|be&PAST&13S part|throw-PRESP det:art|a n|circle
+	pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CHI:	I'm done [^ ns] .
+%mor:	pro:sub|I~aux|be&1S part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+@G:	Breakfast
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	he's toasting some bread .
+%mor:	pro:sub|he~aux|be&3S part|toast-PRESP qn|some n|bread .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	she's ready to go night_night .
+%mor:	pro:sub|she~cop|be&3S adj|ready inf|to v|go n|night&DUP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|2|PUNCT
+*INV:	and what's gonna happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	she looks tired .
+%mor:	pro:sub|she cop|look-3S part|tire-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	&uh she spilled [^ ew:poured] [^ elexical] the milk into something
+	else [^ eu] .
+%mor:	pro:sub|she v|spill-PAST det:art|the n|milk prep|into
+	pro:indef|something post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|6|PQ 8|2|PUNCT
+@G:	Scissors
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	that person and that person and that person 0are [^ ev] crawling
+	[^ eu] .
+%mor:	det:dem|that n|person coord|and pro:dem|that n|person coord|and
+	comp|that n|person 0aux|be&PRES part|crawl-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|CONJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COORD 11|2|PUNCT
+*CHI:	she's sitting .
+%mor:	pro:sub|she~aux|be&3S part|sit-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	the dog will wants [^ ev] to play [^ eu] .
+%mor:	det:art|the n|dog mod|will v|want-3S prep|to n|play .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	but he didn't .
+%mor:	conj|but pro:sub|he mod|do&PAST~neg|not .
+%gra:	1|0|INCROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|PUNCT
+*INV:	okay, what else is happening in this picture ?
+%mor:	co|okay cm|cm pro:int|what post|else aux|be&3S part|happen-PRESP
+	prep|in det:dem|this n|picture ?
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|3|PQ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+*CHI:	the grandma's sitting in the chair .
+%mor:	det:art|the grand#adj|ma&dn-POSS part|sit-PRESP prep|in det:art|the
+	n|chair .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+%com:	no response .
+*INV:	the boy is taking his grandma's scissors .
+%mor:	det:art|the n|boy aux|be&3S part|take-PRESP det:poss|his
+	grand#adj|ma&dn-POSS n|scissors .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*INV:	what's gonna happen in just a little while ?
+%mor:	pro:int|what~aux|be&3S part|go-PRESP~inf|to v|happen adv|in
+	adv|just det:art|a adj|little n|while ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|10|JCT 8|10|DET
+	9|10|MOD 10|5|JCT 11|3|PUNCT
+*CHI:	he's saying ssh .
+%mor:	pro:sub|he~aux|be&3S part|say-PRESP co|ssh .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COM 5|3|PUNCT
+*CHI:	<he> [/?] he's being quiet .
+%mor:	pro:sub|he~aux|be&3S part|be-PRESP n|quiet .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	he's saying ssh [^ ns] .
+%mor:	pro:sub|he~aux|be&3S part|say-PRESP co|ssh .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COM 5|3|PUNCT
+*CHI:	and <she xxx> [>] xxx +/.
+%mor:	coord|and pro:sub|she +/.
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	<tell me> [<] one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	she has different scissors in her hand .
+%mor:	pro:sub|she aux|have&3S adj|different n|scissors prep|in
+	det:poss|her n|hand .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+@G:	Donut
+*INV:	what's happening in the picture ?
+%mor:	pro:int|what~aux|be&3S part|happen-PRESP prep|in det:art|the
+	n|picture ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	they're going in the car .
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP prep|in det:art|the n|car .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	what else is happening in this picture ?
+%mor:	pro:int|what post|else aux|be&3S part|happen-PRESP prep|in
+	det:dem|this n|picture ?
+%gra:	1|4|LINK 2|1|PQ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	there's a bag .
+%mor:	pro:exist|there~cop|be&3S det:art|a n|bag .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	and what's going to happen next ?
+%mor:	coord|and pro:int|what~aux|be&3S part|go-PRESP inf|to v|happen
+	adv|next ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	the girl is sitting in the back .
+%mor:	det:art|the n|girl aux|be&3S part|sit-PRESP prep|in det:art|the
+	n|back .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	tell me one more thing about the picture .
+%mor:	v|tell pro:obj|me pro:indef|one qn|more n|thing prep|about
+	det:art|the n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	they're sharing the cake .
+%mor:	pro:sub|they~aux|be&PRES part|share-PRESP det:art|the n|cake .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@End

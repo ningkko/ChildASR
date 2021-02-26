@@ -1,0 +1,91 @@
+@UTF8
+@PID:	11312/c-00017978-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;08.10|female|||Target_Child|||
+@Date:	26-JAN-1997
+@Comment:	Mum and Dad at home all day
+@Types:	long, everyday, TD
+*CHI:	where you mended it ?
+%mor:	pro:int|where pro:per|you v|mend-PAST pro:per|it ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	after where what
+*CHI:	why he sad ?
+%mor:	pro:int|why pro:sub|he adj|sad ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%com:	after why what
+*CHI:	what they doing upstairs ?
+%mor:	pro:int|what pro:sub|they part|do-PRESP adv|upstairs ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	what they doing downstairs ?
+%mor:	pro:int|what pro:sub|they part|do-PRESP adv|downstairs ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	what they doing upstairs ?
+%mor:	pro:int|what pro:sub|they part|do-PRESP adv|upstairs ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	who (ha)s got the cake ?
+%mor:	pro:rel|who aux|have&3S part|get&PASTP det:art|the n|cake ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	who (ha)s got the tiger ?
+%mor:	pro:rel|who aux|have&3S part|get&PASTP det:art|the n|tiger ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	who (ha)s got the elephant ?
+%mor:	pro:rel|who aux|have&3S part|get&PASTP det:art|the n|elephant ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	who (ha)s got the fox ?
+%mor:	pro:rel|who aux|have&3S part|get&PASTP det:art|the n|fox ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	who (ha)s got the cock_a_doodle_doo ?
+%mor:	pro:rel|who aux|have&3S part|get&PASTP det:art|the
+	co|cock_a_doodle_doo ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@Comment:	on way to and at Wollaton park
+*CHI:	what we at ?
+%mor:	pro:int|what pro:sub|we prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	where (i)s Daddy ?
+%mor:	pro:int|where cop|be&3S n:prop|Daddy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where (i)s Daddy ?
+%mor:	pro:int|where cop|be&3S n:prop|Daddy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@Comment:	home
+*CHI:	what they doing ?
+%mor:	pro:int|what pro:sub|they part|do-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	what (i)s gonna [: going to] happen ?
+%mor:	pro:int|what aux|be&3S part|go-PRESP inf|to v|happen ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what you got in that bag ?
+%mor:	pro:int|what pro:per|you v|get&PAST prep|in det:dem|that n|bag ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	where (i)s Amy ?
+%mor:	pro:int|where cop|be&3S n:prop|Amy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	why you got hole ?
+%mor:	pro:int|why pro:per|you v|get&PAST n|hole ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	why he wants his crown ?
+%mor:	pro:int|why pro:sub|he v|want-3S det:poss|his n|crown ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	why has he got any dinner ?
+%mor:	pro:rel|why aux|have&3S pro:sub|he v|get&PAST qn|any n|dinner ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+%com:	means why hasn't
+*CHI:	why without his crown ?
+%mor:	pro:int|why prep|without det:poss|his n|crown ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	what (i)s this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where (i)s he [//] their Mummy gone ?
+%mor:	pro:int|where cop|be&3S det:poss|their n:prop|Mummy part|go&PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+@End

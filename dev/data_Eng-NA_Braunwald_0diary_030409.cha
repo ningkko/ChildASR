@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/c-00011187-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|03;04.09|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	29-JUN-1974
+@Types:	long, toyplay, TD
+*CHI:	maybe one's Hansen [: Hansel] and one's Gretel .
+%mor:	adv|maybe adj|one&dn-POSS n:prop|Hansel coord|and adj|one&dn-POSS
+	n:prop|Gretel .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|CONJ 5|6|MOD 6|4|COORD 7|3|PUNCT
+%sit:	890
+*SIS:	Hansel@q and Gretel@q, not Hansen@q and Gretel@q .
+%mor:	meta|Hansel coord|and meta|Gretel cm|cm neg|not meta|Hansen
+	coord|and meta|Gretel .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|LP 5|1|NEG 6|1|ENUM 7|6|CONJ
+	8|7|COORD 9|1|PUNCT
+%sit:	890
+*CHI:	Hansome [: Hansel] and Gretel .
+%mor:	n:prop|Hansel coord|and n:prop|Gretel .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%sit:	890
+*SIS:	no, Hansel@q and Gretel@q .
+%mor:	co|no cm|cm meta|Hansel coord|and meta|Gretel .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|CONJ 5|4|COORD 6|1|PUNCT
+%sit:	890
+*CHI:	Mommy, I think my nightgown you bought me is too long because I
+	keep falling on it .
+%mor:	n:prop|Mommy cm|cm pro:sub|I v|think det:poss|my n|+n|night+n|gown
+	pro:per|you v|buy&PAST pro:obj|me cop|be&3S adv|too adj|long
+	conj|because pro:sub|I v|keep part|fall-PRESP prep|on pro:per|it .
+%gra:	1|4|XJCT 2|1|LP 3|4|SUBJ 4|8|CJCT 5|6|DET 6|4|OBJ 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|COMP 11|12|JCT 12|10|PRED 13|15|LINK 14|15|SUBJ 15|8|CJCT
+	16|15|COMP 17|16|JCT 18|17|POBJ 19|8|PUNCT
+%sit:	891
+*MOT:	oh, maybe you're right .
+%mor:	co|oh cm|cm adv|maybe pro:per|you~cop|be&PRES co|right .
+%gra:	1|5|COM 2|1|LP 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%sit:	891
+*CHI:	I untied my shoe since I was angry .
+%mor:	pro:sub|I un#v|tie-PAST det:poss|my n|shoe conj|since pro:sub|I
+	cop|be&PAST&13S adj|angry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|PRED
+	9|2|PUNCT
+%sit:	892
+*MOT:	oh, that's too bad .
+%mor:	co|oh cm|cm pro:dem|that~cop|be&3S adv|too adj|bad .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+%sit:	892
+*CHI:	and I tore my picture .
+%mor:	coord|and pro:sub|I v|tear&PAST det:poss|my n|picture .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	892
+*CHI:	I must have been really angry .
+%mor:	pro:sub|I mod|must aux|have cop|be&PASTP adv|really adj|angry .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+%sit:	892
+*MOT:	yes, you were .
+%mor:	co|yes cm|cm pro:per|you cop|be&PAST .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	892
+*CHI:	I'm glad you're home, not going to Santa_Barbara without me .
+%mor:	pro:sub|I~cop|be&1S adj|glad pro:per|you~cop|be&PRES adv|home cm|cm
+	neg|not part|go-PRESP prep|to n:prop|Santa_Barbara prep|without
+	pro:obj|me .
+%gra:	1|2|SUBJ 2|5|CJCT 3|2|PRED 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|LP 8|9|NEG
+	9|5|XJCT 10|9|JCT 11|10|POBJ 12|9|JCT 13|12|POBJ 14|5|PUNCT
+%sit:	893
+*MOT:	is David still in your group ?
+%mor:	cop|be&3S n:prop|David adv|still prep|in det:poss|your n|group ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%sit:	894
+*CHI:	he has late temperature .
+%mor:	pro:sub|he aux|have&3S adv|late n|temperature .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%sit:	894
+*MOT:	what's a late temperature ?
+%mor:	pro:int|what~cop|be&3S det:art|a adj|late n|temperature ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	894
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	894
+@End

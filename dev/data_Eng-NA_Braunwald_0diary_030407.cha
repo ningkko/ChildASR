@@ -1,0 +1,45 @@
+@UTF8
+@PID:	11312/c-00011185-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|03;04.07|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	27-JUN-1974
+@Types:	long, toyplay, TD
+*SIS:	how_come they were in that car ?
+%mor:	pro:int|how_come pro:sub|they cop|be&PAST prep|in det:dem|that
+	n|car ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%sit:	882
+*CHI:	the car hadta get a check up like a check up of the hospital .
+%mor:	det:art|the n|car mod|have&PAST~inf|to v|get det:art|a n|check
+	adv|up prep|like det:art|a n|check adv|up prep|of det:art|the
+	n|hospital .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|JCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|5|PUNCT
+%sit:	882
+*CHI:	I don't know how movies work, Jo [: Joanna] .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|how n|movie-PL n|work cm|cm
+	n:prop|Joanna .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|MOD 7|4|COMP 8|7|LP
+	9|7|ENUM 10|4|PUNCT
+%sit:	883
+*CHI:	now I know (be)cause you told me .
+%mor:	adv|now pro:sub|I v|know conj|because pro:per|you v|tell&PAST
+	pro:obj|me .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|3|PUNCT
+%sit:	883
+*CHI:	I cough more than Jo does, don't I, Mama ?
+%mor:	pro:sub|I v|cough qn|more prep|than n:prop|Jo v|do&3S cm|cm
+	mod|do~neg|not pro:sub|I cm|cm n:prop|Mama ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|QUANT 4|6|JCT 5|4|POBJ 6|2|COMP 7|6|LP 8|10|AUX
+	9|8|NEG 10|12|SUBJ 11|10|LP 12|6|ENUM 13|2|PUNCT
+%sit:	884
+*MOT:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	884
+@End

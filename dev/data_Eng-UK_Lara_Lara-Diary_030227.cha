@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00018168-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|3;02.27|female|||Target_Child|||
+@Date:	12-AUG-1997
+@Types:	long, everyday, TD
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	which horsie would you like to be ?
+%mor:	pro:rel|which n|horse-DIM mod|will&COND pro:per|you v|like inf|to
+	cop|be ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where (i)s the blanket ?
+%mor:	pro:int|where cop|be&3S det:art|the n|blanket ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	why are we doing these tomorrow ?
+%mor:	pro:int|why cop|be&PRES pro:sub|we part|do-PRESP det:dem|these
+	adv:tem|tomorrow ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|DET 6|4|JCT 7|2|PUNCT
+*CHI:	why are you holding it like that ?
+%mor:	pro:int|why aux|be&PRES pro:per|you part|hold-PRESP pro:per|it
+	co|like pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|COM 7|5|OM 8|4|PUNCT
+*CHI:	why did More_Dadaw shut the door ?
+%mor:	pro:int|why mod|do&PAST n:prop|More_Dadaw v|shut&ZERO det:art|the
+	n|door ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	where (i)s Grandad's chair ?
+%mor:	pro:int|where cop|be&3S adj|Grandad&dn-POSS n|chair ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	why (ha)s Amy got that one on ?
+%mor:	pro:rel|why aux|have&3S n:prop|Amy part|get&PASTP det:dem|that
+	pro:indef|one adv|on ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|XMOD 5|6|DET 6|4|OBJ 7|4|JCT 8|3|PUNCT
+*CHI:	why has Amy got that ?
+%mor:	pro:rel|why aux|have&3S n:prop|Amy part|get&PASTP pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+@End

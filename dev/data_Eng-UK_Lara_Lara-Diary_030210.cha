@@ -1,0 +1,73 @@
+@UTF8
+@PID:	11312/c-00018156-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|3;02.10|female|||Target_Child|||
+@Date:	26-JUL-1997
+@Types:	long, everyday, TD
+*CHI:	why (a)re you standing up ?
+%mor:	pro:int|why aux|be&PRES pro:per|you part|stand-PRESP adv|up ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	why is the door closed ?
+%mor:	pro:int|why aux|be&3S det:art|the n|door part|close-PASTP ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where (i)s Amy ?
+%mor:	pro:int|where cop|be&3S n:prop|Amy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what is this for ?
+%mor:	pro:int|what cop|be&3S pro:dem|this prep|for ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*CHI:	what can I do ?
+%mor:	pro:int|what mod|can pro:sub|I v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	how can I get down ?
+%mor:	pro:int|how mod|can pro:sub|I v|get adv|down ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	where (i)s my biscuit ?
+%mor:	pro:int|where cop|be&3S det:poss|my n|biscuit ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	where (i)s the pig ?
+%mor:	pro:int|where cop|be&3S det:art|the n|pig ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	how do you do this ?
+%mor:	pro:int|how mod|do pro:per|you v|do pro:dem|this ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	how do you do this ?
+%mor:	pro:int|how mod|do pro:per|you v|do pro:dem|this ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	which one do you want ?
+%mor:	pro:rel|which det:num|one v|do pro:per|you v|want ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*CHI:	where (ha)s the other one gone ?
+%mor:	pro:rel|where v|have&3S det:art|the qn|other pro:indef|one
+	part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|5|XMOD 7|2|PUNCT
+*CHI:	where is it ?
+%mor:	pro:int|where cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where is [*] that one gone ?
+%mor:	pro:int|where cop|be&3S comp|that det:num|one part|go&PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|QUANT 5|2|CPRED 6|2|PUNCT
+*CHI:	where (i)s our list ?
+%mor:	pro:int|where cop|be&3S det:poss|our n|list ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	where you are ? [+ UNINV]
+%mor:	pro:int|where pro:per|you cop|be&PRES ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	how did you do Amy's ?
+%mor:	pro:int|how mod|do&PAST pro:per|you v|do adj|Amy&dn-POSS ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	how do you do these ?
+%mor:	pro:int|how mod|do pro:per|you v|do pro:dem|these ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	what (i)s Snow_White doing ?
+%mor:	pro:int|what aux|be&3S n:prop|Snow_White part|do-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where (i)s the vomit ?
+%mor:	pro:int|where cop|be&3S det:art|the v|vomit ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|CPRED 5|2|PUNCT
+@End

@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/c-00011119-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;00.19|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	11-MAR-1974
+@Types:	long, toyplay, TD
+*CHI:	Katie's a fluffy girl, right ?
+%mor:	adj|Katie&dn-POSS det:art|a adj|fluff&dn-Y n|girl cm|cm co|right ?
+%gra:	1|4|MOD 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|LP 6|4|ENUM 7|4|PUNCT
+%sit:	575
+*CHI:	hey, someone took Jo's [: Joanna's] spoon away, and she doesn't
+	have a napkin .
+%mor:	co|hey cm|cm pro:indef|someone v|take&PAST adj|Joanna&dn-POSS
+	n|spoon adv|away cm|cm coord|and pro:sub|she mod|do&3S~neg|not
+	v|have det:art|a n|napkin .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|LP
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|15|DET 15|13|OBJ
+	16|4|PUNCT
+%sit:	576
+*MOT:	&-uh maybe you forgot .
+%mor:	adv|maybe pro:per|you v|forget&PAST .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	576
+*CHI:	there, that's all setted up .
+%mor:	adv|there cm|cm pro:rel|that~aux|be&3S adv|all part|set-PASTP
+	adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|6|LINK 4|6|AUX 5|6|JCT 6|1|CMOD 7|6|JCT 8|1|PUNCT
+%sit:	577
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	577
+*CHI:	she's a sweet little cat .
+%mor:	pro:sub|she~cop|be&3S det:art|a adj|sweet adj|little n|cat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+%sit:	578
+*CHI:	you're a sweet little mommy .
+%mor:	pro:per|you~cop|be&PRES det:art|a adj|sweet adj|little n|mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+%sit:	578
+*MOT:	I am .
+%mor:	pro:sub|I cop|be&1S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	578
+*CHI:	more sadder if they fall off the roof .
+%mor:	adv|more adj|sad-CP conj|if pro:sub|they v|fall prep|off
+	det:art|the n|roof .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|LINK 4|5|SUBJ 5|2|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%sit:	579
+*MOT:	no, it's sadder if they die .
+%mor:	co|no cm|cm pro:per|it~cop|be&3S adj|sad-CP conj|if pro:sub|they
+	v|die .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|4|PUNCT
+%sit:	579
+*CHI:	it's sadder if they fall off the roof .
+%mor:	pro:per|it~cop|be&3S adj|sad-CP conj|if pro:sub|they v|fall
+	prep|off det:art|the n|roof .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%sit:	579
+@End

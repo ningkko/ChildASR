@@ -1,0 +1,86 @@
+@UTF8
+@PID:	11312/c-00011129-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|03;01.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	02-APR-1974
+@Types:	long, toyplay, TD
+*CHI:	Jo [: Joanna], you don't hafta always cry .
+%mor:	n:prop|Joanna cm|cm pro:per|you mod|do~neg|not mod|have~inf|to
+	adv|always v|cry .
+%gra:	1|9|SUBJ 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|9|AUX 7|9|INF 8|9|JCT
+	9|0|ROOT 10|9|PUNCT
+%sit:	616
+*SIS:	I'm not crying .
+%mor:	pro:sub|I~aux|be&1S neg|not part|cry-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	616
+*CHI:	I know, but you don't hafta .
+%mor:	pro:sub|I v|know cm|cm conj|but pro:per|you mod|do~neg|not
+	mod|have~inf|to .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|9|LINK 5|9|SUBJ 6|9|AUX 7|6|NEG 8|9|AUX
+	9|10|INF 10|2|PUNCT
+%sit:	616
+*CHI:	I think she wants +//.
+%mor:	pro:sub|I v|think pro:sub|she v|want-3S +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+%sit:	617
+*CHI:	I think she wants love .
+%mor:	pro:sub|I v|think pro:sub|she v|want-3S n|love .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%sit:	617
+*MOT:	does she ?
+%mor:	mod|do&3S pro:sub|she ?
+%gra:	1|2|AUX 2|0|INCROOT 3|2|PUNCT
+%sit:	617
+*CHI:	she does ?
+%mor:	pro:sub|she v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	617
+*CHI:	probably .
+%mor:	adv|probable&dadj-LY .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	617
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	617
+*CHI:	we shouldn't go out, but I needta because I hafta go to school .
+%mor:	pro:sub|we mod|should~neg|not v|go adv|out cm|cm conj|but pro:sub|I
+	v|need~inf|to conj|because pro:sub|I mod|have~inf|to v|go prep|to
+	n|school .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|LP 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|11|INF 11|15|LINK 12|15|SUBJ 13|15|AUX 14|15|INF 15|9|COMP
+	16|15|JCT 17|16|POBJ 18|4|PUNCT
+%sit:	618
+*MOT:	she can't go back to school, she's sick .
+%mor:	pro:sub|she mod|can~neg|not v|go adv|back prep|to n|school cm|cm
+	pro:sub|she~cop|be&3S adj|sick .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|LP
+	9|10|SUBJ 10|4|CJCT 11|10|PRED 12|4|PUNCT
+%sit:	619
+*CHI:	+" when will she go back to school ?
+%mor:	conj|when mod|will pro:sub|she v|go adv|back prep|to n|school ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	I said +".
+%mor:	pro:sub|I v|say&PAST +".
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	619
+*CHI:	that wasn't me .
+%mor:	comp|that cop|be&PAST&13S~neg|not pro:obj|me .
+%gra:	1|2|LINK 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%sit:	620
+*CHI:	who was it ?
+%mor:	pro:int|who cop|be&PAST&13S pro:per|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	620
+*CHI:	I'm just gonna hafta dry my bike .
+%mor:	pro:sub|I~aux|be&1S adv|just part|go-PRESP~inf|to mod|have~inf|to
+	v|dry det:poss|my n|bike .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|8|INF 6|8|AUX 7|8|INF 8|4|COMP
+	9|10|DET 10|8|OBJ 11|4|PUNCT
+%sit:	621
+@End

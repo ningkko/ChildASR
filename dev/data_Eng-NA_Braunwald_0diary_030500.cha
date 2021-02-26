@@ -1,0 +1,181 @@
+@UTF8
+@PID:	11312/c-00011208-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, SIS Sister, FRI Friend
+@ID:	eng|Braunwald|CHI|03;05.00|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FRI|||||Friend|||
+@Date:	20-JUL-1974
+@Types:	long, toyplay, TD
+*CHI:	practicing drinking milk .
+%mor:	part|practice-PRESP part|drink-PRESP n|milk .
+%gra:	1|0|INCROOT 2|1|XJCT 3|2|OBJ 4|1|PUNCT
+%sit:	988
+*CHI:	babies practice drinking milk .
+%mor:	v|baby-3S n|practice part|drink-PRESP n|milk .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|OBJ 5|1|PUNCT
+%sit:	988
+*MOT:	they do ?
+%mor:	pro:sub|they v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	988
+*MOT:	how ?
+%mor:	pro:rel|how ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	988
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	988
+*CHI:	babies practice drinking out of a cup .
+%mor:	v|baby-3S n|practice part|drink-PRESP adv|out prep|of det:art|a
+	n|cup .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+%sit:	988
+*MOT:	oh, they do .
+%mor:	co|oh cm|cm pro:sub|they v|do .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	988
+*MOT:	you're right .
+%mor:	pro:per|you~cop|be&PRES co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	988
+*CHI:	I have the tinest [: tiniest] little sleeper .
+%mor:	pro:sub|I v|have det:art|the adj|tiny-SP adj|little n|sleep&dv-AGT
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%sit:	989
+*MOT:	he's cute .
+%mor:	pro:sub|he~cop|be&3S adj|cute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	989
+*CHI:	in the Sue and Jan game I just have one kid and Jo [: Joanna] just
+	has Laura and Andrew and Beth .
+%mor:	prep|in det:art|the n:prop|Sue coord|and n:prop|Jan n|game
+	pro:sub|I adv|just v|have det:num|one n|kid coord|and n:prop|Joanna
+	adv|just aux|have&3S n:prop|Laura coord|and n:prop|Andrew coord|and
+	n:prop|Beth .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|CONJ 5|6|MOD 6|4|COORD 7|9|SUBJ
+	8|9|JCT 9|6|CMOD 10|11|QUANT 11|9|OBJ 12|16|LINK 13|16|SUBJ 14|16|JCT
+	15|16|AUX 16|11|APP 17|16|CONJ 18|17|COORD 19|16|CONJ 20|19|COORD 21|1|PUNCT
+%sit:	990
+*CHI:	it's the best if you put something under my stomach like a paper
+	towel .
+%mor:	pro:per|it~cop|be&3S det:art|the adj|good&SP conj|if pro:per|you
+	v|put&ZERO pro:indef|something adv|under det:poss|my n|stomach
+	prep|like det:art|a n|paper n|towel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|2|PUNCT
+%sit:	991
+*MOT:	over your stomach you mean ?
+%mor:	prep|over det:poss|your n|stomach pro:per|you v|mean ?
+%gra:	1|5|JCT 2|3|DET 3|1|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%sit:	991
+*CHI:	under .
+%mor:	adv|under .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	991
+*MOT:	do you want something in your dress to catch the milk or a bib ?
+%mor:	mod|do pro:per|you v|want pro:indef|something prep|in det:poss|your
+	n|dress inf|to v|catch det:art|the n|milk coord|or det:art|a n|bib ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|9|INF
+	9|3|XJCT 10|11|DET 11|9|OBJ 12|11|CONJ 13|14|DET 14|12|COORD 15|3|PUNCT
+%sit:	991
+*CHI:	under .
+%mor:	adv|under .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	991
+*CHI:	if a monster comes, slam the door .
+%mor:	comp|if det:art|a n|monster v|come-3S cm|cm n|slam det:art|the
+	n|door .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|ENUM 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+%sit:	992
+*MOT:	but we don't allow monsters in our house .
+%mor:	conj|but pro:sub|we mod|do~neg|not v|allow n|monster-PL prep|in
+	det:poss|our n|house .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|PUNCT
+%sit:	992
+*CHI:	but once I dreamed about a gorilla .
+%mor:	conj|but conj|once pro:sub|I v|dream-PAST prep|about det:art|a
+	n|gorilla .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|1|PUNCT
+%sit:	992
+*CHI:	that big tall thing and lots of black stuff, that a gorilla .
+%mor:	det:dem|that adj|big adj|tall n|thing coord|and n|lot-PL prep|of
+	adj|black n|stuff cm|cm pro:rel|that det:art|a n|gorilla .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|CONJ 6|5|COORD 7|6|NJCT 8|9|MOD
+	9|7|POBJ 10|4|LP 11|13|LINK 12|13|DET 13|4|CMOD 14|4|PUNCT
+%sit:	992
+*MOT:	that's a gorilla alright .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|gorilla adj|alright .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSTMOD 6|2|PUNCT
+%sit:	992
+*CHI:	when Gitta comes I wanna open the door since I'm sitting next to
+	the door .
+%mor:	conj|when n:prop|Gitta v|come-3S pro:sub|I v|want~inf|to v|open
+	det:art|the n|door conj|since pro:sub|I~aux|be&1S part|sit-PRESP
+	adv|next prep|to det:art|the n|door .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|5|CJCT 14|13|JCT 15|13|JCT
+	16|17|DET 17|15|POBJ 18|5|PUNCT
+%sit:	993
+*CHI:	he's my daughter .
+%mor:	pro:sub|he~cop|be&3S det:poss|my n|daughter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	994
+*SIS:	if he's a boy, he's your son .
+%mor:	conj|if pro:sub|he~cop|be&3S det:art|a n|boy cm|cm
+	pro:sub|he~cop|be&3S det:poss|your n|son .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|3|PRED 6|5|LP 7|8|SUBJ 8|0|ROOT
+	9|10|DET 10|8|PRED 11|8|PUNCT
+%sit:	994
+*CHI:	Mommy, a boy person whose in your family and a baby can't be a son
+	.
+%mor:	n:prop|Mommy cm|cm det:art|a n|boy n|person pro:rel|whose prep|in
+	det:poss|your n|family coord|and det:art|a n|baby mod|can~neg|not
+	cop|be det:art|a n|son .
+%gra:	1|0|INCROOT 2|1|LP 3|5|DET 4|5|MOD 5|1|APP 6|15|LINK 7|6|JCT 8|9|DET
+	9|7|POBJ 10|15|LINK 11|12|DET 12|15|SUBJ 13|15|AUX 14|13|NEG 15|5|CMOD
+	16|17|DET 17|15|PRED 18|1|PUNCT
+%sit:	994
+*MOT:	yes, he hasta be your son .
+%mor:	co|yes cm|cm pro:sub|he mod|have&3S~inf|to cop|be det:poss|your
+	n|son .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+%sit:	994
+*MOT:	a boy is always the son .
+%mor:	det:art|a n|boy cop|be&3S adv|always det:art|the n|son .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%sit:	994
+*CHI:	no, he isn't .
+%mor:	co|no cm|cm pro:sub|he cop|be&3S~neg|not .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+%sit:	994
+*CHI:	the old Gitta will be in the office right ?
+%mor:	det:art|the adj|old n:prop|Gitta mod|will cop|be prep|in
+	det:art|the n|office adj|right ?
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|POSTMOD 10|5|PUNCT
+%sit:	995
+*FRI:	yes, I'll be in my office .
+%mor:	co|yes cm|cm pro:sub|I~mod|will cop|be prep|in det:poss|my n|office
+	.
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%sit:	995
+*FRI:	do you want a new Gitta ?
+%mor:	mod|do pro:per|you v|want det:art|a adj|new n:prop|Gitta ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%sit:	995
+*CHI:	no, the old Gitta .
+%mor:	co|no cm|cm det:art|the adj|old n:prop|Gitta .
+%gra:	1|5|COM 2|1|LP 3|5|DET 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	995
+@End

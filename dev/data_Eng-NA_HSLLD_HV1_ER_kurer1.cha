@@ -1,0 +1,510 @@
+@UTF8
+@PID:	11312/c-00034897-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , INV1 Investigator , INV2
+	Investigator
+@ID:	eng|HSLLD|CHI|3;11.27|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT||female|||Mother|12||
+@ID:	eng|HSLLD|INV1|||||Investigator|||
+@ID:	eng|HSLLD|INV2|||||Investigator|||
+@Birth of CHI:	02-JUL-1984
+@Media:	kurer1, audio, unlinked
+@Comment:	SES of Mot is lower
+@Date:	29-JUN-1988
+@Location:	Boston , MA , USA
+@Situation:	Home Visit 1; took place in kitchen; CHI on Mot's lap;
+	11:30 am.
+@Activities:	Elicited report
+@Transcriber:	Anne Brady , Patton Tabors
+@Types:	long, narrative, TD
+*MOT:	tell (th)em where we went (.) the other day .
+%mor:	v|tell pro:obj|them pro:int|where pro:sub|we v|go&PAST det:art|the
+	qn|other n|day .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|8|DET 7|8|QUANT 8|5|JCT
+	9|1|PUNCT
+%cod:	$N:RI:S
+*MOT:	where did we go ?
+%mor:	pro:int|where mod|do&PAST pro:sub|we v|go ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@Comment:	Time is 13:54
+*CHI:	to the beach .
+%mor:	prep|to det:art|the n|beach .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$N:GI:RS
+*INV1:	you did !
+%mor:	pro:per|you v|do&PAST !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$N:EC
+*MOT:	who was there ?
+%mor:	pro:int|who cop|be&PAST&13S adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	Nana .
+%mor:	n:prop|Nana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	and who else (.) ?
+%mor:	coord|and pro:int|who post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+%cod:	$N:RI:S
+*MOT:	who else was at the beach ?
+%mor:	pro:int|who post|else cop|be&PAST&13S prep|at det:art|the n|beach ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:RI:S
+*INV1:	zzz [>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV1:	<suddenly shy> [>] .
+%mor:	adv|sudden&dadj-LY adj|shy .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%cod:	$OEC
+*MOT:	<what did we do> [<] ?
+%mor:	pro:int|what mod|do&PAST pro:sub|we v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$N:RI:S
+*MOT:	<what did we do> [<] ?
+%mor:	pro:int|what mod|do&PAST pro:sub|we v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$N:RI:S
+*MOT:	what did we do at the beach ?
+%mor:	pro:int|what mod|do&PAST pro:sub|we v|do prep|at det:art|the
+	n|beach ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	but we went at the other beach right ?
+%mor:	conj|but pro:sub|we v|go&PAST prep|at det:art|the qn|other n|beach
+	adj|right ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|QUANT 7|4|POBJ 8|3|JCT
+	9|3|PUNCT
+%cod:	$N:RC
+*MOT:	we went to the beach where little Nana is .
+%mor:	pro:sub|we v|go&PAST prep|to det:art|the n|beach pro:int|where
+	adj|little n:prop|Nana cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|7|JCT 7|8|MOD 8|9|SUBJ
+	9|5|CMOD 10|2|PUNCT
+%cod:	$N:GC
+*MOT:	and what did you do ?
+%mor:	coord|and pro:int|what mod|do&PAST pro:per|you v|do ?
+%gra:	1|5|LINK 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$N:RI:S
+*CHI:	xxx .
+%par:	whispers
+*MOT:	talk up louder .
+%mor:	v|talk adv|up adj|loud-CP .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+%cod:	$O:A
+*CHI:	fly kites !
+%mor:	n|fly n|kite-PL !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:GI:RS
+*INV1:	you did ?
+%mor:	pro:per|you v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$N:EC
+*INV1:	did you have a kite of your own that you flew ?
+%mor:	mod|do&PAST pro:per|you v|have det:art|a n|kite prep|of
+	det:poss|your adj|own comp|that pro:per|you v|fly&PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|3|PUNCT
+%cod:	$N:EC
+*CHI:	yeah and the stick fall out .
+%mor:	co|yeah coord|and det:art|the n|stick v|fall adv|out .
+%gra:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%cod:	$N:REC $N:REC
+*INV1:	oh no !
+%mor:	co|oh co|no !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:EC
+*INV1:	when it was up in the air ?
+%mor:	conj|when pro:per|it cop|be&PAST&13S adv|up prep|in det:art|the
+	n|air ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%cod:	$N:EC
+*CHI:	and then it got stuck .
+%mor:	coord|and adv:tem|then pro:per|it aux|get&PAST part|stick&PASTP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%cod:	$N:REC
+*MOT:	on another kite huh ?
+%mor:	prep|on qn|another n|kite co|huh ?
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|COM 5|1|PUNCT
+%cod:	$N:REC
+*CHI:	on +/.
+%mor:	adv|on +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:U
+*INV1:	did you get it untangled ?
+%mor:	mod|do&PAST pro:per|you v|get pro:per|it un#part|tangle-PASTP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%cod:	$N:EC
+*MOT:	yeah it came down but we hadta get another stick right ?
+%mor:	co|yeah pro:per|it v|come&PAST adv|down conj|but pro:sub|we
+	mod|have&PAST~inf|to v|get qn|another n|stick adj|right ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|9|LINK 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|3|CJCT 10|11|QUANT 11|9|OBJ 12|11|POSTMOD 13|3|PUNCT
+%cod:	$N:REC $N:REC
+*MOT:	what else did we do ?
+%mor:	pro:int|what post|else mod|do&PAST pro:sub|we v|do ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$N:RI:S
+*CHI:	played .
+%mor:	part|play-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	what did we go lookin(g) for ?
+%mor:	pro:int|what mod|do&PAST pro:sub|we v|go part|look-PRESP prep|for ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	me you and Nikki and Norman and Dustin .
+%mor:	pro:obj|me pro:per|you coord|and n:prop|Nikki coord|and
+	n:prop|Norman coord|and n:prop|Dustin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|2|PUNCT
+%cod:	$N:RI:S
+*MOT:	what were we lookin(g) for in the water ?
+%mor:	pro:int|what cop|be&PAST pro:sub|we part|look-PRESP prep|for
+	prep|in det:art|the n|water ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	little round things ?
+%mor:	adj|little n|round n|thing-PL ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:RI:L
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:U
+*CHI:	these ?
+%mor:	pro:dem|these ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RC
+%gpx:	makes circle with fingers
+*MOT:	what were we lookin(g) for ?
+%mor:	pro:int|what cop|be&PAST pro:sub|we part|look-PRESP prep|for ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	the &-um what the things with Nikki &w had .
+%mor:	det:art|the pro:int|what det:art|the n|thing-PL prep|with
+	n:prop|Nikki v|have&PAST .
+%gra:	1|4|DET 2|4|MOD 3|4|DET 4|0|INCROOT 5|4|NJCT 6|7|SUBJ 7|5|POBJ
+	8|4|PUNCT
+%cod:	$N:GI:RS
+*MOT:	Nikki had some .
+%mor:	n:prop|Nikki v|have&PAST qn|some .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:FA
+*MOT:	what are they called ?
+%mor:	pro:int|what cop|be&PRES pro:sub|they v|call-PAST ?
+%gra:	1|2|SUBJ 2|4|CJCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	that we found in the sand ?
+%mor:	comp|that pro:sub|we v|found prep|in det:art|the n|sand ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know what they called .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:sub|they
+	v|call-PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	sand dollars .
+%mor:	n|sand n|dollar-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:GI:S
+*CHI:	yeah sand dollars .
+%mor:	co|yeah n|sand n|dollar-PL .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:FA
+*INV2:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	gasp of appreciation
+*INV1:	you found them ?
+%mor:	pro:per|you v|find&PAST pro:obj|them ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:EC
+*CHI:	0 .
+%gpx:	nods head
+%cod:	$N:REC
+*INV2:	wow !
+%mor:	co|wow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*INV1:	that was pretty exciting huh ?
+%mor:	pro:dem|that cop|be&PAST&13S adv|pretty adj|exciting co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|COM 6|2|PUNCT
+%cod:	$N:EC
+*CHI:	0 .
+%gpx:	nods yes
+%cod:	$N:REC
+*INV1:	I've never found a sand dollar .
+%mor:	pro:sub|I~aux|have adv|never part|find&PASTP det:art|a n|sand
+	n|dollar .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%cod:	$N:EC
+*MOT:	we found a couple of (th)em huh ?
+%mor:	pro:sub|we v|find&PAST det:art|a n|couple prep|of pro:obj|them
+	co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|4|COM 8|2|PUNCT
+%cod:	$N:RI:L
+*CHI:	yeah this many .
+%mor:	co|yeah det:dem|this qn|many .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%gpx:	holds up 4 fingers
+%cod:	$N:GI:RL $N:GI:S
+*MOT:	how many ?
+%mor:	pro:int|how qn|many ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:FC
+*MOT:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:S
+*MOT:	how many is three ?
+%mor:	pro:int|how qn|many aux|be&3S det:num|three ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$O:W
+*CHI:	0 .
+%gpx:	holds up three fingers
+%cod:	$O:W
+*INV1:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	lengthened
+%cod:	$OEC
+*INV1:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$OEC
+*INV1:	did you go in the water ?
+%mor:	mod|do&PAST pro:per|you v|go prep|in det:art|the n|water ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:EC
+*INV1:	did you swim ?
+%mor:	mod|do&PAST pro:per|you v|swim ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$N:EC
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	lengthened
+%cod:	$N:REC
+*CHI:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+%cod:	$O:REC
+*INV1:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$OEC
+*MOT:	why ?
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O:W
+*CHI:	(be)cause it's salty water .
+%mor:	conj|because pro:per|it~cop|be&3S adj|salt&dn-Y n|water .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+%cod:	$O:W
+*INV1:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	salt .
+%mor:	n|salt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O:W
+*INV1:	yeah you don't [///] do you not [!] like to get in your &-uh mouth
+	and eyes ?
+%mor:	co|yeah pro:per|you v|do pro:per|you neg|not v|like inf|to v|get
+	prep|in det:poss|your n|mouth coord|and n|eye-PL ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|NEG 6|3|COMP 7|8|INF 8|6|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|CONJ 13|12|COORD 14|3|PUNCT
+%cod:	$OEC
+*CHI:	0 .
+%act:	shakes head no .
+%cod:	$O:REC
+*INV1:	have you ever gotten it in your mouth ?
+%mor:	v|have pro:per|you adv|ever part|get&PASTP pro:per|it prep|in
+	det:poss|your n|mouth ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|XJCT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%cod:	$OEC
+*CHI:	0 .
+%act:	nods yes .
+%cod:	$O:REC
+*INV1:	what is it like ?
+%mor:	pro:int|what cop|be&3S pro:per|it v|like ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|2|PUNCT
+%cod:	$OEC
+*CHI:	salt .
+%mor:	n|salt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O:REC
+*INV1:	yeah but it's really [!] really [!] salty right ?
+%mor:	co|yeah conj|but pro:per|it~cop|be&3S adv|really adv|really
+	adj|salt&dn-Y co|right ?
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|JCT 7|4|PRED 8|4|COM
+	9|4|PUNCT
+%cod:	$OEC
+*CHI:	0 .
+%act:	nods yes
+%cod:	$O:REC
+*INV1:	(be)cause it makes you have &-uh &-uh a (y)icky face .
+%mor:	conj|because pro:per|it v|make-3S pro:per|you v|have det:art|a
+	co|yicky n|face .
+%gra:	1|3|LINK 2|3|SUBJ 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+%cod:	$OEC
+*INV1:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$OEC
+*INV1:	yucky !
+%mor:	adj|yuck&dn-Y !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$OEC
+*INV1:	do you like to go to the beach ?
+%mor:	mod|do pro:per|you v|like inf|to v|go prep|to det:art|the n|beach ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%cod:	$OEC
+*CHI:	I [///] my mom says no I can't go all the way out .
+%mor:	det:poss|my n|mom v|say-3S co|no pro:sub|I mod|can~neg|not v|go
+	qn|all det:art|the n|way adv|out .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|8|COM 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|COMP
+	9|11|QUANT 10|11|DET 11|8|OBJ 12|8|JCT 13|3|PUNCT
+%cod:	$O:REC
+*INV1:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	lengthened
+%cod:	$OEC
+*MOT:	why ?
+%mor:	pro:rel|why ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O:W
+*CHI:	(be)cause I'll drown .
+%mor:	conj|because pro:sub|I~mod|will v|drown .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$O:W
+*MOT:	it's too deep for you huh ?
+%mor:	pro:per|it~cop|be&3S adv|too n|deep prep|for pro:per|you co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|NJCT 6|7|SUBJ 7|5|POBJ 8|2|PUNCT
+%cod:	$O:W
+*INV1:	I'd be kind o(f) scared to go all the way out too .
+%mor:	pro:sub|I~mod|genmod cop|be n|kind prep|of part|scare-PASTP inf|to
+	v|go qn|all det:art|the n|way adv|out adv|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|8|INF 8|6|COMP
+	9|11|QUANT 10|11|DET 11|8|OBJ 12|8|JCT 13|8|JCT 14|3|PUNCT
+%cod:	$OEC
+*INV1:	<you see> [//] do you ever see fish when you go to the beach ?
+%mor:	mod|do pro:per|you adv|ever v|see n|fish conj|when pro:per|you v|go
+	prep|to det:art|the n|beach ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+%cod:	$OEC
+*CHI:	what did we see <when we went> [//] <when I was> [//] when Dusty
+	and Norman ?
+%mor:	pro:int|what mod|do&PAST pro:sub|we v|see conj|when n:prop|Dusty
+	coord|and n:prop|Norman ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|CONJ 8|7|COORD
+	9|4|PUNCT
+%cod:	$N:RI:S
+*MOT:	when ?
+%mor:	pro:rel|when ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RC
+*CHI:	&-um +/.
+%cod:	$N:U
+*MOT:	when we went to the beach ?
+%mor:	conj|when pro:sub|we v|go&PAST prep|to det:art|the n|beach ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:RC
+*CHI:	0 .
+%act:	nods yes
+%cod:	$N:GC
+*MOT:	we saw seaweed but no fishies .
+%mor:	pro:sub|we v|see&PAST n|+n|sea+n|weed conj|but co|no n|fish-DIM-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|6|COM 6|4|COORD 7|2|PUNCT
+%cod:	$N:GI:RS $N:GI:RS
+*CHI:	but we put our feet in the mud but [/] <but it> [//] but when we
+	put our feet in the mud it goes down and I put water in it .
+%mor:	conj|but pro:sub|we v|put&ZERO det:poss|our n|foot&PL prep|in
+	det:art|the n|mud conj|but conj|when pro:sub|we v|put&ZERO
+	det:poss|our n|foot&PL prep|in det:art|the n|mud pro:per|it v|go-3S
+	adv|down coord|and pro:sub|I v|put&ZERO n|water prep|in pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|19|LINK 10|12|LINK 11|12|SUBJ 12|19|CJCT 13|14|DET 14|12|OBJ 15|12|JCT
+	16|17|DET 17|15|POBJ 18|19|SUBJ 19|3|CJCT 20|19|JCT 21|23|LINK 22|23|SUBJ
+	23|19|CJCT 24|23|OBJ 25|23|JCT 26|25|POBJ 27|3|PUNCT
+%cod:	$N:GI:S $N:GI:S $N:GI:S
+*INV1:	yeah sometimes <the sand> [//] the water comes back up over the wet
+	sand and washes away everything you've done right ?
+%mor:	co|yeah adv|sometimes det:art|the n|water v|come-3S adv|back adv|up
+	prep|over det:art|the adj|wet n|sand coord|and n|wash-PL adv|away
+	pro:indef|everything pro:per|you~aux|have part|do&PASTP co|right ?
+%gra:	1|5|COM 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|11|CONJ 13|12|COORD 14|13|NJCT 15|5|JCT
+	16|18|SUBJ 17|18|AUX 18|15|CMOD 19|18|COM 20|5|PUNCT
+%cod:	$OEC
+*CHI:	0 .
+%act:	nods yes
+%cod:	$O:REC
+*MOT:	you dug holes .
+%mor:	pro:per|you v|dig&PAST n|hole-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:GI:S
+*CHI:	dug holes .
+%mor:	v|dig&PAST n|hole-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$N:GI::R
+*INV1:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:EC
+*CHI:	and we was tryin(g) to dig a big hole .
+%mor:	coord|and pro:sub|we aux|be&PAST&13S part|try-PRESP inf|to v|dig
+	det:art|a adj|big n|hole .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+%cod:	$N:GI:S
+*INV1:	all the way to where ?
+%mor:	qn|all det:art|the n|way inf|to pro:rel|where ?
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|5|INF 5|3|OM 6|3|PUNCT
+%cod:	$N:EC
+*INV1:	way way down ?
+%mor:	adv|way adv|way adv|down ?
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:EC
+*CHI:	no like this .
+%mor:	co|no prep|like pro:dem|this .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%gpx:	points from floor to ceiling
+%cod:	$N:REC
+*CHI:	like bigger than the house .
+%mor:	co|like adj|big-CP prep|than det:art|the n|house .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$N:REC
+*INV2:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	gasps
+*INV1:	bigger than the house .
+%mor:	adj|big-CP prep|than det:art|the n|house .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%cod:	$N:EC
+@End

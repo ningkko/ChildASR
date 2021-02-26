@@ -33,8 +33,8 @@ def prep_file(x):
     df["files"] = df["path"].apply(lambda x: _find_cha_path(x))
     files = set(df['files'].unique())
 
-    # filehandler = open(b"files.pkl","wb")
-    # pickle.dump(files,filehandler)
+    filehandler = open(b"files.pkl","wb")
+    pickle.dump(files,filehandler)
 
     return files
 

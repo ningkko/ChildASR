@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00011140-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;01.27|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	16-APR-1974
+@Types:	long, toyplay, TD
+*CHI:	I'm glad you're my work mother .
+%mor:	pro:sub|I~cop|be&1S adj|glad pro:per|you~cop|be&PRES det:poss|my
+	n|work n|mother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|8|DET 7|8|MOD 8|5|PRED
+	9|2|PUNCT
+%sit:	675
+*CHI:	and you can help Toffer [: Christopher] if Johnnie calls him a caca
+	[: poo] baby .
+%mor:	coord|and pro:per|you mod|can v|help n:prop|Christopher conj|if
+	n:prop|Johnnie v|call-3S pro:obj|him det:art|a n|poo n|baby .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ2 10|12|DET 11|12|MOD 12|8|OBJ 13|4|PUNCT
+%sit:	675
+*CHI:	that's your job .
+%mor:	pro:dem|that~cop|be&3S det:poss|your n|job .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	675
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	675
+@End

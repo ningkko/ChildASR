@@ -1,0 +1,212 @@
+@UTF8
+@PID:	11312/c-00016900-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother , CHI Brian Target_Child
+@ID:	eng|Morisset|MOT||female|||Mother|||
+@ID:	eng|Morisset|CHI|2;06.|male|||Target_Child|||
+@Date:	11-MAR-1987
+@Time Duration:	11:33:36-11:39:01
+@Situation:	Mother-child snack in lab
+@Location:	Topeka , KS , USA , Culp , Osofsky
+@Types:	cross, toyplay, TD
+*MOT:	want a cookie ?
+%mor:	v|want det:art|a n|cookie ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%tim:	11:33:37
+%act:	M gets up from the floor
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	sit down (.) go get your chair .
+%mor:	v|sit adv|down v|go v|get det:poss|your n|chair .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SRL 4|1|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+%act:	M gets out napkins
+*CHI:	xxx .
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	go get your chair .
+%mor:	v|go v|get det:poss|your n|chair .
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx .
+*CHI:	xxx ?
+%cod:	$u:unc
+*MOT:	ye(a)h (.) go get your chair .
+%mor:	co|yeah v|go v|get det:poss|your n|chair .
+%gra:	1|2|COM 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CHI:	Mommy ?
+%mor:	n:prop|Mommy ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C is talking into play phone
+%cod:	$b:min
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx ?
+%cod:	$u:unc
+*MOT:	no (.) Sissy ain't here .
+%mor:	co|no n:prop|Sissy v|be~neg|not adv|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|JCT 6|3|PUNCT
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	Brian .
+%mor:	n:prop|Brian .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	want cookie ?
+%mor:	v|want n|cookie ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	go get your chair .
+%mor:	v|go v|get det:poss|your n|chair .
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	not that (.) your chair .
+%mor:	neg|not pro:rel|that det:poss|your n|chair .
+%gra:	1|4|NEG 2|4|LINK 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%com:	pause
+*MOT:	better get your chair (.) or Momma's gonna eat (th)em all up .
+%mor:	adv|good&CP v|get det:poss|your n|chair coord|or adj|Momma&dn-POSS
+	part|go-PRESP~inf|to v|eat pro:obj|them post|all adv|up .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|6|XMOD 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|JCT 12|11|JCT 13|2|PUNCT
+*MOT:	come here !
+%mor:	v|come adv|here !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	wanna drink ?
+%mor:	v|want~inf|to v|drink ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|1|PUNCT
+%cod:	NR
+%com:	pause
+*CHI:	xxx [=! screams] !
+%cod:	$u:unc
+*MOT:	come here !
+%mor:	v|come adv|here !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%com:	pause
+*MOT:	xxx (.) Brian (.) I was gonna eat (th)em all up .
+%mor:	n:prop|Brian pro:sub|I aux|be&PAST&13S part|go-PRESP~inf|to v|eat
+	pro:obj|them post|all adv|up .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|7|PQ
+	9|6|JCT 10|4|PUNCT
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	Mommy .
+%mor:	n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	xxx baby !
+%mor:	n|baby !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	baby xxx [>] .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$u:unc
+*MOT:	<you don't> [<] want no cookie then ?
+%mor:	pro:per|you mod|do~neg|not v|want qn|no n|cookie adv:tem|then ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|JCT 8|4|PUNCT
+*MOT:	you want Mommy put (th)em back ?
+%mor:	pro:per|you v|want n:prop|Mommy v|put&ZERO pro:obj|them adv|back ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+%com:	pause
+*MOT:	you're thirsty ain't ya ?
+%mor:	pro:per|you~cop|be&PRES adj|thirst&dn-Y v|be~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CPRED 5|6|NEG 6|4|OBJ 7|2|PUNCT
+*CHI:	&a:h .
+%cod:	$u:unc
+%com:	pause
+*MOT:	you're silly [=! laughing] .
+%mor:	pro:per|you~cop|be&PRES adj|silly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	xxx .
+%gpx:	<bef> coughs
+%cod:	$u:unc
+%com:	pause
+*MOT:	Brian !
+%mor:	n:prop|Brian !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	finish it .
+%mor:	v|finish pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	you want some more ?
+%mor:	pro:per|you v|want qn|some pro:indef|more ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*MOT:	are you done ?
+%mor:	cop|be&PRES pro:per|you part|do&PASTP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	want some more ?
+%mor:	v|want qn|some pro:indef|more ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%cod:	NR
+*MOT:	xxx get it open .
+%mor:	aux|get pro:per|it adj|open .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+%act:	M attempts to open juice container
+%com:	pause
+*CHI:	xxx .
+%cod:	$u:unc
+%com:	pause
+*MOT:	xxx don't drink it so fast .
+%mor:	mod|do~neg|not v|drink pro:per|it adv|so adv|fast .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+%com:	pause .
+*MOT:	I told you .
+%mor:	pro:sub|I v|tell&PAST pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%exp:	<bef> <aft> C coughs
+*MOT:	okay (.) you done ?
+%mor:	co|okay pro:per|you part|do&PASTP ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	long pause
+*MOT:	Brian .
+%mor:	n:prop|Brian .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	pause
+*MOT:	Brian !
+%mor:	n:prop|Brian !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	long pause
+*MOT:	it's gonna fall .
+%mor:	pro:per|it~aux|be&3S part|go-PRESP~inf|to v|fall .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+%com:	pause
+*CHI:	xxx !
+%cod:	$u:unc
+%com:	pause
+*CHI:	&a:h (.) &a:h .
+%cod:	$u:unc
+%tim:	11:38:36
+%com:	end of five minutes
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	whaddya [: what do you] say ?
+%mor:	pro:int|what mod|do pro:per|you v|say ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	okay (.) you stop it .
+%mor:	co|okay pro:per|you v|stop pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	xxx .
+*CHI:	xxx baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$u:unc
+%tim:	11:39:00
+%com:	ending time is 11:39:01
+@End

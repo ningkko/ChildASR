@@ -1,0 +1,58 @@
+@UTF8
+@PID:	11312/c-00010917-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;05.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	03-AUG-1973
+@Types:	long, toyplay, TD
+*CHI:	you stay awake cause I want you hug me .
+%mor:	pro:per|you v|stay adj|awake n|cause pro:sub|I v|want pro:per|you
+	v|hug pro:obj|me .
+%gra:	1|2|SUBJ 2|6|JCT 3|4|MOD 4|2|OBJ 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|OBJ 10|6|PUNCT
+%sit:	j6_57_349
+*MOT:	okay, do I have any choice ?
+%mor:	co|okay cm|cm mod|do pro:sub|I v|have qn|any n|choice ?
+%gra:	1|5|COM 2|1|LP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+%sit:	j6_57_349
+*CHI:	I hurt box .
+%mor:	pro:sub|I v|hurt&ZERO n|box .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	431
+*CHI:	(be)cause it big box .
+%mor:	conj|because pro:per|it adj|big n|box .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	431
+*CHI:	Mommy hafta go doctor's (be)cause no jumping on bed .
+%mor:	n:prop|Mommy mod|have~inf|to v|go n|doctor~cop|be&3S conj|because
+	co|no part|jump-PRESP prep|on n|bed .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|JCT 8|9|COM
+	9|4|XJCT 10|9|JCT 11|10|POBJ 12|4|PUNCT
+%sit:	432
+*MOT:	which mommy, me or you ?
+%mor:	pro:rel|which n|mommy cm|cm pro:obj|me coord|or pro:per|you ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|LP 4|2|ENUM 5|2|CONJ 6|5|COORD 7|2|PUNCT
+%sit:	432
+*CHI:	ah, Sue .
+%mor:	co|ah cm|cm n:prop|Sue .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	432
+*MOT:	I'm sorry I spanked you .
+%mor:	pro:sub|I~cop|be&1S adj|sorry pro:sub|I v|spank-PAST pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|2|CJCT 6|5|OBJ 7|2|PUNCT
+%sit:	433
+*MOT:	I had such a toothache .
+%mor:	pro:sub|I v|have&PAST qn|such det:art|a n|toothache .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|OBJ 6|2|PUNCT
+%sit:	433
+*CHI:	which one ?
+%mor:	pro:rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%sit:	433
+*CHI:	I get something I need .
+%mor:	pro:sub|I v|get pro:indef|something pro:sub|I v|need .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|CJCT 6|2|PUNCT
+%sit:	434
+@End

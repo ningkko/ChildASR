@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00011170-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;03.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	02-JUN-1974
+@Types:	long, toyplay, TD
+*MOT:	okay, wash your hands .
+%mor:	co|okay cm|cm n|wash det:poss|your n|hand-PL .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|5|DET 5|3|OBJ 6|1|PUNCT
+%sit:	812
+*CHI:	you hafta because [//] since you're in here .
+%mor:	pro:per|you mod|have~inf|to conj|since pro:per|you~cop|be&PRES
+	prep|in n|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|INF 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+%sit:	812
+*MOT:	you guys don't listen to me when I tell you it's dangerous to do
+	something .
+%mor:	pro:per|you n|guy-PL mod|do~neg|not v|listen prep|to pro:obj|me
+	conj|when pro:sub|I v|tell pro:per|you pro:per|it~cop|be&3S
+	adj|dangerous inf|to v|do pro:indef|something .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|10|LINK
+	9|10|SUBJ 10|13|CJCT 11|10|OBJ 12|13|SUBJ 13|5|CJCT 14|13|PRED 15|16|INF
+	16|14|XMOD 17|16|OBJ 18|5|PUNCT
+%sit:	813
+*CHI:	it's not dangerous if I climb on the sink .
+%mor:	pro:per|it~cop|be&3S neg|not adj|dangerous conj|if pro:sub|I
+	v|climb prep|on det:art|the n|sink .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%sit:	813
+*CHI:	I climb off the sink by stepping on the toilet .
+%mor:	pro:sub|I v|climb prep|off det:art|the n|sink prep|by
+	n:gerund|step-PRESP prep|on det:art|the n|toilet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|6|POBJ 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%sit:	813
+*CHI:	Susan, that's not allowed .
+%mor:	n:prop|Susan cm|cm pro:dem|that~cop|be&3S neg|not part|allow-PASTP
+	.
+%gra:	1|4|SUBJ 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|XJCT 7|4|PUNCT
+%sit:	814a
+*CHI:	Susan, that's dangerous .
+%mor:	n:prop|Susan cm|cm pro:dem|that~cop|be&3S adj|dangerous .
+%gra:	1|4|SUBJ 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%sit:	814b
+*CHI:	Susan, that's not right .
+%mor:	n:prop|Susan cm|cm pro:dem|that~cop|be&3S neg|not co|right .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|COM 7|4|PUNCT
+%sit:	814c
+*CHI:	Jack's not your father right ?
+%mor:	adj|Jack&dn-POSS neg|not det:poss|your n|father adj|right ?
+%gra:	1|4|MOD 2|1|NEG 3|4|DET 4|0|INCROOT 5|4|POSTMOD 6|4|PUNCT
+%sit:	816a
+*MOT:	no, he's my husband .
+%mor:	co|no cm|cm pro:sub|he~cop|be&3S det:poss|my n|husband .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+%sit:	816a
+*CHI:	you're not Daddy's mother right ?
+%mor:	pro:per|you~cop|be&PRES neg|not adj|Daddy&dn-POSS n|mother
+	adj|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|MOD 5|2|PRED 6|2|PRED 7|2|PUNCT
+%sit:	816b
+*MOT:	no, I'm his wife .
+%mor:	co|no cm|cm pro:sub|I~cop|be&1S det:poss|his n|wife .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+%sit:	816b
+*MOT:	Nanny_Claire's his mother .
+%mor:	adj|Nanny_Claire&dn-POSS det:poss|his n|mother .
+%gra:	1|3|MOD 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	816b
+@End

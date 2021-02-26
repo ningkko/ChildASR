@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/c-00018053-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;10.27|female|||Target_Child|||
+@Date:	12-APR-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	what is that funny noise ?
+%mor:	pro:int|what cop|be&3S det:dem|that adj|fun&dn-Y n|noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	what is that funny noise ?
+%mor:	pro:int|what cop|be&3S det:dem|that adj|fun&dn-Y n|noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	what doing ?
+%mor:	pro:int|what n:gerund|do-PRESP ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what is this for ?
+%mor:	pro:int|what cop|be&3S pro:dem|this prep|for ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*CHI:	why do I hafta wait ?
+%mor:	pro:int|why mod|do pro:sub|I mod|have~inf|to v|wait ?
+%gra:	1|6|JCT 2|6|AUX 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PUNCT
+*CHI:	why do I hafta wait till you feeding Amy ?
+%mor:	pro:int|why mod|do pro:sub|I mod|have~inf|to v|wait v|till
+	pro:per|you part|feed-PRESP n:prop|Amy ?
+%gra:	1|7|LINK 2|7|AUX 3|7|SUBJ 4|7|AUX 5|7|INF 6|7|SRL 7|0|ROOT 8|7|OBJ
+	9|8|XMOD 10|9|OBJ 11|7|PUNCT
+%com:	after mum says you'll have to wait because I'm feeding Amy
+*CHI:	what have I done ?
+%mor:	pro:int|what v|have pro:sub|I part|do&PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*CHI:	what (a)re we going to do if we have got wibbly chairs ?
+%mor:	pro:int|what cop|be&PRES pro:sub|we part|go-PRESP inf|to v|do
+	conj|if pro:sub|we aux|have part|get&PASTP adj|wibble&dv-Y
+	n|chair-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|COMP 11|12|MOD 12|10|OBJ 13|2|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what were you doing ?
+%mor:	pro:int|what cop|be&PAST pro:per|you part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*CHI:	where has her dinner gone ?
+%mor:	pro:rel|where aux|have&3S det:poss|her n|dinner part|go&PASTP ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what you got ?
+%mor:	pro:int|what pro:per|you part|get&PASTP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	what you got on your chin ?
+%mor:	pro:int|what pro:per|you v|get&PAST prep|on det:poss|your n|chin ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	what has it got on ?
+%mor:	pro:int|what aux|have&3S pro:per|it v|get&PAST adv|on ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	why have you done that ?
+%mor:	pro:rel|why aux|have pro:per|you part|do&PASTP pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	why have you done that ?
+%mor:	pro:rel|why aux|have pro:per|you part|do&PASTP pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what do you hafta do ?
+%mor:	pro:int|what mod|do pro:per|you mod|have~inf|to v|do ?
+%gra:	1|6|SUBJ 2|6|AUX 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PUNCT
+*CHI:	what is that on your window ?
+%mor:	pro:int|what cop|be&3S pro:dem|that prep|on det:poss|your n|window
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	what has Mummy done ?
+%mor:	pro:int|what aux|have&3S n:prop|Mummy part|do&PASTP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what have you done ?
+%mor:	pro:int|what v|have pro:per|you part|do&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*CHI:	what about that place ?
+%mor:	pro:int|what prep|about det:dem|that n|place ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	what about my drink ?
+%mor:	pro:int|what prep|about det:poss|my n|drink ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what is Mummy doing ?
+%mor:	pro:int|what aux|be&3S n:prop|Mummy part|do-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

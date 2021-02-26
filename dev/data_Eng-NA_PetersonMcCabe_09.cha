@@ -1,0 +1,890 @@
+@UTF8
+@PID:	11312/c-00038942-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Mary Target_Child, INV Investigator
+@ID:	eng|PetersonMcCabe|CHI|4;00.|female|||Target_Child|||
+@ID:	eng|PetersonMcCabe|INV|||||Investigator|||
+@G:	Narrative 1
+@Types:	cross, narrative, TD
+*INV:	have you ever spilled anything ?
+%mor:	aux|have pro:per|you adv|ever part|spill-PASTP pro:indef|anything ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&uhh not at school , only at home .
+%mor:	neg|not prep|at n|school cm|cm adv|only prep|at n|home .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|POBJ 4|2|LP 5|2|ENUM 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*INV:	only here ?
+%mor:	adv|only adv|here ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	what'd you spill ?
+%mor:	pro:int|what~mod|genmod pro:per|you v|spill ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	&we well I didn't spill anything but &uhh +...
+%mor:	co|well pro:sub|I mod|do&PAST~neg|not v|spill pro:indef|anything
+	conj|but +...
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|OM 8|5|PUNCT
+*INV:	you didn't spill anything ?
+%mor:	pro:per|you mod|do&PAST~neg|not v|spill pro:indef|anything ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	no: , sometimes get a little accident .
+%mor:	co|no cm|cm adv|sometimes v|get det:art|a adj|little n|accident .
+%gra:	1|4|COM 2|1|LP 3|4|JCT 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*INV:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	where I spill .
+%mor:	pro:int|where pro:sub|I v|spill .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	sometimes you get a little accident where you spill ?
+%mor:	adv|sometimes pro:per|you v|get det:art|a adj|little n|accident
+	pro:rel|where pro:per|you v|spill ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|3|PUNCT
+*INV:	tell me about it .
+%mor:	v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*INV:	what happened ?
+%mor:	pro:int|what v|happen-PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	well &-uh my mom +...
+%mor:	co|well det:poss|my n|mom +...
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	your mom ?
+%mor:	det:poss|your n|mom ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	my mom get me a rag and I wipe it all up .
+%mor:	det:poss|my n|mom v|get pro:obj|me det:art|a n|rag coord|and
+	pro:sub|I v|wipe pro:per|it adv|all adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|9|OBJ 11|12|JCT 12|9|JCT 13|3|PUNCT
+*INV:	wait a minute .
+%mor:	v|wait det:art|a n|minute .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	your mom gets you a rag and what ?
+%mor:	det:poss|your n|mom v|get-3S pro:per|you det:art|a n|rag coord|and
+	pro:int|what ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|6|CONJ 8|7|COORD
+	9|3|PUNCT
+*CHI:	wipe it all up .
+%mor:	v|wipe pro:per|it adv|all adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|PUNCT
+*INV:	rub it all up ?
+%mor:	v|rub pro:per|it adv|all adv|up ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	wiped it all up .
+%mor:	v|wipe-PAST pro:per|it adv|all adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|PUNCT
+*INV:	oh wiped it all up .
+%mor:	co|oh v|wipe-PAST pro:per|it adv|all adv|up .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and +..?
+%mor:	coord|and +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um: then I started eating my dinner .
+%mor:	adv:tem|then pro:sub|I v|start-PAST part|eat-PRESP det:poss|my
+	n|dinner .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+@G:	Narrative 2
+*INV:	you_know I have a friend who's a doctor and she's gonna start
+	working in the hospital pretty soon .
+%mor:	co|you_know pro:sub|I aux|have det:art|a n|friend
+	pro:rel|who~cop|be&3S det:art|a n|doctor coord|and
+	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|start part|work-PRESP
+	prep|in det:art|the n|hospital adv|pretty adv|soon .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|INCROOT 6|7|LINK 7|5|CMOD 8|9|DET
+	9|7|PRED 10|13|LINK 11|13|SUBJ 12|13|AUX 13|9|CMOD 14|15|INF 15|13|COMP
+	16|15|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|21|JCT 21|16|JCT 22|5|PUNCT
+*INV:	have you ever been in the hospital ?
+%mor:	aux|have pro:per|you adv|ever cop|be&PASTP prep|in det:art|the
+	n|hospital ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	&-um: Besty has .
+%mor:	n:prop|Besty v|have&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	oh tell me about it .
+%mor:	co|oh v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*INV:	what happened ?
+%mor:	pro:int|what v|happen-PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	well when she was riding her bike on the ice .
+%mor:	co|well conj|when pro:sub|she aux|be&PAST&13S part|ride-PRESP
+	det:poss|her n|bike prep|on det:art|the n|ice .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*INV:	on the ice ?
+%mor:	prep|on det:art|the n|ice ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	outside .
+%mor:	adv|outside .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	outside ?
+%mor:	adv|outside ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	all_of_a_sudden [/] all_of_a_sudden she slipped and broke her leg .
+%mor:	adv|all_of_a_sudden pro:sub|she v|slip-PAST coord|and v|break&PAST
+	det:poss|her n|leg .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	all_of_a_sudden she slipped and broke her leg ?
+%mor:	adv|all_of_a_sudden pro:sub|she v|slip-PAST coord|and v|break&PAST
+	det:poss|her n|leg ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|CONJ 5|4|COORD 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) and +..?
+%mor:	coord|and +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	well she &ha hadta go to the hospital .
+%mor:	co|well pro:sub|she mod|have&PAST~inf|to v|go prep|to det:art|the
+	n|hospital .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	she hadta go to the hospital ?
+%mor:	pro:sub|she mod|have&PAST~inf|to v|go prep|to det:art|the
+	n|hospital ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	uhhuh (.) and then [/] then the hospital &-uh man gave her a cast .
+%mor:	co|uhhuh coord|and adv:tem|then det:art|the n|hospital n|man
+	v|give&PAST pro:obj|her det:art|a n|cast .
+%gra:	1|7|COM 2|7|LINK 3|7|JCT 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|7|PUNCT
+*INV:	and then the hospital man gave her a cast ?
+%mor:	coord|and adv:tem|then det:art|the n|hospital n|man v|give&PAST
+	pro:obj|her det:art|a n|cast ?
+%gra:	1|6|LINK 2|6|JCT 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|OBJ2 8|9|DET
+	9|6|OBJ 10|6|PUNCT
+*CHI:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and ?
+%mor:	coord|and ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	then [/] then she xxx and +...
+%mor:	adv:tem|then pro:sub|she coord|and +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*INV:	then she what ?
+%mor:	adv:tem|then pro:sub|she pro:int|what ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	she went to the hospital got some crutches .
+%mor:	pro:sub|she v|go&PAST prep|to det:art|the n|hospital v|get&PAST
+	qn|some n|crutch-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|XJCT 7|8|QUANT 8|6|OBJ
+	9|2|PUNCT
+*INV:	she went to the hospital and got some crutches ?
+%mor:	pro:sub|she v|go&PAST prep|to det:art|the n|hospital coord|and
+	v|get&PAST qn|some n|crutch-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|9|QUANT
+	9|7|OBJ 10|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	right at the drug store .
+%mor:	adv|right prep|at det:art|the n|drug n|store .
+%gra:	1|2|JCT 2|0|INCROOT 3|5|DET 4|5|MOD 5|2|POBJ 6|2|PUNCT
+*INV:	at the drug store uhhuh ?
+%mor:	prep|at det:art|the n|drug n|store co|uhhuh ?
+%gra:	1|5|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|0|INCROOT 6|5|PUNCT
+*CHI:	&-uh then [x 3] she couldn't walk it again but her mommy hadta get
+	some (.) and [x 3] +...
+%mor:	adv:tem|then pro:sub|she mod|could~neg|not v|walk pro:per|it
+	adv|again conj|but det:poss|her n|mommy mod|have&PAST~inf|to v|get
+	qn|some coord|and +...
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|13|LINK
+	9|10|DET 10|13|SUBJ 11|13|AUX 12|13|INF 13|5|CJCT 14|15|QUANT 15|13|CONJ
+	16|5|PUNCT
+@G:	Narrative 3
+*CHI:	and mommy had hurt ankle and she gotta get some crutches too .
+%mor:	coord|and n|mommy aux|have&PAST v|hurt&ZERO n|ankle coord|and
+	pro:sub|she mod|got~inf|to v|get qn|some n|crutch-PL post|too .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|10|INF 10|4|CJCT 11|12|QUANT 12|10|OBJ 13|12|POSTMOD 14|4|PUNCT
+*INV:	your mommy had a hurt ankle and she hadta get some crutches too ?
+%mor:	det:poss|your n|mommy v|have&PAST det:art|a v|hurt&ZERO n|ankle
+	coord|and pro:sub|she mod|have&PAST~inf|to v|get qn|some n|crutch-PL
+	post|too ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|OBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|11|INF 11|3|CJCT 12|13|QUANT 13|11|OBJ 14|13|POSTMOD
+	15|3|PUNCT
+*CHI:	yeah and she hadta go to the hospital too .
+%mor:	co|yeah coord|and pro:sub|she mod|have&PAST~inf|to v|go prep|to
+	det:art|the n|hospital adv|too .
+%gra:	1|6|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|6|PUNCT
+*INV:	she hadta go to the hospital too ?
+%mor:	pro:sub|she mod|have&PAST~inf|to v|go prep|to det:art|the
+	n|hospital adv|too ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|4|PUNCT
+*INV:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	but she can walk .
+%mor:	conj|but pro:sub|she mod|can v|walk .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	very slow .
+%mor:	adv|very adj|slow .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CHI:	but she can't run .
+%mor:	conj|but pro:sub|she mod|can~neg|not v|run .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	only when you have a broken leg and a twist ankle you can't run .
+%mor:	adv|only conj|when pro:per|you v|have det:art|a part|break&PASTP
+	n|leg coord|and det:art|a n|twist n|ankle pro:per|you
+	mod|can~neg|not v|run .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|15|SUBJ 13|15|AUX 14|13|NEG 15|11|CMOD
+	16|4|PUNCT
+@G:	Narrative 4
+*INV:	up high .
+%mor:	adv|up adj|high .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	you never visited anybody in the hospital ?
+%mor:	pro:per|you adv|never part|visit-PASTP pro:indef|anybody prep|in
+	det:art|the n|hospital ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*INV:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I went in Spanish there's a man .
+%mor:	pro:sub|I v|go&PAST prep|in n:prop|Spanish
+	pro:exist|there~cop|be&3S det:art|a n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|PRED
+	9|2|PUNCT
+*INV:	only in Spanish there's a man ?
+%mor:	adv|only prep|in n:prop|Spanish pro:exist|there~cop|be&3S det:art|a
+	n|man ?
+%gra:	1|2|JCT 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*CHI:	and [/] and he visit, visits some some some kids at the hospital
+	xxx together .
+%mor:	coord|and pro:sub|he v|visit cm|cm v|visit-3S qn|some qn|some
+	qn|some n|kid-PL prep|at det:art|the n|hospital adv|together .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|LP 5|3|ENUM 6|7|QUANT 7|9|QUANT
+	8|9|QUANT 9|5|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|5|JCT 14|3|PUNCT
+*INV:	and he visits some kids at the hospital ?
+%mor:	coord|and pro:sub|he v|visit-3S qn|some n|kid-PL prep|at
+	det:art|the n|hospital ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	and forgot her, got, forgot his presents .
+%mor:	coord|and v|forget&PAST pro:obj|her cm|cm v|get&PAST cm|cm
+	v|forget&PAST det:poss|his n|present-PL .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|LP 5|2|ENUM 6|5|LP 7|5|ENUM 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+@G:	Narrative 5
+*INV:	yeah I've gotten a_lot .
+%mor:	co|yeah pro:sub|I~aux|have part|get&PASTP adv|a_lot .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	but you know last summer I took my cat to the vet and just as the
+	vet was about to give my cat a shot he jumped up and ran around the
+	room .
+%mor:	conj|but pro:per|you v|know adv|last n|summer pro:sub|I v|take&PAST
+	det:poss|my n|cat prep|to det:art|the n|vet coord|and adv|just
+	conj|as det:art|the n|vet cop|be&PAST&13S adv|about inf|to v|give
+	det:poss|my n|cat det:art|a v|shoot&PAST pro:sub|he v|jump-PAST
+	adv|up coord|and v|run&PAST prep|around det:art|the n|room .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|CONJ 14|15|JCT 15|18|LINK
+	16|17|DET 17|18|SUBJ 18|13|COORD 19|21|JCT 20|21|INF 21|18|CPRED 22|23|DET
+	23|21|OBJ 24|25|DET 25|21|COMP 26|27|SUBJ 27|25|COMP 28|27|JCT 29|27|CONJ
+	30|29|COORD 31|30|JCT 32|33|DET 33|31|POBJ 34|7|PUNCT
+*INV:	anything like that ever happen to your cat or dog ?
+%mor:	pro:indef|anything prep|like pro:dem|that adv|ever v|happen prep|to
+	det:poss|your n|cat coord|or n|dog ?
+%gra:	1|5|SUBJ 2|1|NJCT 3|2|POBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|5|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	one, once Bobby and Willie and me and mommy .
+%mor:	det:num|one cm|cm adv|once n:prop|Bobby coord|and n:prop|Willie
+	coord|and pro:obj|me coord|and n|mommy .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|3|POBJ 5|4|CONJ 6|5|COORD 7|4|CONJ
+	8|7|COORD 9|4|CONJ 10|9|COORD 11|1|PUNCT
+*INV:	once Bobby and Willie and you and mommy ?
+%mor:	adv|once n:prop|Bobby coord|and n:prop|Willie coord|and pro:per|you
+	coord|and n|mommy ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	we went to the dog's doctor and Bonnie hadta get a shot but, she,
+	she [/] she didn't, she didn't run around .
+%mor:	pro:sub|we v|go&PAST prep|to det:art|the adj|dog&dn-POSS n|doctor
+	coord|and n:prop|Bonnie mod|have&PAST~inf|to v|get det:art|a
+	v|shoot&PAST conj|but cm|cm pro:sub|she cm|cm pro:sub|she
+	mod|do&PAST~neg|not cm|cm pro:sub|she mod|do&PAST~neg|not v|run
+	adv|around .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|11|INF 11|6|CMOD 12|13|DET 13|11|OBJ 14|25|LINK 15|14|LP
+	16|25|SUBJ 17|16|LP 18|25|SUBJ 19|21|AUX 20|19|NEG 21|18|LP 22|25|SUBJ
+	23|25|AUX 24|23|NEG 25|11|CJCT 26|25|JCT 27|2|PUNCT
+@G:	Narrative 6
+*INV:	hm .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	has she ever been naughty ?
+%mor:	v|have&3S pro:sub|she adv|ever cop|be&PASTP adj|naughty ?
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|JCT 4|1|COMP 5|4|PRED 6|1|PUNCT
+*CHI:	&-um: (.) a little bit .
+%mor:	det:art|a adj|little n|bit .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	well what happened ?
+%mor:	co|well pro:int|what v|happen-PAST ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	tell me about it .
+%mor:	v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	well Bonnie wants +//.
+%mor:	co|well n:prop|Bonnie v|want-3S +//.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	<when I> [//] you_know when I was woked [: woken] [* m] up .
+%mor:	co|you_know conj|when pro:sub|I aux|be&PAST&13S part|wake&PASTP
+	adv|up .
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*INV:	when you was +//.
+%mor:	conj|when pro:per|you cop|be&PAST&13S +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	I saw [x 3] .
+%mor:	pro:sub|I v|see&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	when you woke up ?
+%mor:	conj|when pro:per|you v|wake&PAST adv|up ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	saw something was really funny .
+%mor:	v|saw pro:indef|something cop|be&PAST&13S adv|really adj|fun&dn-Y .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*INV:	something was really funny ?
+%mor:	pro:indef|something cop|be&PAST&13S adv|really adj|fun&dn-Y ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	it feel like Bonnie does it .
+%mor:	pro:per|it v|feel conj|like n:prop|Bonnie mod|do&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|OBJ 7|2|PUNCT
+*CHI:	so Bonnie last night .
+%mor:	co|so n:prop|Bonnie adv|last n|night .
+%gra:	1|4|COM 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*INV:	I'm sorry .
+%mor:	pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I didn't hear you .
+%mor:	pro:sub|I mod|do&PAST~neg|not v|hear pro:per|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	something was really funny .
+%mor:	pro:indef|something cop|be&PAST&13S adv|really adj|fun&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*INV:	I didn't understand what you were saying .
+%mor:	pro:sub|I mod|do&PAST~neg|not v|understand pro:int|what pro:per|you
+	aux|be&PAST part|say-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|4|PUNCT
+*CHI:	Bonnie did that .
+%mor:	n:prop|Bonnie v|do&PAST comp|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	and Bonnie did that ?
+%mor:	coord|and n:prop|Bonnie v|do&PAST comp|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	so Mommy [/] Mommy cleaned it up .
+%mor:	co|so n:prop|Mommy v|clean-PAST pro:per|it adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+@G:	Narrative 7
+*CHI:	oh my dad got stung in Florida .
+%mor:	co|oh det:poss|my n|dad aux|get&PAST part|sting&PASTP prep|in
+	n:prop|Florida .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*INV:	well tell me about it .
+%mor:	co|well v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*INV:	what happened ?
+%mor:	pro:int|what v|happen-PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	well he hadta go to the hospital .
+%mor:	co|well pro:sub|he mod|have&PAST~inf|to v|go prep|to det:art|the
+	n|hospital .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and +..?
+%mor:	coord|and +..?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<and he> [//] and [/] and it really hurted [: hurt] [* m:=ed] .
+%mor:	coord|and pro:per|it adv|really part|hurt&PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*INV:	and it really hurted [: hurt] [* m:=ed] ?
+%mor:	coord|and pro:per|it adv|really part|hurt&PASTP ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and [//] but [/] but there was a little tiny boat .
+%mor:	conj|but adv|there cop|be&PAST&13S det:art|a adj|little adj|tiny
+	n|boat .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+*INV:	but what ?
+%mor:	conj|but pro:int|what ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	it was sort_of like Scruffy [/] Scruffy_The_Tugboat .
+%mor:	pro:per|it cop|be&PAST&13S adv|sort_of co|like
+	n:prop|Scruffy_The_Tugboat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|PRED 6|2|PUNCT
+*INV:	a little tiny boat ?
+%mor:	det:art|a adj|little adj|tiny n|boat ?
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*INV:	it was sort_of like Scruffy_The_Tugboat ?
+%mor:	pro:per|it cop|be&PAST&13S adv|sort_of co|like
+	n:prop|Scruffy_The_Tugboat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|PRED 6|2|PUNCT
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and [/] <and it> [//] and nobody didn't take care of him .
+%mor:	coord|and pro:indef|nobody mod|do&PAST~neg|not v|take n|care
+	prep|of pro:obj|him .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|5|PUNCT
+*INV:	and nobody didn't take care of him ?
+%mor:	coord|and pro:indef|nobody mod|do&PAST~neg|not v|take n|care
+	prep|of pro:obj|him ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	nope (.) those little arms .
+%mor:	co|nope det:dem|those adj|little n|arm-PL .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@G:	Narrative 8
+*INV:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	all eight of them .
+%mor:	qn|all det:num|eight prep|of pro:obj|them .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	have you ever broken anything ?
+%mor:	aux|have pro:per|you adv|ever part|break&PASTP pro:indef|anything ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you've never broken anything ?
+%mor:	pro:per|you~aux|have adv|never part|break&PASTP pro:indef|anything
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	I saw Mommy broke the glass .
+%mor:	pro:sub|I v|see&PAST n:prop|Mommy v|break&PAST det:art|the n|glass
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*INV:	tell me about it .
+%mor:	v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*INV:	what happened ?
+%mor:	pro:int|what v|happen-PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	well <she was> [//] she had a cup full of <root beer> [/] beer .
+%mor:	co|well pro:sub|she v|have&PAST det:art|a n|cup adj|full prep|of
+	n|beer .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|POSTMOD 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+*INV:	she had a cup full of root beer ?
+%mor:	pro:sub|she v|have&PAST det:art|a n|cup adj|full prep|of n|root
+	n|beer ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|2|PUNCT
+*CHI:	no I mean regular beer .
+%mor:	co|no pro:sub|I v|mean adj|regular n|beer .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*INV:	regular beer ?
+%mor:	adj|regular n|beer ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	I mean cup hold it up .
+%mor:	pro:sub|I v|mean n|cup n|hold pro:per|it adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|OBJ 6|2|JCT 7|2|PUNCT
+*INV:	and she cup hold it up ?
+%mor:	coord|and pro:sub|she v|cup v|hold pro:per|it adv|up ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|OBJ 6|4|JCT 7|3|PUNCT
+*CHI:	the cup holded [: held] [* m:=ed] up .
+%mor:	det:art|the n|cup v|hold&PAST adv|up .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	the cup holded [: held] [* m:=ed] up ?
+%mor:	det:art|the n|cup v|hold&PAST adv|up ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	the [//] (.) then [/] then it would just slip pkkhhhhh@o .
+%mor:	adv:tem|then pro:per|it mod|will&COND adj|just n|slip on|pkkhhhhh .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*INV:	and then it just went slip ?
+%mor:	coord|and adv:tem|then pro:per|it adv|just v|go&PAST n|slip ?
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	uhhuh yep (.) and it just broke .
+%mor:	co|uhhuh co|yep coord|and pro:per|it adv|just adj|broke .
+%gra:	1|2|COM 2|0|INCROOT 3|2|CONJ 4|6|SUBJ 5|6|JCT 6|3|COORD 7|2|PUNCT
+*INV:	and it just broke ?
+%mor:	coord|and pro:per|it adv|just adj|broke ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	Narrative 9
+*INV:	hm: (.) tell me about one of the trips that you were on .
+%mor:	co|hm v|tell pro:obj|me prep|about det:num|one prep|of det:art|the
+	n|trip-PL pro:rel|that pro:per|you cop|be&PAST prep|on .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|JCT 13|2|PUNCT
+*INV:	tell me about what happened on one of the trips you were on .
+%mor:	v|tell pro:obj|me prep|about pro:int|what v|happen-PAST prep|on
+	det:num|one prep|of det:art|the n|trip-PL pro:per|you cop|be&PAST
+	prep|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|5|SUBJ 5|1|COMP 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|12|SUBJ 12|5|CJCT 13|12|JCT 14|1|PUNCT
+*CHI:	well well &=coughs (.) &uhh &whe &whe when Mommy and I went to our
+	grandma's house .
+%mor:	co|well n|well conj|when n:prop|Mommy coord|and pro:sub|I v|go&PAST
+	prep|to det:poss|our grand#adj|ma&dn-POSS n|house .
+%gra:	1|2|COM 2|0|INCROOT 3|7|LINK 4|7|SUBJ 5|4|CONJ 6|5|COORD 7|2|CJCT
+	8|7|JCT 9|11|DET 10|11|MOD 11|8|POBJ 12|2|PUNCT
+*INV:	when Mommy and you went to your grandpa's house .
+%mor:	conj|when n:prop|Mommy coord|and pro:per|you v|go&PAST prep|to
+	det:poss|your grand#adj|pa&dn-POSS n|house .
+%gra:	1|2|LINK 2|5|SUBJ 3|2|CONJ 4|3|COORD 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*CHI:	and Bob and [/] and Willie and I .
+%mor:	coord|and n:prop|Bob coord|and n:prop|Willie coord|and pro:sub|I .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|1|PUNCT
+*INV:	and Willie and you .
+%mor:	coord|and n:prop|Willie coord|and pro:per|you .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*CHI:	and that Daddy come and we got on the wrong road .
+%mor:	coord|and comp|that n:prop|Daddy v|come coord|and pro:sub|we
+	v|get&PAST prep|on det:art|the n|wrong n|road .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|PUNCT
+*INV:	and you got on the wrong road ?
+%mor:	coord|and pro:per|you v|get&PAST prep|on det:art|the n|wrong n|road
+	?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	soon there was a sign said to get on the right road .
+%mor:	adv|soon adv|there cop|be&PAST&13S det:art|a n|sign v|say&PAST
+	inf|to v|get prep|on det:art|the adj|right n|road .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|PRED 7|8|INF 8|6|COMP
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|3|PUNCT
+*INV:	soon there was a sign to go on the right road ?
+%mor:	adv|soon adv|there cop|be&PAST&13S det:art|a n|sign inf|to v|go
+	prep|on det:art|the adj|right n|road ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and we have been driving and stop a_lot_of [//] (a)_lot_of
+	restaurants I should .
+%mor:	coord|and pro:sub|we aux|have aux|be&PASTP part|drive-PRESP
+	coord|and v|stop qn|a_lot_of n|restaurant-PL pro:sub|I mod|should .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|CONJ 7|6|COORD 8|9|QUANT
+	9|7|OBJ 10|11|SUBJ 11|9|CMOD 12|5|PUNCT
+*INV:	(a)_lot_of what ?
+%mor:	qn|a_lot_of pro:int|what ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	(a)_lot_of restaurants .
+%mor:	qn|a_lot_of n|restaurant-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	(a)_lot_of restaurants .
+%mor:	qn|a_lot_of n|restaurant-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	you hadta drive and stop at a_lot_of restaurants ?
+%mor:	pro:per|you mod|have&PAST~inf|to v|drive coord|and n|stop prep|at
+	qn|a_lot_of n|restaurant-PL ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|CONJ 6|5|COORD 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and <we had (a)bout> [//] we hadta stop about that many .
+%mor:	coord|and pro:sub|we mod|have&PAST~inf|to v|stop prep|about
+	det:dem|that qn|many .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	you hadta stop about that many ?
+%mor:	pro:per|you mod|have&PAST~inf|to v|stop prep|about det:dem|that
+	qn|many ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&-um: .
+*INV:	about ten huh ?
+%mor:	prep|about det:num|ten co|huh ?
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*CHI:	uhhuh (.) about (.) one, two, three, four, five, six, seven, eight,
+	nine, ten, eleven, twelve .
+%mor:	co|uhhuh prep|about det:num|one cm|cm det:num|two cm|cm
+	det:num|three cm|cm det:num|four cm|cm det:num|five cm|cm
+	det:num|six cm|cm det:num|seven cm|cm det:num|eight cm|cm
+	det:num|nine cm|cm det:num|ten cm|cm det:num|eleven cm|cm
+	det:num|twelve .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|LP 5|3|ENUM 6|5|LP 7|3|ENUM 8|7|LP
+	9|3|ENUM 10|9|LP 11|3|ENUM 12|11|LP 13|3|ENUM 14|13|LP 15|3|ENUM 16|15|LP
+	17|3|ENUM 18|17|LP 19|3|ENUM 20|19|LP 21|3|ENUM 22|21|LP 23|3|ENUM 24|23|LP
+	25|3|ENUM 26|3|PUNCT
+*INV:	you hadta stop about twelve ?
+%mor:	pro:per|you mod|have&PAST~inf|to v|stop prep|about det:num|twelve ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|JCT 6|4|COMP 7|4|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and then [/] then [/] then we [//] finally we were almost close to
+	Grandpa's house .
+%mor:	coord|and adv:tem|then adv|final&dadj-LY pro:sub|we cop|be&PAST
+	adv|almost adj|close prep|to adj|Grandpa&dn-POSS n|house .
+%gra:	1|5|LINK 2|5|JCT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|JCT 7|5|PRED 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+*INV:	then you finally were almost close to Grandpa's house ?
+%mor:	adv:tem|then pro:per|you adv|final&dadj-LY cop|be&PAST adv|almost
+	adj|close prep|to adj|Grandpa&dn-POSS n|house ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	so then we got there .
+%mor:	adv|so adv:tem|then pro:sub|we v|get&PAST adv|there .
+%gra:	1|2|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+@G:	Narrative 10
+*INV:	oh did anything happen that you really remember at the zoo ?
+%mor:	co|oh v|do&PAST pro:indef|anything v|happen comp|that pro:per|you
+	adv|really v|remember prep|at det:art|the n|zoo ?
+%gra:	1|2|COM 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that's when we went on the train .
+%mor:	pro:dem|that~cop|be&3S conj|when pro:sub|we v|go&PAST prep|on
+	det:art|the n|train .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*INV:	oh you went on a train .
+%mor:	co|oh pro:per|you v|go&PAST prep|on det:art|a n|train .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	tell me about it .
+%mor:	v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*INV:	tell me about the train .
+%mor:	v|tell pro:obj|me prep|about det:art|the n|train .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	then there was a hill .
+%mor:	adv:tem|then adv|there cop|be&PAST&13S det:art|a n|hill .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	there was a hill ?
+%mor:	pro:exist|there cop|be&PAST&13S det:art|a n|hill ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and also (.) also (.) the xxx was going too fast .
+%mor:	coord|and adv|also adv|also det:art|the aux|be&PAST&13S
+	n:gerund|go-PRESP post|too adv|fast .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|5|PRED 7|6|PQ 8|6|JCT
+	9|1|PUNCT
+*INV:	I'm sorry I didn't hear you .
+%mor:	pro:sub|I~cop|be&1S adj|sorry pro:sub|I mod|do&PAST~neg|not v|hear
+	pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|CJCT 8|7|OBJ
+	9|2|PUNCT
+*CHI:	and the train was going too fast .
+%mor:	coord|and det:art|the n|train cop|be&PAST&13S n:gerund|go-PRESP
+	post|too adv|fast .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|PQ 7|4|JCT 8|4|PUNCT
+*INV:	and the train was going too fast ?
+%mor:	coord|and det:art|the n|train cop|be&PAST&13S n:gerund|go-PRESP
+	post|too adv|fast ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|PQ 7|4|JCT 8|4|PUNCT
+*CHI:	and [/] and down the hill, but I didn't fall .
+%mor:	coord|and prep|down det:art|the n|hill cm|cm conj|but pro:sub|I
+	mod|do&PAST~neg|not v|fall .
+%gra:	1|10|LINK 2|10|JCT 3|4|DET 4|2|POBJ 5|2|LP 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|0|ROOT 11|10|PUNCT
+*INV:	down the hill, but you didn't fall ?
+%mor:	prep|down det:art|the n|hill cm|cm conj|but pro:per|you
+	mod|do&PAST~neg|not v|fall ?
+%gra:	1|9|JCT 2|3|DET 3|1|POBJ 4|1|LP 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+*CHI:	nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and (.) and (.) and, that's all .
+%mor:	coord|and coord|and coord|and cm|cm pro:dem|that~cop|be&3S
+	pro:indef|all .
+%gra:	1|0|INCROOT 2|1|CONJ 3|6|LINK 4|3|LP 5|6|SUBJ 6|2|COORD 7|6|PRED
+	8|1|PUNCT
+@G:	Narrative 11
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you_know when I travel I go mostly by car .
+%mor:	co|you_know conj|when pro:sub|I v|travel pro:sub|I v|go adv|mostly
+	prep|by n|car .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+*INV:	have you ever been in a plane or a train or a boat ?
+%mor:	aux|have pro:per|you adv|ever cop|be&PASTP prep|in det:art|a
+	n|plane coord|or det:art|a n|train coord|or det:art|a n|boat ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|8|COORD 11|4|CONJ 12|13|DET 13|11|COORD 14|4|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	we went on the ferry boat .
+%mor:	pro:sub|we v|go&PAST prep|on det:art|the n|ferry n|boat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*INV:	oh tell me about it .
+%mor:	co|oh v|tell pro:obj|me prep|about pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*INV:	what happened ?
+%mor:	pro:int|what v|happen-PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	well [/] well it [//] the [/] the horn it [/] it had a beep that
+	beeped (be)cause it was foggy .
+%mor:	co|well det:art|the n|horn pro:per|it v|have&PAST det:art|a n|beep
+	adv|that part|beep-PASTP conj|because pro:per|it cop|be&PAST&13S
+	adj|fog&dn-Y .
+%gra:	1|9|COM 2|3|DET 3|9|SUBJ 4|5|SUBJ 5|3|CMOD 6|7|DET 7|5|OBJ 8|9|JCT
+	9|0|ROOT 10|12|LINK 11|12|SUBJ 12|9|CJCT 13|12|PRED 14|9|PUNCT
+*INV:	the horn had a beep and beeped (be)cause it was foggy ?
+%mor:	det:art|the n|horn v|have&PAST det:art|a n|beep coord|and
+	v|beep-PAST conj|because pro:per|it cop|be&PAST&13S adj|fog&dn-Y ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|CONJ 7|6|COORD 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|10|PRED 12|3|PUNCT
+*CHI:	yeah and that was called the fog+horn .
+%mor:	co|yeah coord|and pro:dem|that aux|be&PAST&13S part|call-PASTP
+	det:art|the n|+n|fog+n|horn .
+%gra:	1|5|COM 2|1|CONJ 3|2|COORD 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*INV:	it was called a fog+horn ?
+%mor:	pro:per|it aux|be&PAST&13S part|call-PASTP det:art|a
+	n|+n|fog+n|horn ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	but I wasn't scared when it was taking off .
+%mor:	conj|but pro:sub|I aux|be&PAST&13S~neg|not part|scare-PASTP
+	conj|when pro:per|it aux|be&PAST&13S part|take-PRESP adv|off .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CJCT 10|9|JCT 11|5|PUNCT
+*INV:	you weren't scared ?
+%mor:	pro:per|you aux|be&PAST~neg|not part|scare-PASTP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*CHI:	yeah but I was when we just [/] just going on .
+%mor:	co|yeah conj|but pro:sub|I cop|be&PAST&13S conj|when pro:sub|we
+	adv|just part|go-PRESP adv|on .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|JCT 8|4|CJCT
+	9|8|JCT 10|4|PUNCT
+*INV:	you were scared when you were just going on ?
+%mor:	pro:per|you aux|be&PAST part|scare-PASTP conj|when pro:per|you
+	aux|be&PAST adv|just part|go-PRESP adv|on ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|JCT 8|3|CJCT
+	9|8|JCT 10|3|PUNCT
+*CHI:	yeah but I when I was in [//] inside I wasn't .
+%mor:	co|yeah conj|but pro:sub|I conj|when pro:sub|I cop|be&PAST&13S
+	adv|inside pro:sub|I cop|be&PAST&13S~neg|not .
+%gra:	1|9|COM 2|9|LINK 3|9|SUBJ 4|6|LINK 5|6|SUBJ 6|9|CJCT 7|6|JCT 8|9|SUBJ
+	9|0|ROOT 10|9|NEG 11|9|PUNCT
+*INV:	when you were inside you weren't ?
+%mor:	conj|when pro:per|you cop|be&PAST prep|inside pro:per|you
+	cop|be&PAST~neg|not ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|SUBJ 6|4|POBJ 7|6|NEG 8|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	also we hadta eat at the boat .
+%mor:	adv|also pro:sub|we mod|have&PAST~inf|to v|eat prep|at det:art|the
+	n|boat .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	you hadta eat at the boat ?
+%mor:	pro:per|you mod|have&PAST~inf|to v|eat prep|at det:art|the n|boat ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ?
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	there was lunch+time .
+%mor:	pro:exist|there cop|be&PAST&13S n|+n|lunch+n|time .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	Narrative 12
+*CHI:	but, once we were, we were just driving along .
+%mor:	conj|but cm|cm conj|once pro:sub|we cop|be&PAST cm|cm pro:sub|we
+	aux|be&PAST adv|just part|drive-PRESP adv|along .
+%gra:	1|10|LINK 2|1|LP 3|5|LINK 4|5|SUBJ 5|10|CJCT 6|5|LP 7|10|SUBJ 8|10|AUX
+	9|10|JCT 10|0|ROOT 11|10|JCT 12|10|PUNCT
+*INV:	once you were just driving along ?
+%mor:	adv|once pro:per|you aux|be&PAST adv|just part|drive-PRESP
+	adv|along ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	and all_of_a_sudden we just stopped .
+%mor:	coord|and adv|all_of_a_sudden pro:sub|we adv|just part|stop-PASTP .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*INV:	and all_of_a_sudden you just stopped ?
+%mor:	coord|and adv|all_of_a_sudden pro:per|you adv|just part|stop-PASTP
+	?
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	and our motor was broken .
+%mor:	coord|and det:poss|our n|motor aux|be&PAST&13S part|break&PASTP .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+@End

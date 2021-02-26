@@ -1,0 +1,1539 @@
+@UTF8
+@PID:	11312/c-00005161-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lois Target_Child, MOT Mother, NAN Investigator
+@ID:	eng|ParentChild|CHI|1;02.27|female|||Target_Child|||
+@ID:	eng|ParentChild|MOT||female|||Mother|||
+@ID:	eng|ParentChild|NAN|||||Investigator|||
+@Bg:	Mother Freeplay
+@Bg:	WarmUp
+@Types:	cross, toyplay, TD
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	as she removes toys from the box
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	there (i)s more cups .
+%mor:	pro:exist|there cop|be&3S qn|more n|cup-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*MOT:	you can always pour a drink .
+%mor:	pro:per|you mod|can adv|always v|pour det:art|a n|drink .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%act:	picking up a pitcher
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pours from pitcher to cup
+*MOT:	want a drink Lois ?
+%mor:	v|want det:art|a n|drink n:prop|Lois ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|APP 5|1|PUNCT
+*CHI:	0 . [+ r]
+%act:	attempts to pour using a pitcher , knocks the pitcher over
+*MOT:	whoops xxx .
+%mor:	co|whoops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you pouring tea ?
+%mor:	pro:per|you part|pour-PRESP n|tea ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	as Lois pours from pitcher to cup
+*MOT:	oh very good !
+%mor:	co|oh adv|very adj|good !
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*MOT:	can mommy have some ?
+%mor:	mod|can n|mommy v|have qn|some ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 . [+ r]
+%act:	pours into Mot's cup
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now you can set it down and drink with the cup .
+%mor:	adv|now pro:per|you mod|can v|set&ZERO pro:per|it adv|down
+	coord|and n|drink prep|with det:art|the n|cup .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%act:	drinks from the cup
+*MOT:	very good !
+%mor:	adv|very adj|good !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	may I have some more ?
+%mor:	mod|may pro:sub|I v|have qn|some pro:indef|more ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*CHI:	0 . [+ r]
+%act:	pours into Mot's cup , knocks the cup over
+*MOT:	oh_my_good(ness) +...
+%mor:	co|oh_my_goodness +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh thank_you !
+%mor:	co|oh n|thank_you !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%com:	as Lois picks up the cup
+*MOT:	fixed that up (.) didn't you ?
+%mor:	v|fix-PAST comp|that prep|up mod|do&PAST~neg|not pro:per|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|6|AUX 5|4|NEG 6|3|POBJ 7|1|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois continues to pour
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	www .
+%com:	makes sipping sound
+*MOT:	okay (.) now may I have some ?
+%mor:	co|okay adv|now mod|may pro:sub|I v|have qn|some ?
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	0 .
+%act:	drinks
+*MOT:	you want some ?
+%mor:	pro:per|you v|want qn|some ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%gpx:	points to Lois's cup
+*CHI:	0 . [+ r]
+%act:	puts the cup in her mouth
+*MOT:	oh (.) gonna eat the cup (.) huh ?
+%mor:	co|oh part|go-PRESP~inf|to v|eat det:art|the n|cup co|huh ?
+%gra:	1|2|COM 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|COM 8|2|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here (i)s a couple more cups .
+%mor:	adv|here cop|be&3S det:art|a n|couple qn|more n|cup-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+*MOT:	maybe you can have some pretend friends .
+%mor:	adv|maybe pro:per|you mod|can v|have qn|some v|pretend n|friend-PL
+	.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*MOT:	pour some .
+%mor:	v|pour qn|some .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%tim:	00:01:00
+*CHI:	0 . [+ r]
+%act:	pours into all of the cups
+*MOT:	you think this guy looks thirsty ?
+%mor:	pro:per|you v|think det:dem|this n|guy v|look-3S adj|thirst&dn-Y ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|JCT 7|2|PUNCT
+%com:	with a puppet on her hand
+*MOT:	he says oh please give me some tea Lois .
+%mor:	pro:sub|he v|say-3S co|oh co|please v|give pro:obj|me qn|some n|tea
+	n:prop|Lois .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|COM 4|5|COM 5|2|COMP 6|5|OBJ2 7|8|QUANT 8|5|OBJ
+	9|8|APP 10|2|PUNCT
+*CHI:	0 . [+ r]
+%act:	gives tea to the puppet
+*MOT:	oh thank_you very much .
+%mor:	co|oh n|thank_you adv|very adv|much .
+%gra:	1|2|COM 2|0|INCROOT 3|4|JCT 4|2|NJCT 5|2|PUNCT
+*MOT:	he says here (i)s a kiss .
+%mor:	pro:sub|he v|say-3S adv|here cop|be&3S det:art|a n|kiss .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|COMP 5|6|DET 6|4|PRED 7|2|PUNCT
+*MOT:	in here please .
+%mor:	prep|in n|here co|please .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|ENUM 4|1|PUNCT
+%act:	pushing a cup to Lois
+*CHI:	0 . [+ r]
+%act:	pours
+*MOT:	there ya go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	0 .
+%act:	pretends to drink
+*MOT:	that tastes very good !
+%mor:	det:dem|that n|taste-PL adv|very adj|good !
+%gra:	1|2|DET 2|0|INCROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	0 .
+%act:	teases Lois with a puppet
+*MOT:	xxx you gonna hide .
+%mor:	pro:per|you part|go-PRESP~inf|to v|hide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|2|PUNCT
+%com:	as Lois hides her eyes
+*MOT:	you gonna pour more tea ?
+%mor:	pro:per|you part|go-PRESP~inf|to v|pour qn|more n|tea ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+*MOT:	more tea please .
+%mor:	qn|more n|tea co|please .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*MOT:	you watching what (i)s going on over there huh ?
+%mor:	pro:per|you part|watch-PRESP pro:int|what aux|be&3S part|go-PRESP
+	adv|on prep|over adv|there co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|5|JCT 8|9|JCT
+	9|7|POBJ 10|2|PUNCT
+%com:	as Lois looks off camera
+%tim:	00:02:00
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois pretends to drink from pitcher
+*MOT:	you peekabooing ?
+%mor:	pro:per|you part|peekaboo-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%com:	picks up bell , drops it
+*MOT:	whoops (.) mom made a mess !
+%mor:	co|whoops n|mom v|make&PAST det:art|a n|mess !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	is that a bell ?
+%mor:	cop|be&3S comp|that det:art|a n|bell ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+%com:	as Lois explores bell
+*MOT:	can you ring the bell ?
+%mor:	mod|can pro:per|you v|ring det:art|the n|bell ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	0 . [+ r]
+%act:	rings the bell
+*MOT:	whoa !
+%mor:	co|whoa !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	my_goodness !
+%mor:	co|my_goodness !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you bang a little more than ring (.) don't ya ?
+%mor:	pro:per|you v|bang det:art|a adj|little qn|more prep|than n|ring
+	mod|do~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|JCT 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|6|POBJ 11|2|PUNCT
+%com:	as Lois bangs bell on the table
+*MOT:	putting things inside .
+%mor:	part|put-PRESP n|thing-PL adv|inside .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%com:	as Lois places cup inside pitcher
+*MOT:	can you put one of these cups inside the other one ?
+%mor:	mod|can pro:per|you v|put&ZERO det:num|one prep|of det:dem|these
+	n|cup-PL prep|inside det:art|the qn|other pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|11|DET 10|11|QUANT 11|8|POBJ 12|3|PUNCT
+*MOT:	can you stack the cups ?
+%mor:	mod|can pro:per|you v|stack det:art|the n|cup-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	beginning to stack the cups
+*MOT:	is that a good idea ?
+%mor:	cop|be&3S comp|that det:art|a adj|good n|idea ?
+%gra:	1|0|ROOT 2|1|PRED 3|5|DET 4|5|MOD 5|2|OM 6|1|PUNCT
+*MOT:	you're gonna try those ?
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|try det:dem|those ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%com:	as Lois places cups in pitcher
+*MOT:	you got lots_of cups .
+%mor:	pro:per|you part|get&PASTP qn|lots_of n|cup-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*MOT:	you can stack one on top of the other .
+%mor:	pro:per|you mod|can n|stack det:num|one adv|on n|top prep|of
+	det:art|the qn|other .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*MOT:	uhoh knock them down .
+%mor:	co|uhoh v|knock pro:obj|them adv|down .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%com:	as Lois knocks over cups
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picking cups up
+%tim:	00:03:00
+*MOT:	want that other one Lois ?
+%mor:	v|want adv|that qn|other pro:indef|one n:prop|Lois ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|QUANT 4|1|OBJ 5|4|APP 6|1|PUNCT
+%com:	referring to a cup on the floor
+*MOT:	what else do we have in here ?
+%mor:	pro:int|what post|else mod|do pro:sub|we v|have prep|in n|here ?
+%gra:	1|5|SUBJ 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*MOT:	we have +...
+%mor:	pro:sub|we v|have +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	oh we have some people .
+%mor:	co|oh pro:sub|we v|have qn|some n|person&PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	they can have tea with us too .
+%mor:	pro:sub|they mod|can v|have n|tea prep|with pro:obj|us adv|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|JCT 8|3|PUNCT
+*MOT:	this looks like a Maitre'de or something .
+%mor:	pro:dem|this v|look-3S conj|like det:art|a n:prop|Maitre'de
+	coord|or pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|CONJ 7|6|COORD 8|2|PUNCT
+*MOT:	looks like he (i)s going to a fancy place .
+%mor:	v|look-3S conj|like pro:sub|he aux|be&3S part|go-PRESP prep|to
+	det:art|a adj|fancy n|place .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|1|PUNCT
+*MOT:	he probably drinks lots_of tea .
+%mor:	pro:sub|he adv|probable&dadj-LY v|drink-3S qn|lots_of n|tea .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	and here (i)s a little girl (.) see ?
+%mor:	coord|and adv|here cop|be&3S det:art|a adj|little n|girl v|see ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|CPRED 8|3|PUNCT
+*MOT:	oh we don't eat them !
+%mor:	co|oh pro:sub|we mod|do~neg|not v|eat pro:obj|them !
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	as Lois places toy figure in her mouth
+*MOT:	no (.) we just play with them .
+%mor:	co|no pro:sub|we adj|just n|play prep|with pro:obj|them .
+%gra:	1|4|COM 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	a man .
+%mor:	det:art|a n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois explores the toy figure
+*MOT:	can you say dadda ?
+%mor:	mod|can pro:per|you v|say n|dadda ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	does remind you of dadda ?
+%mor:	mod|do&3S v|remind pro:per|you prep|of n|dadda ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+*CHI:	dadda . [+ i]
+%mor:	n|dadda .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	dadda .
+%mor:	n|dadda .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	but can you say dadda ?
+%mor:	conj|but mod|can pro:per|you v|say n|dadda ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	is this like mamma ?
+%mor:	cop|be&3S pro:dem|this co|like n|mamma ?
+%gra:	1|0|ROOT 2|4|DET 3|4|COM 4|1|PRED 5|1|PUNCT
+*MOT:	is this a lady like mamma ?
+%mor:	cop|be&3S det:dem|this det:art|a n|lady co|like n|mamma ?
+%gra:	1|0|ROOT 2|6|DET 3|4|DET 4|6|MOD 5|6|COM 6|1|PRED 7|1|PUNCT
+%com:	as Lois ignores Mot , plays with tea set
+*MOT:	oh you're not interested those people (.) are you ?
+%mor:	co|oh pro:per|you~aux|be&PRES neg|not part|interest-PASTP
+	det:dem|those n|person&PL cop|be&PRES pro:per|you ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|8|SUBJ 8|5|COMP
+	9|8|PRED 10|5|PUNCT
+%tim:	00:04:00
+*MOT:	a drink ?
+%mor:	det:art|a n|drink ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	dadda .
+%mor:	n|dadda .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picking up toy figure , places it in the toy box
+*MOT:	is that like dadda ?
+%mor:	cop|be&3S comp|that co|like n|dadda ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|COM 4|1|PRED 5|1|PUNCT
+*MOT:	oh (.) look (.) here (i)s an indian .
+%mor:	co|oh v|look adv|here cop|be&3S det:art|a n|indian .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|COMP 5|6|DET 6|4|PRED 7|2|PUNCT
+*MOT:	in the box ?
+%mor:	prep|in det:art|the n|box ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%com:	as Lois plays in box of toys
+*MOT:	very good !
+%mor:	adv|very adj|good !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	you wanna get something out ?
+%mor:	pro:per|you v|want~inf|to v|get pro:indef|something adv|out ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois pulls box closer to her
+*MOT:	I'll get it for you .
+%mor:	pro:sub|I~mod|will aux|get pro:per|it prep|for pro:per|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	why don't you get them out now ?
+%mor:	pro:int|why mod|do~neg|not pro:per|you v|get pro:obj|them adv|out
+	adv|now ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|5|PUNCT
+*MOT:	can you stack them on top of each_other ?
+%mor:	mod|can pro:per|you v|stack pro:obj|them prep|on n|top prep|of
+	pro:refl|each_other ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+%com:	as Lois plays with cups
+*MOT:	can you get in it ?
+%mor:	mod|can pro:per|you v|get prep|in pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%act:	pushing the box closer to Lois
+*MOT:	reach really hard .
+%mor:	n|reach adv|real&dadj-LY adv|hard .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|NJCT 4|1|PUNCT
+*CHI:	0 . [+ r]
+%act:	removes toys from the box
+*MOT:	very good !
+%mor:	adv|very adj|good !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	you want the dadda ?
+%mor:	pro:per|you v|want det:art|the n|dadda ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%tim:	00:05:00
+*MOT:	want this one ?
+%mor:	v|want det:dem|this pro:indef|one ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%act:	handing Lois a toy figure
+*MOT:	is that dadda ?
+%mor:	cop|be&3S comp|that n|dadda ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+*MOT:	oh you don't eat them !
+%mor:	co|oh pro:per|you mod|do~neg|not v|eat pro:obj|them !
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%com:	as Lois places toy figure in her mouth
+*MOT:	we don't eat them !
+%mor:	pro:sub|we mod|do~neg|not v|eat pro:obj|them !
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	what else is in there ?
+%mor:	pro:int|what post|else aux|be&3S prep|in n|there ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	what does this say ?
+%mor:	pro:int|what mod|do&3S pro:dem|this v|say ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	look (.) it looks like it has a face on it .
+%mor:	v|look pro:per|it v|look-3S conj|like pro:per|it aux|have&3S
+	det:art|a n|face prep|on pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|8|DET 8|3|OBJ
+	9|8|NJCT 10|9|POBJ 11|3|PUNCT
+*MOT:	I wonder if that goes to a tea cup .
+%mor:	pro:sub|I v|wonder comp|if pro:dem|that v|go-3S prep|to det:art|a
+	n|tea n|cup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+*MOT:	what are these ?
+%mor:	pro:int|what cop|be&PRES pro:dem|these ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	pretty colors xxx .
+%mor:	adv|pretty v|color-3S .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	Lois (.) look at these .
+%mor:	n:prop|Lois v|look prep|at pro:dem|these .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	putting together pop+beads
+*MOT:	yes (.) you like to stick things in your mouth .
+%mor:	co|yes pro:per|you v|like inf|to v|stick n|thing-PL prep|in
+	det:poss|your n|mouth .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+%com:	as Lois places beads in her mouth
+*MOT:	you think you're funny !
+%mor:	pro:per|you v|think pro:per|you~cop|be&PRES adj|fun&dn-Y !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*MOT:	xxx .
+%tim:	00:06:00
+*MOT:	okay (.) you can do it once !
+%mor:	co|okay pro:per|you mod|can v|do pro:per|it adv|once !
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%com:	giggling as Lois places beads back in her mouth
+*MOT:	you're gonna +...
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP~inf|to +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OM 5|3|PUNCT
+%com:	as Lois places beads in a pitcher
+*MOT:	you really started liking putting things in and out (.) haven't you
+	?
+%mor:	pro:per|you adv|real&dadj-LY v|start-PAST part|like-PRESP
+	part|put-PRESP n|thing-PL adv|in coord|and adv|out aux|have~neg|not
+	pro:per|you ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COMP 5|4|OBJ 6|5|OBJ 7|5|JCT 8|5|CONJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|8|COORD 13|3|PUNCT
+*CHI:	&a:h !
+*MOT:	wow !
+%mor:	co|wow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hep@u .
+%mor:	uni|hep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	may be trying to say help
+%act:	trying to get beads out of the pitcher
+*CHI:	hepba@u .
+%mor:	uni|hepba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	get them out .
+%mor:	v|get pro:obj|them adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	kinda like a ball (.) isn't it ?
+%mor:	adv|kinda co|like det:art|a n|ball cop|be&3S~neg|not pro:per|it ?
+%gra:	1|4|JCT 2|1|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|5|PUNCT
+*MOT:	this is red .
+%mor:	pro:dem|this cop|be&3S adj|red .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	pointing to a bead
+*MOT:	yellow (.) this is yellow too .
+%mor:	n|yellow pro:dem|this cop|be&3S adj|yellow adv|too .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|3|PUNCT
+%com:	continues to point to beads
+*MOT:	these two colors are the same .
+%mor:	det:dem|these det:num|two n|color-PL cop|be&PRES det:art|the
+	adj|same .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*MOT:	kiss the red .
+%mor:	v|kiss det:art|the n|red .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%com:	as Lois places a red bead in her mouth
+*MOT:	this is green .
+%mor:	pro:dem|this cop|be&3S n|green .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	picking up a bead
+*MOT:	isn't green pretty ?
+%mor:	cop|be&3S~neg|not adj|green adj|pretty ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|MOD 4|1|PRED 5|1|PUNCT
+*MOT:	wanna put it together ?
+%mor:	v|want~inf|to v|put&ZERO pro:per|it adv|together ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%com:	as Lois reaches for a bead
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	we hafta turn it around to put it together .
+%mor:	pro:sub|we mod|have~inf|to v|turn pro:per|it adv|around inf|to
+	v|put&ZERO pro:per|it adv|together .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|INF 8|4|COMP
+	9|8|OBJ 10|8|JCT 11|4|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	www .
+%com:	terminates the activity
+%tim:	00:07:00
+@Eg:	WarmUp
+@Bg:	Ball Play
+*MOT:	want the ball ?
+%mor:	v|want det:art|the n|ball ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%act:	touches the ball
+*MOT:	ball ?
+%mor:	n|ball ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you wanna play ball ?
+%mor:	pro:per|you v|want~inf|to v|play n|ball ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holding the ball
+*MOT:	that (i)s very good .
+%mor:	pro:rel|that cop|be&3S adv|very adj|good .
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	can you throw the ball to mommy ?
+%mor:	mod|can pro:per|you v|throw det:art|the n|ball prep|to n|mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	0 . [+ r]
+%act:	rolls the ball to Mot
+*MOT:	thank_you !
+%mor:	co|thank_you !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	get it .
+%mor:	v|get pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	oh (.) hug that ball .
+%mor:	co|oh v|hug det:dem|that n|ball .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%com:	as Lois hugs ball
+*MOT:	does it feel good ?
+%mor:	mod|do&3S pro:per|it v|feel adj|good ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	can you throw it to mommy ?
+%mor:	mod|can pro:per|you v|throw pro:per|it prep|to n|mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	you want the ball (.) don't you ?
+%mor:	pro:per|you v|want det:art|the n|ball mod|do~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|OBJ 8|2|PUNCT
+*MOT:	that (i)s what you do with it .
+%mor:	pro:dem|that cop|be&3S pro:int|what pro:per|you v|do prep|with
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CPRED 6|5|JCT 7|6|POBJ
+	8|2|PUNCT
+%com:	imitates Lois chewing the ball
+*MOT:	want the ball ?
+%mor:	v|want det:art|the n|ball ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	gimme +...
+%mor:	v|give~pro:obj|me +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	say ball .
+%mor:	v|say n|ball .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	can you say ball ?
+%mor:	mod|can pro:per|you v|say n|ball ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	mama .
+%mor:	n|mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oop very good !
+%mor:	co|oop adv|very adj|good !
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	as Lois throws the ball
+*MOT:	you threw that ball well .
+%mor:	pro:per|you v|throw&PAST det:dem|that n|ball adv|well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*MOT:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as they play
+*CHI:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	get it .
+%mor:	v|get pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	&a:h !
+*MOT:	you can roll it .
+%mor:	pro:per|you mod|can v|roll pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	ah !
+%mor:	co|ah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%tim:	00:01:00
+*MOT:	what do you want Lois ?
+%mor:	pro:int|what mod|do pro:per|you v|want n:prop|Lois ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ball . [+ i]
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ball . [+ i]
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I hear you tapping your feet (.) yes .
+%mor:	pro:sub|I v|hear pro:per|you part|tap-PRESP det:poss|your n|foot&PL
+	co|yes .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|4|COM 8|2|PUNCT
+%com:	as Lois taps her foot on the floor as the plays
+*MOT:	you just realized that was you (.) didn't you ?
+%mor:	pro:per|you adv|just v|realize-PAST pro:dem|that cop|be&PAST&13S
+	pro:per|you mod|do&PAST~neg|not pro:per|you ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|PRED 10|3|PUNCT
+*MOT:	you gonna eat that ?
+%mor:	pro:per|you part|go-PRESP~inf|to v|eat pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%com:	as Lois finds beads , places them in her mouth
+*MOT:	how about if you don't eat that ?
+%mor:	pro:int|how adv|about conj|if pro:per|you mod|do~neg|not v|eat
+	pro:dem|that ?
+%gra:	1|3|LINK 2|3|JCT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*MOT:	you make a mess of it .
+%mor:	pro:per|you v|make det:art|a n|mess prep|of pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*MOT:	it (i)s not our toy .
+%mor:	pro:per|it cop|be&3S neg|not det:poss|our n|toy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+*MOT:	do you wanna +/.
+%mor:	mod|do pro:per|you v|want~inf|to +/.
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OM 5|3|PUNCT
+*CHI:	mommy .
+%mor:	n|mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shaking beads
+*CHI:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that (i)s pretty good .
+%mor:	pro:rel|that cop|be&3S adv|pretty adj|good .
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	that was fun .
+%mor:	pro:dem|that cop|be&PAST&13S adj|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	were you waving ?
+%mor:	cop|be&PAST pro:per|you part|wave-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois takes beads apart
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	handing bead to Mot
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	ew (.) it (i)s hard .
+%mor:	co|ew pro:per|it cop|be&3S adv|hard .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%act:	putting beads together
+*MOT:	there ya go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	hiya@u .
+%mor:	uni|hiya .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	waving the beads
+%tim:	00:02:00
+*MOT:	yes that (i)s great .
+%mor:	co|yes pro:dem|that cop|be&3S adj|great .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	can mom have some of them too ?
+%mor:	mod|can n|mom v|have qn|some prep|of pro:obj|them post|too ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|QUANT 5|4|NJCT 6|5|POBJ 7|3|JCT 8|3|PUNCT
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois takes beads apart
+*MOT:	oh (.) it (i)s so hard !
+%mor:	co|oh pro:per|it cop|be&3S adv|so adj|hard !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%com:	as Lois plays with beads
+*MOT:	xxx .
+*CHI:	dadadada@u .
+%mor:	uni|dadadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	handing beads to Mot
+*MOT:	okay (.) I'll put them together for you .
+%mor:	co|okay pro:sub|I~mod|will v|put&ZERO pro:obj|them adv|together
+	prep|for pro:per|you .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	do you wanna try ?
+%mor:	mod|do pro:per|you v|want~inf|to v|try ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+%com:	as Lois plays with beads
+*CHI:	dadada@u .
+%mor:	uni|dadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	handing beads to Mot
+*MOT:	okay (.) you hold on to this .
+%mor:	co|okay pro:per|you v|hold adv|on prep|to pro:dem|this .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	push them together .
+%mor:	v|push pro:obj|them adv|together .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	there you are !
+%mor:	adv|there pro:per|you cop|be&PRES !
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	but I think it (i)s gonna come come [/] come apart any minute .
+%mor:	conj|but pro:sub|I v|think pro:per|it aux|be&3S
+	part|go-PRESP~inf|to v|come part|come&PASTP adv|apart qn|any
+	n|minute .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|CJCT 4|3|OBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|COMP 10|12|JCT 11|12|QUANT 12|9|OBJ 13|6|PUNCT
+*CHI:	dadada@u .
+%mor:	uni|dadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	hands beads to Mot
+*MOT:	uhoh@u .
+%mor:	uni|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	want me to help you ?
+%mor:	v|want pro:obj|me inf|to v|help pro:per|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|4|OBJ 6|1|PUNCT
+*MOT:	0 .
+%act:	places beads together
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	takes beads apart
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois takes beads apart
+*CHI:	dadada@u .
+%mor:	uni|dadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	hands beads to Mot
+*MOT:	want me to help you ?
+%mor:	v|want pro:obj|me inf|to v|help pro:per|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|4|OBJ 6|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts beads back together
+*CHI:	dadada@u .
+%mor:	uni|dadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes beads apart , hands beads to Mot
+*MOT:	man xxx .
+%mor:	n|man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you can roll them .
+%mor:	pro:per|you mod|can v|roll pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you like them .
+%mor:	pro:per|you v|like pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	is that one red ?
+%mor:	cop|be&3S comp|that det:num|one n|red ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|QUANT 4|1|PRED 5|1|PUNCT
+%com:	referring to the bead Lois is holding
+*MOT:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that (i)s red .
+%mor:	pro:dem|that cop|be&3S adj|red .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	as the chain of beads falls apart
+*CHI:	dada@u .
+%mor:	uni|dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	hands beads to Mot
+*MOT:	want some help ?
+%mor:	v|want qn|some n|help ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*MOT:	you can hold on to them and mommy will help you .
+%mor:	pro:per|you mod|can v|hold adv|on prep|to pro:obj|them coord|and
+	n|mommy mod|will v|help pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|10|OBJ 12|3|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	very good !
+%mor:	adv|very adj|good !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	oh wanna play ball ?
+%mor:	co|oh v|want~prep|to n|play n|ball ?
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+%com:	as Lois picks up ball
+*MOT:	oh wow (.) that was a big throw .
+%mor:	co|oh co|wow pro:dem|that cop|be&PAST&13S det:art|a adj|big v|throw
+	.
+%gra:	1|3|COM 2|3|COM 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+%com:	as Lois throws ball
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you help me ?
+%mor:	mod|can pro:per|you v|help pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	oh hug the ball .
+%mor:	co|oh n|hug det:art|the n|ball .
+%gra:	1|4|COM 2|4|MOD 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%com:	as Lois hugs ball
+%tim:	00:04:00
+*MOT:	oh good throw .
+%mor:	co|oh adj|good v|throw .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%com:	as Lois throws ball
+*MOT:	0 .
+%com:	throw ball back and forth with Mot
+*MOT:	oh you missed .
+%mor:	co|oh pro:per|you v|miss-PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	oh you're almost too fast for me .
+%mor:	co|oh pro:per|you~cop|be&PRES adv|almost adv|too adv|fast prep|for
+	pro:obj|me .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*MOT:	want the ball ?
+%mor:	v|want det:art|the n|ball ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	oh (.) you like that toy .
+%mor:	co|oh pro:per|you co|like det:dem|that n|toy .
+%gra:	1|5|COM 2|5|SUBJ 3|2|COM 4|5|DET 5|0|INCROOT 6|5|PUNCT
+%com:	as Lois picks up beads
+*MOT:	you don't have any like that at home .
+%mor:	pro:per|you mod|do~neg|not v|have qn|any prep|like pro:dem|that
+	prep|at n|home .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*MOT:	what are you looking for ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|look-PRESP prep|for ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%com:	as Lois looks around room
+*CHI:	dadadada@u .
+%mor:	uni|dadadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	hands beads to Mot
+*MOT:	would you like some help ?
+%mor:	mod|will&COND pro:per|you v|like qn|some n|help ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	there ya are .
+%mor:	adv|there pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	putting the beads together
+*CHI:	Ma .
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	mom .
+%mor:	n|mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Ma@u [x 4] .
+%mor:	uni|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	showing Mot the beads
+*MOT:	that (i)s very nice !
+%mor:	pro:rel|that cop|be&3S adv|very adj|nice !
+%gra:	1|2|LINK 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*CHI:	Ma@u [x 3] .
+%mor:	uni|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yes (.) that (i)s very nice !
+%mor:	co|yes pro:dem|that cop|be&3S adv|very adj|nice !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*CHI:	Ma@u [x 3] .
+%mor:	uni|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	Ma .
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you !
+%mor:	co|thank_you !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oop uhoh@u .
+%mor:	co|oop uni|uhoh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%com:	as the beads fall apart
+*MOT:	better fix it .
+%mor:	adv|good&CP v|fix pro:per|it .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Ma .
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Ma . [+ i]
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Ma . [+ i]
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%tim:	00:05:00
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Ma .
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yellow and red .
+%mor:	n|yellow coord|and adj|red .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	now you can play with them together .
+%mor:	adv|now pro:per|you mod|can v|play prep|with pro:obj|them
+	adv|together .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|4|PUNCT
+%com:	as Lois hits beads with the ball
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois knocks beads on the floor
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you want me to go get it for you ?
+%mor:	pro:per|you v|want pro:obj|me inf|to v|go v|get pro:per|it prep|for
+	pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|INF 5|6|SRL 6|2|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|2|PUNCT
+*MOT:	you wanna go get it .
+%mor:	pro:per|you v|want~inf|to v|go v|get pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|SRL 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%com:	as Lois tries to get out of her chair
+*MOT:	just a minute .
+%mor:	adv|just det:art|a n|minute .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	there you are .
+%mor:	adv|there pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	placing beads in front of Lois
+*MOT:	are you mad (be)cause you didn't get it yourself ?
+%mor:	cop|be&PRES pro:per|you adj|mad conj|because pro:per|you
+	mod|do&PAST~neg|not v|get pro:per|it pro:refl|yourself ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|PRED 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|CMOD
+	9|8|OBJ 10|8|JCT 11|1|PUNCT
+%com:	as Lois fusses
+*NAN:	www .
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	there ya go .
+%mor:	adv|there pro:per|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	www .
+%com:	terminates activity as Lois continues to fuss
+%tim:	00:05:41
+@Eg:	Ball Play
+@Bg:	Coloring
+*MOT:	can mommy help you open it ?
+%mor:	mod|can n|mommy v|help pro:per|you v|open pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%com:	referring to crayon box
+*MOT:	crayons !
+%mor:	n|crayon-PL !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what (i)s in here ?
+%mor:	pro:int|what cop|be&3S prep|in n|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%gpx:	pointing to the box of paper
+*MOT:	let (u)s open the box .
+%mor:	v|let&ZERO pro:obj|us v|open det:art|the n|box .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	there might be something .
+%mor:	adv|there mod|might cop|be pro:indef|something .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	paper .
+%mor:	n|paper .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	www .
+*MOT:	yes (.) green and orange .
+%mor:	co|yes adj|green coord|and n|orange .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%com:	as Lois picks up a crayon in each hand
+*MOT:	why don't you hold on to the orange the opposite way ?
+%mor:	pro:int|why mod|do~neg|not pro:per|you v|hold adv|on prep|to
+	det:art|the adj|orange det:art|the n|opposite n|way ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|12|DET
+	9|12|MOD 10|12|DET 11|12|MOD 12|7|POBJ 13|5|PUNCT
+*MOT:	am I being too helpful ?
+%mor:	aux|be&1S pro:sub|I n|being adv|too adj|help&dn-FULL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|INCROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*MOT:	okay (.) there ya go .
+%mor:	co|okay adv|there pro:per|you v|go .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%com:	after adjusting a crayon
+*MOT:	color .
+%mor:	n|color .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tapping the paper in front of Lois
+*CHI:	0 . [+ r]
+%act:	colors
+*MOT:	oh that (i)s beautiful !
+%mor:	co|oh pro:dem|that cop|be&3S adj|beautiful !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	that (i)s orange .
+%mor:	pro:dem|that cop|be&3S adj|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	can you color with the green ?
+%mor:	mod|can pro:per|you v|color prep|with det:art|the n|green ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	mom will get red .
+%mor:	n|mom mod|will v|get n|red .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	see the red ?
+%mor:	v|see det:art|the n|red ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%act:	as she colors
+*CHI:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	dropping a crayon on the floor
+*MOT:	I'll get it .
+%mor:	pro:sub|I~mod|will aux|get pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	there ya go !
+%mor:	adv|there pro:per|you v|go !
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	placing the crayon in front of Lois
+*MOT:	color .
+%mor:	n|color .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that (i)s red and orange .
+%mor:	pro:dem|that cop|be&3S adj|red coord|and adj|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+%com:	as Lois colors
+*MOT:	very good !
+%mor:	adv|very adj|good !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	over here you can color with the green .
+%mor:	prep|over n|here pro:per|you mod|can v|color prep|with det:art|the
+	n|green .
+%gra:	1|5|JCT 2|1|POBJ 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	0 . [+ r]
+%act:	colors
+*MOT:	www .
+%com:	comments on how much she uses her left hand
+*MOT:	mommy (i)s gonna switch to purple .
+%mor:	n|mommy aux|be&3S part|go-PRESP~inf|to v|switch prep|to n|purple .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+%act:	colors with a purple crayon
+%tim:	00:01:00
+*MOT:	see (.) purple ?
+%mor:	v|see n|purple ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois colors
+*MOT:	bless_you .
+%mor:	co|bless_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois sneezes
+*MOT:	bless_you !
+%mor:	co|bless_you !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois sneezes again
+*MOT:	oh my_word !
+%mor:	co|oh co|my_word !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	should we make a purple flower ?
+%mor:	mod|should pro:sub|we v|make det:art|a n|purple n|flower ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*MOT:	we'll start off with green .
+%mor:	pro:sub|we~mod|will v|start adv|off prep|with n|green .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%act:	draws
+*CHI:	www .
+%com:	vocalizes
+%gpx:	points to crayon in Mot's hand
+*MOT:	oh you want that one .
+%mor:	co|oh pro:per|you v|want det:dem|that pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you color with that one ?
+%mor:	mod|can pro:per|you v|color prep|with det:dem|that pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	0 .
+%act:	guides Lois's hand
+*MOT:	oh how pretty !
+%mor:	co|oh pro:int|how adj|pretty !
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*MOT:	oh that (i)s very nice !
+%mor:	co|oh pro:dem|that cop|be&3S adv|very adj|nice !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%com:	as Lois colors
+*CHI:	atata@u .
+%mor:	uni|atata .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	placing a crayon in a box
+*MOT:	want the red ?
+%mor:	v|want det:art|the n|red ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	something in there .
+%mor:	pro:indef|something prep|in n|there .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%com:	as Lois explores box of crayons
+%tim:	00:02:00
+*MOT:	you wanna make sure you keep hold of that green one (.) don't you ?
+%mor:	pro:per|you v|want~inf|to v|make adj|sure pro:per|you v|keep n|hold
+	prep|of det:dem|that n|green det:num|one mod|do~neg|not pro:per|you
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|PRED 6|7|SUBJ 7|5|CMOD 8|7|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|15|QUANT 13|15|AUX 14|13|NEG 15|7|OBJ
+	16|2|PUNCT
+*MOT:	is that green ?
+%mor:	cop|be&3S adv|that n|green ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+*MOT:	can you color ?
+%mor:	mod|can pro:per|you v|color ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%gpx:	makes scribbling motion on the paper
+*MOT:	oh very pretty !
+%mor:	co|oh adv|very adv|pretty !
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	as Lois colors
+*MOT:	that (i)s good !
+%mor:	pro:dem|that cop|be&3S adj|good !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	we haven't used a brown yet .
+%mor:	pro:sub|we aux|have~neg|not part|use-PASTP det:art|a adj|brown
+	adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|JCT 8|4|PUNCT
+*MOT:	you wanna use a brown ?
+%mor:	pro:per|you v|want~inf|to v|use det:art|a adj|brown ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*MOT:	put that there (be)cause you like that one .
+%mor:	part|put&PASTP adv|that adv|there conj|because pro:per|you co|like
+	adv|that pro:indef|one .
+%gra:	1|8|XJCT 2|1|JCT 3|1|JCT 4|6|LINK 5|6|SUBJ 6|8|COM 7|8|JCT 8|0|INCROOT
+	9|8|PUNCT
+%com:	placing the green crayon near Lois
+*MOT:	you're into checking everything out (.) aren't you ?
+%mor:	pro:per|you~cop|be&PRES prep|into n:gerund|check-PRESP
+	pro:indef|everything adv|out aux|be&PRES~neg|not pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|OBJ 6|2|JCT 7|9|AUX 8|7|NEG
+	9|6|POBJ 10|2|PUNCT
+*MOT:	yes (.) that (i)s brown and orange .
+%mor:	co|yes pro:dem|that cop|be&3S adj|brown coord|and adj|orange .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|CONJ 6|5|COORD 7|3|PUNCT
+%com:	as Lois picks up two crayons
+*MOT:	those would be good pumpkin colors .
+%mor:	pro:dem|those mod|will&COND cop|be adj|good n|pumpkin n|color-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|PUNCT
+*MOT:	for halloween and Thanksgiving .
+%mor:	prep|for n|halloween coord|and n:prop|Thanksgiving .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois colors
+%tim:	00:03:00
+*MOT:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois colors
+*MOT:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I'll put these in there .
+%mor:	pro:sub|I~mod|will v|put&ZERO pro:dem|these prep|in n|there .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%com:	referring to extra crayons setting around
+*MOT:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you've got orange in both hands .
+%mor:	pro:per|you~aux|have part|get&PASTP n|orange prep|in qn|both
+	n|hand-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|3|PUNCT
+*MOT:	yes (.) that (i)s just a bunch of paper there (.) isn't it ?
+%mor:	co|yes pro:dem|that cop|be&3S adv|just det:art|a n|bunch prep|of
+	n|paper adv|there cop|be&3S~neg|not pro:per|it ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|DET 6|3|PRED 7|6|NJCT 8|7|POBJ
+	9|10|SUBJ 10|6|CMOD 11|10|NEG 12|10|SUBJ 13|3|PUNCT
+%com:	explores paper
+*MOT:	how about this one too ?
+%mor:	pro:int|how prep|about det:dem|this pro:indef|one adv|too ?
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|2|POBJ 5|0|INCROOT 6|5|PUNCT
+%act:	picking up a piece of crayon
+*MOT:	you think this goes in there ?
+%mor:	pro:per|you v|think det:dem|this v|go-3S prep|in n|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|COMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%com:	trying to match broken pieces of crayon
+*MOT:	that (i)s orange .
+%mor:	pro:dem|that cop|be&3S adj|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	as Lois resumes exploring the crayon in her hand
+*MOT:	oops one just fell .
+%mor:	co|oops det:num|one adj|just v|fall&PAST .
+%gra:	1|4|COM 2|3|QUANT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*MOT:	I'll get it for you .
+%mor:	pro:sub|I~mod|will aux|get pro:per|it prep|for pro:per|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	oh very pretty !
+%mor:	co|oh adv|very adv|pretty !
+%gra:	1|3|COM 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%com:	as Lois colors
+*MOT:	oh we haven't used yellow .
+%mor:	co|oh pro:sub|we aux|have~neg|not part|use-PASTP n|yellow .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	look (.) here (i)s yellow .
+%mor:	v|look adv|here cop|be&3S adj|yellow .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|3|PRED 5|1|PUNCT
+*MOT:	got your attention before you could put it in your mouth .
+%mor:	v|get&PAST det:poss|your n|attention conj|before pro:per|you
+	mod|could v|put&ZERO pro:per|it prep|in det:poss|your n|mouth .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|CJCT 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%com:	as Lois begins to starts to put crayon in mouth
+%tim:	00:04:00
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	as Lois explores crayons
+*MOT:	is that yellow ?
+%mor:	cop|be&3S adv|that n|yellow ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+*MOT:	say yellow .
+%mor:	v|say n|yellow .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	can you say yellow ?
+%mor:	mod|can pro:per|you v|say n|yellow ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	yadadadada@u .
+%mor:	uni|yadadadada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaching crayon to Nan off camera
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	wow !
+%mor:	co|wow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois explores crayon
+*MOT:	orange crayon .
+%mor:	adj|orange n|crayon .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	does that feel good in your hand ?
+%mor:	mod|do&3S adv|that v|feel adj|good prep|in det:poss|your n|hand ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*MOT:	thank_you !
+%mor:	co|thank_you !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois hands crayon to her
+*MOT:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois teases Mot with the crayon
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oop !
+%mor:	co|oop !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're just pretending (.) aren't you ?
+%mor:	pro:per|you~aux|be&PRES adv|just part|pretend-PRESP
+	aux|be&PRES~neg|not pro:per|you ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|AUX 6|5|NEG 7|4|OBJ 8|4|PUNCT
+%tim:	00:05:00
+*CHI:	&a:h .
+*MOT:	oh still haven't used blue yet .
+%mor:	co|oh adv|still aux|have~neg|not part|use-PASTP adj|blue adv|yet .
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PRED 7|6|JCT 8|5|PUNCT
+*MOT:	that might still be purple .
+%mor:	pro:rel|that mod|might adv|still cop|be n|purple .
+%gra:	1|4|LINK 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%com:	as Lois picks up crayon
+*MOT:	there (i)s a blue .
+%mor:	pro:exist|there cop|be&3S det:art|a n|blue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	placing a crayon on the table
+*MOT:	say blue .
+%mor:	v|say n|blue .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	I put the other ones in .
+%mor:	pro:sub|I v|put&ZERO det:art|the qn|other det:num|one-PL adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|JCT 7|2|PUNCT
+%com:	as Lois looks for a crayon on the table
+*MOT:	I'm sorry .
+%mor:	pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what are ya looking at ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|look-PRESP prep|at ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%com:	as Lois looks off camera for crayon
+*MOT:	blue !
+%mor:	adj|blue !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois explores camera
+*MOT:	and that (i)s orange .
+%mor:	coord|and pro:dem|that cop|be&3S adj|orange .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%com:	referring to the second crayon Lois is holding
+*MOT:	yes (.) that color (i)s gone from that end (.) isn't it ?
+%mor:	co|yes det:dem|that n|color aux|be&3S part|go&PASTP prep|from
+	det:dem|that n|end cop|be&3S~neg|not pro:per|it ?
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|9|NEG 11|9|SUBJ 12|5|PUNCT
+*MOT:	just paper .
+%mor:	adv|just n|paper .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	don't eat that little crayon bit .
+%mor:	mod|do~neg|not v|eat det:dem|that adj|little n|crayon v|bite&PAST .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP 8|3|PUNCT
+%com:	as Lois places crayon to her mouth
+*MOT:	thank_you !
+%mor:	co|thank_you !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Lois moves crayon away from her mouth
+*MOT:	don't you eat that crayon bit .
+%mor:	mod|do~neg|not pro:per|you v|eat det:dem|that n|crayon v|bite&PAST
+	.
+%gra:	1|4|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*MOT:	okay (.) everything is fine .
+%mor:	co|okay pro:indef|everything cop|be&3S adv|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	oh what (i)s she getting now ?
+%mor:	co|oh pro:int|what cop|be&3S pro:sub|she part|get-PRESP adv|now ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|XMOD 6|5|JCT 7|3|PUNCT
+%tim:	00:06:00
+@Eg:	Coloring
+@Bg:	Reading
+*MOT:	look at the book .
+%mor:	v|look prep|at det:art|the n|book .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	look at all these things .
+%mor:	v|look prep|at qn|all det:dem|these n|thing-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|1|PUNCT
+*MOT:	there (i)s a fire+truck .
+%mor:	pro:exist|there cop|be&3S det:art|a n|+n|fire+n|truck .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	we walk right by the fire+truck house every day .
+%mor:	pro:sub|we n|walk adv|right prep|by det:art|the n|+n|fire+n|truck
+	v|house qn|every n|day .
+%gra:	1|2|SUBJ 2|7|SUBJ 3|4|JCT 4|2|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|QUANT
+	9|7|JCT 10|7|PUNCT
+*MOT:	and there (i)s a kitchen .
+%mor:	coord|and adv|there cop|be&3S det:art|a n|kitchen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	is that a cow ?
+%mor:	cop|be&3S comp|that det:art|a n|cow ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*MOT:	moo@o .
+%mor:	on|moo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay (.) open up the book ?
+%mor:	co|okay v|open prep|up det:art|the n|book ?
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%com:	as Lois opens book
+*MOT:	okay (.) look_it <here (i)s> [/] here (i)s a doggie .
+%mor:	co|okay co|look_it adv|here cop|be&3S det:art|a n|dog-DIM .
+%gra:	1|2|COM 2|4|COM 3|4|JCT 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*MOT:	<bow@o wow@o ow@o> [/] bow@o wow@o wow@o .
+%mor:	on|bow on|wow on|wow .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	and a lion goes roar@o .
+%mor:	coord|and det:art|a n|lion v|go-3S on|roar .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	are you tapping your foot ?
+%mor:	cop|be&PRES pro:per|you part|tap-PRESP det:poss|your n|foot ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%com:	as Lois taps her foot
+*MOT:	you like that .
+%mor:	pro:per|you v|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	see the horsie ?
+%mor:	v|see det:art|the n|horse-DIM ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%com:	Lois is not looking at the book at all
+*MOT:	xxx .
+*CHI:	Ma .
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	touches the horse in the book
+*MOT:	that (i)s a horse .
+%mor:	pro:dem|that cop|be&3S det:art|a n|horse .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	that (i)s right !
+%mor:	pro:dem|that cop|be&3S co|right !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	a tiger .
+%mor:	det:art|a n|tiger .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	www .
+*CHI:	night night night night .
+%mor:	n|night n|night n|night n|night .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	night night night night .
+%mor:	n|night n|night n|night n|night .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	here (i)s your bear .
+%mor:	adv|here cop|be&3S det:poss|your n|bear .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	night night night night .
+%mor:	n|night n|night n|night n|night .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	night night night night .
+%mor:	n|night n|night n|night n|night .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%tim:	00:01:00
+*MOT:	yes (.) I know (.) you woke up early today .
+%mor:	co|yes pro:sub|I v|know pro:per|you v|wake&PAST adv|up adv|early
+	adv:tem|today .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|JCT 8|5|JCT
+	9|3|PUNCT
+%com:	as Lois begins to fuss
+*MOT:	so you're a sleepy girl .
+%mor:	adv|so pro:per|you~cop|be&PRES det:art|a adj|sleep&dn-Y n|girl .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+*MOT:	wanna stand up ?
+%mor:	v|want~inf|to v|stand adv|up ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|JCT 5|1|PUNCT
+*MOT:	let (u)s turn the page .
+%mor:	v|let&ZERO pro:obj|us v|turn det:art|the n|page .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	look at the bunny sticking his head out .
+%mor:	v|look prep|at det:art|the n|bunny part|stick-PRESP det:poss|his
+	n|head adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|XJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|1|PUNCT
+*MOT:	call the bunny .
+%mor:	v|call det:art|the n|bunny .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	where do you wanna go ?
+%mor:	pro:int|where mod|do pro:per|you v|want~inf|to v|go ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+%com:	as Lois continues to fuss
+*MOT:	there (i)s a clam .
+%mor:	pro:exist|there cop|be&3S det:art|a n|clam .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%com:	looking at the book as Lois crawls away from her
+*MOT:	oh we're gonna hide under the table .
+%mor:	co|oh pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|hide prep|under
+	det:art|the n|table .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*MOT:	peek peek peekaboo .
+%mor:	n|peek n|peek v|peekaboo .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	as Lois begins to play peekaboo
+*MOT:	where (i)s Lois ?
+%mor:	pro:int|where cop|be&3S n:prop|Lois ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	covers Lois's eyes
+*MOT:	0 .
+%act:	MOT uncovers her eyes
+*MOT:	there she is !
+%mor:	adv|there pro:sub|she cop|be&3S !
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	got your ball ?
+%mor:	v|get&PAST det:poss|your n|ball ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%com:	as Lois now has picked up a ball
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nothing like a trusty ball to keep you happy .
+%mor:	pro:indef|nothing prep|like det:art|a adj|trust&dn-Y n|ball inf|to
+	v|keep pro:per|you adj|happy .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|INF 7|1|XMOD 8|7|OBJ
+	9|7|JCT 10|1|PUNCT
+*MOT:	boy (.) you got an arm !
+%mor:	co|boy pro:per|you v|get&PAST det:art|a n|arm !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%com:	as Lois throws ball
+*NAN:	0 .
+%act:	throws the ball back
+*MOT:	very good catch !
+%mor:	adv|very adj|good v|catch !
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%com:	as Lois catches ball
+%tim:	00:02:00
+@Eg:	Reading
+@Eg:	Mother Freeplay
+@End

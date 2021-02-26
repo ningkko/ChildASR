@@ -1,0 +1,24 @@
+@UTF8
+@PID:	11312/c-00011156-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;02.29|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	19-MAY-1974
+@Types:	long, toyplay, TD
+*CHI:	I wish you were my mommy .
+%mor:	pro:sub|I v|wish pro:per|you cop|be&PAST det:poss|my n|mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|PRED 7|2|PUNCT
+%sit:	761
+*MOT:	I am your mommy .
+%mor:	pro:sub|I cop|be&1S det:poss|your n|mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	761
+*CHI:	that so nice you wanna keep it .
+%mor:	pro:dem|that adv|so adj|nice pro:per|you v|want~inf|to v|keep
+	pro:per|it .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|PRED 4|5|SUBJ 5|3|CMOD 6|7|INF 7|5|COMP 8|7|OBJ
+	9|1|PUNCT
+%sit:	763
+@End

@@ -1,0 +1,251 @@
+@UTF8
+@PID:	11312/c-00010832-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|02;02.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	23-APR-1973
+@Types:	long, toyplay, TD
+*CHI:	move my milk little closer .
+%mor:	v|move det:poss|my n|milk adj|little adj|close-CP .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|MOD 5|3|POSTMOD 6|1|PUNCT
+%sit:	847
+*CHI:	what that noise ?
+%mor:	pro:int|what det:dem|that n|noise ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	848
+*MOT:	a siren .
+%mor:	det:art|a n|siren .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	848
+*CHI:	must be hurt .
+%mor:	mod|must aux|be part|hurt&PASTP .
+%gra:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	848
+*CHI:	somebody must be hurt .
+%mor:	pro:indef|somebody mod|must aux|be part|hurt&PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%sit:	848
+*CHI:	must be fire .
+%mor:	mod|must cop|be n|fire .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	848
+*CHI:	see Joanna down playhouse .
+%mor:	v|see n:prop|Joanna n|down n|+n|play+n|house .
+%gra:	1|0|ROOT 2|3|SUBJ 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%sit:	849
+*CHI:	I'll be right back up .
+%mor:	pro:sub|I~mod|will cop|be adv|right adv|back adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|JCT 7|3|PUNCT
+%sit:	849
+*CHI:	that be my dinner (to)morrow .
+%mor:	pro:dem|that cop|be det:poss|my n|dinner adv:tem|tomorrow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSTMOD 6|2|PUNCT
+%sit:	850
+*MOT:	no, that'll be your dinner for today .
+%mor:	co|no cm|cm pro:rel|that~mod|will cop|be det:poss|your n|dinner
+	prep|for adv:tem|today .
+%gra:	1|5|COM 2|1|LP 3|5|LINK 4|5|AUX 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+%sit:	850
+*CHI:	where girls go ?
+%mor:	pro:int|where n|girl-PL v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	851
+*CHI:	where girls ?
+%mor:	pro:int|where n|girl-PL ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	851
+*MOT:	well, one of them is a boy .
+%mor:	adv|well cm|cm det:num|one prep|of pro:obj|them cop|be&3S det:art|a
+	n|boy .
+%gra:	1|6|JCT 2|1|LP 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+%sit:	851
+*MOT:	did you know that ?
+%mor:	mod|do&PAST pro:per|you v|know pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	851
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	851
+*MOT:	Devon is a boy .
+%mor:	n:prop|Devon cop|be&3S det:art|a n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	851
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	851
+*CHI:	when my have big bosoms ?
+%mor:	conj|when det:poss|my v|have adj|big n|bosom-PL ?
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	852
+*MOT:	oh, when you're twelve or thirteen .
+%mor:	co|oh cm|cm conj|when pro:per|you~cop|be&PRES det:num|twelve
+	coord|or det:num|thirteen .
+%gra:	1|5|COM 2|1|LP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|6|CONJ 8|7|COORD
+	9|5|PUNCT
+%sit:	852
+*CHI:	when I wake up, I make pee_pee .
+%mor:	conj|when pro:sub|I v|wake adv|up cm|cm pro:sub|I v|make n|pee&DUP
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|JCT 5|3|LP 6|7|SUBJ 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+%sit:	853
+*CHI:	I'll be right back .
+%mor:	pro:sub|I~mod|will cop|be adj|right n|back .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+%sit:	854
+*CHI:	here my am .
+%mor:	adv|here co|my aux|be&1S .
+%gra:	1|3|JCT 2|3|COM 3|0|ROOT 4|3|PUNCT
+%sit:	854
+*CHI:	here my am .
+%mor:	adv|here co|my aux|be&1S .
+%gra:	1|3|JCT 2|3|COM 3|0|ROOT 4|3|PUNCT
+%sit:	854
+*CHI:	that lady horn stuck .
+%mor:	det:dem|that n|lady n|horn v|stick&PAST .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	855
+*CHI:	I think maybe horn stuck .
+%mor:	pro:sub|I v|think adv|maybe n|horn v|stick&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+%sit:	855
+*CHI:	hafta go hopital [: hospital], get new one .
+%mor:	mod|have~inf|to v|go n|hospital cm|cm v|get adj|new pro:indef|one .
+%gra:	1|3|AUX 2|3|INF 3|0|ROOT 4|3|OBJ 5|3|LP 6|3|ENUM 7|8|MOD 8|6|OBJ
+	9|3|PUNCT
+%sit:	855
+*MOT:	but I don't hear a horn stuck .
+%mor:	conj|but pro:sub|I mod|do~neg|not v|hear det:art|a n|horn
+	v|stick&PAST .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|8|CJCT 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|PUNCT
+%sit:	855
+*CHI:	my baby very tiny .
+%mor:	det:poss|my n|baby adv|very adj|tiny .
+%gra:	1|2|DET 2|0|INCROOT 3|4|JCT 4|2|POSTMOD 5|2|PUNCT
+%sit:	856
+*CHI:	my baby's poo_poo head .
+%mor:	det:poss|my adj|baby&dn-POSS n|poo&DUP n|head .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	856
+*CHI:	my baby not poo_poo head .
+%mor:	det:poss|my n|baby neg|not n|poo&DUP n|head .
+%gra:	1|2|DET 2|4|SUBJ 3|2|NEG 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	856
+*CHI:	I not poo_poo head .
+%mor:	pro:sub|I neg|not n|poo&DUP n|head .
+%gra:	1|3|SUBJ 2|1|NEG 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	856
+*CHI:	my puppy have short hair .
+%mor:	det:poss|my n|puppy aux|have adj|short n|hair .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	857
+*CHI:	my puppy have short hair .
+%mor:	det:poss|my n|puppy aux|have adj|short n|hair .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	857
+*MOT:	yes, he does, doesn't he .
+%mor:	co|yes cm|cm pro:sub|he v|do&3S cm|cm mod|do&3S~neg|not pro:sub|he
+	.
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|LP 6|8|AUX 7|6|NEG 8|4|ENUM
+	9|4|PUNCT
+%sit:	857
+*CHI:	my doggie have short tail .
+%mor:	det:poss|my n|dog-DIM v|have adj|short n|tail .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	858
+*CHI:	my doggie have short tail .
+%mor:	det:poss|my n|dog-DIM v|have adj|short n|tail .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	858
+*CHI:	Deedee [: Joanna] my doggie have short tail .
+%mor:	n:prop|Joanna det:poss|my n|dog-DIM v|have adj|short n|tail .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%sit:	859
+*MOT:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	860
+*CHI:	put my puppy up glass table, okay ?
+%mor:	v|put&ZERO det:poss|my n|puppy adv|up n|glass n|table cm|cm
+	adj|okay ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|6|LP 8|1|JCT
+	9|1|PUNCT
+%sit:	861
+*CHI:	Daddy, we take shower with Sue .
+%mor:	n:prop|Daddy cm|cm pro:sub|we v|take n|shower prep|with n:prop|Sue
+	.
+%gra:	1|4|JCT 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%sit:	862
+*CHI:	Daddy, we take shower with Sue .
+%mor:	n:prop|Daddy cm|cm pro:sub|we v|take n|shower prep|with n:prop|Sue
+	.
+%gra:	1|4|JCT 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%sit:	862
+*FAT:	what's she saying ?
+%mor:	pro:int|what~cop|be&3S pro:sub|she part|say-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%sit:	862
+*MOT:	she took a shower with me .
+%mor:	pro:sub|she v|take&PAST det:art|a n|shower prep|with pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%sit:	862
+*CHI:	Daddy who made that ?
+%mor:	n:prop|Daddy pro:rel|who v|make&PAST comp|that ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+%sit:	863
+*FAT:	Joanna .
+%mor:	n:prop|Joanna .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	863
+*CHI:	who made that ?
+%mor:	pro:rel|who v|make&PAST pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	863
+*FAT:	Joanna .
+%mor:	n:prop|Joanna .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	863
+*MOT:	you can't wear that now .
+%mor:	pro:per|you mod|can~neg|not v|wear comp|that adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|JCT 7|4|PUNCT
+%sit:	864
+*CHI:	put on for when I go Susie's .
+%mor:	part|put&PASTP adv|on prep|for conj|when pro:sub|I v|go
+	adj|Susie&dn-POSS .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|6|LINK 5|6|SUBJ 6|3|CPOBJ 7|6|PRED
+	8|1|PUNCT
+%sit:	864
+*CHI:	when I big, I have big bosoms .
+%mor:	conj|when pro:sub|I adj|big cm|cm pro:sub|I v|have adj|big
+	n|bosom-PL .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|3|LP 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+%sit:	865
+*MOT:	you mean how old will you be when you have big bosoms ?
+%mor:	pro:per|you v|mean pro:int|how adj|old mod|will pro:per|you cop|be
+	conj|when pro:per|you v|have adj|big n|bosom-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|7|PRED 5|7|AUX 6|7|SUBJ 7|2|COMP 8|10|LINK
+	9|10|SUBJ 10|2|CJCT 11|12|MOD 12|10|OBJ 13|2|PUNCT
+%sit:	865
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	865
+*CHI:	that bad door hurt Deedee [: Joanna] .
+%mor:	det:dem|that adj|bad n|door v|hurt&ZERO n:prop|Joanna .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	867
+*CHI:	that door's bad to hurt Deedee [: Joanna] .
+%mor:	comp|that adj|door&dn-POSS adj|bad inf|to v|hurt&ZERO n:prop|Joanna
+	.
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|5|INF 5|3|XMOD 6|5|OBJ 7|3|PUNCT
+%sit:	867
+@End

@@ -1,0 +1,201 @@
+@UTF8
+@PID:	11312/c-00010841-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FAT Father, SIS Sister
+@ID:	eng|Braunwald|CHI|02;02.12|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	02-MAY-1973
+@Types:	long, toyplay, TD
+*CHI:	what are we having ?
+%mor:	pro:int|what cop|be&PRES pro:sub|we n:gerund|have-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+%sit:	998
+*CHI:	what are we having ?
+%mor:	pro:int|what cop|be&PRES pro:sub|we n:gerund|have-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+%sit:	998
+*MOT:	what are we having for what ?
+%mor:	pro:int|what cop|be&PRES pro:sub|we n:gerund|have-PRESP prep|for
+	pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%sit:	998
+*CHI:	what are we having ?
+%mor:	pro:int|what cop|be&PRES pro:sub|we n:gerund|have-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+%sit:	998
+*MOT:	you mean for breakfast ?
+%mor:	pro:per|you v|mean prep|for n|breakfast ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	998
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	998
+*CHI:	give me salt when you done .
+%mor:	v|give pro:obj|me n|salt conj|when pro:per|you part|do&PASTP .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|1|PUNCT
+%sit:	999
+*CHI:	give me salt when me when you done .
+%mor:	v|give pro:obj|me n|salt conj|when pro:obj|me conj|when pro:per|you
+	part|do&PASTP .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|1|PUNCT
+%sit:	999
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	999
+*CHI:	I may use it .
+%mor:	pro:sub|I mod|may v|use pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	1000
+*CHI:	I need Deedee [: Joanna] napkin .
+%mor:	pro:sub|I v|need n:prop|Joanna n|napkin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	1000
+*CHI:	I need I for me .
+%mor:	pro:sub|I v|need pro:sub|I prep|for pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+%sit:	1000
+*CHI:	that was my number .
+%mor:	pro:dem|that cop|be&PAST&13S det:poss|my v|number .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	1001
+*MOT:	it was ?
+%mor:	pro:per|it cop|be&PAST&13S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1001
+*CHI:	that was my number .
+%mor:	pro:dem|that cop|be&PAST&13S det:poss|my v|number .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	1001
+*MOT:	okay, have it .
+%mor:	co|okay cm|cm v|have pro:per|it .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|OBJ 5|1|PUNCT
+%sit:	1001
+*CHI:	pass me cereal .
+%mor:	v|pass pro:obj|me n|cereal .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+%sit:	1002
+*FAT:	what do you wanna do with it ?
+%mor:	pro:int|what mod|do pro:per|you v|want~inf|to v|do prep|with
+	pro:per|it ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+%sit:	1002
+*CHI:	I want do it .
+%mor:	pro:sub|I v|want v|do pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+%sit:	1002
+*CHI:	that pictures hangin(g) up wall .
+%mor:	adv|that n|picture-PL part|hang-PRESP adv|up n|wall .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|4|POBJ 6|2|PUNCT
+%sit:	1003
+*CHI:	Deedee [: Joanna] drawed that .
+%mor:	n:prop|Joanna v|draw-PAST pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1003
+*MOT:	ready ?
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1004
+*CHI:	I'm not ready .
+%mor:	pro:sub|I~cop|be&1S neg|not adj|ready .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%sit:	1004
+*CHI:	be ready minute .
+%mor:	cop|be adj|ready n|minute .
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+%sit:	1004
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1004
+*CHI:	soon I park my Volkswagon .
+%mor:	adv|soon pro:sub|I v|park det:poss|my n:prop|Volkswagon .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	1004
+*CHI:	Sue was waiting for you .
+%mor:	n:prop|Sue aux|be&PAST&13S part|wait-PRESP prep|for pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	1005
+*CHI:	I bet we go grocery store .
+%mor:	pro:sub|I v|bet&ZERO pro:sub|we v|go n|grocery n|store .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+%sit:	1006
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1006
+*CHI:	I bet we go grocery store .
+%mor:	pro:sub|I v|bet&ZERO pro:sub|we v|go n|grocery n|store .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+%sit:	1006
+*MOT:	no, not right now .
+%mor:	co|no cm|cm neg|not adv|right adv|now .
+%gra:	1|5|COM 2|1|LP 3|5|NEG 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+%sit:	1006
+*CHI:	I bet, I bet .
+%mor:	pro:sub|I v|bet&ZERO cm|cm pro:sub|I v|bet&ZERO .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|5|SUBJ 5|2|CJCT 6|2|PUNCT
+%sit:	1006
+*CHI:	I wonder we going Donald's [: McDonald's] .
+%mor:	pro:sub|I v|wonder pro:sub|we n:gerund|go-PRESP
+	adj|McDonald&dn-POSS .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|2|PUNCT
+%sit:	1007
+*CHI:	I wonder .
+%mor:	pro:sub|I v|wonder .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1007
+*MOT:	Laura what does wonder@q mean ?
+%mor:	n:prop|Laura pro:int|what mod|do&3S meta|wonder adj|mean ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|AUX 4|2|COORD 5|4|OM 6|1|PUNCT
+%sit:	1007
+*CHI:	I wonder .
+%mor:	pro:sub|I v|wonder .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1007
+*SIS:	you know what my favorite food is ?
+%mor:	pro:per|you v|know pro:int|what det:poss|my adj|favorite n|food
+	cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|COMP 8|2|PUNCT
+%sit:	1008
+*MOT:	yeah, spaghetti .
+%mor:	co|yeah cm|cm n|spaghetti .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	1008
+*CHI:	my favorite food's ah chicken .
+%mor:	det:poss|my n|favorite adj|food&dn-POSS co|ah n|chicken .
+%gra:	1|2|DET 2|5|MOD 3|5|MOD 4|5|COM 5|0|INCROOT 6|5|PUNCT
+%sit:	1008
+*CHI:	I don't want you do it for me .
+%mor:	pro:sub|I mod|do~neg|not v|want pro:per|you v|do pro:per|it
+	prep|for pro:obj|me .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+%sit:	1009
+*CHI:	I want you do it, Sue .
+%mor:	pro:sub|I v|want pro:per|you v|do pro:per|it cm|cm n:prop|Sue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|LP 7|2|ENUM 8|2|PUNCT
+%sit:	1009
+*MOT:	okay, I will .
+%mor:	co|okay cm|cm pro:sub|I mod|will .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	1009
+*CHI:	I want do it myself .
+%mor:	pro:sub|I v|want v|do pro:per|it pro:refl|myself .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|3|OBJ 6|2|PUNCT
+%sit:	1009
+*CHI:	I was calling for you .
+%mor:	pro:sub|I aux|be&PAST&13S part|call-PRESP prep|for pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	1010
+*CHI:	Daddy came .
+%mor:	n:prop|Daddy v|come&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1010
+@End

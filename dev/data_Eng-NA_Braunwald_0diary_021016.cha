@@ -1,0 +1,64 @@
+@UTF8
+@PID:	11312/c-00011059-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;10.16|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	05-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	a girl can see me go pee .
+%mor:	det:art|a n|girl mod|can v|see pro:obj|me v|go n|pee .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|4|PUNCT
+%sit:	212
+*MOT:	a girl can ?
+%mor:	det:art|a n|girl mod|can ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	212
+*CHI:	uhhuh, not boys .
+%mor:	co|uhhuh cm|cm neg|not n|boy-PL .
+%gra:	1|4|COM 2|1|LP 3|4|NEG 4|0|INCROOT 5|4|PUNCT
+%sit:	212
+*CHI:	I wanna invite a friend .
+%mor:	pro:sub|I v|want~inf|to v|invite det:art|a n|friend .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	213
+*CHI:	I wanna make an arrangement .
+%mor:	pro:sub|I v|want~inf|to v|make det:art|a n|arrange&dv-MENT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	213
+*CHI:	Joey's on a diet so I gonna be on a diet .
+%mor:	n:prop|Joey~cop|be&3S prep|on det:art|a n|diet co|so pro:sub|I
+	part|go-PRESP~inf|to cop|be prep|on det:art|a n|diet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|8|COM 7|8|SUBJ 8|2|XJCT
+	9|10|INF 10|8|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+%sit:	214
+*CHI:	John was very angry today .
+%mor:	n:prop|John cop|be&PAST&13S adv|very adj|angry adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|2|PUNCT
+%sit:	215
+*MOT:	what was he angry about ?
+%mor:	pro:int|what cop|be&PAST&13S pro:sub|he adj|angry prep|about ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PRED 5|4|JCT 6|2|PUNCT
+%sit:	215
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	215
+*MOT:	Daddy said his car stalled on the freeway .
+%mor:	n:prop|Daddy v|say&PAST det:poss|his n|car v|stall-PAST prep|on
+	det:art|the n|freeway .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%sit:	216
+*MOT:	did it ?
+%mor:	v|do&PAST pro:per|it ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	216
+*CHI:	yeah, something's the matter with he's [: his] [*] car .
+%mor:	co|yeah cm|cm adj|something&dn-POSS det:art|the n|matter prep|with
+	det:poss|his n|car .
+%gra:	1|0|INCROOT 2|1|LP 3|5|MOD 4|5|DET 5|1|ENUM 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%sit:	216
+@End

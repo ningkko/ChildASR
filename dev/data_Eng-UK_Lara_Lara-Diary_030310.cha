@@ -1,0 +1,33 @@
+@UTF8
+@PID:	11312/c-00018179-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|3;03.10|female|||Target_Child|||
+@Date:	26-AUG-1997
+@Types:	long, everyday, TD
+*CHI:	why has Amy got a bowl ?
+%mor:	pro:rel|why aux|have&3S n:prop|Amy part|get&PASTP det:art|a n|bowl
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	what is this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	why did the ice+cream melt on Noddy ?
+%mor:	pro:rel|why mod|do&PAST det:art|the n|+n|ice+n|cream v|melt prep|on
+	n:prop|Noddy ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	what words does it say ?
+%mor:	pro:int|what n|word-PL mod|do&3S pro:per|it v|say ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	why didn't they have a pram ?
+%mor:	pro:int|why mod|do&PAST~neg|not pro:sub|they v|have det:art|a
+	n|pram ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*CHI:	where (i)s my mat ?
+%mor:	pro:int|where cop|be&3S det:poss|my n|mat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	where (i)s you two mats ?
+%mor:	pro:int|where cop|be&3S pro:per|you det:num|two n|mat-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|QUANT 5|2|PRED 6|2|PUNCT
+@End

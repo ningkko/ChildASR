@@ -1,0 +1,36 @@
+@UTF8
+@PID:	11312/c-00018084-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;11.28|female|||Target_Child|||
+@Date:	13-MAY-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	what you hafta do with it ?
+%mor:	pro:int|what pro:per|you mod|have~inf|to v|do prep|with pro:per|it
+	?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	where has Daddy gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Daddy part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has Tasmin gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Tasmin part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has it gone ?
+%mor:	pro:rel|where aux|have&3S pro:per|it part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has my Smarties gone ?
+%mor:	pro:rel|where v|have&3S det:poss|my n:prop|Smarties part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	where has Sarah gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Sarah part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what was [*] you just looking at ?
+%mor:	pro:int|what cop|be&PAST&13S pro:per|you adv|just part|look-PRESP
+	prep|at ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|JCT 5|3|XMOD 6|5|JCT 7|2|PUNCT
+*CHI:	where has Daddy gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Daddy part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

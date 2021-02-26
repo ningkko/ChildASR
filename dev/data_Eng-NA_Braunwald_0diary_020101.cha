@@ -1,0 +1,154 @@
+@UTF8
+@PID:	11312/c-00010799-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|02;01.01|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	21-MAR-1973
+@Types:	long, toyplay, TD
+*CHI:	I helping him .
+%mor:	pro:sub|I part|help-PRESP pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	345
+*CHI:	I helping him .
+%mor:	pro:sub|I part|help-PRESP pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	345
+*MOT:	where did Laura go ?
+%mor:	pro:int|where mod|do&PAST n:prop|Laura v|go ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	j5_39_2
+*CHI:	my am here .
+%mor:	det:poss|my aux|be&1S adv|here .
+%gra:	1|2|DET 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	j5_39_2
+*CHI:	come here and see my baby .
+%mor:	v|come adv|here coord|and v|see det:poss|my n|baby .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|6|DET 6|4|OBJ 7|1|PUNCT
+%sit:	348
+*CHI:	that man have broken leg .
+%mor:	det:dem|that n|man aux|have part|break&PASTP n|leg .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	349
+*CHI:	he hafta go doctor .
+%mor:	pro:sub|he mod|have~inf|to v|go n|doctor .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	349
+*CHI:	I throw it, Daddy .
+%mor:	pro:sub|I v|throw pro:per|it cm|cm n:prop|Daddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|LP 5|2|ENUM 6|2|PUNCT
+%sit:	350
+*CHI:	I throw it .
+%mor:	pro:sub|I v|throw pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	350
+*FAT:	you get it, Laura .
+%mor:	pro:per|you v|get pro:per|it cm|cm n:prop|Laura .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|LP 5|2|ENUM 6|2|PUNCT
+%sit:	350
+*CHI:	I got .
+%mor:	pro:sub|I v|get&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	350
+*FAT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	350
+*CHI:	I broke my record player .
+%mor:	pro:sub|I v|break&PAST det:poss|my n|record n|play&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%sit:	351
+*CHI:	I got it all by myself .
+%mor:	pro:sub|I v|get&PAST pro:per|it adv|all prep|by pro:refl|myself .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%sit:	352
+*CHI:	here go my ball .
+%mor:	adv|here v|go det:poss|my n|ball .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	353
+*CHI:	Mom do exercises .
+%mor:	n:prop|Mom v|do n|exercise-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	354
+*MOT:	who's doing exercises ?
+%mor:	pro:rel|who~aux|be&3S part|do-PRESP n|exercise-PL ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	354
+*CHI:	not doing it any more .
+%mor:	neg|not part|do-PRESP pro:per|it qn|any pro:indef|more .
+%gra:	1|2|NEG 2|0|ROOT 3|2|OBJ 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+%sit:	354
+*CHI:	I like that ball game .
+%mor:	pro:sub|I v|like det:dem|that n|ball n|game .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%sit:	355
+*CHI:	I like that ball game you .
+%mor:	pro:sub|I v|like det:dem|that n|ball n|game pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|OBJ 7|2|PUNCT
+%sit:	355
+*MOT:	oh you like that ball game .
+%mor:	co|oh pro:per|you co|like det:dem|that n|ball n|game .
+%gra:	1|6|COM 2|6|SUBJ 3|2|COM 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%sit:	355
+*MOT:	here, want a piece of cheese ?
+%mor:	adv|here cm|cm v|want det:art|a n|piece prep|of n|cheese ?
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%sit:	356
+*CHI:	not that .
+%mor:	neg|not pro:dem|that .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%sit:	356
+*CHI:	other kind .
+%mor:	qn|other n|kind .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	356
+*CHI:	ham .
+%mor:	n|ham .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	356
+*CHI:	that zebra can't go up here .
+%mor:	det:dem|that n|zebra mod|can~neg|not v|go prep|up n|here .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%sit:	357
+*CHI:	too large .
+%mor:	adv|too adj|large .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%sit:	358
+*CHI:	oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+*CHI:	oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+*CHI:	oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+*CHI:	oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+*CHI:	oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+*CHI:	oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+*MOT:	what happened, Laura ?
+%mor:	pro:int|what part|happen-PASTP cm|cm n:prop|Laura ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|LP 4|2|ENUM 5|2|PUNCT
+%sit:	359
+*CHI:	my say +"/.
+%mor:	det:poss|my co|say +"/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	+" oh_my_god .
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	359
+@End

@@ -1,0 +1,949 @@
+@UTF8
+@PID:	11312/c-00032676-1
+@Begin
+@Languages:	spa , eng
+@Participants:	CHI Juan Target_Child , PAD Padre Father , MAD Madre Mother
+@ID:	spa|Linaza|CHI|1;09.02||||Target_Child|||
+@ID:	spa|Linaza|PAD|||||Father|||
+@ID:	spa|Linaza|MAD|||||Mother|||
+@Tape Location:	tape 1
+@Comment:	J.Linaza , MJ.Cacho
+@Types:	long, toyplay, TD
+*PAD:	que habías comido ?
+%mor:	pro:rel|que=that v|habe-2S&PAS=have part|come-PPART-m=eat ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|OBJ 4|1|PUNCT
+*PAD:	que has comido (.) carne de pollo ?
+%mor:	pro:rel|que=that aux|habe-2S&PRES=have part|come-PPART-m=eat
+	n|carne&f=meat prep|de=of n|pollo&m=chicken ?
+%gra:	1|0|ROOT 2|3|AUX 3|1|CMOD 4|3|OBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*CHI:	caque [: carne] .
+%mor:	n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	carne ?
+%mor:	n|carne&f=meat ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	popo [: pollo] popo [: pollo] carne .
+%mor:	n|pollo&m=chicken n|pollo&m=chicken n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|MOD 3|2|MOD 4|1|PUNCT
+*PAD:	carne de pollo (.) y y hemos ido a la calle .
+%mor:	n|carne&f=meat prep|de=of n|pollo&m=chicken coord|y=and coord|y=and
+	aux|habe-1P&PRES=have part|i-PPART-m=go prepart|a=to
+	det:art|el&f&SG=the n|calle&f=street .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|CONJ 5|4|CONJ 6|7|AUX 7|5|COORD 8|4|COORD
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+*PAD:	con quien vamos a la calle ?
+%mor:	prep|con=with pro:rel|quien=who v|i-1P&PRES=go prepart|a=to
+	det:art|el&f&SG=the n|calle&f=street ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|COMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*PAD:	(.) con Oliver ?
+%mor:	prep|con=with n:prop|Oliver ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	calle .
+%mor:	v|calla-13S&SUB&PRES=silence .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	con quien ?
+%mor:	prep|con=with pro:rel|quien=who ?
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	caque [: carne] .
+%mor:	n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	a la calle .
+%mor:	prepart|a=to det:art|el&f&SG=the n|calle&f=street .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	popo [: pollo] caque [: carne] .
+%mor:	n|pollo&m=chicken n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	con Oliver a la calle (.) verdad ?
+%mor:	prep|con=with n:prop|Oliver prepart|a=to det:art|el&f&SG=the
+	n|calle&f=street co|verdad=right ?
+%gra:	1|0|ROOT 2|1|POBJ 3|1|POBJ 4|5|DET 5|3|OBJ 6|5|MOD 7|1|PUNCT
+*CHI:	caque [: carne] .
+%mor:	n|carne&f=meat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	a la calle con Oliver y con Gener ?
+%mor:	prepart|a=to det:art|el&f&SG=the n|calle&f=street prep|con=with
+	n:prop|Oliver coord|y=and prep|con=with n:prop|Gener ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|4|POBJ 6|3|MOD 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*CHI:	(Ge)ne(r) .
+%mor:	n:prop|Gener .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	Gener ?
+%mor:	n:prop|Gener ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	Ale [: Oliver] .
+%mor:	n:prop|Oliver .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	Oliver (.) y y Yeye .
+%mor:	n:prop|Oliver coord|y=and coord|y=and n:prop|Yeye .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|COORD 5|1|PUNCT
+*CHI:	Yaya [: Victoria] .
+%mor:	n:prop|Victoria .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	Yeye y Emi .
+%mor:	n:prop|Yeye coord|y=and n:prop|Emi .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*CHI:	Emi .
+%mor:	n:prop|Emi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	Emi también xxx .
+%mor:	n:prop|Emi adv|también=also .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	Namiunga ?
+%mor:	n:prop|Namiunga ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	agua .
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	vamos a ir a un sitio donde hay agua .
+%mor:	v|i-1P&PRES=go prepart|a=to inf|i-INF=go prepart|a=to
+	det:art|un&m=one n|sitio&m=place pro:rel|donde=where
+	v|habe-3S&PRES&SPEC=have n|agua&f=water .
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|6|DET 6|4|OBJ 7|6|REL 8|7|CMOD
+	9|8|OBJ 10|1|PUNCT
+*PAD:	y que más hay ?
+%mor:	coord|y=and pro:rel|que=that adv|más=more v|habe-3S&PRES&SPEC=have
+	?
+%gra:	1|0|ROOT 2|1|REL 3|4|MOD 4|2|CMOD 5|1|COORD
+*CHI:	agua .
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	agua y qué más hay en el aguaz ?
+%mor:	n|agua&f=water coord|y=and pro:int|qué=what adv|más=more
+	v|habe-3S&PRES&SPEC=have prep|en=in det:art|el&m&SG=the
+	n|aguaz&m=puddle ?
+%gra:	1|5|SUBJ 2|1|CONJ 3|2|COORD 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*CHI:	xxx .
+*PAD:	oy !
+%mor:	co|oy !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	lápi(z) lápi(z) .
+%mor:	n|lápiz&m=pencil n|lápiz&m=pencil .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	que pintas ?
+%mor:	pro:rel|que=that v|pinta-2S&PRES=paint ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAD:	que pintas con el lápiz ?
+%mor:	pro:rel|que=that v|pinta-2S&PRES=paint prep|con=with
+	det:art|el&m&SG=the n|lápiz&m=pencil ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	lápi(z) planta .
+%mor:	n|lápiz&m=pencil n|planta&f=plant .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	una planta ?
+%mor:	det:art|un-f=one n|planta&f=plant ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	(ard)illa (u)na planta .
+%mor:	n|ardilla&f=squirrel det:art|un-f=one n|planta&f=plant .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAD:	una ardilla en una planta .
+%mor:	det:art|un-f=one n|ardilla&f=squirrel prep|en=in det:art|un-f=one
+	n|planta&f=plant .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	(ar)dilla (ard)illa xxx .
+%mor:	n|ardilla&f=squirrel n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	una ardilla .
+%mor:	det:art|un-f=one n|ardilla&f=squirrel .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*PAD:	allí lo pongo ?
+%mor:	adv|allí=there pro:obj|le-m=him v|pone-1S&PRES=put ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAD:	(.) a_ver pero vamos a pintar aquí una (.) que pintas ahí ?
+%mor:	co|a_ver conj|pero=but v|i-1P&PRES=go prepart|a=to
+	inf|pinta-INF=paint adv|aquí=here pro:indef|una=one prep|que=than
+	n|pinta&f-PL=spot adv|ahí=there ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|7|JCT
+	9|8|POBJ 10|9|MOD 11|3|PUNCT
+*PAD:	(.) un pez ?
+%mor:	det:art|un&m=one n|pez&m=fish ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	pez .
+%mor:	n|pez&m=fish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	un pez ?
+%mor:	det:art|un&m=one n|pez&m=fish ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	(un)a caca [: casa] .
+%mor:	det:art|un-f=one n|casa&f=house .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	una casa ?
+%mor:	det:art|un-f=one n|casa&f=house ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	sí (.) capi@c caca [: casa] .
+%mor:	co|sí=yes chi|capi n|casa&f=house .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAD:	un pez y una casa ?
+%mor:	det:art|un&m=one n|pez&m=fish coord|y=and det:art|un-f=one
+	n|casa&f=house ?
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*CHI:	capi@c ca tente@b xxx .
+%mor:	chi|capi co|ca=oh_no bab|tente .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%com:	empieza a escupir .
+*MAD:	Juan no escupas .
+%mor:	n:prop|Juan adv|no=no v|escupi-2S&SUB&PRES=spit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	no escupas .
+%mor:	adv|no=no v|escupi-2S&SUB&PRES=spit .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MAD:	oye !
+%mor:	co|oye=listen !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	chis [x 3] no escupas !
+%mor:	co|chis=silence adv|no=no v|escupi-2S&SUB&PRES=spit !
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	no escupas .
+%mor:	adv|no=no v|escupi-2S&SUB&PRES=spit .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MAD:	no escupas tu !
+%mor:	adv|no=no v|escupi-2S&SUB&PRES=spit det:poss|tu=your !
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	tanta [: planta] no escupas .
+%mor:	n|planta&f=plant adv|no=no v|escupi-2S&SUB&PRES=spit .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAD:	a la planta no escupe no creo yo que escupa la planta .
+%mor:	prepart|a=to det:art|el&f&SG=the n|planta&f=plant adv|no=no
+	v|escupi-3S&PRES=spit adv|no=no v|cree-1S&PRES=believe pro:sub|yo=I
+	pro:rel|que=that v|escupi-13S&SUB&PRES=spit det:art|el&f&SG=the
+	n|planta&f=plant .
+%gra:	1|5|SUBJ 2|3|DET 3|5|SUBJ 4|5|JCT 5|7|SUBJ 6|7|JCT 7|0|ROOT 8|7|OBJ
+	9|8|REL 10|9|CMOD 11|12|DET 12|10|OBJ 13|7|PUNCT
+%com:	está escupiendo .
+*MAD:	eres un guarro .
+%mor:	cop|se-2S&PRES=be det:art|un&m=one n|guarro-m=hog .
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|1|PUNCT
+*CHI:	tanta [: planta] tanta [: planta] .
+%mor:	v|planta-3S&PRES n|planta&f=plant .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	dando golpes .
+*PAD:	que es eso ?
+%mor:	pro:rel|que=that cop|se-3S&PRES=be pro:dem|eso=that_one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	tose y vuelve a escupir .
+*CHI:	xxx .
+*MAD:	Juan .
+%mor:	n:prop|Juan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	pipas .
+%mor:	n|pipa&f-PL=cask .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	pipas ?
+%mor:	n|pipa&f-PL=cask ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ta ta pipas .
+%mor:	co|ta co|ta n|pipa&f-PL=cask .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MAD:	bueno .
+%mor:	co|bueno=good .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ta ta .
+%mor:	co|ta co|ta .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*MAD:	no escupas tu .
+%mor:	adv|no=no v|escupi-2S&SUB&PRES=spit det:poss|tu=your .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx .
+*MAD:	oye !
+%mor:	co|oye=listen !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	(.) Juan !
+%mor:	n:prop|Juan !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	(.) no escupas !
+%mor:	adv|no=no v|escupi-2S&SUB&PRES=spit !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MAD:	(.) Juan me voy a enfadar (.) eh ?
+%mor:	n:prop|Juan pro:obj|me=me v|i-1S&PRES=go prepart|a=to
+	inf|enfada-INF=anger co|eh ?
+%gra:	1|3|SUBJ 2|1|MOD 3|0|ROOT 4|3|OBJ 5|4|COMP 6|5|OBJ 7|3|PUNCT
+*CHI:	lápi(z) (.) may@c .
+%mor:	n|lápiz&m=pencil chi|may .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	no se tira el lápiz .
+%mor:	adv|no=no pro:refl|se=itself v|tira-3S&PRES=throw
+	det:art|el&m&SG=the n|lápiz&m=pencil .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MAD:	no se tira ?
+%mor:	adv|no=no pro:refl|se=itself v|tira-3S&PRES=throw ?
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	may@c (.) may@c .
+%mor:	chi|may chi|may .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*PAD:	está debajo de la mesa mira allí está (.) date una vuelta por allí
+	.
+%mor:	cop|esta-3S&PRES=be adv|debajo=below prep|de=of det:art|el&f&SG=the
+	n|mesa&f=table co|mira=look adv|allí=there cop|esta-3S&PRES=be
+	imp|da-2S&IMP~pro:clit|2S=give det:art|un-f=one
+	part|volve-PPART-f=turn prep|por=for adv|allí=there .
+%gra:	1|8|SUBJ 2|1|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|6|JCT 8|0|ROOT
+	9|8|PRED 10|9|OBJ2 11|12|DET 12|9|PRED 13|12|JCT 14|13|POBJ 15|8|PUNCT
+*CHI:	no no no no .
+%mor:	adv|no=no adv|no=no adv|no=no adv|no=no .
+%gra:	1|2|JCT 2|3|JCT 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAD:	no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	mira allí allí está mira allí .
+%mor:	co|mira=look adv|allí=there adv|allí=there cop|esta-3S&PRES=be
+	co|mira=look adv|allí=there .
+%gra:	1|4|SUBJ 2|3|JCT 3|1|JCT 4|0|ROOT 5|4|PRED 6|5|JCT 7|4|PUNCT
+*CHI:	lápi(z) .
+%mor:	n|lápiz&m=pencil .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	el lápiz está allí cogelo (.) allí allí .
+%mor:	det:art|el&m&SG=the n|lápiz&m=pencil cop|esta-3S&PRES=be
+	adv|allí=there imp|coge-2S&IMP~pro:clit|OBJ&m=take adv|allí=there
+	adv|allí=there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|OBJ2 7|8|JCT 8|5|JCT
+	9|3|PUNCT
+*CHI:	lápi(z) (.) lápi(z) .
+%mor:	n|lápiz&m=pencil n|lápiz&m=pencil .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	el lápiz sí .
+%mor:	det:art|el&m&SG=the n|lápiz&m=pencil co|sí=yes .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	lápi(z) (.) no no (.) lápi(z) (.) lápi(z) .
+%mor:	n|lápiz&m=pencil adv|no=no adv|no=no n|lápiz&m=pencil
+	n|lápiz&m=pencil .
+%gra:	1|0|ROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|4|MOD 6|1|PUNCT
+*PAD:	no quieres el lápiz ?
+%mor:	adv|no=no v|quere-2S&PRES=want det:art|el&m&SG=the n|lápiz&m=pencil
+	?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	aupa (.) lápi(z) no no lápi(z) .
+%mor:	v|aupa-3S&PRES=uppie n|lápiz&m=pencil adv|no=no adv|no=no
+	n|lápiz&m=pencil .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|JCT 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*PAD:	aupa yo para coger el lápiz ?
+%mor:	co|aupa=uppie pro:sub|yo=I prep|para=for inf|coge-INF=take
+	det:art|el&m&SG=the n|lápiz&m=pencil ?
+%gra:	1|0|ROOT 2|1|REL 3|4|INF 4|2|CMOD 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	lápi(z) lápi(z) no no aupa .
+%mor:	n|lápiz&m=pencil n|lápiz&m=pencil adv|no=no adv|no=no co|aupa=uppie
+	.
+%gra:	1|5|DET 2|1|MOD 3|4|JCT 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAD:	aupa .
+%mor:	co|aupa=uppie .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	lápi(z) (.) no no no lápi(z) .
+%mor:	n|lápiz&m=pencil adv|no=no adv|no=no adv|no=no n|lápiz&m=pencil .
+%gra:	1|5|MOD 2|1|JCT 3|5|JCT 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*PAD:	donde está el lápiz ?
+%mor:	pro:rel|donde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|lápiz&m=pencil ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|PRED 5|1|PUNCT
+*CHI:	no no lápi(z) .
+%mor:	adv|no=no adv|no=no n|lápiz&m=pencil .
+%gra:	1|3|JCT 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAD:	donde está el lápiz ?
+%mor:	pro:rel|donde=where cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|lápiz&m=pencil ?
+%gra:	1|0|ROOT 2|1|CMOD 3|4|DET 4|2|PRED 5|1|PUNCT
+*CHI:	no no no lápi(z) .
+%mor:	adv|no=no adv|no=no adv|no=no n|lápiz&m=pencil .
+%gra:	1|2|JCT 2|4|JCT 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*PAD:	ahí no está el lápiz (.) ahí no está donde está ?
+%mor:	adv|ahí=there adv|no=no cop|esta-3S&PRES=be det:art|el&m&SG=the
+	n|lápiz&m=pencil adv|ahí=there adv|no=no cop|esta-3S&PRES=be
+	pro:rel|donde=where cop|esta-3S&PRES=be ?
+%gra:	1|2|JCT 2|3|JCT 3|8|SUBJ 4|5|DET 5|8|SUBJ 6|7|JCT 7|8|JCT 8|0|ROOT
+	9|8|REL 10|9|CMOD 11|8|PUNCT
+*CHI:	ahí e(s)tá .
+%mor:	adv|ahí=there cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*PAD:	ahí no ahí no está el lápiz .
+%mor:	adv|ahí=there adv|no=no adv|ahí=there adv|no=no cop|esta-3S&PRES=be
+	det:art|el&m&SG=the n|lápiz&m=pencil .
+%gra:	1|2|JCT 2|3|JCT 3|4|JCT 4|5|JCT 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+*CHI:	no no lápi(z) .
+%mor:	adv|no=no adv|no=no n|lápiz&m=pencil .
+%gra:	1|3|JCT 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAD:	a_ver como tienes la una a_ver la una como está ?
+%mor:	co|a_ver adv|como=like v|tene-2S&PRES=have det:art|el&f&SG=the
+	pro:indef|una=one co|a_ver det:art|el&f&SG=the pro:indef|una=one
+	adv|como=like cop|esta-3S&PRES=be ?
+%gra:	1|3|SUBJ 2|3|JCT 3|10|SUBJ 4|5|DET 5|10|SUBJ 6|10|SUBJ 7|8|DET
+	8|10|SUBJ 9|10|MOD 10|0|ROOT 11|10|PRED
+*CHI:	no no no .
+%mor:	adv|no=no adv|no=no adv|no=no .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*PAD:	no ?
+%mor:	adv|no=no ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	(.) oye va a haber que echarte una gotita .
+%mor:	co|oye=listen v|i-3S&PRES=go prepart|a=to inf|habe-INF=have
+	prep|que=than inf|echa-INF~pro:clit|2S=throw det:art|un-f=one
+	n|gota&f-DIM=drop .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|6|OBJ2 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+*CHI:	niz [: nariz] .
+%mor:	n|nariz&f=nose .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	en la nariz .
+%mor:	prep|en=in det:art|el&f&SG=the n|nariz&f=nose .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	xxx momos [: mocos] .
+%mor:	n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	una gotita .
+%mor:	det:art|un-f=one n|gota&f-DIM=drop .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	(t)en(g)o momos [: mocos] .
+%mor:	v|tene-1S&PRES=have n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAD:	tienes mocos .
+%mor:	v|tene-2S&PRES=have n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	(t)en(g)o momos [: mocos] .
+%mor:	v|tene-1S&PRES=have n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAD:	una gotita en los mocos .
+%mor:	det:art|un-f=one n|gota&f-DIM=drop prep|en=in det:art|el&m-PL=the
+	n|moco&m-PL=mucus .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	titita [: gotita] .
+%mor:	n|gota&f-DIM=drop .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	una gotita .
+%mor:	det:art|un-f=one n|gota&f-DIM=drop .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	en (l)o(s) momos [: mocos] .
+%mor:	prep|en=in det:art|el&m-PL=the n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAD:	en los mocos .
+%mor:	prep|en=in det:art|el&m-PL=the n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	titita [: gotita] (l)o(s) momos [: mocos] una tita .
+%mor:	n|gota&f-DIM=drop det:art|el&m-PL=the n|moco&m-PL=mucus
+	det:art|un-f=one n|tita&f=teat .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAD:	una gotita en los mocos , sí .
+%mor:	det:art|un-f=one n|gota&f-DIM=drop prep|en=in det:art|el&m-PL=the
+	n|moco&m-PL=mucus cm|cm co|sí=yes .
+%gra:	1|2|DET 2|7|SUBJ 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|0|ROOT 8|7|PUNCT
+*CHI:	ah nene .
+%mor:	co|ah co|nene=baby .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+%com:	se queja .
+*PAD:	&buf mira (.) has visto ?
+%mor:	co|mira=look aux|habe-2S&PRES=have part|ve-PPART-m=see ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAD:	(.) que moco más grande tenías ?
+%mor:	pro:rel|que=that n|moco&m=mucus adv|más=more adj|grande=big
+	v|tene-2S&PAS=have ?
+%gra:	1|2|DET 2|5|SUBJ 3|4|MOD 4|2|MOD 5|0|ROOT 6|5|PUNCT
+*CHI:	nene grande .
+%mor:	n|nene&m=child adj|grande=big .
+%gra:	1|0|ROOT 2|1|MOD 3|1|PUNCT
+*PAD:	grande mira otro .
+%mor:	adj|grande=big v|mira-3S&PRES=look pro:indef|otro-m=other .
+%gra:	1|2|MOD 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	otro grande otro .
+%mor:	qn|otro-m=other adj|grande=big pro:indef|otro-m=other .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*PAD:	otro moco muy grande .
+%mor:	pro:indef|otro-m=other n|moco&m=mucus adv|muy=very adj|grande=big .
+%gra:	1|2|DET 2|0|ROOT 3|4|MOD 4|2|MOD 5|2|PUNCT
+*CHI:	grande .
+%mor:	adj|grande=big .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	oh !
+%mor:	co|oh=oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	que grande son todos los que sacamos a_ver .
+%mor:	pro:rel|que=that adj|grande=big cop|se-3P&PRES=be qn|todo-m-PL=all
+	det:art|el&m-PL=the pro:rel|que=that v|saca-1P&PRES&PRET=bring_out
+	co|a_ver .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|PRED 5|4|OBJ 6|5|REL 7|6|CMOD 8|7|OBJ
+	9|3|PUNCT
+*CHI:	grande .
+%mor:	adj|grande=big .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	son muy grandes sí .
+%mor:	cop|se-3P&PRES=be adv|muy=very adj|grande-PL=big co|sí=yes .
+%gra:	1|0|ROOT 2|3|JCT 3|4|MOD 4|1|PRED 5|1|PUNCT
+*CHI:	ot(r)o omomo [: moco] .
+%mor:	pro:indef|otro-m=other n|moco&m=mucus .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	sopla así fuerte .
+%mor:	v|sopla-3S&PRES=blow adv|así=thus adj|fuerte=strong .
+%gra:	1|0|ROOT 2|1|JCT 3|2|MOD 4|1|PUNCT
+*CHI:	ay te te (.) te te (.) au ah .
+%mor:	co|ay=ay pro:obj|te=you pro:obj|te=you pro:obj|te=you
+	pro:obj|te=you co|au=ow co|ah .
+%gra:	1|0|ROOT 2|1|REL 3|2|PRED 4|3|JCT 5|4|POBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+%com:	intenta morder a P .
+*PAD:	no no no no xxx que no xxx .
+%mor:	adv|no=no adv|no=no adv|no=no adv|no=no pro:rel|que=that adv|no=no
+	.
+%gra:	1|2|JCT 2|3|JCT 3|4|JCT 4|0|ROOT 5|4|REL 6|5|CMOD 7|4|PUNCT
+*CHI:	ja ja ja xxx .
+%mor:	co|ja=ha co|ja=ha co|ja=ha .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAD:	pero bueno pero bueno !
+%mor:	conj|pero=but co|bueno=good conj|pero=but co|bueno=good !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|SCL 5|1|PUNCT
+*MAD:	como tiene los colmillos ?
+%mor:	adv|como=like v|tene-3S&PRES=have det:art|el&m-PL=the
+	n|colmillo&m-PL=eye_tooth ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAD:	pero bueno !
+%mor:	conj|pero=but co|bueno=good !
+%gra:	1|0|ROOT 2|1|SCL 3|1|PUNCT
+*CHI:	ja ja ja xxx .
+%mor:	co|ja=ha co|ja=ha co|ja=ha .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAD:	eh ?
+%mor:	co|eh ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	tose .
+*MAD:	como tiene los colmillos ?
+%mor:	adv|como=like v|tene-3S&PRES=have det:art|el&m-PL=the
+	n|colmillo&m-PL=eye_tooth ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAD:	los tiene ya fuera los dos .
+%mor:	pro:ind|le-m-PL=him v|tene-3S&PRES=have adv|ya=already
+	adv|fuera=outside det:art|el&m-PL=the det:num|dos=two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|JCT 5|6|DET 6|2|OBJ 7|2|PUNCT
+*MAD:	y los de la de abajo ?
+%mor:	coord|y=and det:art|el&m-PL=the prep|de=of det:art|el&f&SG=the
+	prep|de=of adv|abajo=below ?
+%gra:	1|0|ROOT 2|7|DET 3|2|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|COORD
+*PAD:	shh !
+%mor:	co|shh=shh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ja ja ja xxx .
+%mor:	co|ja=ha co|ja=ha co|ja=ha .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MAD:	xxx .
+*PAD:	que porque por los mocos .
+%mor:	pro:rel|que=that conj|porque=because prep|por=for
+	det:art|el&m-PL=the n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	mo(cos) momos [: mocos] momos [: mocos] .
+%mor:	n|moco&m-PL=mucus n|moco&m-PL=mucus n|moco&m-PL=mucus .
+%gra:	1|0|ROOT 2|1|MOD 3|2|MOD 4|1|PUNCT
+*PAD:	por los mocos un pañuelo .
+%mor:	prep|por=for det:art|el&m-PL=the n|moco&m-PL=mucus det:art|un&m=one
+	n|pañuelo&m=handkerchief .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|5|DET 5|3|MOD 6|1|PUNCT
+*CHI:	no (es)tá .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	may@c may@c may@c no e(s)tá .
+%mor:	chi|may chi|may chi|may adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no e(s)tá no may@c no (es)tá (l)o(s) momos [: mocos] no (es)tá no
+	may@c .
+%mor:	adv|no=no cop|esta-3S&PRES=be adv|no=no chi|may adv|no=no
+	cop|esta-3S&PRES=be det:art|el&m-PL=the n|moco&m-PL=mucus adv|no=no
+	cop|esta-3S&PRES=be adv|no=no chi|may .
+%gra:	1|2|JCT 2|6|SUBJ 3|4|JCT 4|6|SUBJ 5|6|JCT 6|10|SUBJ 7|8|DET 8|6|PRED
+	9|8|MOD 10|0|ROOT 11|12|JCT 12|10|PRED 13|10|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no e(s)tá no e(s)tá no e(s)tá .
+%mor:	adv|no=no cop|esta-3S&PRES=be adv|no=no cop|esta-3S&PRES=be
+	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no e(s)tá no e(s)tá no e(s)tá .
+%mor:	adv|no=no cop|esta-3S&PRES=be adv|no=no cop|esta-3S&PRES=be
+	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|JCT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no e(s)tá no e(s)tá .
+%mor:	adv|no=no cop|esta-3S&PRES=be adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no e(s)tá .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	ay ay .
+%mor:	co|ay=ay co|ay=ay .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*PAD:	ay: .
+%mor:	co|ay=ay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ay .
+%mor:	co|ay=ay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	ay !
+%mor:	co|ay=ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	no (es)tá .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no may@c may@c .
+%mor:	adv|no=no chi|may chi|may .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAD:	no está .
+%mor:	adv|no=no cop|esta-3S&PRES=be .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	may@c .
+%mor:	chi|may .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	no está ah .
+%mor:	adv|no=no cop|esta-3S&PRES=be co|ah .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAD:	ah !
+%mor:	co|ah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	no está ah !
+%mor:	adv|no=no cop|esta-3S&PRES=be co|ah !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	ah .
+%mor:	co|ah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	toma toma aquí está toma (.) aquí está el lápiz que .
+%mor:	v|toma-3S&PRES=take v|toma-3S&PRES=take adv|aquí=here
+	cop|esta-3S&PRES=be v|toma-3S&PRES=take adv|aquí=here
+	cop|esta-3S&PRES=be det:art|el&m&SG=the n|lápiz&m=pencil
+	pro:rel|que=that .
+%gra:	1|2|SUBJ 2|4|SUBJ 3|2|JCT 4|7|SUBJ 5|4|PRED 6|5|JCT 7|0|ROOT 8|9|DET
+	9|7|PRED 10|9|REL 11|7|PUNCT
+*CHI:	el lápi(z) .
+%mor:	det:art|el&m&SG=the n|lápiz&m=pencil .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	el lápiz a_ver .
+%mor:	det:art|el&m&SG=the n|lápiz&m=pencil co|a_ver .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	(u)na (u)na niña .
+%mor:	det:art|un-f=one det:art|un-f=one co|niña=child .
+%gra:	1|3|DET 2|3|DET 3|0|ROOT 4|3|PUNCT
+*PAD:	una niña .
+%mor:	det:art|un-f=one n|niño-f=child .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	am [: gato] .
+%mor:	n|gato-m=cat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	una niña y un gato ?
+%mor:	det:art|un-f=one co|niña=child coord|y=and det:art|un&m=one
+	n|gato-m=cat ?
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*CHI:	no am [: gato] .
+%mor:	adv|no=no n|gato-m=cat .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	una niña (.) y un gato ?
+%mor:	det:art|un-f=one co|niña=child coord|y=and det:art|un&m=one
+	n|gato-m=cat ?
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*CHI:	y am [: gato] .
+%mor:	coord|y=and n|gato-m=cat .
+%gra:	1|0|ROOT 2|1|COORD 3|1|PUNCT
+*PAD:	un gato ?
+%mor:	det:art|un&m=one n|gato-m=cat ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	así ?
+%mor:	adv|así=thus ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	wac@c [= pato] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	miau miau .
+%mor:	co|miau=miaow co|miau=miaow .
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	wac@c [= pato] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	un pato un pato .
+%mor:	det:art|un&m=one n|pato&m=duck det:art|un&m=one n|pato&m=duck .
+%gra:	1|2|DET 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	agua .
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	en el agua (.) un pato en el agua .
+%mor:	prep|en=in det:art|el&m&SG=the n|agua&f=water det:art|un&m=one
+	n|pato&m=duck prep|en=in det:art|el&m&SG=the n|agua&f=water .
+%gra:	1|0|ROOT 2|3|DET 3|1|POBJ 4|5|DET 5|1|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	wac@c [= pato] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	otro pato .
+%mor:	pro:indef|otro-m=other n|pato&m=duck .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	wac@c [= pato] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	otro pato en el agua que más .
+%mor:	pro:indef|otro-m=other n|pato&m=duck prep|en=in det:art|el&m&SG=the
+	n|agua&f=water pro:rel|que=that adv|más=more .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|REL 7|6|CMOD 8|2|PUNCT
+*CHI:	wac@c [= pato] agua .
+%mor:	chi|wac n|agua&f=water .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	que quieres que pinte ?
+%mor:	pro:rel|que=that v|quere-2S&PRES=want pro:rel|que=that
+	v|pinta-13S&SUB&PRES=paint ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|REL 4|3|CMOD 5|1|PUNCT
+*CHI:	pi [: pez] o [: un] pi [: pez] .
+%mor:	n|pez&m=fish det:art|un&m=one n|pez&m=fish .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAD:	un pez ?
+%mor:	det:art|un&m=one n|pez&m=fish ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*PAD:	un pez ?
+%mor:	det:art|un&m=one n|pez&m=fish ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	a [: un] pi [: pez] wac@c [= pato] .
+%mor:	det:art|un&m=one n|pez&m=fish chi|wac .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*PAD:	otro pez ?
+%mor:	pro:indef|otro-m=other n|pez&m=fish ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	wac@c [= pato] pi [: pez] .
+%mor:	chi|wac n|pez&m=fish .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	y un pato ?
+%mor:	coord|y=and det:art|un&m=one n|pato&m=duck ?
+%gra:	1|0|ROOT 2|3|DET 3|1|COORD 4|1|COORD
+*PAD:	(.) un pez y un pato que comen ?
+%mor:	det:art|un&m=one n|pez&m=fish coord|y=and det:art|un&m=one
+	n|pato&m=duck pro:rel|que=that v|come-3P&PRES=eat ?
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|5|REL 7|6|CMOD 8|2|PUNCT
+*CHI:	pan .
+%mor:	n|pan&m=bread .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	comen pan ?
+%mor:	v|come-3P&PRES=eat n|pan&m=bread ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAD:	vamos a pintar pan trocitos de pan así pan .
+%mor:	v|i-1P&PRES=go prepart|a=to inf|pinta-INF=paint n|pan&m=bread
+	n|trozo&m-DIM-PL=chunk prep|de=of n|pan&m=bread adv|así=thus
+	n|pan&m=bread .
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|3|OBJ 5|4|MOD 6|4|JCT 7|6|POBJ 8|9|MOD
+	9|7|MOD 10|1|PUNCT
+*CHI:	pan .
+%mor:	n|pan&m=bread .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	se comen el pan .
+%mor:	pro:refl|se=itself v|come-3P&PRES=eat det:art|el&m&SG=the
+	n|pan&m=bread .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	(c)omo .
+%mor:	adv|como=like .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	y que más ?
+%mor:	coord|y=and pro:rel|que=that adv|más=more ?
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|COORD
+*CHI:	(c)omo pan (.) (c)omo pan (.) aum .
+%mor:	adv|como=like n|pan&m=bread adv|como=like n|pan&m=bread co|aum=yum
+	.
+%gra:	1|2|MOD 2|4|SUBJ 3|4|MOD 4|0|ROOT 5|4|MOD 6|4|PUNCT
+*PAD:	pan (.) pan para los patos ?
+%mor:	n|pan&m=bread n|pan&m=bread prep|para=for det:art|el&m-PL=the
+	n|pato&m-PL=duck ?
+%gra:	1|0|ROOT 2|1|MOD 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAD:	aquí aquí mira aquí hay pan mira sí un pan grande ves ?
+%mor:	adv|aquí=here adv|aquí=here co|mira=look adv|aquí=here
+	v|habe-3S&PRES&SPEC=have n|pan&m=bread co|mira=look co|sí=yes
+	det:art|un&m=one n|pan&m=bread adj|grande=big co|ves=see ?
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|COMP 6|5|OBJ 7|6|MOD 8|7|CMOD
+	9|10|DET 10|8|OBJ 11|10|MOD 12|10|MOD 13|3|PUNCT
+*PAD:	así .
+%mor:	adv|así=thus .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	nana (.) pi pi .
+%mor:	n|nana&f=grandma co|pi co|pi .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAD:	ahora quieres ?
+%mor:	adv|ahora=now v|quere-2S&PRES=want ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*PAD:	(.) un pez ?
+%mor:	det:art|un&m=one n|pez&m=fish ?
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	pi aum aum pi .
+%mor:	co|pi co|aum=yum co|aum=yum co|pi .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+*PAD:	un pez y un pato .
+%mor:	det:art|un&m=one n|pez&m=fish coord|y=and det:art|un&m=one
+	n|pato&m=duck .
+%gra:	1|2|DET 2|0|ROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*CHI:	wac@c [= pato] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	una ardilla pintamos ?
+%mor:	det:art|un-f=one n|ardilla&f=squirrel v|pinta-1P&PRES&PRET=paint ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	(ar)dilla (ard)illa (.) (ard)illa (ard)illa .
+%mor:	n|ardilla&f=squirrel n|ardilla&f=squirrel n|ardilla&f=squirrel
+	n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|MOD 3|2|MOD 4|3|MOD 5|1|PUNCT
+*PAD:	mira la ardilla .
+%mor:	v|mira-3S&PRES=look det:art|el&f&SG=the n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	onana [: donde] e(s)tá en 0la tanta [: planta] (ar)dilla .
+%mor:	pro:rel|donde=where cop|esta-3S&PRES=be prep|en=in
+	0det:art|el&f&SG=the n|planta&f=plant n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|CMOD 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|1|PUNCT
+*PAD:	oh !
+%mor:	co|oh=oh !
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	una ardilla .
+%mor:	det:art|un-f=one n|ardilla&f=squirrel .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	agua .
+%mor:	imp|agua-2S&IMP=water_down .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	está cerca del agua sí .
+%mor:	cop|esta-3S&PRES=be adv|cerca=near prep|de~det:art|el&m=of
+	n|agua&f=water co|sí=yes .
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|1|PUNCT
+*CHI:	(ar)dilla .
+%mor:	n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	donde se subía la ardilla ?
+%mor:	pro:rel|donde=where pro:refl|se=itself v|subi-13S&PAS=go_up
+	det:art|el&f&SG=the n|ardilla&f=squirrel ?
+%gra:	1|0|ROOT 2|1|CMOD 3|2|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	planta .
+%mor:	v|planta-3S&PRES .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	a una planta así muy grande (.) así muy grande la planta ?
+%mor:	prepart|a=to det:art|un-f=one n|planta&f=plant adv|así=thus
+	adv|muy=very adj|grande=big adv|así=thus adv|muy=very adj|grande=big
+	det:art|el&f&SG=the n|planta&f=plant ?
+%gra:	1|0|ROOT 2|3|DET 3|6|JCT 4|6|JCT 5|6|JCT 6|7|MOD 7|8|JCT 8|9|JCT
+	9|11|MOD 10|11|DET 11|1|OBJ 12|1|PUNCT
+*CHI:	(all)í e(s)tá en 0la tanta [: planta] (.) ti ta .
+%mor:	adv|allí=there cop|esta-3S&PRES=be prep|en=in 0det:art|el&f&SG=the
+	n|planta&f=plant pro:obj|ti=you co|ta .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|5|MOD 7|2|PRED 8|2|PUNCT
+*PAD:	se subía a la planta la ardilla .
+%mor:	pro:refl|se=itself v|subi-13S&PAS=go_up prepart|a=to
+	det:art|el&f&SG=the n|planta&f=plant det:art|el&f&SG=the
+	n|ardilla&f=squirrel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|7|DET 7|5|OBJ 8|2|PUNCT
+*CHI:	xxx .
+*PAD:	toma pintala tu pinta tu tu pinta tu la ardilla tu .
+%mor:	imp|toma-2S&IMP=take imp|pinta-2S&IMP~pro:clit|OBJ&f=paint
+	det:poss|tu=your v|pinta-3S&PRES=paint det:poss|tu=your
+	det:poss|tu=your v|pinta-3S&PRES=paint det:poss|tu=your
+	det:art|el&f&SG=the n|ardilla&f=squirrel det:poss|tu=your .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ2 4|2|COMP 5|4|COMP 6|5|JCT 7|8|SUBJ 8|6|POBJ
+	9|8|COMP 10|11|DET 11|9|OBJ 12|11|MOD 13|1|PUNCT
+*CHI:	oh ot(r)a (ar)dilla .
+%mor:	co|oh=oh qn|otro-f=other n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAD:	uy que ardilla más bonita ha pintado Juan !
+%mor:	co|uy pro:rel|que=that n|ardilla&f=squirrel adv|más=more
+	co|bonita=pretty aux|habe-3S&PRES=have part|pinta-PPART-m=paint
+	n:prop|Juan !
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|5|MOD 5|3|MOD 6|7|AUX 7|5|CMOD 8|7|OBJ
+	9|1|PUNCT
+*PAD:	otra ardilla sí .
+%mor:	qn|otro-f=other n|ardilla&f=squirrel co|sí=yes .
+%gra:	1|2|DET 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*CHI:	(ar)dilla .
+%mor:	n|ardilla&f=squirrel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	uy que ardilla !
+%mor:	co|uy pro:rel|que=that n|ardilla&f=squirrel !
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|1|PUNCT
+*PAD:	(.) mira oh !
+%mor:	co|mira=look co|oh=oh !
+%gra:	1|0|ROOT 2|1|REL 3|1|PUNCT
+*CHI:	pan aum (.) pan pan aum .
+%mor:	n|pan&m=bread co|aum=yum n|pan&m=bread n|pan&m=bread co|aum=yum .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|MOD 6|1|PUNCT
+*PAD:	pan a por los patos .
+%mor:	n|pan&m=bread prepart|a=to prep|por=for det:art|el&m-PL=the
+	n|pato&m-PL=duck .
+%gra:	1|0|ROOT 2|1|MOD 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	wac@c [= patos] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	vaya día !
+%mor:	co|vaya=come_on n|día&m=day !
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*MAD:	no se puede .
+%mor:	adv|no=no pro:refl|se=itself v|pode-3S&PRES=can .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAD:	llueve .
+%mor:	v|llove-3S&PRES=rain .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	están dormidos ya porque llueve .
+%mor:	cop|esta-3P&PRES=be imp|dormi-2P&IMP~pro:clit|2P=sleep
+	adv|ya=already conj|porque=because v|llove-3S&PRES=rain .
+%gra:	1|0|ROOT 2|6|SUBJ 3|2|OBJ2 4|5|JCT 5|6|SUBJ 6|1|PRED 7|1|PUNCT
+*PAD:	mira llueve .
+%mor:	co|mira=look v|llove-3S&PRES=rain .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	wac@c [= patos] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MAD:	están dormidos los patos (.) por que llueve se han ido a dormir hoy
+	.
+%mor:	cop|esta-3P&PRES=be imp|dormi-2P&IMP~pro:clit|2P=sleep
+	det:art|el&m-PL=the n|pato&m-PL=duck prep|por=for pro:rel|que=that
+	v|llove-3S&PRES=rain pro:refl|se=itself aux|habe-3P&PRES=have
+	part|i-PPART-m=go prepart|a=to inf|dormi-INF=sleep adv|hoy=today .
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ2 4|5|DET 5|1|PRED 6|5|JCT 7|6|REL 8|7|COMP
+	9|8|JCT 10|11|AUX 11|9|POBJ 12|13|INF 13|11|COMP 14|13|JCT 15|1|PUNCT
+*CHI:	wac@c [= patos] .
+%mor:	chi|wac .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	mañana mañana echamos pan .
+%mor:	adv|mañana=tomorrow adv|mañana=tomorrow v|echa-1P&PRES&PRET=throw
+	n|pan&m=bread .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	no pena .
+%mor:	adv|no=no n|pena&f=pain .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	a_ver esta niña no tiene ojos .
+%mor:	co|a_ver det:dem|este-f=this n|niño-f=child adv|no=no
+	v|tene-3S&PRES=have n|ojo&m-PL=eye .
+%gra:	1|3|MOD 2|3|DET 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	no ojos (.) niña .
+%mor:	adv|no=no n|ojo&m-PL=eye co|niña=child .
+%gra:	1|2|JCT 2|0|ROOT 3|2|MOD 4|2|PUNCT
+*PAD:	que más hay que ponerle ?
+%mor:	pro:rel|que=that adv|más=more v|habe-3S&PRES&SPEC=have
+	pro:rel|que=that inf|pone-INF~pro:clit|3S=put ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|CMOD 4|3|REL 5|4|COMP 6|5|OBJ2 7|1|PUNCT
+*CHI:	(un)a n(ar)iz .
+%mor:	det:art|un-f=one n|nariz&f=nose .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*PAD:	la nariz .
+%mor:	det:art|el&f&SG=the n|nariz&f=nose .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*CHI:	ti [: sí] .
+%mor:	co|sí=yes .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAD:	ay , esto déjalo aquí .
+%mor:	co|ay=ay cm|cm pro:dem|esto=this_one
+	imp|deja-2S&IMP~pro:clit|OBJ&m=leave adv|aquí=here .
+%gra:	1|0|ROOT 2|1|REL 3|2|CMOD 4|3|PRED 5|4|OBJ2 6|4|JCT 7|1|PUNCT
+*CHI:	a [: donde] e(s)tá (l)a niña , a [: donde] e(s)tá (.) a [: donde]
+	e(s)tá (.) a [: donde] e(s)tá ?
+%mor:	pro:rel|donde=where cop|esta-3S&PRES=be det:art|el&f&SG=the
+	co|niña=child cm|cm pro:rel|donde=where cop|esta-3S&PRES=be
+	pro:rel|donde=where cop|esta-3S&PRES=be pro:rel|donde=where
+	cop|esta-3S&PRES=be ?
+%gra:	1|0|ROOT 2|1|COMP 3|4|DET 4|2|PRED 5|4|APP 6|5|REL 7|6|CMOD 8|7|REL
+	9|8|CMOD 10|9|REL 11|10|CMOD 12|1|PUNCT
+@End

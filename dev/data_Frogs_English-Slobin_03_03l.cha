@@ -1,0 +1,141 @@
+@UTF8
+@PID:	11312/c-00020724-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@Options:	CA
+@ID:	eng|English-Slobin|CHI|3;11.||||Target_Child|||
+@G:	01
+@Types:	cross, narrative, TD
+*CHI:	[^ nc: the boy and the frog and the dog . ]
+	[^ tc: the little boy , the frog , and the dog alright , well what about = let's start here and go through and talk about each one , okay ]
+	.
+*CHI:	[^ nc: I think the bee was hard ] [^ tc: oh . well . ]
+	[^ tc: alright . you wanna say anything more about this one what . ]
+	[^ tc: laughter ] .
+@G:	02a
+*CHI:	[^ tc: okay . now . what about this . what do you think . ]
+	[^ nc: mm . ] [^ tc: /?] [^ tc: mm what . ] sleeping .
+	[+ tc: sleeping ]
+%mor:	part|sleep-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	[^ tc: and here ] stepping out of bed . [+ nc: laughs ]
+	[+ tc: stepping out what ] [+ nc: of bed . ]
+	[+ tc: stepping out of bed okay . ]
+%mor:	n:gerund|step-PRESP adv|out prep|of n|bed .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|3|POBJ 5|1|PUNCT
+@G:	02b
+*CHI:	[^ tc: how about here . ] [^ nc: screeches and laughter ] dog on
+	his head . [+ tc: huh dog on his head yeah . ]
+%mor:	n|dog prep|on det:poss|his n|head .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+@G:	03a
+*CHI:	[^ tc: here (.) how about this one . ] [^ nc: that one ]
+	[^ tc: mhm ] he's in the jar ! [+ nc: laughter]
+%mor:	pro:sub|he~cop|be&3S prep|in det:art|the n|jar !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+@G:	03b
+*CHI:	he's climbing out the window .
+%mor:	pro:sub|he~aux|be&3S part|climb-PRESP prep|out det:art|the n|window
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	[^ tc: he's what ] climbing out the window . [+ tc: ooh . okay . ]
+%mor:	part|climb-PRESP prep|out det:art|the n|window .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+@G:	04a
+*CHI:	[^ tc: how about this one . ] [^ nc: screams and laughter ] he fell
+	out the window (.) .
+%mor:	pro:sub|he v|fall&PAST prep|out det:art|the n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+@G:	04b
+*CHI:	broke the jar . [+ tc: yeah (.) and here what . ]
+%mor:	v|break&PAST det:art|the n|jar .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@G:	05
+*CHI:	[^ tc: alright . how about this one ] ouch . [+ tc: ouch ]
+	[+ nc: get me out] [+ tc: oh . anything else ]
+%mor:	n|ouch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	06a
+*CHI:	[^ tc: yeah . and here ] [^ nc: he trying to get the bees]
+	[^ tc: hm ] trying to get the bees .
+	[+ tc: trying to get the bees . yeah . ]
+%mor:	part|try-PRESP inf|to v|get det:art|the n|bee-PL .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+@G:	06b
+*CHI:	[^ tc: and here ] [^ nc: I don't know . ] .
+@G:	07
+*CHI:	[^ tc: okay . how about this one . ] ouch ! [+ nc: sting me]
+%mor:	n|ouch !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	don't !
+%mor:	mod|do~neg|not !
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+@G:	08
+*CHI:	[^ tc: okay . there ] [^ nc: ! whoo (.) whoo (.) whoo ! ]
+	[^ tc: owl sounds ] .
+*CHI:	[^ tc: yeah what about this . ] [^ nc: screaming and laughter ]
+	[^ tc: and here can you say that ] xxx [^ tc: gibberish ] .
+@G:	09a
+*CHI:	[^ tc: okay . what about this one .] [^ nc: ouch ] xxx
+	[^ tc: gibberish] [^ tc: hm ] [^ tc: gibberish sounds repeated] .
+@G:	09b
+*CHI:	[^ tc: how about this one . ] [^ nc: ouch ] [^ tc: more gibberish ]
+	I don't know that one . [+ tc: oh (.) you don't . okay . ]
+%mor:	pro:sub|I mod|do~neg|not v|know adv|that pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+@G:	10a
+*CHI:	[^ tc: how about this one ] [^ nc: ouch ] stop mo:ose !
+%mor:	n|stop n|moose !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@G:	10b
+*CHI:	[^ tc: and here ] [^ tc: acts out (.) crawls around room ]
+	[^ tc: can you say that can you tell me about that one ] what one .
+	[+ nc: black buck . the moose . ] [+ tc: black buck ]
+	[+ tc: screams ]
+%mor:	pro:int|what pro:indef|one .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	[^ tc: what about the dog ] [^ nc: arf ] [^ tc: screams ]
+	[^ nc: my goodness] .
+@G:	11
+*CHI:	[^ tc: how about this one . ] ouch [!] [^ tc: gibberish ] fell down
+	. [+ tc: fell down ]
+%mor:	n|ouch v|fall&PAST adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@G:	12a
+*CHI:	[^ tc: oh . okay . and here ] [^ tc: gibberish] [^ tc: what ] fell
+	in the puddle ! [+ tc: fell in the puddle . okay . ]
+%mor:	v|fall&PAST prep|in det:art|the n|puddle !
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+@G:	12b
+*CHI:	[^ tc: how about here ] [^ tc: laughs , babbles ] xxx
+	[^ nc: water ] [^ tc: /?] .
+@G:	13a
+*CHI:	[^ tc: okay . how about that one . what do you think about the boy in this one . look at that , D . what do you think . ]
+	[^ nc: shh . ] .
+@G:	13b
+*CHI:	[^ tc: yeah . and here ] log .
+%mor:	n|log .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	[^ tc: whispers . ] climbing on a log . [+ tc: climbing on a log ]
+	[+ nc: yeah . ]
+%mor:	part|climb-PRESP prep|on det:art|a n|log .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+@G:	14a
+*CHI:	[^ tc: oh . and here ] [^ nc: ribbet ribbet ribbet ]
+	[^ tc: what do you think (.) hm ] [^ nc: ribbet ] .
+@G:	14b
+*CHI:	[^ tc: how about this one . ] [^ nc: ow . ]
+	[^ tc: c bumps her head . short digression . ] .
+@G:	15
+*CHI:	[^ tc: alright . here's the last one . ]
+	[^ nc: I can't tell you that one . ] [^ tc: oh , you can't ]
+	[^ nc: forget . how . ] .
+*CHI:	[^ tc: alright (.) wait (.) one last thing . what about the boy here . ]
+	catching the frogs .
+%mor:	part|catch-PRESP det:art|the n|frog-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	baby frogs . [+ tc: ah . okay . ]
+%mor:	n|baby n|frog-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+@End

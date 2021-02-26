@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/c-00010796-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;00.24|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	16-MAR-1973
+@Types:	long, toyplay, TD
+*CHI:	will you carry me ?
+%mor:	mod|will pro:per|you v|carry pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	302
+*CHI:	will you carry me ?
+%mor:	mod|will pro:per|you v|carry pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	302
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	302
+*CHI:	my slipper falling apart .
+%mor:	det:poss|my n|slipper part|fall-PRESP adv|apart .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	303
+*CHI:	why you washing my hair ?
+%mor:	pro:int|why pro:per|you part|wash-PRESP det:poss|my n|hair ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	304
+*MOT:	I'm not washing your hair .
+%mor:	pro:sub|I~aux|be&1S neg|not part|wash-PRESP det:poss|your n|hair .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	304
+*CHI:	yes, you am [: are] [*] .
+%mor:	co|yes cm|cm pro:per|you cop|be&PRES .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	304
+*MOT:	yes, you are .
+%mor:	co|yes cm|cm pro:per|you cop|be&PRES .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	304
+*CHI:	I felt .
+%mor:	pro:sub|I v|feel&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	305
+*CHI:	I feel like my [: I'm] [*] sick .
+%mor:	pro:sub|I v|feel conj|like pro:sub|I~cop|be&1S adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|PRED 7|2|PUNCT
+%sit:	305
+*MOT:	where do you feel like you're sick ?
+%mor:	pro:int|where mod|do pro:per|you v|feel conj|like
+	pro:per|you~cop|be&PRES adj|sick ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|PRED
+	9|4|PUNCT
+%sit:	305
+*CHI:	you be careful, Sue .
+%mor:	pro:per|you aux|be co|careful cm|cm n:prop|Sue .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|LP 5|3|ENUM 6|3|PUNCT
+%sit:	306
+*CHI:	be very careful .
+%mor:	cop|be adv|very co|careful .
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%sit:	306
+*CHI:	touch my oven .
+%mor:	v|touch det:poss|my n|oven .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%sit:	307
+*CHI:	I wanna hug Siser [: Sister] .
+%mor:	pro:sub|I v|want~inf|to v|hug n:prop|Sister .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%sit:	308
+*MOT:	where are your shoes ?
+%mor:	pro:int|where cop|be&PRES det:poss|your n|shoe-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	309
+*CHI:	upstairs .
+%mor:	adv|upstairs .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	309
+*CHI:	I'll go get (th)em .
+%mor:	pro:sub|I~mod|will v|go v|get pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COMP 5|4|OBJ 6|3|PUNCT
+%sit:	309
+*CHI:	Deedee [: Joanna] come &-um .
+%mor:	n:prop|Joanna v|come .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	309
+*MOT:	honk@o honk@o .
+%mor:	on|honk on|honk .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+%sit:	310
+*CHI:	that not my honker [= horn] .
+%mor:	comp|that neg|not det:poss|my n|honk&dv-AGT .
+%gra:	1|4|LINK 2|1|NEG 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%sit:	310
+*CHI:	here honker [= horn] .
+%mor:	adv|here n|honk&dv-AGT .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%sit:	310
+*CHI:	beep@o beep@o .
+%mor:	on|beep on|beep .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+%sit:	310
+@End

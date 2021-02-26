@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00010904-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;05.00|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	20-JUL-1973
+@Types:	long, toyplay, TD
+*MOT:	Jo [: Joanna], could you do me a favor and get paper bag ?
+%mor:	n:prop|Joanna cm|cm mod|could pro:per|you v|do pro:obj|me det:art|a
+	n|favor coord|and v|get n|paper n|bag ?
+%gra:	1|5|SUBJ 2|1|LP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|DET 8|5|OBJ
+	9|5|CONJ 10|9|COORD 11|12|MOD 12|10|OBJ 13|5|PUNCT
+%sit:	347
+*CHI:	why you need paper bag, why ?
+%mor:	pro:int|why pro:per|you v|need n|paper n|bag cm|cm pro:rel|why ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|LP 7|5|ENUM 8|3|PUNCT
+%sit:	347
+*CHI:	because you have a big poo I hafta take care of .
+%mor:	conj|because pro:per|you v|have det:art|a adj|big n|poo pro:sub|I
+	mod|have~inf|to v|take n|care prep|of .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|10|SUBJ 8|10|AUX
+	9|10|INF 10|6|CMOD 11|10|OBJ 12|11|NJCT 13|3|PUNCT
+%sit:	347
+*CHI:	Blake has same hair like Dougie does .
+%mor:	n:prop|Blake aux|have&3S adj|same n|hair v|like n:prop|Dougie
+	v|do&3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|5|PUNCT
+%sit:	348
+*MOT:	who does ?
+%mor:	pro:int|who v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	348
+*CHI:	Blakey .
+%mor:	n:prop|Blakey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	348
+*CHI:	maybe he got sick and did something dangerous and he went hospital
+	.
+%mor:	adv|maybe pro:sub|he v|get&PAST adj|sick coord|and v|do&PAST
+	pro:indef|something adj|dangerous coord|and pro:sub|he v|go&PAST
+	n|hospital .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CONJ 6|5|COORD 7|6|OBJ
+	8|7|POSTMOD 9|6|CONJ 10|11|SUBJ 11|9|COORD 12|11|OBJ 13|3|PUNCT
+%sit:	349
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	349
+*MOT:	maybe he did .
+%mor:	adv|maybe pro:sub|he v|do&PAST .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	349
+*CHI:	how many cars here ?
+%mor:	pro:int|how qn|many n|car-PL adv|here ?
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|JCT 5|3|PUNCT
+%sit:	350
+*MOT:	how many ?
+%mor:	pro:int|how qn|many ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+%sit:	350
+*MOT:	quite a few .
+%mor:	adv|quite det:art|a n|few .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	350
+*CHI:	how_come ?
+%mor:	pro:int|how_come ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	350
+*MOT:	oh, I don't know .
+%mor:	co|oh cm|cm pro:sub|I mod|do~neg|not v|know .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+%sit:	350
+@End

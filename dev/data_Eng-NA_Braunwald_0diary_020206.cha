@@ -1,0 +1,253 @@
+@UTF8
+@PID:	11312/c-00010835-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FRI Friend
+@ID:	eng|Braunwald|CHI|02;02.06|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FRI|||||Friend|||
+@Date:	26-APR-1973
+@Types:	long, toyplay, TD
+*CHI:	we ride on bikes .
+%mor:	pro:sub|we v|ride prep|on n|bike-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	j5_98_81
+*CHI:	Eugene bite my toe .
+%mor:	n:prop|Eugene n|bite det:poss|my n|toe .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	891
+*CHI:	ambulance help me .
+%mor:	n|ambulance v|help pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	891
+*MOT:	Eugene bit your toe, and an ambulance helped you ?
+%mor:	n:prop|Eugene v|bite&PAST det:poss|your n|toe cm|cm coord|and
+	det:art|a n|ambulance v|help-PAST pro:per|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|LP 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|2|CJCT 10|9|OBJ 11|2|PUNCT
+%sit:	891
+*CHI:	I hadta go hopital [: hospital] .
+%mor:	pro:sub|I mod|have&PAST~inf|to v|go n|hospital .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	891
+*MOT:	what are you doing, Laura ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP cm|cm
+	n:prop|Laura ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|ENUM 7|4|PUNCT
+%sit:	892
+*CHI:	sitting in stroller, be baby .
+%mor:	part|sit-PRESP prep|in n|stroll&dv-AGT cm|cm cop|be n|baby .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|LP 5|1|ENUM 6|5|PRED 7|1|PUNCT
+%sit:	892
+*CHI:	I go get my newspaper .
+%mor:	pro:sub|I v|go v|get det:poss|my n|newspaper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+%sit:	893
+*MOT:	Laura, come on now .
+%mor:	n:prop|Laura cm|cm v|come adv|on adv|now .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+%sit:	894
+*CHI:	I'm comin(g) .
+%mor:	pro:sub|I~aux|be&1S part|come-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	894
+*CHI:	I'm coming .
+%mor:	pro:sub|I~aux|be&1S part|come-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	894
+*CHI:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	895
+*CHI:	oh no no no .
+%mor:	co|oh co|no co|no co|no .
+%gra:	1|4|COM 2|3|COM 3|4|COM 4|0|INCROOT 5|4|PUNCT
+%sit:	895
+*CHI:	here beautiful picture .
+%mor:	adv|here adj|beautiful n|picture .
+%gra:	1|2|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	895
+*CHI:	that growed [: grew] [*] .
+%mor:	pro:rel|that v|grow&PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%sit:	896
+*MOT:	oh, you're right .
+%mor:	co|oh cm|cm pro:per|you~cop|be&PRES co|right .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%sit:	896
+*MOT:	that grew .
+%mor:	pro:rel|that v|grow&PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%sit:	896
+*CHI:	I want somethin(g) else .
+%mor:	pro:sub|I v|want pro:indef|something post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|PQ 5|2|PUNCT
+%sit:	897
+*MOT:	what do you want ?
+%mor:	pro:int|what mod|do pro:per|you v|want ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	897
+*CHI:	my little teapot .
+%mor:	det:poss|my adj|little n|+n|tea+n|pot .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	897
+*CHI:	please I have my vitamin c@l ?
+%mor:	co|please pro:sub|I v|have det:poss|my n|vitamin n:let|c ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+%sit:	899
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	899
+*CHI:	please I have my vitamin c@l ?
+%mor:	co|please pro:sub|I v|have det:poss|my n|vitamin n:let|c ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+%sit:	899
+*MOT:	not right now .
+%mor:	neg|not adv|right adv|now .
+%gra:	1|3|NEG 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%sit:	899
+*CHI:	hope Andi feel better .
+%mor:	n|hope n:prop|Andi v|feel adj|good&CP .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	900
+*CHI:	make this for Andi .
+%mor:	v|make det:dem|this prep|for n:prop|Andi .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+%sit:	900
+*CHI:	this is for Andi .
+%mor:	pro:dem|this cop|be&3S prep|for n:prop|Andi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	900
+*CHI:	this for +//.
+%mor:	pro:dem|this prep|for +//.
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%sit:	900
+*CHI:	this for nobody .
+%mor:	pro:dem|this prep|for pro:indef|nobody .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	900
+*CHI:	we went Missus_Gluck's house .
+%mor:	pro:sub|we v|go&PAST adj|Missus_Gluck&dn-POSS n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	902
+*CHI:	we watched television .
+%mor:	pro:sub|we v|watch-PAST n|television .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	903
+*CHI:	this was my sister's game .
+%mor:	pro:dem|this cop|be&PAST&13S det:poss|my adj|sister&dn-POSS n|game
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	904
+*CHI:	Daddy didn't fix it yet .
+%mor:	n:prop|Daddy mod|do&PAST~neg|not v|fix pro:per|it adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%sit:	905
+*FRI:	ask Tilo her name .
+%mor:	v|ask n:prop|Tilo det:poss|her n|name .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+%sit:	906
+*CHI:	what's her name ?
+%mor:	pro:int|what~cop|be&3S det:poss|her n|name ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	906
+*FRI:	what does she do when her bottle's all finished ?
+%mor:	pro:int|what v|do&3S pro:sub|she v|do conj|when det:poss|her
+	adj|bottle&dn-POSS adv|all part|finish-PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|JCT 6|7|DET 7|5|PRED 8|9|JCT
+	9|7|XMOD 10|2|PUNCT
+%sit:	907
+*CHI:	I let her her have some more .
+%mor:	pro:sub|I v|let&ZERO pro:obj|her pro:obj|her v|have qn|some
+	pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|7|QUANT 7|5|OBJ 8|2|PUNCT
+%sit:	907
+*CHI:	Grandfather you sit next Daddy, okay ?
+%mor:	n:prop|Grandfather pro:per|you v|sit adv|next n:prop|Daddy cm|cm
+	adj|okay ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|LP 7|5|ENUM 8|3|PUNCT
+%sit:	908
+*CHI:	Grandfather and Daddy going party .
+%mor:	n:prop|Grandfather coord|and n:prop|Daddy part|go-PRESP n|party .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|XMOD 5|4|OBJ 6|1|PUNCT
+%sit:	909
+*CHI:	you going party with me .
+%mor:	pro:per|you part|go-PRESP n|party prep|with pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%sit:	910
+*FRI:	am I going to the party with you ?
+%mor:	aux|be&1S pro:sub|I part|go-PRESP prep|to det:art|the n|party
+	prep|with pro:per|you ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+%sit:	910
+*CHI:	yeah, sit middle .
+%mor:	co|yeah cm|cm v|sit n|middle .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|OBJ 5|1|PUNCT
+%sit:	910
+*CHI:	need go gas+station next .
+%mor:	mod|need v|go n|+n|gas+n|station adv|next .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	911
+*CHI:	we go Missus_Gluck's house next .
+%mor:	pro:sub|we v|go adj|Missus_Gluck&dn-POSS n|house adv|next .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%sit:	912
+*CHI:	it's Grandfather's birthday .
+%mor:	pro:per|it~cop|be&3S adj|Grandfather&dn-POSS n|+n|birth+n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%sit:	913
+*MOT:	how old is Grandfather ?
+%mor:	pro:int|how adj|old aux|be&3S n:prop|Grandfather ?
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%sit:	913
+*CHI:	I want my own .
+%mor:	pro:sub|I v|want det:poss|my adj|own .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	914
+*CHI:	I don't want yours milk .
+%mor:	pro:sub|I mod|do~neg|not v|want pro:poss|yours n|milk .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%sit:	914
+*CHI:	I don't want yours .
+%mor:	pro:sub|I mod|do~neg|not v|want pro:poss|yours .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	914
+*MOT:	you have milk .
+%mor:	pro:per|you v|have n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	914
+*CHI:	I don't want your milk in my cup .
+%mor:	pro:sub|I mod|do~neg|not v|want det:poss|your n|milk prep|in
+	det:poss|my n|cup .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%sit:	914
+*MOT:	oh, is that so ?
+%mor:	co|oh cm|cm aux|be&3S adv|that co|so ?
+%gra:	1|5|COM 2|1|LP 3|5|AUX 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+%sit:	914
+*CHI:	no no .
+%mor:	co|no co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	914
+*CHI:	I saw George .
+%mor:	pro:sub|I v|see&PAST n:prop|George .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	9161
+*MOT:	what did you do ?
+%mor:	pro:int|what mod|do&PAST pro:per|you v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	916
+*CHI:	we saw George .
+%mor:	pro:sub|we v|see&PAST n:prop|George .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	916
+*CHI:	I want my ponytail up high like Alison_Lastname have .
+%mor:	pro:sub|I v|want det:poss|my n|+n|pony+n|tail adv|up n|high v|like
+	n:prop|Alison_Lastname v|have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|JCT 6|7|SUBJ 7|2|COMP 8|9|SUBJ
+	9|7|COMP 10|2|PUNCT
+%sit:	917
+@End

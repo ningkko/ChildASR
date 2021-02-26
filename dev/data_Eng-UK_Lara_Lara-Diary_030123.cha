@@ -1,0 +1,23 @@
+@UTF8
+@PID:	11312/c-00018141-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|3;01.23|female|||Target_Child|||
+@Date:	09-JUL-1997
+@Types:	long, everyday, TD
+*CHI:	why's [*] we got some cream on ?
+%mor:	pro:int|why~cop|be&3S pro:sub|we v|get&PAST qn|some n|cream adv|on
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|6|QUANT 6|4|OBJ 7|4|JCT
+	8|2|PUNCT
+*CHI:	what (i)s that for ?
+%mor:	pro:int|what cop|be&3S pro:dem|that prep|for ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*CHI:	where 0is my drink ?
+%mor:	pro:int|where 0aux|is det:poss|my n|drink ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*CHI:	where (i)s the elephant ?
+%mor:	pro:int|where cop|be&3S det:art|the n|elephant ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@End

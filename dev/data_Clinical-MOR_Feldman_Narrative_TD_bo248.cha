@@ -1,0 +1,1289 @@
+@UTF8
+@PID:	11312/c-00005016-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Bea Target_Child , NAN Investigator , MOT Mother
+@ID:	eng|Narrative|CHI|4;00.||||Target_Child|||
+@ID:	eng|Narrative|NAN|||||Investigator|||
+@ID:	eng|Narrative|MOT||female|||Mother|||
+@Comment:	Control: full term , healthy newborn , sibling of subject
+@Time Start:	00:00
+@Types:	cross, narrative, TD
+*NAN:	tell me your best story about that picture .
+%mor:	v|tell pro:obj|me det:poss|your adj|good&SP n|story prep|about
+	det:dem|that n|picture .
+%gra:	1|0|ROOT 2|1|OBJ2 3|5|DET 4|5|MOD 5|1|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*CHI:	there (i)s a little girl and a little boy and [/] <and a boy> [//]
+	and a grandfather .
+%mor:	pro:exist|there cop|be&3S det:art|a adj|little n|girl coord|and
+	det:art|a adj|little n|boy coord|and det:art|a grand#n|father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|9|CONJ 11|12|DET 12|10|COORD 13|2|PUNCT
+*NAN:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	tell me some more .
+%mor:	v|tell pro:obj|me qn|some pro:indef|more .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+*CHI:	<and there was a man> [//] and the grandfather got an orange in his
+	hand .
+%mor:	coord|and det:art|the grand#n|father v|get&PAST det:art|a n|orange
+	prep|in det:poss|his n|hand .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*NAN:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	because they were making a cake .
+%mor:	conj|because pro:sub|they aux|be&PAST part|make-PRESP det:art|a
+	n|cake .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*NAN:	tell me some more .
+%mor:	v|tell pro:obj|me qn|some pro:indef|more .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+*NAN:	is that it ?
+%mor:	cop|be&3S comp|that pro:per|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+@Bg:	Playground
+*NAN:	remember I can't see this picture .
+%mor:	v|remember pro:sub|I mod|can~neg|not v|see det:dem|this n|picture .
+%gra:	1|0|ROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|COMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*NAN:	you hafta tell me all about it .
+%mor:	pro:per|you mod|have~inf|to v|tell pro:obj|me adv|all prep|about
+	pro:per|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*CHI:	there (i)s a little boy and two little girls and their daddy .
+%mor:	pro:exist|there cop|be&3S det:art|a adj|little n|boy coord|and
+	det:num|two adj|little n|girl-PL coord|and det:poss|their n|daddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|CONJ 7|9|QUANT 8|9|MOD
+	9|6|COORD 10|5|CONJ 11|12|DET 12|10|COORD 13|2|PUNCT
+*CHI:	and the little boy slides down +/.
+%mor:	coord|and det:art|the adj|little n|boy v|slide-3S adv|down +/.
+%gra:	1|5|LINK 2|4|DET 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	he slides down the slide and the little girl <don't slides> [*]
+	down the slide and the little girl (i)s riding a horsie .
+%mor:	pro:sub|he v|slide-3S prep|down det:art|the n|slide coord|and
+	det:art|the adj|little n|girl mod|do~neg|not v|slide-3S prep|down
+	det:art|the n|slide coord|and det:art|the adj|little n|girl
+	aux|be&3S part|ride-PRESP det:art|a n|horse-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|12|LINK 7|9|DET 8|9|MOD
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|2|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|21|LINK 17|19|DET 18|19|MOD 19|21|SUBJ 20|21|AUX 21|12|CJCT 22|23|DET
+	23|21|OBJ 24|2|PUNCT
+%err:	VP-verb+form+error
+*CHI:	and their daddy is pushing her .
+%mor:	coord|and det:poss|their n|daddy aux|be&3S part|push-PRESP
+	pro:obj|her .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*NAN:	you told me all about that picture .
+%mor:	pro:per|you v|tell&PAST pro:obj|me adv|all prep|about det:dem|that
+	n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*NAN:	can I peek ?
+%mor:	mod|can pro:sub|I v|peek ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@Eg:	Playground
+@Bg:	McDonalds
+*CHI:	my sister wants to eat at McDonalds every day .
+%mor:	det:poss|my n|sister v|want-3S inf|to v|eat prep|at
+	n:prop|McDonalds qn|every n|day .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|9|QUANT
+	9|3|JCT 10|3|PUNCT
+%act:	as she removes items from bag
+*NAN:	your sister wants to eat at McDonalds every day .
+%mor:	det:poss|your n|sister v|want-3S inf|to v|eat prep|at
+	n:prop|McDonalds qn|every n|day .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|9|QUANT
+	9|3|JCT 10|3|PUNCT
+*NAN:	that (i)s her favorite place to eat ?
+%mor:	pro:dem|that cop|be&3S det:poss|her adj|favorite n|place inf|to
+	v|eat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|INF 7|5|XMOD 8|2|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	what do you like to eat Bea ?
+%mor:	pro:int|what mod|do pro:per|you v|like inf|to v|eat n:prop|Bea ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*CHI:	and I love McDonalds too .
+%mor:	coord|and pro:sub|I v|love n:prop|McDonalds post|too .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*CHI:	one (.) two +...
+%mor:	det:num|one det:num|two +...
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	and there (i)s a straw ?
+%mor:	coord|and adv|there cop|be&3S det:art|a n|straw ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*NAN:	oh my_goodness (.) where do you think I got all of this stuff ?
+%mor:	co|oh co|my_goodness pro:int|where mod|do pro:per|you v|think
+	pro:sub|I v|get&PAST adv|all prep|of det:dem|this n|stuff ?
+%gra:	1|6|COM 2|6|COM 3|6|JCT 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|JCT 10|9|JCT 11|12|DET 12|10|POBJ 13|6|PUNCT
+*CHI:	&-uh (.) at McDonalds .
+%mor:	prep|at n:prop|McDonalds .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*NAN:	at McDonalds .
+%mor:	prep|at n:prop|McDonalds .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*NAN:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	what kind of stuff do we have here ?
+%mor:	pro:int|what n|kind prep|of n|stuff mod|do pro:sub|we v|have
+	adv|here ?
+%gra:	1|7|LINK 2|7|SUBJ 3|2|NJCT 4|3|POBJ 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*CHI:	a spoon .
+%mor:	det:art|a n|spoon .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*NAN:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and a fork .
+%mor:	coord|and det:art|a n|fork .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*NAN:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and another fork .
+%mor:	coord|and qn|another n|fork .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*CHI:	and a knife .
+%mor:	coord|and det:art|a n|knife .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*NAN:	what do you think was in there ?
+%mor:	pro:int|what mod|do pro:per|you v|think cop|be&PAST&13S prep|in
+	n|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%com:	as Bea picks up fry box
+*CHI:	french+fries .
+%mor:	n|+adj|french+n|fry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	you're right !
+%mor:	pro:per|you~cop|be&PRES co|right !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	and french+fries in there .
+%mor:	coord|and n|+adj|french+n|fry-PL prep|in n|there .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+%act:	picks up a bag for french frys
+*CHI:	<and a> [/] and a napkin and a cup .
+%mor:	coord|and det:art|a n|napkin coord|and det:art|a n|cup .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*CHI:	and a straw and a bag and another bag .
+%mor:	coord|and det:art|a n|straw coord|and det:art|a n|bag coord|and
+	qn|another n|bag .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|3|CONJ
+	8|9|QUANT 9|7|COORD 10|1|PUNCT
+*NAN:	what do you think was in here ?
+%mor:	pro:int|what mod|do pro:per|you v|think cop|be&PAST&13S prep|in
+	n|here ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|5|JCT 7|6|POBJ 8|4|PUNCT
+%act:	touches happy meal box
+*CHI:	this stuff .
+%mor:	det:dem|this n|stuff .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*NAN:	a Happy_meal maybe ?
+%mor:	det:art|a n:prop|Happy_meal adv|maybe ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*CHI:	yes (.) then why do you got a Happy_meal ?
+%mor:	co|yes adv:tem|then pro:int|why mod|do pro:per|you v|get&PAST
+	det:art|a n:prop|Happy_meal ?
+%gra:	1|6|COM 2|6|JCT 3|6|JCT 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*NAN:	why do you think ?
+%mor:	pro:int|why mod|do pro:per|you v|think ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*NAN:	I got so we could let the kids see all of this stuff .
+%mor:	pro:sub|I v|get&PAST conj|so pro:sub|we mod|could v|let&ZERO
+	det:art|the n|kid-PL v|see pro:indef|all prep|of det:dem|this
+	n|stuff .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CJCT 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|9|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|2|PUNCT
+*NAN:	are you ready to put this stuff in the bag and I'll tell you what
+	our next thing is ?
+%mor:	cop|be&PRES pro:per|you adj|ready inf|to v|put&ZERO det:dem|this
+	n|stuff prep|in det:art|the n|bag coord|and pro:sub|I~mod|will
+	v|tell pro:per|you pro:int|what det:poss|our adj|next n|thing
+	cop|be&3S ?
+%gra:	1|14|LINK 2|14|SUBJ 3|14|JCT 4|5|INF 5|3|XMOD 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|3|CONJ 12|11|COORD 13|14|AUX 14|0|ROOT 15|14|OBJ
+	16|20|LINK 17|19|DET 18|19|MOD 19|20|SUBJ 20|14|COMP 21|14|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	okay (.) help me put the things away .
+%mor:	co|okay v|help pro:obj|me v|put&ZERO det:art|the n|thing-PL
+	adv|away .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|2|PUNCT
+*NAN:	an bag .
+%mor:	det:art|a n|bag .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*NAN:	and a cup .
+%mor:	coord|and det:art|a n|cup .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*NAN:	french+fries .
+%mor:	n|+adj|french+n|fry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	what was that ?
+%mor:	pro:int|what cop|be&PAST&13S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	a [/] a [/] a +...
+%mor:	det:art|a +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	a napkin .
+%mor:	det:art|a n|napkin .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*NAN:	more french+fries (.) a straw (.) a bag .
+%mor:	qn|more n|+adj|french+n|fry-PL det:art|a n|straw det:art|a n|bag .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|DET 4|2|ENUM 5|6|DET 6|4|OBJ 7|2|PUNCT
+*NAN:	now we got it all put away .
+%mor:	adv|now pro:sub|we v|get&PAST pro:per|it adv|all v|put&ZERO
+	adv|away .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|CJCT 7|6|JCT 8|3|PUNCT
+*NAN:	I want you to tell me what happens when you go to McDonalds the
+	first thing you hafta do and the next thing you hafta do and the
+	next thing you hafta do until you're all done at McDonalds .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me pro:int|what
+	v|happen-3S conj|when pro:per|you v|go prep|to n:prop|McDonalds
+	det:art|the adj|first n|thing pro:per|you mod|have~inf|to v|do
+	coord|and det:art|the adj|next n|thing pro:per|you mod|have~inf|to
+	v|do coord|and det:art|the adj|next n|thing pro:per|you
+	mod|have~inf|to v|do conj|until pro:per|you~aux|be&PRES adv|all
+	part|do&PASTP prep|at n:prop|McDonalds .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|8|LINK 8|5|COMP
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|11|JCT 13|12|POBJ 14|16|DET 15|16|MOD
+	16|11|OBJ 17|20|SUBJ 18|20|AUX 19|20|INF 20|16|CMOD 21|20|CONJ 22|24|DET
+	23|24|MOD 24|21|COORD 25|28|SUBJ 26|28|AUX 27|28|INF 28|24|CMOD
+	29|28|CONJ 30|32|DET 31|32|MOD 32|29|COORD 33|36|SUBJ 34|36|AUX 35|36|INF
+	36|32|CMOD 37|41|LINK 38|41|SUBJ 39|41|AUX 40|41|JCT 41|36|COMP 42|41|JCT
+	43|42|POBJ 44|2|PUNCT
+*CHI:	first I gotta go get some food .
+%mor:	adv|first pro:sub|I mod|got~inf|to v|go v|get qn|some n|food .
+%gra:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|INF 5|6|SRL 6|0|ROOT 7|8|QUANT 8|6|OBJ
+	9|6|PUNCT
+*CHI:	and then pay .
+%mor:	coord|and adv:tem|then v|pay .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*NAN:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	then we gotta go outside .
+%mor:	adv:tem|then pro:sub|we mod|got~inf|to v|go adv|outside .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	then we gotta slide .
+%mor:	adv:tem|then pro:sub|we mod|got~inf|to v|slide .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PUNCT
+*CHI:	then after we're done playing and we're done eating we gotta go
+	home .
+%mor:	adv:tem|then conj|after pro:sub|we~aux|be&PRES part|do&PASTP
+	part|play-PRESP coord|and pro:sub|we~aux|be&PRES part|do&PASTP
+	part|eat-PRESP pro:sub|we mod|got~inf|to v|go adv|home .
+%gra:	1|2|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|XJCT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|10|XJCT 12|15|SUBJ 13|15|AUX 14|15|INF 15|11|COMP
+	16|15|JCT 17|5|PUNCT
+*NAN:	you did it !
+%mor:	pro:per|you v|do&PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+@Eg:	McDonalds
+@Bg:	Bath
+*NAN:	you can take everything out .
+%mor:	pro:per|you mod|can v|take pro:indef|everything adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	0 . [+ r]
+%act:	removes items from bag
+*CHI:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	what is all that stuff ?
+%mor:	pro:int|what cop|be&3S qn|all pro:dem|that v|stuff ?
+%gra:	1|2|SUBJ 2|5|SUBJ 3|4|QUANT 4|2|PRED 5|0|ROOT 6|5|PUNCT
+*CHI:	toothpaste .
+%mor:	n|+n|tooth+n|paste .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	bless_you .
+%mor:	co|bless_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Bea sneezes
+*CHI:	<that (i)s> [/] that (i)s soap .
+%mor:	pro:dem|that cop|be&3S v|soap .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	and soap and cream and toothbrush and powder .
+%mor:	coord|and n|soap coord|and n|cream coord|and n|+n|tooth+n|brush
+	coord|and n|powder .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|2|CONJ 6|5|COORD 7|2|CONJ
+	8|7|COORD 9|1|PUNCT
+*NAN:	wow (.) so where do you think we see all that stuff ?
+%mor:	co|wow co|so pro:int|where mod|do pro:per|you v|think pro:sub|we
+	v|see qn|all pro:dem|that v|stuff ?
+%gra:	1|6|COM 2|6|COM 3|6|JCT 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|10|QUANT 10|11|SUBJ 11|8|COMP 12|6|PUNCT
+*CHI:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	where do we see all that stuff ?
+%mor:	pro:int|where mod|do pro:sub|we v|see qn|all pro:dem|that v|stuff ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*NAN:	when we take a +...
+%mor:	conj|when pro:sub|we v|take det:art|a +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 . [+ trn]
+%gpx:	shrugs shoulders
+*NAN:	do you think we'd see it when we take a bath ?
+%mor:	mod|do pro:per|you v|think pro:sub|we~mod|genmod v|see pro:per|it
+	conj|when pro:sub|we v|take det:art|a n|bath ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|12|DET 12|10|OBJ 13|3|PUNCT
+*CHI:	0 . [+ trn]
+%gpx:	nods head "yes"
+*NAN:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yes . [+ i]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	you know what ?
+%mor:	pro:per|you v|know pro:int|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	<my sister> [/] my sister pinches my brothers on his but .
+%mor:	det:poss|my n|sister v|pinch-3S det:poss|my n|brother-PL prep|on
+	det:poss|his conj|but .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*NAN:	she does ?
+%mor:	pro:sub|she v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	and then he pinches me and my sisters but .
+%mor:	coord|and adv:tem|then pro:sub|he v|pinch-3S pro:obj|me coord|and
+	det:poss|my n|sister-PL conj|but .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|CONJ 7|8|DET 8|9|SUBJ
+	9|6|COORD 10|4|PUNCT
+*CHI:	and we pinch hims [: his] [* +'s] back .
+%mor:	coord|and pro:sub|we v|pinch det:poss|his n|back .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%err:	NP-pronoun+choice+error
+*NAN:	you_all pinch each_other ?
+%mor:	pro:per|you_all v|pinch pro:refl|each_other ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	oh my_goodness Bea .
+%mor:	co|oh co|my_goodness n:prop|Bea .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*NAN:	Bea .
+%mor:	n:prop|Bea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	I want you to tell me all about taking a bath .
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me adv|all
+	adv|about part|take-PRESP det:art|a n|bath .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|9|JCT 8|9|JCT
+	9|5|COMP 10|11|DET 11|9|OBJ 12|2|PUNCT
+*NAN:	the first thing you do when you take a bath and then the next thing
+	and then the next thing +...
+%mor:	det:art|the adj|first n|thing pro:per|you v|do conj|when
+	pro:per|you v|take det:art|a n|bath coord|and adv:tem|then
+	det:art|the adj|next n|thing coord|and adv:tem|then det:art|the
+	adj|next n|thing +...
+%gra:	1|3|DET 2|3|MOD 3|5|OBJ 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|10|DET 10|8|OBJ 11|8|CONJ 12|11|COORD 13|15|DET 14|15|MOD 15|12|OM
+	16|15|CONJ 17|16|COORD 18|20|DET 19|20|MOD 20|15|APP 21|5|PUNCT
+*CHI:	first we get the bath soap out and two powders and the cream .
+%mor:	adv|first pro:sub|we v|get det:art|the n|bath v|soap adv|out
+	coord|and det:num|two n|powder-PL coord|and det:art|the n|cream .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|6|CONJ
+	9|10|QUANT 10|8|COORD 11|10|CONJ 12|13|DET 13|11|COORD 14|3|PUNCT
+*CHI:	<then we> [/] then we get in the bath water .
+%mor:	adv:tem|then pro:sub|we v|get prep|in det:art|the n|bath n|water .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	and the we wash ourselves and then we play .
+%mor:	coord|and det:art|the pro:sub|we v|wash pro:refl|ourselves
+	coord|and adv:tem|then pro:sub|we v|play .
+%gra:	1|4|LINK 2|4|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|JCT 8|9|SUBJ
+	9|4|CJCT 10|4|PUNCT
+*CHI:	then we dry off and go we wash some tv .
+%mor:	adv:tem|then pro:sub|we v|dry adv|off coord|and v|go pro:sub|we
+	v|wash qn|some n|tv .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|8|SUBJ 8|6|COMP
+	9|10|QUANT 10|8|OBJ 11|3|PUNCT
+*NAN:	that (i)s great .
+%mor:	pro:dem|that cop|be&3S adj|great .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@Eg:	Bath
+@Bg:	ReplicaTask
+*NAN:	okay (.) take everything out_of the farm Bea .
+%mor:	co|okay v|take pro:indef|everything prep|out_of det:art|the n|farm
+	n:prop|Bea .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|6|APP 8|2|PUNCT
+*CHI:	I don't know how to put these nets out .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|how inf|to v|put&ZERO
+	pro:dem|these v|net-3S adv|out .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|9|SUBJ
+	9|7|COMP 10|9|JCT 11|4|PUNCT
+%act:	placing pieces of fence on the table
+*CHI:	a horse .
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	what (i)s Bea doing ?
+%mor:	pro:int|what aux|be&3S n:prop|Bea part|do-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*NAN:	www .
+%com:	explains where Bea is
+*NAN:	so what (i)s in the farm ?
+%mor:	adv|so pro:int|what cop|be&3S prep|in det:art|the n|farm ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	a talking [//] a [/] a walking horse .
+%mor:	det:art|a det:art|a n:gerund|walk-PRESP n|horse .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%com:	walks cow across table on hind legs
+*NAN:	oh_no .
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	what else is in here ?
+%mor:	pro:int|what post|else aux|be&3S prep|in n|here ?
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	&mm +...
+%act:	reaches in to barn
+*NAN:	what (i)s that Bea ?
+%mor:	pro:int|what cop|be&3S comp|that n:prop|Bea ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*CHI:	a walking sheep .
+%mor:	det:art|a n:gerund|walk-PRESP n|sheep .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	walks the sheep across the table
+*NAN:	oh my_goodness .
+%mor:	co|oh co|my_goodness .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	and +...
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and a walking &-uh dog .
+%mor:	coord|and det:art|a n:gerund|walk-PRESP n|dog .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*NAN:	wow what did you tell me this was ?
+%mor:	co|wow pro:int|what mod|do&PAST pro:per|you v|tell pro:obj|me
+	pro:dem|this cop|be&PAST&13S ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|SUBJ 8|5|COMP
+	9|5|PUNCT
+%act:	picks up the cow
+*CHI:	a walking horse .
+%mor:	det:art|a n:gerund|walk-PRESP n|horse .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*NAN:	here (i)s the horse .
+%mor:	adv|here cop|be&3S det:art|the n|horse .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	picks up the horse
+*CHI:	a walking cow .
+%mor:	det:art|a n:gerund|walk-PRESP n|cow .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*NAN:	a cow (.) you're right .
+%mor:	det:art|a n|cow pro:per|you~cop|be&PRES co|right .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|PRED 6|2|PUNCT
+*CHI:	and a monkey .
+%mor:	coord|and det:art|a n|monkey .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*NAN:	can I have the monkey ?
+%mor:	mod|can pro:sub|I v|have det:art|the n|monkey ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up the monkey
+*CHI:	my brother has this .
+%mor:	det:poss|my n|brother aux|have&3S pro:dem|this .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%act:	takes out plastic sheet that looks like a farm yard
+*NAN:	your brother has this ?
+%mor:	det:poss|your n|brother aux|have&3S pro:dem|this ?
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	how old (i)s your brother ?
+%mor:	pro:int|how adj|old aux|be&3S det:poss|your n|brother ?
+%gra:	1|2|JCT 2|5|SUBJ 3|5|AUX 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*NAN:	is he little ?
+%mor:	cop|be&3S pro:sub|he adj|little ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CHI:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	is he littler than you ?
+%mor:	cop|be&3S pro:sub|he adj|little-CP prep|than pro:per|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|POSTMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	no . [+ q]
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . [+ r]
+%act:	reaches hand above her head
+*NAN:	he (i)s taller .
+%mor:	pro:sub|he cop|be&3S adj|tall-CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	not too big .
+%mor:	neg|not adv|too adj|big .
+%gra:	1|3|NEG 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*NAN:	not too big (.) huh ?
+%mor:	neg|not adv|too adj|big co|huh ?
+%gra:	1|3|NEG 2|3|JCT 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*NAN:	do you know what his this ?
+%mor:	mod|do pro:per|you v|know pro:int|what det:poss|his pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|DET 6|3|COMP 7|3|PUNCT
+*NAN:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	this is the garden .
+%mor:	pro:dem|this cop|be&3S det:art|the n|garden .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*NAN:	who are they ?
+%mor:	pro:int|who cop|be&PRES pro:sub|they ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	as Bea picks up toy figure
+*CHI:	<the wife and the mother> [//] the wife and the father .
+%mor:	det:art|the n|wife coord|and det:art|the n|father .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*NAN:	the wife and the father .
+%mor:	det:art|the n|wife coord|and det:art|the n|father .
+%gra:	1|2|DET 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*NAN:	do you think they might be the farmers ?
+%mor:	mod|do pro:per|you v|think pro:sub|they mod|might cop|be
+	det:art|the n|farm&dv-AGT-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|DET 8|6|PRED
+	9|3|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	they could be the farmers .
+%mor:	pro:sub|they mod|could cop|be det:art|the n|farm&dv-AGT-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*NAN:	can I tell you my part of the story ?
+%mor:	mod|can pro:sub|I v|tell pro:per|you det:poss|my n|part prep|of
+	det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	okay (.) once upon a time there were all kind of animals on a big
+	(.) huge farm (.) even a sheep that walks .
+%mor:	co|okay adv|once prep|upon det:art|a n|time adv|there cop|be&PAST
+	post|all n|kind prep|of n|animal-PL prep|on det:art|a adj|big
+	adj|huge n|farm adv|even det:art|a n|sheep pro:rel|that v|walk-3S .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|2|INCROOT 4|5|DET 5|3|POBJ 6|7|JCT 7|3|ROOT
+	8|7|JCT 9|8|INCROOT 10|9|NJCT 11|10|POBJ 12|9|NJCT 13|16|DET 14|16|MOD
+	15|16|MOD 16|12|POBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|21|LINK 21|19|CMOD
+	22|9|PUNCT
+*CHI:	wait (.) I gotta fix him .
+%mor:	v|wait pro:sub|I mod|got~inf|to v|fix pro:obj|him .
+%gra:	1|0|ROOT 2|5|SUBJ 3|5|AUX 4|5|INF 5|1|COMP 6|5|OBJ 7|1|PUNCT
+%act:	picks up the sheep
+*NAN:	when along came a big brown monkey who jumped right in to the
+	middle of the farm .
+%mor:	conj|when adv|along v|come&PAST det:art|a adj|big adj|brown
+	n|monkey pro:rel|who v|jump-PAST adj|right adv|in prep|to
+	det:art|the n|middle prep|of det:art|the n|farm .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|9|LINK
+	9|7|CMOD 10|9|JCT 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|3|PUNCT
+*NAN:	oh_no (.) now what (i)s gonna happen ?
+%mor:	co|oh_no adv|now pro:int|what aux|be&3S part|go-PRESP~inf|to
+	v|happen ?
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+*CHI:	oh_no (.) now what (i)s gonna happen ?
+%mor:	co|oh_no adv|now pro:int|what aux|be&3S part|go-PRESP~inf|to
+	v|happen ?
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+*CHI:	+" there is just a monkey around .
+%mor:	pro:exist|there cop|be&3S adv|just det:art|a n|monkey adv|around .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|DET 5|2|PRED 6|5|NJCT 7|2|PUNCT
+*CHI:	that (i)s the wife saying +...
+%mor:	pro:dem|that cop|be&3S det:art|the n|wife part|say-PRESP +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*CHI:	he [//] she knocked him in the garden .
+%mor:	pro:sub|she v|knock-PAST pro:obj|him prep|in det:art|the n|garden .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	has toy figure knock over the monkey
+*CHI:	the monkey (i)s in the garden .
+%mor:	det:art|the n|monkey cop|be&3S prep|in det:art|the n|garden .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*NAN:	oh_no .
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	so now <he (i)s> [/] <he (i)s> [/] he (i)s trying to beat the
+	monkey up .
+%mor:	adv|so adv|now pro:sub|he aux|be&3S part|try-PRESP prep|to n|beat
+	det:art|the n|monkey adv|up .
+%gra:	1|2|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|9|DET
+	9|5|OBJ 10|9|NJCT 11|5|PUNCT
+*NAN:	oh_no .
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	darn old monkey !
+%mor:	n|darn adj|old n|monkey !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	now the horse was just going like this +"/.
+%mor:	adv|now det:art|the n|horse cop|be&PAST&13S adv|just
+	n:gerund|go-PRESP co|like pro:dem|this +"/.
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|COM 8|4|PRED
+	9|4|PUNCT
+*CHI:	+" he did .
+%mor:	pro:sub|he v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	they're dancing .
+%mor:	pro:sub|they~aux|be&PRES part|dance-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*NAN:	oh my .
+%mor:	co|oh det:poss|my .
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+%act:	has monkey and lady dance
+*CHI:	<now he> [//] now she knocks down the father .
+%mor:	adv|now pro:sub|she v|knock-3S prep|down det:art|the n|father .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*NAN:	oh_no .
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<now she (i)s> [/] <now she (i)s> [/] now she (i)s knocking down
+	the animals .
+%mor:	adv|now pro:sub|she aux|be&3S part|knock-PRESP prep|down
+	det:art|the n|animal-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*NAN:	oh my_goodness (.) why ?
+%mor:	co|oh co|my_goodness pro:rel|why ?
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*NAN:	oh_no .
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	she (i)s angry .
+%mor:	pro:sub|she cop|be&3S adj|angry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	<then the> [/] the animals are [/] are running in the barn .
+%mor:	det:art|the n|animal-PL aux|be&PRES part|run-PRESP prep|in
+	det:art|the n|barn .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	run here animals .
+%mor:	v|run adv|here n|animal-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	run animals .
+%mor:	v|run n|animal-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	run [/] run [/] run .
+%mor:	v|run .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	run animals .
+%mor:	v|run n|animal-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	run .
+%mor:	v|run .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	why are the animals running ?
+%mor:	pro:int|why aux|be&PRES det:art|the n|animal-PL part|run-PRESP ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	here (i)s food for the animals .
+%mor:	adv|here cop|be&3S n|food prep|for det:art|the n|animal-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	places trough in the barn
+*CHI:	put these away .
+%mor:	v|put&ZERO pro:dem|these adv|away .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	put them in the farm house .
+%mor:	v|put&ZERO pro:obj|them prep|in det:art|the n|farm n|house .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|PUNCT
+%act:	places animal in barn
+*CHI:	xxx .
+*CHI:	the other fence .
+%mor:	det:art|the qn|other n|fence .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%act:	picks up piece of fence
+*CHI:	he doesn't want the monkey to scare them .
+%mor:	pro:sub|he mod|do&3S~neg|not v|want det:art|the n|monkey inf|to
+	v|scare pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|4|PUNCT
+*CHI:	here (.) they locked up for the night .
+%mor:	adv|here pro:sub|they v|lock-PAST adv|up prep|for det:art|the
+	n|night .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*NAN:	they're locked up for the night ?
+%mor:	pro:sub|they~aux|be&PRES part|lock-PASTP adv|up prep|for
+	det:art|the n|night ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	yes <because she is> [/] (be)cause the wife (i)s bad .
+%mor:	co|yes conj|because det:art|the n|wife cop|be&3S adj|bad .
+%gra:	1|5|COM 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*NAN:	oh_no .
+%mor:	co|oh_no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the monkey made the wife bad .
+%mor:	det:art|the n|monkey v|make&PAST det:art|the n|wife adj|bad .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|POSTMOD 7|3|PUNCT
+*NAN:	he did ?
+%mor:	pro:sub|he v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	monkeys are mean .
+%mor:	n|monkey-PL cop|be&PRES adj|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*NAN:	they are ?
+%mor:	pro:sub|they cop|be&PRES ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	the monkeys are mean to the man .
+%mor:	det:art|the n|monkey-PL cop|be&PRES adj|mean prep|to det:art|the
+	n|man .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	<the wife was> [//] now he (i)s beating her .
+%mor:	adv|now pro:sub|he aux|be&3S part|beat-PRESP pro:obj|her .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	now they're gonna kiss some more .
+%mor:	adv|now pro:sub|they~aux|be&PRES part|go-PRESP~inf|to v|kiss
+	qn|some pro:indef|more .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|QUANT 8|6|OBJ
+	9|4|PUNCT
+*NAN:	oh_my .
+%mor:	co|oh_my .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	now [/] now she (i)s beating him up .
+%mor:	adv|now pro:sub|she aux|be&3S part|beat-PRESP pro:obj|him adv|up .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	now they're friends .
+%mor:	adv|now pro:sub|they~cop|be&PRES n|friend-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	I'm gonna +...
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OM 5|3|PUNCT
+%act:	opens the barn
+*CHI:	now she gets all the animals .
+%mor:	adv|now pro:sub|she v|get-3S qn|all det:art|the n|animal-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	now +...
+%mor:	adv|now +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	now she goes right in the house .
+%mor:	adv|now pro:sub|she v|go-3S adv|right prep|in det:art|the n|house .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%act:	places the lady in the barn
+*CHI:	and now she closes the door up so_that mean monkey won't get in
+	there no more .
+%mor:	coord|and adv|now pro:sub|she v|close-3S det:art|the n|door adv|up
+	conj|so_that adj|mean n|monkey mod|will~neg|not v|get prep|in
+	n|there qn|no pro:indef|more .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|13|LINK
+	9|10|MOD 10|13|SUBJ 11|13|AUX 12|11|NEG 13|4|CJCT 14|13|JCT 15|14|POBJ
+	16|17|QUANT 17|13|CJCT 18|4|PUNCT
+*NAN:	oh (.) okay .
+%mor:	co|oh co|okay .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*NAN:	is that the end of our story about the farm ?
+%mor:	cop|be&3S comp|that det:art|the n|end prep|of det:poss|our n|story
+	prep|about det:art|the n|farm ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|4|NJCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+@Eg:	ReplicaTask
+@Bg:	Anecdote
+*NAN:	when is your birthday ?
+%mor:	conj|when cop|be&3S det:poss|your n|+n|birth+n|day ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	I had two birthdays already .
+%mor:	pro:sub|I v|have&PAST det:num|two n|+n|birth+n|day-PL adv|already .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*CHI:	I had Tiffany on my birth(day) (.) my doggy on my cake .
+%mor:	pro:sub|I v|have&PAST n:prop|Tiffany prep|on det:poss|my
+	n|+n|birth+n|day det:poss|my adj|dog&dn-Y prep|on det:poss|my n|cake
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|8|DET 8|4|POBJ
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	and I had a ballerina on my cake .
+%mor:	coord|and pro:sub|I v|have&PAST det:art|a n|ballerina prep|on
+	det:poss|my n|cake .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*NAN:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yes (.) the ballerina (i)s at my mommy's boyfriend's house .
+%mor:	co|yes det:art|the n|ballerina cop|be&3S prep|at det:poss|my
+	adj|mommy&dn-POSS adj|boyfriend&dn-POSS n|house .
+%gra:	1|4|COM 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|4|PUNCT
+*NAN:	it is ?
+%mor:	pro:per|it cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	yes (.) she doesn't even live with him .
+%mor:	co|yes pro:sub|she mod|do&3S~neg|not v|even v|live prep|with
+	pro:obj|him .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*NAN:	well it something you can look at his house and play with (.) huh ?
+%mor:	co|well pro:per|it pro:indef|something pro:per|you mod|can v|look
+	prep|at det:poss|his n|house coord|and n|play prep|with co|huh ?
+%gra:	1|6|COM 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|CONJ 11|10|COORD 12|11|JCT 13|12|POBJ 14|6|PUNCT
+*CHI:	yes (.) and he got Seymour .
+%mor:	co|yes coord|and pro:sub|he v|get&PAST n:prop|Seymour .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*NAN:	he does ?
+%mor:	pro:sub|he v|do&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	Seymour (i)s a dog .
+%mor:	n:prop|Seymour cop|be&3S det:art|a n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*NAN:	oh my_goodness .
+%mor:	co|oh co|my_goodness .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	Seymour (i)s a play+mate .
+%mor:	n:prop|Seymour cop|be&3S det:art|a n|+n|play+n|mate .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	he (i)s a play+mate dog .
+%mor:	pro:sub|he cop|be&3S det:art|a n|+n|play+n|mate n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	<because he> [//] he (i)s Seymour that turns radios on .
+%mor:	pro:sub|he cop|be&3S n:prop|Seymour pro:rel|that v|turn-3S
+	n|radio-PL prep|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|LINK 5|3|CMOD 6|5|OBJ 7|5|JCT 8|2|PUNCT
+*CHI:	he (i)s a radio dog .
+%mor:	pro:sub|he cop|be&3S det:art|a n|radio n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*NAN:	Seymour (i)s a radio dog ?
+%mor:	n:prop|Seymour cop|be&3S det:art|a n|radio n|dog ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*NAN:	he can turn radios and things on ?
+%mor:	pro:sub|he n|can n|turn n|radio-PL coord|and n|thing-PL adv|on ?
+%gra:	1|4|SUBJ 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|JCT 8|4|PUNCT
+*NAN:	I've never saw any thing like that in my life !
+%mor:	pro:sub|I~aux|have adv|never v|saw qn|any n|thing prep|like
+	pro:dem|that prep|in det:poss|my n|life !
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|JCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+@Eg:	Anecdote
+@Bg:	Coloring
+*MOT:	what are you gonna draw a picture of ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP~inf|to v|draw
+	det:art|a n|picture prep|of ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|4|PUNCT
+*CHI:	a picture .
+%mor:	det:art|a n|picture .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	a nice sticker .
+%mor:	det:art|a adj|nice v|sticker .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*MOT:	a nice sticker .
+%mor:	det:art|a adj|nice v|sticker .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+*CHI:	then I'm gonna make eyes (.) mouth .
+%mor:	adv:tem|then pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make
+	n|eye-PL v|mouth .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|6|COMP
+	9|4|PUNCT
+*CHI:	over her eyes .
+%mor:	prep|over det:poss|her n|eye-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	eye+lashes .
+%mor:	n|+n|eye+n|lash-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%tim:	00:01:00
+*CHI:	then I'm gonna make a beautiful smile .
+%mor:	adv:tem|then pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make
+	det:art|a adj|beautiful n|smile .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+*MOT:	a beautiful smile (.) huh ?
+%mor:	det:art|a adj|beautiful n|smile co|huh ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|COM 5|3|PUNCT
+*CHI:	and this is Goldilocks .
+%mor:	coord|and pro:dem|this cop|be&3S n:prop|Goldilocks .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%act:	shows picture to Mot
+*MOT:	<that is> [//] that (i)s Goldilocks .
+%mor:	pro:dem|that cop|be&3S n:prop|Goldilocks .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what is she missing ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|miss-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*CHI:	a nose .
+%mor:	det:art|a n|nose .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	wanna give her some hair (.) maybe ?
+%mor:	v|want~inf|to v|give pro:obj|her qn|some n|hair adv|maybe ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ2 5|6|QUANT 6|3|OBJ 7|3|JCT 8|1|PUNCT
+*CHI:	I want her to be a bald+headed Goldilocks .
+%mor:	pro:sub|I v|want pro:obj|her inf|to cop|be det:art|a
+	adj|+adj|bald+adj|headed n:prop|Goldilocks .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|8|DET 7|8|MOD 8|5|PRED
+	9|2|PUNCT
+*MOT:	a bald+headed Goldilocks .
+%mor:	det:art|a adj|+adj|bald+adj|headed n:prop|Goldilocks .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	okay (.) what (i)s next ?
+%mor:	co|okay pro:int|what cop|be&3S adv|next ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	now I'm gonna make you now .
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make pro:per|you
+	adv|now .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*CHI:	<I'm gonna make> [/] <I'm gonna make> [/] <I'm gonna make zero> [/]
+	I'm gonna make zero a [/] a [/] a music [/] music dog .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|make det:num|zero
+	det:art|a n|music n|dog .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|9|QUANT 7|9|DET 8|9|MOD
+	9|5|OBJ 10|3|PUNCT
+*CHI:	mom I want you to make a zero in purple .
+%mor:	n|mom pro:sub|I v|want pro:per|you inf|to v|make det:art|a
+	det:num|zero prep|in n|purple .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|8|DET 8|6|OBJ
+	9|8|JCT 10|9|POBJ 11|3|PUNCT
+%act:	hands Mot the purple crayon
+*MOT:	you're sposta draw .
+%mor:	pro:per|you~aux|be&PRES part|suppose-PASTP~inf|to v|draw .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*MOT:	why don't you show me ?
+%mor:	pro:int|why mod|do~neg|not pro:per|you v|show pro:obj|me ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	<I don't know how> [/] I don't know how to make a dog .
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|how inf|to v|make det:art|a
+	n|dog .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*MOT:	mommy doesn't know how to draw either .
+%mor:	n|mommy mod|do&3S~neg|not v|know pro:int|how inf|to v|draw
+	adv|either .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|INF 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+*CHI:	yes she +...
+%mor:	co|yes pro:sub|she +...
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	I can do the nose .
+%mor:	pro:sub|I mod|can v|do det:art|the n|nose .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	let (u)s start with the nose .
+%mor:	v|let&ZERO pro:obj|us v|start prep|with det:art|the n|nose .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	does that look like a doggy's nose ?
+%mor:	mod|do&3S pro:dem|that v|look conj|like det:art|a
+	adj|dog&dn-DIM-POSS n|nose ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	no . [+ q]
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%tim:	00:02:00
+*MOT:	what does that look like ?
+%mor:	pro:int|what mod|do&3S pro:dem|that v|look conj|like ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	because it (i)s gotta become a dog .
+%mor:	conj|because pro:per|it cop|be&3S mod|got~inf|to cop|become
+	det:art|a n|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*MOT:	some ears .
+%mor:	qn|some n|ear-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	what does that look like ?
+%mor:	pro:int|what mod|do&3S pro:dem|that v|look conj|like ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	a dog .
+%mor:	det:art|a n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	yes (.) it (i)s coming (.) huh ?
+%mor:	co|yes pro:per|it aux|be&3S part|come-PRESP co|huh ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|PUNCT
+*CHI:	are you sure this is gonna be a dog ?
+%mor:	cop|be&PRES pro:per|you adj|sure pro:dem|this aux|be&3S
+	part|go-PRESP~inf|to cop|be det:art|a n|dog ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|INF 8|6|COMP
+	9|10|DET 10|8|PRED 11|1|PUNCT
+*MOT:	I'm doing as_well_as mommy can do .
+%mor:	pro:sub|I~aux|be&1S part|do-PRESP prep|as_well_as n|mommy mod|can
+	v|do .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|4|POBJ 8|3|PUNCT
+*MOT:	a bad dog .
+%mor:	det:art|a adj|bad n|dog .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	what (.) a bad doggy ?
+%mor:	pro:int|what det:art|a adj|bad adj|dog&dn-Y ?
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	make a tail .
+%mor:	v|make det:art|a n|tail .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	the tail (i)s up here .
+%mor:	det:art|the n|tail cop|be&3S prep|up n|here .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	<I made> [/] I made a doggy .
+%mor:	pro:sub|I v|make&PAST det:art|a adj|dog&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	you made a doggy .
+%mor:	pro:per|you v|make&PAST det:art|a adj|dog&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%tim:	00:03:00
+*NAN:	is Seymour the dog you were telling me about a purple dog ?
+%mor:	cop|be&3S n:prop|Seymour det:art|the n|dog pro:per|you aux|be&PAST
+	part|tell-PRESP pro:obj|me prep|about det:art|a adj|purple n|dog ?
+%gra:	1|0|ROOT 2|1|SUBJ 3|4|DET 4|1|PRED 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|OBJ
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|1|PUNCT
+*NAN:	is that Seymour ?
+%mor:	cop|be&3S comp|that n:prop|Seymour ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CHI:	zero .
+%mor:	det:num|zero .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*NAN:	zero .
+%mor:	det:num|zero .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	it (i)s zero .
+%mor:	pro:per|it cop|be&3S det:num|zero .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	zero [/] zero is the music dog and the cooking dog .
+%mor:	v|zero cop|be&3S det:art|the n|music n|dog coord|and det:art|the
+	n:gerund|cook-PRESP n|dog .
+%gra:	1|0|ROOT 2|1|COMP 3|5|DET 4|5|MOD 5|2|PRED 6|5|CONJ 7|9|DET 8|9|MOD
+	9|6|COORD 10|1|PUNCT
+*MOT:	a cooking dog too ?
+%mor:	det:art|a n:gerund|cook-PRESP n|dog adv|too ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|3|PUNCT
+*CHI:	yes . [+ q]
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what (i)s next ?
+%mor:	pro:int|what cop|be&3S adv|next ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	now [/] now [/] now you gotta guess what this is .
+%mor:	adv|now pro:per|you mod|got~inf|to v|guess pro:int|what
+	det:dem|this cop|be&3S .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|8|LINK 7|8|DET 8|5|COMP
+	9|5|PUNCT
+*MOT:	I knew you were gonna do that .
+%mor:	pro:sub|I v|know&PAST pro:per|you aux|be&PAST part|go-PRESP~inf|to
+	v|do pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|COMP 8|7|OBJ
+	9|2|PUNCT
+*CHI:	now you gotta +...
+%mor:	adv|now pro:per|you mod|got~inf|to +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OM 5|3|PUNCT
+*CHI:	now you gotta guess .
+%mor:	adv|now pro:per|you mod|got~inf|to v|guess .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PUNCT
+*CHI:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	it looks like a circle and a crayon and a big g@l .
+%mor:	pro:per|it v|look-3S prep|like det:art|a n|circle coord|and
+	det:art|a n|crayon coord|and det:art|a adj|big n:let|g .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|8|DET 8|6|COORD
+	9|8|CONJ 10|12|DET 11|12|MOD 12|9|COORD 13|2|PUNCT
+*MOT:	what is that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	just take a guess at it .
+%mor:	adv|just v|take det:art|a n|guess prep|at pro:per|it .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	here (.) I'll show you .
+%mor:	adv|here pro:sub|I~mod|will v|show pro:per|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	it (i)s one of those .
+%mor:	pro:per|it cop|be&3S pro:indef|one prep|of pro:dem|those .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+*CHI:	it (i)s a round one with [/] with [/] with a monster's eyes .
+%mor:	pro:per|it cop|be&3S det:art|a adj|round pro:indef|one prep|with
+	det:art|a adj|monster&dn-POSS n|eye-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+%tim:	00:04:00
+*MOT:	it (i)s round with monster's eyes .
+%mor:	pro:per|it cop|be&3S adv|round prep|with adj|monster&dn-POSS
+	n|eye-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*MOT:	your brother in the morning ?
+%mor:	det:poss|your n|brother prep|in det:art|the n|morning ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	no . [+ q]
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<and it (i)s> [/] and it (i)s not a monster .
+%mor:	coord|and pro:per|it cop|be&3S neg|not det:art|a n|monster .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|6|DET 6|3|PRED 7|3|PUNCT
+*MOT:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	it (i)s a monster .
+%mor:	pro:per|it cop|be&3S det:art|a n|monster .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	a [/] a [/] a magician monster .
+%mor:	det:art|a n|magician n|monster .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	a magician monster .
+%mor:	det:art|a n|magician n|monster .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%tim:	00:05:00
+*MOT:	here (.) do you wanna do one more ?
+%mor:	adv|here v|do pro:per|you v|want~inf|to v|do det:num|one
+	pro:indef|more ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|INF 6|4|COMP 7|8|QUANT 8|6|OBJ
+	9|2|PUNCT
+*MOT:	hm: ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	hands paper to Bea
+*CHI:	now [/] now [/] now what is this ?
+%mor:	adv|now pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	what is this ?
+%mor:	pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	take a guess .
+%mor:	v|take det:art|a n|guess .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	mom <hold it up> [/] <hold it up like> [//] no hold it up like this
+	.
+%mor:	n|mom qn|no n|hold pro:per|it adv|up prep|like pro:dem|this .
+%gra:	1|3|MOD 2|3|QUANT 3|0|INCROOT 4|3|OBJ 5|4|JCT 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+%act:	hands Mot the paper
+*MOT:	this is Bea's picture .
+%mor:	pro:dem|this cop|be&3S adj|Bea&dn-POSS n|picture .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*MOT:	that (i)s what this is .
+%mor:	pro:dem|that cop|be&3S pro:int|what det:dem|this cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|DET 5|2|PRED 6|2|PUNCT
+*CHI:	no (.) mommy just hold it up right here .
+%mor:	qn|no n|mommy adj|just n|hold pro:per|it adv|up adv|right adv|here
+	.
+%gra:	1|2|QUANT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|OBJ 6|8|JCT 7|8|JCT 8|5|JCT
+	9|4|PUNCT
+%act:	holds up the paper
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as Mot holds paper
+*CHI:	don't !
+%mor:	mod|do~neg|not !
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%com:	as Mot tries to see what Bea is writing
+*CHI:	don't look !
+%mor:	mod|do~neg|not v|look !
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+%tim:	00:06:00
+*CHI:	mommy xxx .
+%mor:	n|mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I'm not gonna tell yet .
+%mor:	pro:sub|I~aux|be&1S neg|not part|go-PRESP~inf|to v|tell adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|4|PUNCT
+*CHI:	<you got_to> [/] you got to guess what I'm doing .
+%mor:	pro:per|you v|get&PAST inf|to v|guess pro:int|what
+	pro:sub|I~aux|be&1S part|do-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|2|PUNCT
+*CHI:	yes (.) now turn it over .
+%mor:	co|yes adv|now v|turn pro:per|it adv|over .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	you didn't see me .
+%mor:	pro:per|you mod|do&PAST~neg|not v|see pro:obj|me .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	I bet this is Goldilocks hair though (.) huh ?
+%mor:	pro:sub|I v|bet&ZERO pro:dem|this cop|be&3S n:prop|Goldilocks
+	n|hair conj|though co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|PRED 7|8|LINK 8|2|CJCT
+	9|2|PUNCT
+*CHI:	it is .
+%mor:	pro:per|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	<now what> [/] now what (i)s Bea doing ?
+%mor:	adv|now pro:int|what aux|be&3S n:prop|Bea part|do-PRESP ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%com:	activity ends
+%tim:	00:06:22
+@Eg:	Coloring
+*NAN:	www .
+%com:	reads story
+*NAN:	now it (i)s your turn .
+%mor:	adv|now pro:per|it cop|be&3S det:poss|your n|turn .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*NAN:	you tell me this story .
+%mor:	pro:per|you v|tell pro:obj|me det:dem|this n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|PUNCT
+*NAN:	okay (.) the same story I told you .
+%mor:	co|okay det:art|the adj|same n|story pro:sub|I v|tell&PAST
+	pro:per|you .
+%gra:	1|4|COM 2|4|DET 3|4|MOD 4|0|INCROOT 5|6|SUBJ 6|4|CMOD 7|6|OBJ 8|4|PUNCT
+*CHI:	what (i)s hims [: his] [* +'s] name ?
+%mor:	pro:int|what cop|be&3S det:poss|his n|name ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%err:	VP-pronoun+choice+error
+*NAN:	Max .
+%mor:	n:prop|Max .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Max . [+ i]
+%mor:	n:prop|Max .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he took a catcher+thing and then he took his dog .
+%mor:	pro:sub|he v|take&PAST det:art|a n|+n|catcher+n|thing coord|and
+	adv:tem|then pro:sub|he v|take&PAST det:poss|his n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|8|JCT 7|8|SUBJ 8|5|COORD
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+*CHI:	<and then he> [/] then he saw a frog .
+%mor:	adv:tem|then pro:sub|he v|see&PAST det:art|a n|frog .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	<and then> [/] and then he was going to catch it .
+%mor:	coord|and adv:tem|then pro:sub|he aux|be&PAST&13S part|go-PRESP
+	inf|to v|catch pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*CHI:	and <then he>[/] then <he falled> [*] [/] <falled down> [*] in the
+	water .
+%mor:	coord|and adv:tem|then v|fall-PAST adv|down prep|in det:art|the
+	n|water .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%err:	VP-regularization+of+irregular+past+tense
+*NAN:	mhm +...
+%mor:	co|mhm=yes +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and then he landed on his feet .
+%mor:	coord|and adv:tem|then pro:sub|he v|land-PAST prep|on det:poss|his
+	n|foot&PL .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	and the frog jumped up .
+%mor:	coord|and det:art|the n|frog v|jump-PAST adv|up .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	<and now> [/] and now [/] now he (i)s trying to catch it .
+%mor:	coord|and adv|now pro:sub|he aux|be&3S part|try-PRESP inf|to
+	v|catch pro:per|it .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*NAN:	you did it .
+%mor:	pro:per|you v|do&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*NAN:	that was great .
+%mor:	pro:dem|that cop|be&PAST&13S adj|great .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

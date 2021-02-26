@@ -1,0 +1,26 @@
+@UTF8
+@PID:	11312/c-00011068-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;10.25|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	14-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	Joanna, I'm stayin(g) home cause I'm startin(g) a cold .
+%mor:	n:prop|Joanna cm|cm pro:sub|I~cop|be&1S n:gerund|stay-PRESP
+	adv|home n|cause pro:sub|I~aux|be&1S part|start-PRESP det:art|a
+	adj|cold .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|5|ENUM 8|10|SUBJ
+	9|10|AUX 10|7|CMOD 11|12|DET 12|10|OBJ 13|4|PUNCT
+%sit:	251
+*MOT:	&oue there's been a skunk around .
+%mor:	pro:exist|there~cop|be&3S cop|be&PASTP det:art|a n|skunk adv|around
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|PRED 6|5|NJCT 7|2|PUNCT
+%sit:	252
+*CHI:	we hafta turn our nose off .
+%mor:	pro:sub|we mod|have~inf|to v|turn det:poss|our n|nose adv|off .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+%sit:	252
+@End

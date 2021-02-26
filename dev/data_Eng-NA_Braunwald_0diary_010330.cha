@@ -1,0 +1,44 @@
+@UTF8
+@PID:	11312/c-00010536-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|01;03.30|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	18-JUN-1972
+@Types:	long, toyplay, TD
+*CHI:	Mommy, bowwow, bowwow, hi, bowwow .
+%mor:	n:prop|Mommy cm|cm on|+on|bow+on|wow cm|cm on|+on|bow+on|wow cm|cm
+	co|hi cm|cm on|+on|bow+on|wow .
+%gra:	1|7|SUBJ 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|5|LP 7|0|ROOT 8|7|LP
+	9|7|ENUM 10|7|PUNCT
+%sit:	460
+*CHI:	hi, bowwowwow [: bowwow], hi, bowwowwow [: bowwow] .
+%mor:	co|hi cm|cm on|+on|bow+on|wow cm|cm co|hi cm|cm on|+on|bow+on|wow .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|5|LP 7|1|ENUM 8|1|PUNCT
+%sit:	461
+*CHI:	ahbee [: strawberry], ahbee [: strawberry] .
+%mor:	n|strawberry cm|cm n|strawberry .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	462
+*MOT:	ahbee [: strawberry] ?
+%mor:	n|strawberry ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	462
+*MOT:	that's a strawberry .
+%mor:	pro:dem|that~cop|be&3S det:art|a n|strawberry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	462
+*CHI:	(y)um (y)um (y)um .
+%mor:	n|yum n|yum n|yum .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	462
+*CHI:	bye, cookie .
+%mor:	co|bye cm|cm n|cookie .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	463
+*CHI:	bye, car .
+%mor:	co|bye cm|cm n|car .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+%sit:	464
+@End

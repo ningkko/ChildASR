@@ -1,0 +1,912 @@
+@UTF8
+@PID:	11312/c-00004591-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Kaleb Target_Child , FAT Father
+@ID:	eng|Conti1|CHI|1;09.19|male|||Target_Child|||
+@ID:	eng|Conti1|FAT|40;||||Father|||
+@Comment:	FAT Education is Graduate
+@Types:	cross, toyplay, TD
+*FAT:	what shall we do with Thomas then ?
+%mor:	pro:int|what mod|shall pro:sub|we v|do prep|with n:prop|Thomas
+	adv:tem|then ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|4|PUNCT
+%act:	looks at engine in CHI's hand
+*CHI:	0 .
+%act:	releases grip on wheels
+%com:	engine noise can be heard
+*FAT:	has he left his tummy on ?
+%mor:	v|have&3S pro:sub|he v|leave&PAST det:poss|his n|tum-DIM adv|on ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*FAT:	where's his tummy gone ?
+%mor:	pro:int|where~cop|be&3S det:poss|his n|tum-DIM part|go&PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*FAT:	oh you took it off again „ didn't you ?
+%mor:	co|oh pro:per|you v|take&PAST pro:per|it adv|off adv|again end|end
+	mod|do&PAST~neg|not pro:per|you ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|10|ENDP 8|10|AUX
+	9|8|NEG 10|3|END 11|3|PUNCT
+%act:	moves close to engine
+*CHI:	Daddy [?] do [?] .
+%mor:	n:prop|Daddy v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	holds engine out to FAT
+%com:	engine needs to be wound up
+*FAT:	&mm .
+%act:	takes engine from CHI
+*CHI:	key .
+%mor:	n|key .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up key , holds it out to FAT
+*FAT:	key ?
+%mor:	n|key ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes key from CHI
+*CHI:	&mm .
+*FAT:	what do you want me to do ?
+%mor:	pro:int|what mod|do pro:per|you v|want pro:obj|me inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+%act:	looks at CHI
+*CHI:	tank there .
+%mor:	n|tank adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%gpx:	points to engine
+*FAT:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	do you want me to wind him up again ?
+%mor:	mod|do pro:per|you v|want pro:obj|me inf|to v|wind pro:obj|him
+	adv|up adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|3|PUNCT
+*FAT:	like that ?
+%mor:	prep|like pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*FAT:	can you do it ?
+%mor:	mod|can pro:per|you v|do pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	winds up engine
+*CHI:	0 .
+%par:	whines
+%act:	reaches out to FAT
+*FAT:	you do it .
+%mor:	pro:per|you v|do pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	holds engine out to CHI
+*CHI:	0 .
+%act:	takes engine from FAT
+*FAT:	you wind him up .
+%mor:	pro:per|you v|wind pro:obj|him adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	here [?] .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	bef whines
+%act:	bef tries in vain to wind it up dur holds engineout to FAT
+*FAT:	no alright .
+%mor:	co|no co|alright .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	takes engine from CHI
+*CHI:	more tank .
+%mor:	qn|more n|tank .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	looks up at FAT
+*FAT:	more tank .
+%mor:	qn|more n|tank .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	winds up engine
+*CHI:	want that [?] .
+%mor:	v|want pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	want xxx xxx xxx xxx .
+%mor:	v|want .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	looks at MOT , then observes FAT's actions
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	sets engine on floor close to CHI
+*CHI:	there [?] xxx xxx .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up engine , holds it out to FAT
+%com:	wants FAT to take engine because cannot hear enginenoise
+*FAT:	can you do his song ?
+%mor:	mod|can pro:per|you v|do det:poss|his n|song ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	aft takes car from CHI
+*CHI:	xxx xxx xxx .
+%act:	looks at engine
+*FAT:	what does Thomas do ?
+%mor:	pro:int|what mod|do&3S n:prop|Thomas v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%act:	looks at CHI
+*CHI:	want that .
+%mor:	v|want pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	looks at engine
+*FAT:	du@si du@si du@si du@si .
+%mor:	sing|du sing|du sing|du sing|du .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+%par:	sings
+%act:	works with Thomas
+*CHI:	yeah &-uh .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes FAT's actions
+*FAT:	he willn't go .
+%mor:	pro:sub|he mod|will~neg|not v|go .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*FAT:	come on Thomas (.) come on .
+%mor:	v|come prep|on n:prop|Thomas v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|ENUM 5|4|JCT 6|1|PUNCT
+*FAT:	him broke .
+%mor:	pro:obj|him adj|broke .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%act:	works with engine
+*CHI:	like .
+%mor:	prep|like .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	smiles
+%act:	stretches hands out to FAT
+*FAT:	can you get him going ?
+%mor:	mod|can pro:per|you v|get pro:obj|him part|go-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+%act:	holds out engine to CHI
+*CHI:	no [/] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shakes head
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	it is a bit annoying isn't it „ when he willn't go ?
+%mor:	pro:per|it aux|be&3S det:art|a n|bit part|annoy-PRESP
+	cop|be&3S~neg|not pro:per|it end|end conj|when pro:sub|he
+	mod|will~neg|not v|go ?
+%gra:	1|5|SUBJ 2|5|AUX 3|4|DET 4|5|JCT 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|6|SUBJ
+	9|14|ENDP 10|14|LINK 11|14|SUBJ 12|14|AUX 13|12|NEG 14|6|END 15|6|PUNCT
+%act:	works with engine
+*CHI:	tank .
+%mor:	n|tank .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at engine
+*FAT:	it's cuz [: because] you took his tummy off .
+%mor:	pro:per|it~cop|be&3S conj|because pro:per|you v|take&PAST
+	det:poss|his n|tum-DIM adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|2|PUNCT
+*FAT:	that's why he willn't go .
+%mor:	pro:dem|that~cop|be&3S pro:int|why pro:sub|he mod|will~neg|not v|go
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|CPRED 8|2|PUNCT
+%act:	continues working with engine
+%com:	key falls onto floor
+*CHI:	Daddy[?] xxx .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	key .
+%mor:	n|key .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Percy .
+%mor:	n:prop|Percy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up key , looks at it
+*FAT:	0 .
+%act:	shakes engine
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	observes FAT's actions , holds key out to FAT
+*FAT:	there he goes .
+%mor:	adv|there pro:sub|he v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	pushes engine along floor , holds it out to CHI
+%com:	engine can be heard
+*CHI:	&mm .
+%act:	takes engine from FAT , listens to engine
+*FAT:	oh yes (.) there's Percy .
+%mor:	co|oh co|yes pro:exist|there~cop|be&3S n:prop|Percy .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%act:	picks up engine called Percy
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds out key to FAT
+*FAT:	who's that ?
+%mor:	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	holds out Percy
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds out key
+*FAT:	do you want me to wind him up as well ?
+%mor:	mod|do pro:per|you v|want pro:obj|me inf|to v|wind pro:obj|him
+	adv|up prep|as adv|well ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|10|COORD 10|6|JCT 11|3|PUNCT
+*FAT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds out hand for key
+%cod:	$CON$COT$ACK
+*CHI:	0 .
+%act:	releases key
+*FAT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you can do Percy I think .
+%mor:	pro:per|you mod|can v|do n:prop|Percy pro:sub|I v|think .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|CJCT 7|3|PUNCT
+*CHI:	0 .
+%act:	looks down at Thomas
+%com:	engine still running
+*FAT:	right you do Percy .
+%mor:	adv|right pro:per|you v|do n:prop|Percy .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	you wind him up .
+%mor:	pro:per|you v|wind pro:obj|him adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*FAT:	you can do him he's not as strong as Thomas .
+%mor:	pro:per|you mod|can v|do pro:obj|him pro:sub|he~cop|be&3S neg|not
+	prep|as adj|strong prep|as n:prop|Thomas .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|6|NEG 8|9|COORD
+	9|6|PRED 10|11|COORD 11|9|ENUM 12|3|PUNCT
+%act:	takes Thomas from CHI , holds Percy close to CHI
+*CHI:	0 .
+%act:	looks at Percy , reaches out and takes Thomas
+*FAT:	you can't do Thomas .
+%mor:	pro:per|you mod|can~neg|not v|do n:prop|Thomas .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	observes CHI's actions
+*CHI:	0 .
+%act:	sets engine on floor
+%com:	it moves off in FAT's direction
+*FAT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	pulls Thomas towards self
+*FAT:	say come here Thomas .
+%mor:	co|say v|come adv|here n:prop|Thomas .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	observes CHI's actions
+*CHI:	xxx xxx xxx .
+*CHI:	key [//] there [?] key .
+%mor:	adv|there n|key .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+%act:	holds out key , then holds it beside engine
+*FAT:	go on you put him on then .
+%mor:	v|go prep|on pro:per|you v|put&ZERO pro:obj|him adv|on adv:tem|then
+	.
+%gra:	1|4|CJCT 2|1|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|JCT 7|4|JCT 8|4|PUNCT
+*CHI:	0 .
+%act:	takes key out of pouch
+%com:	trying to wind up engine
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	tries to insert key
+*FAT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<that's it> [/] that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	I'll hold that .
+%mor:	pro:sub|I~mod|will v|hold pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	holds engine
+*CHI:	0 .
+%act:	continues trying to start engine
+*FAT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	go on xxx xxx .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	stop Thomas .
+%mor:	n|stop n:prop|Thomas .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%act:	stops engine noise
+*CHI:	0 .
+%act:	continues trying to wind up Thomas
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	shall I help ?
+%mor:	mod|shall pro:sub|I co|help ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%act:	observes CHI's actions
+*CHI:	&mm .
+%act:	observes FAT's actions
+*FAT:	oh he's too strong for you .
+%mor:	co|oh pro:sub|he~cop|be&3S adv|too adj|strong prep|for pro:per|you
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*FAT:	I'll wind Thomas up then you can wind Percy .
+%mor:	pro:sub|I~mod|will v|wind n:prop|Thomas adv|up adv:tem|then
+	pro:per|you mod|can v|wind n:prop|Percy .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|9|JCT 6|9|JCT 7|9|SUBJ 8|9|AUX
+	9|3|COMP 10|9|OBJ 11|3|PUNCT
+%act:	winds up Thomas
+*CHI:	0 .
+%act:	reaches out towards Thomas
+*FAT:	0 .
+%act:	releases Thomas , picks up Percy , about to insert key
+*CHI:	&-uh .
+%par:	lengthening
+%act:	reaches out towards Percy
+*FAT:	here [/] here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	inserts key
+*CHI:	xxx xxx xxx xxx .
+%act:	smiles and holds Thomas out to FAT
+*FAT:	here you are .
+%mor:	adv|here pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	you [?] do [?] first .
+%mor:	pro:per|you v|do adv|first .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	holds Percy out to CHI , tries to take Thomas
+*CHI:	xxx .
+%act:	reaches out to Percy
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	then you can do him .
+%mor:	adv:tem|then pro:per|you mod|can v|do pro:obj|him .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%act:	continues to hold Percy out to CHI
+*CHI:	&-uh (.) him break .
+%mor:	pro:obj|him v|break .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	tries to hold Percy , drops Thomas accidentally
+*FAT:	you're spoilt for choice „ aren't you ?
+%mor:	pro:per|you~aux|be&PRES part|spoil&PASTP prep|for adj|choice
+	end|end aux|be&PRES~neg|not pro:per|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|9|ENDP 7|9|AUX 8|7|NEG
+	9|3|END 10|3|PUNCT
+*FAT:	which one <shall we do> [>] ?
+%mor:	pro:rel|which pro:indef|one mod|shall pro:sub|we v|do ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	sets Percy on floor , observes CHI's actions
+*CHI:	&-uh [<] .
+%act:	holds out Percy to FAT
+*FAT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches out to Percy
+*CHI:	0 .
+%act:	brings Percy towards self , looks at Percy
+%com:	toys rubs accidentally against against his hand and engine noise is
+	heard
+*FAT:	there he goes .
+%mor:	adv|there pro:sub|he v|go-3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	bit of the magic touch .
+%mor:	n|bit prep|of det:art|the adj|magic n|touch .
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*CHI:	0 .
+%act:	glances at FAT , sets Percy on floor
+%com:	engine noise fades , then stops
+*FAT:	what's [/] what's Percy's tune ?
+%mor:	pro:int|what~cop|be&3S adj|Percy&dn-POSS n|tune ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*FAT:	(2.) do@si do@si doodle@si oodle@si oodle@si do@si .
+%mor:	sing|do sing|do sing|doodle sing|oodle sing|oodle sing|do .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+%act:	observes CHI's actions
+*CHI:	0 .
+%act:	picks up Percy , sets him down on floor
+%com:	ignores FAT's last turn , engine runs for a short time when Percy
+	is picked up
+*FAT:	<go on> [/] go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	observes CHI's actions
+*CHI:	xxx xxx xxx .
+%act:	tries to wind up Percy
+*FAT:	good (.) that's it .
+%mor:	adj|good pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*FAT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	that's it (.) you're winding him up .
+%mor:	pro:dem|that~cop|be&3S pro:per|it pro:per|you~aux|be&PRES
+	part|wind-PRESP pro:obj|him adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|2|PUNCT
+*FAT:	go on (.) he'll go now .
+%mor:	v|go adv|on pro:sub|he~mod|will v|go adv|now .
+%gra:	1|5|CJCT 2|1|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*CHI:	0 .
+%act:	picks up Percy , turns key
+%com:	key falls onto floor
+*FAT:	say [?] I can be a technician too .
+%mor:	v|say pro:sub|I mod|can cop|be det:art|a n|technician post|too .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|6|POSTMOD
+	8|4|PUNCT
+*FAT:	&-eh ?
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	sets Percy on floor , tries to insert key
+*FAT:	xxx xxx .
+%act:	holds Percy
+*CHI:	0 .
+%act:	tries to insert key
+%com:	engine noise starts
+*FAT:	oh stop Percy (.) not yet .
+%mor:	co|oh n|stop n:prop|Percy neg|not adv|yet .
+%gra:	1|3|COM 2|3|MOD 3|0|ROOT 4|3|NEG 5|3|JCT 6|3|PUNCT
+*CHI:	stop [?] Percy .
+%mor:	n|stop n:prop|Percy .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%par:	laughs
+%act:	touches wheel in order to stop engine noise , looks up at FAT
+*FAT:	what's he doing there [?] ?
+%mor:	pro:int|what~cop|be&3S pro:sub|he part|do-PRESP adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+*CHI:	0 .
+%act:	looks at FAT
+%com:	now looking serious
+*FAT:	he shouldn't be going yet „ should he ?
+%mor:	pro:sub|he mod|should~neg|not aux|be part|go-PRESP adv|yet end|end
+	mod|should pro:sub|he ?
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|ENDP 8|9|AUX
+	9|5|END 10|5|PUNCT
+*CHI:	tanker [?] .
+%mor:	n|tanker .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to insert key
+*FAT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	holds Percy
+*CHI:	0 .
+%act:	sits back , looks down at Percy
+*FAT:	that's it (.) there .
+%mor:	pro:dem|that~cop|be&3S pro:per|it adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+%act:	works with Percy
+*CHI:	thanks [?] .
+%mor:	co|thanks .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up Percy
+*FAT:	0 .
+%act:	pulls Postman Pat shape sorter van along floor
+*CHI:	in [?] there [?] .
+%mor:	prep|in n|there .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	observes FAT's actions , looks towards camera turning key in Percy
+*CHI:	no tanker [/] tanker .
+%mor:	qn|no n|tanker .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%act:	shakes head , looks up at FAT
+%com:	5 minutes of interaction
+*FAT:	is it ?
+%mor:	aux|be&3S pro:per|it ?
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*CHI:	&mm tank [?] .
+%mor:	n|tank .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks up at FAT , turns key
+%com:	key comes out accidentally
+*FAT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*FAT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	winding up engine
+*CHI:	0 .
+%act:	looks at key , drops it , picks it up
+*FAT:	will you do it again ?
+%mor:	mod|will pro:per|you v|do pro:per|it adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Percy .
+%mor:	n:prop|Percy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to insert key
+*FAT:	come on Percy .
+%mor:	v|come prep|on n:prop|Percy .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	0 .
+%par:	whimpers
+%act:	looks up at FAT
+*FAT:	<go on> [/] <go on yeah> [//] go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	0 .
+%act:	tries again to insert key
+*FAT:	<that's it> [/] that's it go on .
+%mor:	pro:dem|that~cop|be&3S pro:per|it v|go adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|JCT 6|2|PUNCT
+*FAT:	bit more .
+%mor:	v|bite&PAST pro:indef|more .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	there [/] there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	helps CHI
+*CHI:	0 .
+%act:	picks up Percy , puts hand on key
+*FAT:	then wind him up .
+%mor:	adv:tem|then v|wind pro:obj|him adv|up .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	0 .
+%act:	turns key
+*FAT:	just make him go .
+%mor:	adv|just v|make pro:obj|him v|go .
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*FAT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*FAT:	make Thomas go .
+%mor:	v|make n:prop|Thomas v|go .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+%act:	picks up Thomas , winds him up
+*CHI:	ah .
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches out towards Thomas
+*FAT:	0 .
+%act:	holds out Thomas to CHI
+*CHI:	0 .
+%act:	takes Thomas , watches wheels carefully and listens to noise of
+	engine
+*FAT:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*FAT:	(6.) is that Thomas's wheels ?
+%mor:	cop|be&3S det:dem|that adj|Thomas&dn-POSS n|wheel-PL ?
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|PRED 5|1|PUNCT
+%gpx:	points to wheels
+*CHI:	0 .
+%act:	rests wheels on lips momentarily
+%com:	noise stops momentarily
+*FAT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	like [?] car [?] .
+%mor:	co|like n|car .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	aft rests wheels on lips
+*FAT:	you're not sposta do it like that .
+%mor:	pro:per|you~aux|be&PRES neg|not part|suppose-PASTP~inf|to mod|do
+	pro:per|it co|like pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|9|INF 6|9|AUX 7|9|SUBJ 8|7|COM
+	9|4|COMP 10|4|PUNCT
+*CHI:	him [?] a car [?] .
+%mor:	pro:obj|him det:art|a n|car .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	&-uh .
+%act:	looks at Thomas , sets Thomas on floor , starts towind up Percy ,
+	holds out Percy to FAT
+*FAT:	come on (.) do you want me to help ?
+%mor:	v|come adv|on mod|do pro:per|you v|want pro:obj|me inf|to co|help ?
+%gra:	1|5|JCT 2|1|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|INF 8|6|OM
+	9|5|PUNCT
+*CHI:	0 .
+%act:	picks up and holds out Thomas to FAT
+*FAT:	there you are .
+%mor:	adv|there pro:per|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes Thomas
+%com:	engine noise starts
+*CHI:	&hah .
+%act:	reaches out to Thomas
+%com:	game of starting and stopping engine
+*FAT:	0 .
+%act:	holds out Thomas to CHI
+*CHI:	&-uh .
+%int:	fall rise fall
+%act:	takes Thomas , engine stops
+*CHI:	0 .
+%act:	holds out Thomas to FAT
+*FAT:	0 .
+%act:	shakes Thomas
+*CHI:	daddy [?] .
+%mor:	n|daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef takes Thomas from FAT , listens to enginerunning dur looks up
+	at FAT
+%com:	engine has stopped
+*FAT:	can you do this ?
+%mor:	mod|can pro:per|you v|do pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	pushes large friction car along floor
+*CHI:	Daddy [/] Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks down at car
+*FAT:	how does this one go ?
+%mor:	pro:int|how mod|do&3S det:dem|this pro:indef|one v|go ?
+%gra:	1|5|JCT 2|5|AUX 3|5|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	sends car along floor
+*CHI:	0 .
+%act:	looks after car
+*FAT:	that's better than Percy „ isn't it ?
+%mor:	pro:dem|that~cop|be&3S adv|good&CP prep|than n:prop|Percy end|end
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|7|ENDP 7|2|END 8|2|NEG
+	9|2|SUBJ 10|2|PUNCT
+*CHI:	0 .
+%act:	winds up Percy
+*FAT:	0 .
+%act:	sends car past CHI
+*CHI:	0 .
+%act:	glances at car , then looks up at FAT whilst winding up Percy
+*FAT:	we don't want that „ do we ?
+%mor:	pro:sub|we mod|do~neg|not v|want pro:dem|that end|end mod|do
+	pro:sub|we ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|8|ENDP 7|8|AUX 8|4|END
+	9|4|PUNCT
+*FAT:	you like tank engines .
+%mor:	pro:per|you v|like n|tank n|engine-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*FAT:	but you like cars too „ don't you ?
+%mor:	conj|but pro:per|you v|like n|car-PL post|too end|end
+	mod|do~neg|not pro:per|you ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|9|ENDP 7|9|AUX 8|7|NEG
+	9|3|END 10|3|PUNCT
+*FAT:	is that a car ?
+%mor:	cop|be&3S comp|that det:art|a n|car ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*FAT:	hm: ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches out towards racing car
+*CHI:	done it tank [?] .
+%mor:	part|do&PASTP pro:per|it n|tank .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	bef looks towards car dur holds Percy out to FAT
+*FAT:	&mm .
+%act:	observes CHI's actions
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to Percy's keyhole
+%com:	key falls out afterwards
+*FAT:	&mm ?
+*CHI:	in [?] there .
+%mor:	prep|in n|there .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%gpx:	points to Percy's keyhole
+*FAT:	yeah go on you put it there .
+%mor:	co|yeah v|go prep|on pro:per|you v|put&ZERO pro:per|it adv|there .
+%gra:	1|2|COM 2|5|CJCT 3|2|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*CHI:	0 .
+%act:	sets Percy on floor , tries to insert key
+*FAT:	0 .
+%act:	holds end of Percy
+*CHI:	0 .
+%par:	effort noise
+%act:	holds out Percy to FAT
+*FAT:	yeah I know .
+%mor:	co|yeah pro:sub|I v|know .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*FAT:	well I was trying to hold it for you .
+%mor:	co|well pro:sub|I aux|be&PAST&13S part|try-PRESP inf|to v|hold
+	pro:per|it prep|for pro:per|you .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|4|PUNCT
+%act:	takes Percy
+*CHI:	xxx xxx bad [?] key .
+%mor:	adj|bad n|key .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	holds out key to FAT
+*FAT:	<do you want me to do> [/] do you want me to do Percy ?
+%mor:	mod|do pro:per|you v|want pro:obj|me inf|to v|do n:prop|Percy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|3|PUNCT
+%act:	takes key
+*CHI:	is he a tank ?
+%mor:	cop|be&3S pro:sub|he det:art|a n|tank ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+%act:	looks at FAT
+*CHI:	lady [?] .
+%mor:	n|lady .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points towards investigator
+*FAT:	he is a tank engine .
+%mor:	pro:sub|he cop|be&3S det:art|a n|tank n|engine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*FAT:	yeah (.) he is a tank engine .
+%mor:	co|yeah pro:sub|he cop|be&3S det:art|a n|tank n|engine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+%act:	winds up Percy
+*CHI:	xxx xxx xxx xxx .
+%act:	looks at Percy
+*FAT:	do do do do .
+%mor:	mod|do v|do v|do v|do .
+%gra:	1|2|AUX 2|0|ROOT 3|2|COMP 4|3|COMP 5|2|PUNCT
+%par:	sings
+%act:	winds up Percy
+*CHI:	ay da@o (.) &-uh .
+%mor:	co|ay on|da .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	reaches out excitedly towards Percy
+*FAT:	alright yeah .
+%mor:	co|alright co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$CON$COT$ACK
+*FAT:	right [?] .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	winds up Percy , holds him out to CHI
+%cod:	$CON$COT$ACK
+*CHI:	0 .
+%par:	effort noises
+%act:	takes Percy , tries to wind him up
+*FAT:	oh too tight now „ isn't it ?
+%mor:	co|oh adv|too adv|tight adv|now end|end cop|be&3S~neg|not
+	pro:per|it ?
+%gra:	1|3|COM 2|3|JCT 3|4|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|6|SUBJ
+	9|6|PUNCT
+*FAT:	want make him go ?
+%mor:	v|want v|make pro:obj|him v|go ?
+%gra:	1|0|ROOT 2|1|COMP 3|4|SUBJ 4|2|COMP 5|1|PUNCT
+%cod:	$NVE
+%com:	game of starting and stopping the engine
+*FAT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	make him go .
+%mor:	v|make pro:obj|him v|go .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+*FAT:	move that there .
+%mor:	v|move comp|that adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|1|PUNCT
+*FAT:	move that .
+%mor:	v|move pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%gpx:	points to lever on Percy
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks down at Percy
+*FAT:	yeah (.) that'll make him go .
+%mor:	co|yeah pro:rel|that~mod|will v|make pro:obj|him v|go .
+%gra:	1|4|COM 2|4|LINK 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+*FAT:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds Percy
+*CHI:	0 .
+%act:	looks down at Percy
+*FAT:	stop [?] .
+%mor:	n|stop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	you do that .
+%mor:	pro:per|you v|do pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	starts engine , stops it
+%gpx:	points to little lever
+*CHI:	0 .
+%par:	effort noise
+%act:	looks up at FAT , then down at Percy
+*FAT:	go on (.) move that .
+%mor:	v|go prep|on n|move pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%act:	sets percy on floor
+%gpx:	points to lever
+*CHI:	0 .
+%par:	whimpers
+%act:	holds Percy out to FAT
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	meaning so you don't want him
+*FAT:	<what do you want me to do with him> [>] ?
+%mor:	pro:int|what mod|do pro:per|you v|want pro:obj|me inf|to v|do
+	prep|with pro:obj|him ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+%act:	takes Percy
+*CHI:	Percy [<] .
+%mor:	n:prop|Percy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at Percy
+*FAT:	what do you want me to do with him ?
+%mor:	pro:int|what mod|do pro:per|you v|want pro:obj|me inf|to v|do
+	prep|with pro:obj|him ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|4|PUNCT
+%act:	hold up Percy
+*CHI:	xxx .
+%act:	shakes head , looks at Percy
+*FAT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%par:	shakes head
+*FAT:	you don't want him ?
+%mor:	pro:per|you mod|do~neg|not v|want pro:obj|him ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	0 .
+%par:	shakes head
+%act:	looks towards racing car
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	aft sets Percy on floor
+%com:	Percy moves along floor
+*CHI:	0 .
+%act:	reaches out , picks up Percy , listens to engine
+*FAT:	well he wants you .
+%mor:	co|well pro:sub|he v|want-3S pro:per|you .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	he's coming to see you .
+%mor:	pro:sub|he~aux|be&3S part|come-PRESP inf|to v|see pro:per|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XJCT 6|5|OBJ 7|3|PUNCT
+%par:	laughs
+*CHI:	0 .
+%act:	tries to stop engine noise
+*FAT:	xxx xxx can I do it ?
+%mor:	mod|can pro:sub|I v|do pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%par:	bef laughs
+%act:	stops engine noise
+*CHI:	0 .
+%act:	starts engine noise , listens to it , stops it
+*FAT:	oh you've stopped him (.) oh .
+%mor:	co|oh pro:per|you~aux|have part|stop-PASTP pro:obj|him co|oh .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|COM 7|4|PUNCT
+*CHI:	ah .
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	starts and stops engine noise
+*FAT:	0 .
+%par:	laughs
+%act:	observes CHI's actions
+*CHI:	0 .
+%par:	laughs
+*FAT:	0 .
+%par:	laughs
+*CHI:	0 .
+%act:	starts engine noise
+*FAT:	did he tickle your finger ?
+%mor:	mod|do&PAST pro:sub|he n|tickle det:poss|your n|finger ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*FAT:	&mm ?
+*CHI:	0 .
+%act:	stops engine noise
+*FAT:	stopped .
+%mor:	part|stop-PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ah .
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	starts and stops engine noise
+%tim:	00:11:11
+%com:	10 minutes of interaction
+@End

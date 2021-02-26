@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/c-00018067-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;11.10|female|||Target_Child|||
+@Date:	26-APR-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	where has Daddy gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Daddy part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has the tray gone ?
+%mor:	pro:rel|where v|have&3S det:art|the n|tray part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*CHI:	where has [*] Daddy going ?
+%mor:	pro:rel|where aux|have&3S n:prop|Daddy part|go-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has Daddy gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Daddy part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what is Daddy eating ?
+%mor:	pro:int|what aux|be&3S n:prop|Daddy part|eat-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where (i)s my biscuit ?
+%mor:	pro:int|where cop|be&3S det:poss|my n|biscuit ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	what is she having in it ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|have-PRESP prep|in
+	pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*CHI:	what is Amy having in it ?
+%mor:	pro:int|what aux|be&3S n:prop|Amy part|have-PRESP prep|in
+	pro:per|it ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	what did you do ?
+%mor:	pro:int|what mod|do&PAST pro:per|you v|do ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what are you silly thing doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you co|silly n|thing part|do-PRESP
+	?
+%gra:	1|6|SUBJ 2|6|AUX 3|6|SUBJ 4|6|COM 5|6|MOD 6|0|ROOT 7|6|PUNCT
+@End

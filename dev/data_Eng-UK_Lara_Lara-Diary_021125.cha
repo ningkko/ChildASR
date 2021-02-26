@@ -1,0 +1,71 @@
+@UTF8
+@PID:	11312/c-00018081-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;11.25|female|||Target_Child|||
+@Date:	10-MAY-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	what is he doing there ?
+%mor:	pro:int|what cop|be&3S pro:sub|he part|do-PRESP adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+*CHI:	where has the hairdressers gone ?
+%mor:	pro:rel|where v|have&3S det:art|the n|+n|hair+n|dresser-PL
+	part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*CHI:	what was that ?
+%mor:	pro:int|what cop|be&PAST&13S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what is that funny noise ?
+%mor:	pro:int|what cop|be&3S det:dem|that adj|fun&dn-Y n|noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	where (ha)s the bicycle gone ?
+%mor:	pro:rel|where v|have&3S det:art|the v|bicycle part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|COMP 5|4|COMP 6|2|PUNCT
+*CHI:	where did you do it ?
+%mor:	pro:int|where mod|do&PAST pro:per|you v|do pro:per|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	what are you going to do ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP inf|to v|do ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where has the bike gone ?
+%mor:	pro:rel|where v|have&3S det:art|the n|bike part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*CHI:	what (i)s b@l ?
+%mor:	pro:int|what cop|be&3S n:let|b ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what (i)s after b@l ?
+%mor:	pro:int|what cop|be&3S prep|after n:let|b ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	what (i)s after Clever_Cat ?
+%mor:	pro:int|what cop|be&3S adv:tem|after n:prop|Clever_Cat ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|OM 5|2|PUNCT
+*CHI:	what was that funny noise ?
+%mor:	pro:int|what cop|be&PAST&13S det:dem|that adj|fun&dn-Y n|noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	what was that funny noise again ?
+%mor:	pro:int|what cop|be&PAST&13S det:dem|that adj|fun&dn-Y n|noise
+	adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|JCT 7|2|PUNCT
+*CHI:	what does somebody else wanna come ?
+%mor:	pro:int|what mod|do&3S pro:indef|somebody post|else v|want~inf|to
+	v|come ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|SUBJ 4|3|PQ 5|0|ROOT 6|7|INF 7|5|COMP 8|5|PUNCT
+%com:	means who else wants to come
+*CHI:	where has the doctor gone ?
+%mor:	pro:rel|where v|have&3S det:art|the n|doctor part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*CHI:	what (i)s that funny noise ?
+%mor:	pro:int|what cop|be&3S det:dem|that adj|fun&dn-Y n|noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	what doing ?
+%mor:	pro:int|what n:gerund|do-PRESP ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	where (ha)s my scissors gone ?
+%mor:	pro:rel|where v|have&3S det:poss|my n|scissors part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|XJCT 6|2|PUNCT
+@End

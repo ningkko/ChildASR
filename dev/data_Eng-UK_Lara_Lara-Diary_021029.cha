@@ -1,0 +1,38 @@
+@UTF8
+@PID:	11312/c-00018055-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;10.29|female|||Target_Child|||
+@Date:	14-APR-1997
+@Comment:	Mum Dad
+@Types:	long, everyday, TD
+*CHI:	what is she having on ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|have-PRESP prep|on ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|XMOD 5|4|JCT 6|2|PUNCT
+*CHI:	what has it got on ?
+%mor:	pro:int|what aux|have&3S pro:per|it v|get&PAST adv|on ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what is Amy_squamy doing ?
+%mor:	pro:int|what aux|be&3S n:prop|Amy_squamy part|do-PRESP ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has it gone ?
+%mor:	pro:rel|where aux|have&3S pro:per|it part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what is that lorry doing ?
+%mor:	pro:int|what cop|be&3S comp|that n|lorry part|do-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	who (i)s going to be the Mummy ?
+%mor:	pro:int|who aux|be&3S part|go-PRESP inf|to cop|be det:art|the
+	n:prop|Mummy ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|PRED 8|3|PUNCT
+*CHI:	where (i)s my elastic band ?
+%mor:	pro:int|where cop|be&3S det:poss|my n|elastic n|band ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+@End

@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00011147-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, GRA Grandmother
+@ID:	eng|Braunwald|CHI|03;02.15|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|GRA|||||Grandmother|||
+@Date:	05-MAY-1974
+@Types:	long, toyplay, TD
+*MOT:	we'll hafta think of something for Gluckie's birthday .
+%mor:	pro:sub|we~mod|will mod|have~inf|to v|think prep|of
+	pro:indef|something prep|for adj|Gluckie&dn-POSS n|+n|birth+n|day .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|JCT
+	9|10|MOD 10|8|POBJ 11|5|PUNCT
+%sit:	717
+*CHI:	I'll send her a squirrel .
+%mor:	pro:sub|I~mod|will v|send pro:obj|her det:art|a n|squirrel .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|PUNCT
+%sit:	717
+*CHI:	if she would like me to send her a squirrel I would like to .
+%mor:	conj|if pro:sub|she mod|will&COND v|like pro:obj|me inf|to v|send
+	pro:obj|her det:art|a n|squirrel pro:sub|I mod|will&COND v|like
+	inf|to .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|13|CJCT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|OBJ2
+	9|10|DET 10|7|OBJ 11|13|SUBJ 12|13|AUX 13|0|ROOT 14|13|OBJ 15|13|PUNCT
+%sit:	717
+*CHI:	anyone would you write my name in there ?
+%mor:	pro:indef|anyone mod|will&COND pro:per|you v|write det:poss|my
+	n|name prep|in n|there ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+%sit:	718
+*CHI:	she's a little rascal .
+%mor:	pro:sub|she~cop|be&3S det:art|a adj|little n|rascal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	719
+*CHI:	Nanna_Mickey, what if you were Sue ?
+%mor:	n:prop|Nanna_Mickey cm|cm pro:int|what conj|if pro:per|you
+	cop|be&PAST n:prop|Sue ?
+%gra:	1|0|INCROOT 2|1|LP 3|6|LINK 4|6|LINK 5|6|SUBJ 6|1|ENUM 7|6|PRED
+	8|1|PUNCT
+%sit:	720
+*GRA:	then Sue would be my mother and I'd be her little girl .
+%mor:	adv:tem|then n:prop|Sue mod|will&COND cop|be det:poss|my n|mother
+	coord|and pro:sub|I~mod|genmod cop|be det:poss|her adj|little n|girl
+	.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|PRED 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|13|DET 12|13|MOD 13|10|PRED 14|4|PUNCT
+%sit:	720
+@End

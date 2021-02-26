@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/c-00011060-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;10.17|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	06-JAN-1974
+@Types:	long, toyplay, TD
+*CHI:	we don't want Peanuts to fight Katie do we ?
+%mor:	pro:sub|we mod|do~neg|not v|want n:prop|Peanuts prep|to v|fight
+	n:prop|Katie v|do pro:sub|we ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|9|SUBJ
+	9|4|COMP 10|9|OBJ 11|4|PUNCT
+%sit:	217
+*CHI:	so we can keep her .
+%mor:	co|so pro:sub|we mod|can v|keep pro:obj|her .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	217
+*MOT:	you love Peanuts, don't you ?
+%mor:	pro:per|you v|love n:prop|Peanuts cm|cm mod|do~neg|not pro:per|you
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|LP 5|7|AUX 6|5|NEG 7|2|OBJ 8|2|PUNCT
+%sit:	218
+*CHI:	I don't because he fights Katie .
+%mor:	pro:sub|I mod|do~neg|not conj|because pro:sub|he v|fight-3S
+	n:prop|Katie .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	218
+*CHI:	look what happened .
+%mor:	v|look pro:int|what v|happen-PAST .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+%sit:	219
+*CHI:	if felled [: fell] [*] down .
+%mor:	conj|if v|fall&PAST adv|down .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	219
+*CHI:	I bet it made Devon frustrated .
+%mor:	pro:sub|I v|bet&ZERO pro:per|it v|make&PAST n:prop|Devon
+	v|frustrate-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|SUBJ 6|4|COMP 7|2|PUNCT
+%sit:	219
+*CHI:	Sue, if I come in will you get sick ?
+%mor:	n:prop|Sue cm|cm conj|if pro:sub|I v|come adv|in mod|will
+	pro:per|you v|get adj|sick ?
+%gra:	1|9|SUBJ 2|1|LP 3|5|LINK 4|5|SUBJ 5|9|JCT 6|5|JCT 7|9|AUX 8|9|SUBJ
+	9|0|ROOT 10|9|PRED 11|9|PUNCT
+%sit:	220
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	220
+*CHI:	I made caca [= poo] so I don't have a belly+ache .
+%mor:	pro:sub|I v|make&PAST n|caca conj|so pro:sub|I mod|do~neg|not
+	v|have det:art|a n|+n|belly+n|ache .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|CJCT
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+%sit:	221
+@End

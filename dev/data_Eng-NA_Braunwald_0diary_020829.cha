@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/c-00011019-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, SIS Sister
+@ID:	eng|Braunwald|CHI|02;08.29|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	18-NOV-1973
+@Types:	long, toyplay, TD
+*CHI:	I can't get it any upper [: higher] [*] .
+%mor:	pro:sub|I mod|can~neg|not v|get pro:per|it qn|any adj|high-CP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|QUANT 7|4|JCT 8|4|PUNCT
+%sit:	1020
+*CHI:	would you share your baby with me ?
+%mor:	mod|will&COND pro:per|you v|share det:poss|your n|baby prep|with
+	pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+%sit:	1021
+*SIS:	no, you got [: have] [*] your own baby .
+%mor:	co|no cm|cm pro:per|you v|have det:poss|your adj|own n|baby .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%sit:	1021
+*SIS:	guess what ?
+%mor:	v|guess pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*SIS:	you get to play dominos with me .
+%mor:	pro:per|you v|get inf|to v|play n|domino-PL prep|with pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|4|JCT 7|6|POBJ 8|2|PUNCT
+%sit:	1022
+*CHI:	I don't know if I can play dominos .
+%mor:	pro:sub|I mod|do~neg|not v|know comp|if pro:sub|I mod|can v|play
+	n|domino-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|8|OBJ 10|4|PUNCT
+%sit:	1022
+*CHI:	watch what she does .
+%mor:	v|watch pro:int|what pro:sub|she v|do&3S .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+%sit:	1023
+*CHI:	look her legs go back and forth .
+%mor:	v|look det:poss|her n|leg-PL v|go adv|back coord|and adv|forth .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|4|PUNCT
+%sit:	1023
+*CHI:	if you sneeze, I'll give you one of my kleenex .
+%mor:	conj|if pro:per|you n|sneeze cm|cm pro:sub|I~mod|will v|give
+	pro:per|you pro:indef|one prep|of det:poss|my n|kleenex .
+%gra:	1|3|LINK 2|3|SUBJ 3|7|CJCT 4|3|LP 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ2
+	9|7|OBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|7|PUNCT
+%sit:	1024
+@End

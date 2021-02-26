@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/c-00011155-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|03;02.23|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	13-MAY-1974
+@Types:	long, toyplay, TD
+*FAT:	I dreamed you got a job .
+%mor:	pro:sub|I v|dream-PAST pro:per|you v|get&PAST det:art|a n|job .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	752
+*CHI:	Mommy, well, I didn't get a chance to tell you my dream .
+%mor:	n:prop|Mommy cm|cm n|well cm|cm pro:sub|I mod|do&PAST~neg|not v|get
+	det:art|a n|chance inf|to v|tell pro:per|you det:poss|my n|dream .
+%gra:	1|8|XJCT 2|1|LP 3|1|ENUM 4|1|LP 5|8|SUBJ 6|8|AUX 7|6|NEG 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|12|INF 12|8|XJCT 13|12|OBJ2 14|15|DET 15|12|OBJ
+	16|8|PUNCT
+%sit:	752
+*MOT:	well, go ahead .
+%mor:	co|well cm|cm v|go adv|ahead .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|JCT 5|1|PUNCT
+%sit:	752
+*CHI:	no, it's a secret .
+%mor:	co|no cm|cm pro:per|it~cop|be&3S det:art|a n|secret .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+%sit:	752
+*MOT:	well, how can you tell me if it's a secret ?
+%mor:	co|well cm|cm pro:rel|how mod|can pro:per|you v|tell pro:obj|me
+	conj|if pro:per|it~cop|be&3S det:art|a n|secret ?
+%gra:	1|6|COM 2|1|LP 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|12|DET 12|10|PRED 13|6|PUNCT
+%sit:	752
+*CHI:	I can't, can't .
+%mor:	pro:sub|I mod|can~neg|not cm|cm mod|can~neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|ENUM 6|5|NEG 7|4|PUNCT
+%sit:	752
+*MOT:	you can't remember it ?
+%mor:	pro:per|you mod|can~neg|not v|remember pro:per|it ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	752
+*MOT:	that often happens in dreams .
+%mor:	comp|that adv|often v|happen-3S adv|in n|dream-PL .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	752
+*CHI:	I ate my dream up .
+%mor:	pro:sub|I v|eat&PAST co|my n|dream adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|OBJ 5|4|NJCT 6|2|PUNCT
+%sit:	752
+*CHI:	I ate mine up .
+%mor:	pro:sub|I v|eat&PAST n|mine adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	752
+*CHI:	I ate it up .
+%mor:	pro:sub|I v|eat&PAST pro:per|it adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	752
+*CHI:	Mommy, I dreamed that you weren't Mommy, and that Daddy and Mommy
+	slept in my room .
+%mor:	n:prop|Mommy cm|cm pro:sub|I v|dream-PAST comp|that pro:per|you
+	cop|be&PAST~neg|not n:prop|Mommy cm|cm coord|and comp|that
+	n:prop|Daddy coord|and n:prop|Mommy v|sleep&PAST prep|in det:poss|my
+	n|room .
+%gra:	1|4|JCT 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|NEG
+	9|7|ENUM 10|9|LP 11|7|CONJ 12|16|LINK 13|16|SUBJ 14|13|CONJ 15|14|COORD
+	16|11|COORD 17|16|JCT 18|19|DET 19|17|POBJ 20|4|PUNCT
+%sit:	754
+*CHI:	I'm the lady who's getting up who drinks coffee upstairs .
+%mor:	pro:sub|I~cop|be&1S det:art|the n|lady pro:rel|who~aux|be&3S
+	part|get-PRESP adv|up pro:rel|who v|drink-3S n|coffee adv|upstairs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|10|LINK 10|7|COMP 11|10|OBJ 12|10|JCT 13|2|PUNCT
+%sit:	755
+@End

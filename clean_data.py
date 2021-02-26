@@ -23,8 +23,13 @@ def main():
         corpus_name = corpus_p.split(".")[0]
 
         print("Finding transcripts in %s..."%corpus_p)
-            kept_num = delete_files.delete_files(corpus_p, files)
-            print("%i cha files kept\n==================================="%kept_num)
+        
+        # filehandler = open(b"files.pkl","rb")
+        # files = pickle.load(filehandler)
+        files = prep.prep_file(corpus_p) 
+        kept_num = delete_files.delete_files(corpus_p, files)
+
+        print("%i cha files kept\n==================================="%kept_num)
 
         all_words = []
         word_p = "src/words/"+corpus_name+".pkl"
@@ -42,3 +47,7 @@ def main():
 
         print("analyzing...")
         analyze.plot(corpus_name, all_words)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00010972-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|02;07.11|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	01-OCT-1973
+@Types:	long, toyplay, TD
+*CHI:	hey, Mommy, turn off the bathroom light .
+%mor:	co|hey cm|cm n:prop|Mommy cm|cm n|turn prep|off det:art|the
+	n|+n|bath+n|room n|light .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|5|NJCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|1|PUNCT
+%sit:	770
+*FAT:	well, you can do it .
+%mor:	co|well cm|cm pro:per|you mod|can v|do pro:per|it .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%sit:	770
+*CHI:	if I can stand on my tippy+toes or on a stool .
+%mor:	conj|if pro:sub|I mod|can v|stand prep|on det:poss|my
+	n|+adj|tippy+n|toe-PL coord|or prep|on det:art|a n|stool .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|11|DET 11|9|POBJ 12|4|PUNCT
+%sit:	770
+*CHI:	I can't reach .
+%mor:	pro:sub|I mod|can~neg|not v|reach .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	770
+*CHI:	what's that thing ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that n|thing ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	771
+*MOT:	it's little black sheep .
+%mor:	pro:per|it~cop|be&3S adj|little adj|black n|sheep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	771
+*CHI:	that's what it is .
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:per|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+%sit:	771
+*CHI:	it's a little black sheep .
+%mor:	pro:per|it~cop|be&3S det:art|a adj|little adj|black n|sheep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+%sit:	771
+@End

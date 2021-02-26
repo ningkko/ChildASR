@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/c-00011124-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|03;01.08|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	28-MAR-1974
+@Types:	long, toyplay, TD
+*MOT:	no, the doctor took my tonsils out .
+%mor:	co|no cm|cm det:art|the n|doctor v|take&PAST det:poss|my
+	n|tonsil-PL adv|out .
+%gra:	1|5|COM 2|1|LP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+%sit:	601
+*CHI:	but Peanuts died .
+%mor:	conj|but n:prop|Peanuts v|die-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	601
+*MOT:	what does died@q mean ?
+%mor:	pro:int|what mod|do&3S meta|died adj|mean ?
+%gra:	1|3|OBJ 2|3|AUX 3|0|ROOT 4|3|OM 5|3|PUNCT
+%sit:	601
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	601
+*MOT:	well, what do you think it means ?
+%mor:	co|well cm|cm pro:int|what mod|do pro:per|you v|think pro:per|it
+	v|mean-3S ?
+%gra:	1|6|COM 2|1|LP 3|6|OBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|6|PUNCT
+%sit:	601
+*CHI:	you're sick .
+%mor:	pro:per|you~cop|be&PRES adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	601
+*MOT:	no, it's more than sick .
+%mor:	co|no cm|cm pro:per|it~cop|be&3S qn|more prep|than adj|sick .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|4|PUNCT
+%sit:	601
+*MOT:	you're not alive anymore .
+%mor:	pro:per|you~cop|be&PRES neg|not adj|alive adv|anymore .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|4|JCT 6|2|PUNCT
+%sit:	601
+*MOT:	Peanuts can't meow or wag his tail .
+%mor:	n:prop|Peanuts mod|can~neg|not v|meow coord|or v|wag det:poss|his
+	n|tail .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+%sit:	601
+*CHI:	Jo [: Joanna], you can't have everything as your prettiest .
+%mor:	n:prop|Joanna cm|cm pro:per|you mod|can~neg|not v|have
+	pro:indef|everything prep|as det:poss|your adj|pretty-SP .
+%gra:	1|0|INCROOT 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|1|ENUM 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+%sit:	602
+*CHI:	stay in there lid .
+%mor:	v|stay prep|in n|there n|lid .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%sit:	603
+*CHI:	(be)cause this is more funner to be in there .
+%mor:	conj|because pro:dem|this cop|be&3S adv|more adj|fun-CP inf|to
+	cop|be prep|in n|there .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+%sit:	603
+*MOT:	let's write your name on your ball so if one gets lost we'll know
+	whose it was .
+%mor:	v|let~pro:obj|us v|write det:poss|your n|name prep|on det:poss|your
+	n|ball adv|so conj|if pro:indef|one v|get-3S v|lose&PAST
+	pro:sub|we~mod|will v|know pro:rel|whose pro:per|it cop|be&PAST&13S
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|1|JCT 10|12|LINK 11|12|SUBJ 12|1|CJCT 13|12|COMP 14|16|SUBJ 15|16|AUX
+	16|13|COMP 17|19|LINK 18|19|SUBJ 19|16|COMP 20|1|PUNCT
+%sit:	604
+*CHI:	my name's on it .
+%mor:	det:poss|my n|name~cop|be&3S prep|on pro:per|it .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	604
+*CHI:	don't worry because I got it .
+%mor:	mod|do~neg|not v|worry conj|because pro:sub|I v|get&PAST pro:per|it
+	.
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|OBJ 8|3|PUNCT
+%sit:	605
+*CHI:	I'm growin(g) a baby .
+%mor:	pro:sub|I~aux|be&1S part|grow-PRESP det:art|a n|baby .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	606
+*FAT:	who's the Daddy ?
+%mor:	pro:int|who~cop|be&3S det:art|the n:prop|Daddy ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	606
+*CHI:	Jackie .
+%mor:	n:prop|Jackie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	606
+*FAT:	Johnnie or Blakey ?
+%mor:	n:prop|Johnnie coord|or n:prop|Blakey ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%sit:	606
+*CHI:	Jackie .
+%mor:	n:prop|Jackie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	606
+*CHI:	my hair's blowing every which way .
+%mor:	det:poss|my n|hair~aux|be&3S part|blow-PRESP qn|every pro:int|which
+	n|way .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%sit:	607
+*CHI:	your hair's blowing every which way too .
+%mor:	det:poss|your n|hair~aux|be&3S part|blow-PRESP qn|every
+	pro:int|which n|way adv|too .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|4|PUNCT
+%sit:	607
+@End

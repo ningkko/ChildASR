@@ -1,0 +1,749 @@
+@UTF8
+@PID:	11312/a-00019791-1
+@Begin
+@Languages:	zho, eng
+@Participants:	TEA Teacher, CHI wu_qianyu Child
+@ID:	zho|ZhouAssessment|TEA|||||Teacher|||
+@ID:	zho|ZhouAssessment|CHI|3;09.|female|||Child|||
+@Types:	cross, toyplay, TD
+*TEA:	芊羽 ‡ 你 看 ‡ 这 是 一 座 漂亮 的 小 房子 哦 !
+%mor:	n:prop|qian1yu3 beg|beg pro:per|ni3=you v|kan4=look beg|beg
+	pro:dem|zhe4=this v:cop|shi4=is num|yi1=one cl|zuo4
+	adj|piao4liang4=posh cleft|de adj|xiao3=small n|fang2zi=house sfp|o1
+	!
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|BEG 5|4|BEGP 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|13|CLASS 10|13|CMOD 11|10|LINK 12|13|MOD 13|7|PRED 14|7|SFP 15|7|PUNCT
+*TEA:	今天 你 先 想 请 谁 住 到 房子 里 来 呢 ?
+%mor:	n:tm|jin1tian1=today pro:per|ni3=you adv|xian1=earlier
+	v|xiang3=think v|qing3=request pro:wh|shei2=who v:resc|zhu4=inhabit
+	v:resc|dao4=arrive n|fang2zi=house post|li3=inside v:dirc|lai2=come
+	sfp|ne ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|COBJ 6|7|SUBJ 7|5|COMP 8|7|VR
+	9|10|POSTO 10|7|JCT 11|7|VD 12|4|SFP 13|4|PUNCT
+*CHI:	佩奇 .
+%mor:	n:prop|pei4qi2=Peppa_pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	请 佩奇 在1 房子 里 的 哪里 做 什么 ?
+%mor:	v|qing3=request n:prop|pei4qi2=Peppa_pig prep|zai4=at
+	n|fang2zi=house post|li3=inside poss|de pro:wh|na3li3=where
+	v|zuo4=make pro:wh|shen2me=what ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|JCT 4|5|POSTO 5|3|PREPO 6|1|LINK 7|8|JCT 8|1|SRL
+	9|8|OBJ 10|1|PUNCT
+*CHI:	在2 那里 .
+%mor:	v|zai4=exist post|na4li3=that_place .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*TEA:	佩奇 在3 干吗 ?
+%mor:	n:prop|pei4qi2=Peppa_pig adv|zai4=currently v|gan4ma2=do_what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*CHI:	弹 钢琴 .
+%mor:	v|tan2=play_instrument n|gang1qin2=piano .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	他 会 弹 个 什么样 的 曲子 ?
+%mor:	pro:per|ta1=he v:aux|hui4=will v|tan2=play_instrument cl|ge4
+	pro:wh|shen2me0yang4=what_kind poss|de n|qu3zi=melody ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|CLASS 5|7|MOD 6|5|POSS 7|3|OBJ 8|3|PUNCT
+*CHI:	门 前 大 桥 下 .
+%mor:	cl|men2 n|qian2=front adj|da4=great n|qiao2=bridge
+	v:dirc|xia4=go_down .
+%gra:	1|2|CLASS 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*TEA:	那 我们 让 佩奇 来 弹 钢琴 吧 !
+%mor:	conj|na4=so pro:per|wo3-PL=I v|rang4=allow n:prop|pei4qi2=Peppa_pig
+	v:dirc|lai2=come v|tan2=play_instrument n|gang1qin2=piano sfp|ba !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|SRL 7|6|OBJ 8|3|SFP
+	9|3|PUNCT
+*TEA:	佩奇 弹 钢琴 时 还 有 谁 呢 ?
+%mor:	n:prop|pei4qi2=Peppa_pig v|tan2=play_instrument n|gang1qin2=piano
+	n|shi2=time adv|hai2=still v|you3=have pro:wh|shei2=who sfp|ne ?
+%gra:	1|2|SUBJ 2|6|CJCT 3|4|MOD 4|2|OBJ 5|6|JCT 6|0|ROOT 7|6|OBJ 8|6|SFP
+	9|6|PUNCT
+*CHI:	乔治 .
+%mor:	n:prop|qiao2zhi4=George .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	乔治 会 做 什么 ?
+%mor:	n:prop|qiao2zhi4=George v:aux|hui4=will v|zuo4=make
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	乔治 会 做 圣诞树 .
+%mor:	n:prop|qiao2zhi4=George v:aux|hui4=will v|zuo4=make
+	n|sheng4dan4shu4=Christmas_tree .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*TEA:	哦 ‡ 乔治 会 做 圣诞树 啊 ‡ 他 想 做 圣诞树 是 为什么 呢 ?
+%mor:	co|o1=chant beg|beg n:prop|qiao2zhi4=George v:aux|hui4=will
+	v|zuo4=make n|sheng4dan4shu4=Christmas_tree sfp|a1 beg|beg
+	pro:per|ta1=he v|xiang3=think v|zuo4=make
+	n|sheng4dan4shu4=Christmas_tree v:cop|shi4=is
+	adv:wh|wei4shen2me=how_come sfp|ne ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|BEG 6|5|OBJ 7|5|SFP 8|5|BEGP
+	9|10|SUBJ 10|8|COMP 11|10|COBJ 12|13|SUBJ 13|11|COMP 14|13|PRED 15|0|INCROOT
+	16|15|PUNCT
+*CHI:	因为 他 喜欢 圣诞树 .
+%mor:	conj|yin1wei4=because pro:per|ta1=he v|xi3huan1=like
+	n|sheng4dan4shu4=Christmas_tree .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*TEA:	圣诞树 是 什么 时候 有的 啊 ?
+%mor:	n|sheng4dan4shu4=Christmas_tree v:cop|shi4=is pro:wh|shen2me=what
+	n|shi2hou4=time pro:dem|you3de5=some sfp|a1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|PRED 6|2|SFP 7|2|PUNCT
+*CHI:	过年 的时候 .
+%mor:	v|guo4nian2=celebrate_Spring_Festival post|de4shi2hou4=during .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*TEA:	对 呀 ‡ 他们 喜欢 , 还 有 呢 , 这 是 谁 ?
+%mor:	prep|dui4=toward sfp|ya beg|beg pro:per|ta1-PL=he v|xi3huan1=like
+	cm|cm adv|hai2=still v|you3=have sfp|ne cm|cm pro:dem|zhe4=this
+	v:cop|shi4=is pro:wh|shei2=who ?
+%gra:	1|0|BEG 2|1|SFP 3|1|BEGP 4|5|SUBJ 5|8|CJCT 6|8|LP 7|8|JCT 8|12|CJCT
+	9|8|SFP 10|12|LP 11|12|SUBJ 12|0|ROOT 13|12|PRED 14|12|PUNCT
+*CHI:	猪 妈妈 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	猪 妈妈 喜欢 干 什么 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|xi3huan1=like adj|gan1=dry
+	pro:wh|shen2me=what ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	煮饭 .
+%mor:	v|zhu3fan4=cook .
+%gra:	1|0|ROOT 2|1|PUNCT
+*TEA:	猪 妈妈 煮饭 给1 吃 啊 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|zhu3fan4=cook prep|gei3=for
+	v|chi1=eat sfp|a1 ?
+%gra:	1|2|MOD 2|3|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|SFP 7|5|PUNCT
+*CHI:	佩奇 .
+%mor:	n:prop|pei4qi2=Peppa_pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	今天 煮 妈妈 要 煮 什么 东西 吃 ?
+%mor:	n:tm|jin1tian1=today v|zhu3=boil n:relat|ma1&DIM=mother
+	v:aux|yao4=should v|zhu3=boil pro:wh|shen2me=what n|dong1xi=thing
+	v|chi1=eat ?
+%gra:	1|2|JCT 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|MOD 7|5|OBJ 8|5|SRL
+	9|2|PUNCT
+*CHI:	菜 .
+%mor:	n|cai4=food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	你 想 煮 什么 菜 ?
+%mor:	pro:per|ni3=you v|xiang3=think v|zhu3=boil pro:wh|shen2me=what
+	n|cai4=food ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|5|MOD 5|3|OBJ 6|2|PUNCT
+*CHI:	萝卜 .
+%mor:	n|luo2bo=radish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	那 她 煮 萝卜 时候 会 怎么 想 呢 ?
+%mor:	conj|na4=so pro:per|ta1=she v|zhu3=boil n|luo2bo=radish
+	n|shi2hou4=time v:aux|hui4=will adv:wh|zen3me=how v|xiang3=think
+	sfp|ne ?
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CSUBJ 4|5|MOD 5|3|OBJ 6|7|AUX 7|8|JCT 8|0|ROOT
+	9|8|SFP 10|8|PUNCT
+*CHI:	切 断 +. [+ sub] [+ cjm]
+%mor:	v|qie1=cut v:resc|duan4=break +.
+%gra:	1|0|ROOT 2|1|VR 3|1|PUNCT
+*CHI:	然后 放 桌 上 吃饭 +.
+%mor:	conj|ran2hou4=thereupon v|fang4=place n|zhuo1=table
+	post|shang4=above v|chi1fan4=eat +.
+%gra:	1|2|LINK 2|5|CJCT 3|4|POSTO 4|2|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	装 饭 .
+%mor:	v|zhuang1=install n|fan4=food .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	还 会 做 什么 事 呢 ?
+%mor:	adv|hai2=still v:aux|hui4=will v|zuo4=make pro:wh|shen2me=what
+	n|shi4=thing sfp|ne ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|SFP 7|3|PUNCT
+*CHI:	还 会 干活 .
+%mor:	adv|hai2=still v:aux|hui4=will v|gan4huo2=work .
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*TEA:	还 会 干 什么 活 ?
+%mor:	adv|hai2=still v:aux|hui4=will v|gan4=do pro:wh|shen2me=what
+	adj|huo2=alive ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	煮 菜 .
+%mor:	v|zhu3=boil n|cai4=food .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	谁 煮饭 ?
+%mor:	pro:wh|shei2=who v|zhu3fan4=cook ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	猪 妈妈 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	煮 菜 的时候 猪 妈妈 会不会 想 点 什么 事 ?
+%mor:	v|zhu3=boil n|cai4=food post|de4shi2hou4=during n|zhu1=pig
+	n:relat|ma1&DIM=mother v:aux|hui4&DIM=will v|xiang3=think
+	n|dian3=dot pro:wh|shen2me=what n|shi4=thing ?
+%gra:	1|7|CJCT 2|3|POSTO 3|1|JCT 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|10|MOD
+	9|10|MOD 10|7|OBJ 11|7|PUNCT
+*CHI:	想 猪 爸爸 .
+%mor:	v|xiang3=think n|zhu1=pig n:relat|ba4&DIM=father .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*TEA:	她 想 猪 爸爸 干吗 ?
+%mor:	pro:per|ta1=she v|xiang3=think n|zhu1=pig n:relat|ba4&DIM=father
+	v|gan4ma2=do_what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|SUBJ 5|2|COBJ 6|2|PUNCT
+*CHI:	猪 爸爸 睡觉 .
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father v|shui4jiao4=sleep .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*TEA:	为什么 猪 爸爸 今天 要 去 睡觉 ?
+%mor:	adv:wh|wei4shen2me=how_come n|zhu1=pig n:relat|ba4&DIM=father
+	n:tm|jin1tian1=today v:aux|yao4=should v:dirc|qu4=go
+	v|shui4jiao4=sleep ?
+%gra:	1|6|JCT 2|3|MOD 3|6|SUBJ 4|6|JCT 5|6|AUX 6|0|ROOT 7|6|SRL 8|6|PUNCT
+*TEA:	猪 爸爸 昨天 去 干吗 了 ?
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father n:tm|zuo2tian1=yesterday
+	v:dirc|qu4=go v|gan4ma2=do_what asp|le ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|SRL 6|4|ASP 7|4|PUNCT
+*CHI:	去 弄 菜 了 .
+%mor:	v:dirc|qu4=go v|nong4=make n|cai4=food asp|le .
+%gra:	1|0|ROOT 2|1|SRL 3|2|OBJ 4|1|ASP 5|1|PUNCT
+*TEA:	弄 什么 菜 , 发生 了 什么 事 ?
+%mor:	v|nong4=make pro:wh|shen2me=what n|cai4=food cm|cm
+	v|fa1sheng1=happen asp|le pro:wh|shen2me=what n|shi4=thing ?
+%gra:	1|5|CJCT 2|3|MOD 3|1|OBJ 4|5|LP 5|0|ROOT 6|5|ASP 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*CHI:	好 饿 啊 ‡ 然后 盖 上 被子 .
+%mor:	adv|hao3=very adj|e4=hungry sfp|a1 beg|beg conj|ran2hou4=thereupon
+	v|gai4=cover v:dirc|shang4=go_up n|bei4zi=quilt .
+%gra:	1|2|JCT 2|0|BEG 3|2|SFP 4|2|BEGP 5|6|JCT 6|0|ROOT 7|6|VD 8|6|OBJ
+	9|6|PUNCT
+*TEA:	佩奇 和 乔治 好像 不 是 很 想 弹 钢琴 了 ?
+%mor:	n:prop|pei4qi2=Peppa_pig prep|he2=with n:prop|qiao2zhi4=George
+	adv|hao3xiang4=seem adv|bu4=not v:cop|shi4=is adv|hen3=much
+	v|xiang3=think v|tan2=play_instrument n|gang1qin2=piano asp|le ?
+%gra:	1|6|SUBJ 2|6|JCT 3|2|PREPO 4|6|JCT 5|6|JCT 6|0|ROOT 7|8|JCT 8|6|CPRED
+	9|8|COBJ 10|9|OBJ 11|6|ASP 12|6|PUNCT
+*TEA:	那 他们 现在 做 点 什么 事 ?
+%mor:	conj|na4=so pro:per|ta1-PL=he adv|xian4zai4=now v|zuo4=make
+	cl|dian3 pro:wh|shen2me=what n|shi4=thing ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|CLASS 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*CHI:	吃饭 .
+%mor:	v|chi1fan4=eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*TEA:	吃饭 的时候 会 发生 什么 事 ?
+%mor:	v|chi1fan4=eat post|de4shi2hou4=during v:aux|hui4=will
+	v|fa1sheng1=happen pro:wh|shen2me=what n|shi4=thing ?
+%gra:	1|4|CJCT 2|1|JCT 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*TEA:	是 谁 叫 他们 吃饭 ?
+%mor:	v:cop|shi4=is pro:wh|shei2=who v|jiao4=call pro:per|ta1-PL=he
+	v|chi1fan4=eat ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|CPRED 4|5|SUBJ 5|3|COMP 6|1|PUNCT
+*CHI:	猪 妈妈 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	猪 妈妈 会 怎么 叫 呢 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v:aux|hui4=will adv:wh|zen3me=how
+	v|jiao4=call sfp|ne ?
+%gra:	1|2|MOD 2|5|SUBJ 3|4|AUX 4|5|JCT 5|0|ROOT 6|5|SFP 7|5|PUNCT
+*CHI:	噜 噜 噜 .
+%mor:	v|lu1=chatter v|lu1=chatter v|lu1=chatter .
+%gra:	1|0|ROOT 2|1|SRL 3|2|SRL 4|1|PUNCT
+*TEA:	佩奇 和 乔治 吃饭 时 会 说话 吗 ?
+%mor:	n:prop|pei4qi2=Peppa_pig prep|he2=with n:prop|qiao2zhi4=George
+	v|chi1fan4=eat n|shi2=time v:aux|hui4=will v|shuo1hua4=speak sfp|ma
+	?
+%gra:	1|4|SUBJ 2|4|JCT 3|2|PREPO 4|7|CJCT 5|4|OBJ 6|7|AUX 7|0|ROOT 8|7|SFP
+	9|7|PUNCT
+*CHI:	不 会 .
+%mor:	adv|bu4=not v:resc|hui4=know .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*TEA:	<那 他们 会 怎么 吃> [//] 他们 喜欢 吃 什么 ?
+%mor:	pro:per|ta1-PL=he v|xi3huan1=like v|chi1=eat pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|3|OBJ 5|2|PUNCT
+*CHI:	佩奇 喜欢 吃饭 .
+%mor:	n:prop|pei4qi2=Peppa_pig v|xi3huan1=like v|chi1fan4=eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|2|PUNCT
+*TEA:	还 有 呢 ?
+%mor:	adv|hai2=still v|you3=have sfp|ne ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	荷包 饭 .
+%mor:	n|he2bao1=small_bag n|fan4=food .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	还 喜欢 吃 什么 ?
+%mor:	adv|hai2=still v|xi3huan1=like v|chi1=eat pro:wh|shen2me=what ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|COBJ 4|3|OBJ 5|2|PUNCT
+*CHI:	吃 菜 .
+%mor:	v|chi1=eat n|cai4=food .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	佩奇 觉得 妈妈 做 的 饭菜 味道 怎么样 ?
+%mor:	n:prop|pei4qi2=Peppa_pig v|jue2de=think n:relat|ma1&DIM=mother
+	v|zuo4=make cleft|de n|fan4cai4=meal n|wei4dao4=gustatory_perception
+	adv:wh|zen2meyang4=how ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|6|CMOD 5|4|LINK 6|7|MOD 7|8|SUBJ 8|2|COMP
+	9|2|PUNCT
+*CHI:	好 臭 ?
+%mor:	adv|hao3=very adj|chou4=stinky ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*TEA:	为什么 觉得 妈妈 做 的 饭菜 很 臭 ?
+%mor:	adv:wh|wei4shen2me=how_come v|jue2de=think n:relat|ma1&DIM=mother
+	v|zuo4=make cleft|de n|fan4cai4=meal adv|hen3=much adj|chou4=stinky
+	?
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|6|CMOD 5|4|LINK 6|8|SUBJ 7|8|JCT 8|2|COMP
+	9|2|PUNCT
+*CHI:	因为 家 漏 了 .
+%mor:	conj|yin1wei4=because n|jia1=family v|lou4=leak asp|le .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|3|PUNCT
+*TEA:	家 漏 了 就 会 怎么样 ?
+%mor:	n|jia1=family v|lou4=leak asp|le adv|jiu4=just n|hui4=meeting
+	adv:wh|zen2meyang4=how ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|ASP 4|6|JCT 5|6|SUBJ 6|2|OBJ 7|2|PUNCT
+*CHI:	就 会 很 辣 , 很 酸 , 很 臭 .
+%mor:	adv|jiu4=just v:aux|hui4=will adv|hen3=much adj|la4=sharp cm|cm
+	adv|hen3=much v|suan1=sick_at_heart cm|cm adv|hen3=much
+	adj|chou4=stinky .
+%gra:	1|4|JCT 2|4|AUX 3|4|JCT 4|7|JCT 5|4|LP 6|7|JCT 7|10|CJCT 8|10|LP
+	9|10|JCT 10|0|PROOT 11|10|PUNCT
+*TEA:	所以 佩奇 爱 吃 这 个 饭 吗 ?
+%mor:	conj|suo3yi3=so n:prop|pei4qi2=Peppa_pig v|ai4=love v|chi1=eat
+	det|zhe4=this cl|ge4 n|fan4=food sfp|ma ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COBJ 5|6|DET 6|7|CLASS 7|4|OBJ 8|3|SFP
+	9|3|PUNCT
+*CHI:	不 爱 吃 .
+%mor:	adv|bu4=not v|ai4=love v|chi1=eat .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SRL 4|2|PUNCT
+*TEA:	他 不 爱 吃 的时候 会 怎么 说 ?
+%mor:	pro:per|ta1=he adv|bu4=not v|ai4=love v|chi1=eat
+	post|de4shi2hou4=during v:aux|hui4=will adv:wh|zen3me=how
+	v|shuo1=say ?
+%gra:	1|3|SUBJ 2|3|JCT 3|8|CJCT 4|3|SRL 5|4|JCT 6|7|AUX 7|8|JCT 8|0|ROOT
+	9|8|PUNCT
+*CHI:	<我 不 想 吃> [/] 我 不 想 吃 .
+%mor:	pro:per|wo3=I adv|bu4=not v|xiang3=think v|chi1=eat .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|COBJ 5|3|PUNCT
+*TEA:	那 这 个 时候 谁 会 说话 ?
+%mor:	conj|na4=so det|zhe4=this cl|ge4 n|shi2hou4=time pro:wh|shei2=who
+	v:aux|hui4=will v|shuo1hua4=speak ?
+%gra:	1|7|JCT 2|4|DET 3|4|CLASS 4|7|JCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|PUNCT
+*CHI:	猪 爸爸 .
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	猪 爸爸 说 了 什么 ?
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father v|shuo1=say asp|le
+	pro:wh|shen2me=what ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|ASP 5|3|OBJ 6|3|PUNCT
+*CHI:	噜 噜 噜 .
+%mor:	v|lu1=chatter v|lu1=chatter v|lu1=chatter .
+%gra:	1|0|ROOT 2|1|SRL 3|2|SRL 4|1|PUNCT
+*TEA:	猪 爸爸 对 谁 说话 ?
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father prep|dui4=toward pro:wh|shei2=who
+	v|shuo1hua4=speak ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|JCT 4|3|PREPO 5|0|ROOT 6|5|PUNCT
+*CHI:	对 猪 妈妈 说话 .
+%mor:	prep|dui4=toward n|zhu1=pig n:relat|ma1&DIM=mother
+	v|shuo1hua4=speak .
+%gra:	1|4|JCT 2|3|MOD 3|1|PREPO 4|0|ROOT 5|4|PUNCT
+*TEA:	他 跟 猪 妈妈 说 什么 ?
+%mor:	pro:per|ta1=he prep|gen1=with n|zhu1=pig n:relat|ma1&DIM=mother
+	v|shuo1=say pro:wh|shen2me=what ?
+%gra:	1|5|SUBJ 2|5|JCT 3|2|PREPO 4|2|PREPO 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	<来 吃饭> [/] 来 吃饭 +. [+ sub] [+ bln]
+%mor:	v:dirc|lai2=come v|chi1fan4=eat +.
+%gra:	1|0|ROOT 2|1|SRL 3|1|PUNCT
+*CHI:	快 来 吃饭 .
+%mor:	adv|kuai4=quickly v:dirc|lai2=come v|chi1fan4=eat .
+%gra:	1|2|JCT 2|0|ROOT 3|2|SRL 4|2|PUNCT
+*TEA:	刚才 佩奇 说 的话 , 乔治 和 爸爸 妈妈 听见 了 吗 ?
+%mor:	adv|gang1cai2=just_now n:prop|pei4qi2=Peppa_pig v|shuo1=say
+	post|de4hua4=if cm|cm n:prop|qiao2zhi4=George prep|he2=with
+	n:relat|ba4&DIM=father n:relat|ma1&DIM=mother v|ting1jian4=listen
+	asp|le sfp|ma ?
+%gra:	1|3|JCT 2|3|SUBJ 3|10|CJCT 4|3|JCT 5|10|LP 6|10|SUBJ 7|10|JCT 8|9|MOD
+	9|7|PREPO 10|0|ROOT 11|10|ASP 12|10|SFP 13|10|PUNCT
+*CHI:	没有 .
+%mor:	adv|mei2you3=not_yet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	大家 都 来 吃饭 了 , 这 时候 餐桌 上 发生 什么 事 了 ?
+%mor:	pro:per|da4jia1=everyone adv|dou1=all v:dirc|lai2=come
+	v|chi1fan4=eat asp|le cm|cm det|zhe4=this n|shi2hou4=time
+	n|can1zhuo1=dining_table post|shang4=above v|fa1sheng1=happen
+	pro:wh|shen2me=what n|shi4=thing asp|le ?
+%gra:	1|3|SUBJ 2|3|JCT 3|11|CJCT 4|3|SRL 5|3|ASP 6|11|LP 7|9|DET 8|9|MOD
+	9|10|POSTO 10|11|JCT 11|0|ROOT 12|13|MOD 13|11|OBJ 14|11|ASP 15|11|PUNCT
+*CHI:	没有 发生 什么 事 ?
+%mor:	adv|mei2you3=not_yet v|fa1sheng1=happen pro:wh|shen2me=what
+	n|shi4=thing ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*TEA:	乔治 爱 吃饭 吗 ?
+%mor:	n:prop|qiao2zhi4=George v|ai4=love v|chi1fan4=eat sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COBJ 4|2|SFP 5|2|PUNCT
+*CHI:	不 吃 .
+%mor:	adv|bu4=not v|chi1=eat .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*TEA:	乔治 也 不 太 喜欢 吃饭 ?
+%mor:	n:prop|qiao2zhi4=George adv|ye3=also adv|bu4=not adv|tai4=very
+	v|xi3huan1=like v|chi1fan4=eat ?
+%gra:	1|5|SUBJ 2|5|JCT 3|5|JCT 4|5|JCT 5|0|ROOT 6|5|COBJ 7|5|PUNCT
+*CHI:	对 .
+%mor:	adj|dui4=correct .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	乔治 会 说 什么 ?
+%mor:	n:prop|qiao2zhi4=George v:aux|hui4=will v|shuo1=say
+	pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	No@s:eng .
+%mor:	L2|No .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	那 乔治 想 干吗 ?
+%mor:	pro:dem|na4=that n:prop|qiao2zhi4=George v|xiang3=think
+	v|gan4ma2=do_what ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|COBJ 5|3|PUNCT
+*CHI:	玩 玩具 .
+%mor:	v|wan2=play n|wan2ju4=toy .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	这 时候 猪 爸爸 猪 妈妈 会 说 什么 ?
+%mor:	pro:dem|zhe4=this n|shi2hou4=time n|zhu1=pig n:relat|ba4&DIM=father
+	n|zhu1=pig n:relat|ma1&DIM=mother v:aux|hui4=will v|shuo1=say
+	pro:wh|shen2me=what ?
+%gra:	1|6|DET 2|3|MOD 3|6|MOD 4|6|MOD 5|6|MOD 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+*CHI:	乔治 你 不 要 去 玩 玩具 .
+%mor:	n:prop|qiao2zhi4=George pro:per|ni3=you adv|bu4=not
+	v:aux|yao4=should v:dirc|qu4=go v|wan2=play n|wan2ju4=toy .
+%gra:	1|5|SUBJ 2|5|SUBJ 3|4|JCT 4|5|AUX 5|0|ROOT 6|5|SRL 7|6|OBJ 8|5|PUNCT
+*TEA:	然后 呢 .
+%mor:	conj|ran2hou4=thereupon sfp|ne .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	倒 掉 了 .
+%mor:	v|dao4=pour v:resc|diao4=done asp|le .
+%gra:	1|0|ROOT 2|1|VR 3|1|ASP 4|1|PUNCT
+*TEA:	什么 倒 掉 了 ?
+%mor:	pro:wh|shen2me=what v|dao4=pour v:resc|diao4=done asp|le ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|VR 4|2|ASP 5|2|PUNCT
+*CHI:	饭 .
+%mor:	n|fan4=food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	<还 有 发生 什么 事> [//] 这 时候 乔治 有没有 听话 ?
+%mor:	pro:dem|zhe4=this n|shi2hou4=time n:prop|qiao2zhi4=George
+	v|you3&DIM=have v|ting1hua4=be_obedient ?
+%gra:	1|2|DET 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|SRL 6|4|PUNCT
+*CHI:	没有 .
+%mor:	adv|mei2you3=not_yet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	那 乔治 怎么 说 怎么 做 ?
+%mor:	pro:dem|na4=that n:prop|qiao2zhi4=George adv:wh|zen3me=how
+	v|shuo1=say adv:wh|zen3me=how v|zuo4=make ?
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|JCT 6|4|COBJ 7|4|PUNCT
+*CHI:	喝 水 .
+%mor:	v|he1=drink n|shui3=water .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	乔治 喝 什么 水 ?
+%mor:	n:prop|qiao2zhi4=George v|he1=drink pro:wh|shen2me=what
+	n|shui3=water ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	大 梅 水 .
+%mor:	adj|da4=great n|mei2=plum n|shui3=water .
+%gra:	1|2|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*TEA:	你 打算 带 他 去 哪里 拿 东西 吃 ?
+%mor:	pro:per|ni3=you v|da3suan4=plan_to v|dai4=bring pro:per|ta1=he
+	v:dirc|qu4=go pro:wh|na3li3=where prep|na2=with n|dong1xi=thing
+	v|chi1=eat ?
+%gra:	1|2|SUBJ 2|9|CJCT 3|2|SRL 4|3|OBJ 5|3|VD 6|9|SUBJ 7|9|JCT 8|7|PREPO
+	9|0|ROOT 10|9|PUNCT
+*CHI:	噜 噜 噜 .
+%mor:	v|lu1=chatter v|lu1=chatter v|lu1=chatter .
+%gra:	1|0|ROOT 2|1|SRL 3|2|SRL 4|1|PUNCT
+*TEA:	乔治 准备 吃 什么 ?
+%mor:	n:prop|qiao2zhi4=George v|zhun3bei4=prepare v|chi1=eat
+	pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SRL 4|3|OBJ 5|2|PUNCT
+*CHI:	南瓜 .
+%mor:	n|nan2gua1=pumpkin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	还 有 什么 ?
+%mor:	adv|hai2=still v|you3=have pro:wh|shen2me=what ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	火腿肠 .
+%mor:	n|huo3tui3chang2=ham_sausage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	火腿肠 吃 完 要 做 什么 事 ?
+%mor:	n|huo3tui3chang2=ham_sausage v|chi1=eat v:resc|wan2=finish
+	v:aux|yao4=should v|zuo4=make pro:wh|shen2me=what n|shi4=thing ?
+%gra:	1|2|SUBJ 2|5|CJCT 3|2|VR 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|PUNCT
+*CHI:	要 上 去 洗澡 了 .
+%mor:	v:aux|yao4=should v:dirc|shang4=go_up v:dirc|qu4=go
+	v|xi3zao3=shower asp|le .
+%gra:	1|2|AUX 2|0|ROOT 3|2|VD 4|2|SRL 5|2|ASP 6|2|PUNCT
+*TEA:	上 去 走 楼梯 的时候 乔治 会 说 什么 ?
+%mor:	v:dirc|shang4=go_up v:dirc|qu4=go v:dirc|zou3=go_away
+	n|lou2ti1=stairs post|de4shi2hou4=during n:prop|qiao2zhi4=George
+	v:aux|hui4=will v|shuo1=say pro:wh|shen2me=what ?
+%gra:	1|0|ROOT 2|1|VD 3|8|CJCT 4|3|OBJ 5|3|JCT 6|8|SUBJ 7|8|AUX 8|1|SRL
+	9|8|OBJ 10|1|PUNCT
+*CHI:	洗 好 了 .
+%mor:	v|xi3=wash adj|hao3=good asp|le .
+%gra:	1|0|ROOT 2|1|JCT 3|1|ASP 4|1|PUNCT
+*TEA:	那 他 会 想 做 什么 ?
+%mor:	conj|na4=so pro:per|ta1=he v:aux|hui4=will v|xiang3=think
+	v|zuo4=make pro:wh|shen2me=what ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COBJ 6|5|OBJ 7|4|PUNCT
+*CHI:	睡觉 .
+%mor:	v|shui4jiao4=sleep .
+%gra:	1|0|ROOT 2|1|PUNCT
+*TEA:	乔治 洗 完 澡 去 睡觉 了 .
+%mor:	n:prop|qiao2zhi4=George v|xi3=wash v:resc|wan2=finish n|zao3=bath
+	v:dirc|qu4=go v|shui4jiao4=sleep asp|le .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VR 4|2|OBJ 5|2|VD 6|2|SRL 7|2|ASP 8|2|PUNCT
+*CHI:	关 灯 .
+%mor:	v|guan1=shut n|deng1=lantern .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	然后 呢 ?
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	盖 上 被子 .
+%mor:	v|gai4=cover v:dirc|shang4=go_up n|bei4zi=quilt .
+%gra:	1|0|ROOT 2|1|VD 3|1|OBJ 4|1|PUNCT
+*TEA:	然后 呢 ?
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	爸爸 继续 走 了 .
+%mor:	n:relat|ba4&DIM=father v|ji4xu4=continue v:dirc|zou3=go_away asp|le
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|ASP 5|2|PUNCT
+*TEA:	爸爸 走 楼梯 时候 会 说话 吗 ?
+%mor:	n:relat|ba4&DIM=father v:dirc|zou3=go_away n|lou2ti1=stairs
+	n|shi2hou4=time v:aux|hui4=will v|shuo1hua4=speak sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|AUX 6|2|SRL 7|2|SFP 8|2|PUNCT
+*CHI:	会 唱歌 .
+%mor:	v:aux|hui4=will v|chang4ge1=sing .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*TEA:	这 是 干吗 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is v|gan4ma2=do_what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	躺 着 睡觉 .
+%mor:	v|tang3=lie asp|zhe v|shui4jiao4=sleep .
+%gra:	1|0|ROOT 2|1|ASP 3|1|SRL 4|1|PUNCT
+*TEA:	然后 呢 .
+%mor:	conj|ran2hou4=thereupon sfp|ne .
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	佩奇 睡觉 讲话 .
+%mor:	n:prop|pei4qi2=Peppa_pig v|shui4jiao4=sleep v|jiang3hua4=speak .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SRL 4|2|PUNCT
+*TEA:	佩奇 讲 什么 ?
+%mor:	n:prop|pei4qi2=Peppa_pig v|jiang3=say pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	佩奇 , 乔治 .
+%mor:	n:prop|pei4qi2=Peppa_pig cm|cm n:prop|qiao2zhi4=George .
+%gra:	1|3|SUBJ 2|3|LP 3|0|INCROOT 4|3|PUNCT
+*TEA:	然后 呢 ?
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	他 也 要 睡觉 .
+%mor:	pro:per|ta1=he adv|ye3=also v:aux|yao4=should v|shui4jiao4=sleep .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	猪 妈妈 来 洗澡 了 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v:dirc|lai2=come v|xi3zao3=shower
+	asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|SRL 5|3|ASP 6|3|PUNCT
+*TEA:	猪 妈妈 走 楼梯 的时候 , 她 洗澡 的时候 会 有 什么 不 一样的 事情 发生 呢 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v:dirc|zou3=go_away
+	n|lou2ti1=stairs post|de4shi2hou4=during cm|cm pro:per|ta1=she
+	v|xi3zao3=shower post|de4shi2hou4=during v:aux|hui4=will v|you3=have
+	pro:wh|shen2me=what adv|bu4=not adj|yi1yang4-ISH=same
+	n|shi4qing2=matter v|fa1sheng1=happen sfp|ne ?
+%gra:	1|2|MOD 2|3|SUBJ 3|8|CJCT 4|3|OBJ 5|3|JCT 6|8|LP 7|8|SUBJ 8|11|CJCT
+	9|8|JCT 10|11|AUX 11|0|ROOT 12|11|OBJ 13|14|JCT 14|15|MOD 15|11|OBJ
+	16|11|SRL 17|11|SFP 18|11|PUNCT
+*CHI:	佩奇 .
+%mor:	n:prop|pei4qi2=Peppa_pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	然后 呢 ?
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	睡 好 觉 了 .
+%mor:	v|shui4=sleep adv|hao3=very v|jue2=sense asp|le .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|ASP 5|3|PUNCT
+*TEA:	猪 妈妈 也 睡觉 , 然后 要 干吗 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother adv|ye3=also v|shui4jiao4=sleep
+	cm|cm conj|ran2hou4=thereupon v:aux|yao4=should v|gan4ma2=do_what ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|8|CJCT 5|8|LP 6|8|JCT 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*CHI:	关 灯 .
+%mor:	v|guan1=shut n|deng1=lantern .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	还 会 发生 什么 事 呢 ?
+%mor:	adv|hai2=still v:aux|hui4=will v|fa1sheng1=happen
+	pro:wh|shen2me=what n|shi4=thing sfp|ne ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|SFP 7|3|PUNCT
+*CHI:	起来 啦 !
+%mor:	v:dirc|qi3lai2=get_up sfp|la1 !
+%gra:	1|0|ROOT 2|1|SFP 3|1|PUNCT
+*TEA:	谁 起来 啦 ?
+%mor:	pro:wh|shei2=who v:dirc|qi3lai2=get_up sfp|la1 ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	乔治 ‡ 猪 爸爸 醒 来 了 .
+%mor:	n:prop|qiao2zhi4=George beg|beg n|zhu1=pig n:relat|ba4&DIM=father
+	v:resc|xing3=waken v:dirc|lai2=come asp|le .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|VD 7|5|ASP 8|5|PUNCT
+*TEA:	他们 要 说 什么 话 ?
+%mor:	pro:per|ta1-PL=he v:aux|yao4=should v|shuo1=say pro:wh|shen2me=what
+	n|hua4=speech ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	我 要 吃饭 !
+%mor:	pro:per|wo3=I v:aux|yao4=should v|chi1fan4=eat !
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*TEA:	然后 呢 ?
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	现在 猪 爸爸 上 楼梯 .
+%mor:	adv|xian4zai4=now n|zhu1=pig n:relat|ba4&DIM=father
+	v:dirc|shang4=go_up n|lou2ti1=stairs .
+%gra:	1|4|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*TEA:	去 干吗 ?
+%mor:	v:dirc|qu4=go v|gan4ma2=do_what ?
+%gra:	1|0|ROOT 2|1|SRL 3|1|PUNCT
+*CHI:	去 弄 洗 面 台 .
+%mor:	v:dirc|qu4=go v|nong4=make v|xi3=wash n|mian4=surface
+	n|tai2=platform .
+%gra:	1|0|ROOT 2|1|SRL 3|2|SRL 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*TEA:	他 为什么 要 弄 洗 面 台 ?
+%mor:	pro:per|ta1=he adv:wh|wei4shen2me=how_come v:aux|yao4=should
+	v|nong4=make v|xi3=wash n|mian4=surface n|tai2=platform ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|SRL 6|7|MOD 7|5|OBJ 8|4|PUNCT
+*CHI:	旧 了 .
+%mor:	adj|jiu4=old asp|le .
+%gra:	1|0|INCROOT 2|1|ASP 3|1|PUNCT
+*TEA:	他 想 要 干 什么 ?
+%mor:	pro:per|ta1=he v|xiang3=think v:aux|yao4=should v|gan4=do
+	pro:wh|shen2me=what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|AUX 4|2|COBJ 5|4|OBJ 6|2|PUNCT
+*CHI:	然后 去 洗澡 .
+%mor:	conj|ran2hou4=thereupon v:dirc|qu4=go v|xi3zao3=shower .
+%gra:	1|2|LINK 2|0|ROOT 3|2|SRL 4|2|PUNCT
+*TEA:	哦 ‡ 修理 洗 面 台 然后 去 洗澡 .
+%mor:	co|o1=chant beg|beg v|xiu1li3=repair v|xi3=wash n|mian4=surface
+	n|tai2=platform conj|ran2hou4=thereupon v:dirc|qu4=go
+	v|xi3zao3=shower .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|SRL 5|6|MOD 6|8|SUBJ 7|8|JCT 8|4|COMP
+	9|8|SRL 10|3|PUNCT
+*CHI:	好 .
+%mor:	adj|hao3=good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*TEA:	洗 完 澡 以后 干吗 ?
+%mor:	v|xi3=wash v:resc|wan2=finish n|zao3=bath post|yi3hou4=afterwards
+	v|gan4ma2=do_what ?
+%gra:	1|0|ROOT 2|1|VR 3|4|POSTO 4|1|JCT 5|1|SRL 6|1|PUNCT
+*CHI:	打开 灯 玩 .
+%mor:	v|da3kai1=open n|deng1=lantern v|wan2=play .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SRL 4|1|PUNCT
+*TEA:	打开 灯 然后 呢 ?
+%mor:	v|da3kai1=open n|deng1=lantern conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|SRL 4|3|SFP 5|1|PUNCT
+*CHI:	饭菜 它们 也 去 洗澡 .
+%mor:	n|fan4cai4=meal pro:per|ta1-PL=it adv|ye3=also v:dirc|qu4=go
+	v|xi3zao3=shower .
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|SRL 6|4|PUNCT
+*TEA:	饭菜 它们 也 去 洗澡 ?
+%mor:	n|fan4cai4=meal pro:per|ta1-PL=it adv|ye3=also v:dirc|qu4=go
+	v|xi3zao3=shower ?
+%gra:	1|4|SUBJ 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|SRL 6|4|PUNCT
+*CHI:	萝卜 洗 好 了 +. [+ sub] [+ bcn]
+%mor:	n|luo2bo=radish v|xi3=wash adj|hao3=good asp|le +.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|ASP 5|2|PUNCT
+*CHI:	放 在1 浴盆 里 去 晒 干 .
+%mor:	v|fang4=place prep|zai4=at n|yu4pen2=tub post|li3=inside
+	v:dirc|qu4=go v|shai4=take_a_sunbath v|gan4=do .
+%gra:	1|0|ROOT 2|6|JCT 3|4|POSTO 4|5|JCT 5|2|PREPO 6|1|SRL 7|6|SRL 8|1|PUNCT
+*TEA:	你 在3 洗 什么 ?
+%mor:	pro:per|ni3=you adv|zai4=currently v|xi3=wash pro:wh|shen2me=what ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	洗 碗 .
+%mor:	v|xi3=wash n|wan3=bowl .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*TEA:	哦 ‡ 洗 完 去 哪里 ?
+%mor:	co|o1=chant beg|beg v|xi3=wash v:resc|wan2=finish v:dirc|qu4=go
+	pro:wh|na3li3=where ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|VR 5|3|VD 6|3|OBJ 7|3|PUNCT
+*CHI:	现在 洗 蛋糕 +. [+ sub] [+ bcn]
+%mor:	adv|xian4zai4=now v|xi3=wash n|dan4gao1=cake +.
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	放 在1 浴盆 里面 去 .
+%mor:	v|fang4=place prep|zai4=at n|yu4pen2=tub post|li3mian4=inside
+	v:dirc|qu4=go .
+%gra:	1|0|ROOT 2|1|JCT 3|4|POSTO 4|2|PREPO 5|1|VD 6|1|PUNCT
+*TEA:	浴盆 里 是 放 碗 的 地方 吗 ?
+%mor:	n|yu4pen2=tub post|li3=inside v:cop|shi4=is v|fang4=place
+	n|wan3=bowl poss|de n|di4fang1=place sfp|ma ?
+%gra:	1|2|POSTO 2|3|JCT 3|0|ROOT 4|3|CPRED 5|7|MOD 6|5|POSS 7|4|OBJ 8|3|SFP
+	9|3|PUNCT
+*CHI:	好 了 .
+%mor:	adj|hao3=good asp|le .
+%gra:	1|0|INCROOT 2|1|ASP 3|1|PUNCT
+*TEA:	好 了 以后 放 哪里 , 这 是 什么 地方 ?
+%mor:	adj|hao3=good asp|le post|yi3hou4=afterwards v|fang4=place
+	pro:wh|na3li3=where cm|cm pro:dem|zhe4=this v:cop|shi4=is
+	pro:wh|shen2me=what n|di4fang1=place ?
+%gra:	1|4|JCT 2|1|ASP 3|1|JCT 4|8|CJCT 5|4|OBJ 6|8|LP 7|8|SUBJ 8|0|ROOT
+	9|10|MOD 10|8|PRED 11|8|PUNCT
+*CHI:	放 到 里面 [//] 冰箱 里面 .
+%mor:	v|fang4=place v:resc|dao4=arrive n|bing1xiang1=refrigerator
+	post|li3mian4=inside .
+%gra:	1|0|ROOT 2|1|VR 3|4|POSTO 4|1|JCT 5|1|PUNCT
+*TEA:	然后 呢 ?
+%mor:	conj|ran2hou4=thereupon sfp|ne ?
+%gra:	1|0|INCROOT 2|1|SFP 3|1|PUNCT
+*CHI:	然后 猪 爸爸 玩 好 关 灯 .
+%mor:	conj|ran2hou4=thereupon n|zhu1=pig n:relat|ba4&DIM=father
+	v|wan2=play adv|hao3=very v|guan1=shut n|deng1=lantern .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|SRL 7|6|OBJ 8|4|PUNCT
+*TEA:	还 有 呢 ?
+%mor:	adv|hai2=still v|you3=have sfp|ne ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|SFP 4|2|PUNCT
+*CHI:	猪 爸爸 上 去 睡觉 了 来 了 .
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father v:dirc|shang4=go_up v:dirc|qu4=go
+	v|shui4jiao4=sleep asp|le v:dirc|lai2=come asp|le .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|VD 5|3|SRL 6|3|ASP 7|3|VD 8|3|ASP
+	9|3|PUNCT
+*TEA:	从 哪里 走 进来 .
+%mor:	prep|cong2=from pro:wh|na3li3=where v:dirc|zou3=go_away
+	v:dirc|jin4lai2=inside .
+%gra:	1|3|JCT 2|1|PREPO 3|0|ROOT 4|3|VD 5|3|PUNCT
+*CHI:	乔治 来 走 楼梯 .
+%mor:	n:prop|qiao2zhi4=George v:dirc|lai2=come v:dirc|zou3=go_away
+	n|lou2ti1=stairs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|VD 4|2|OBJ 5|2|PUNCT
+*TEA:	走 上 楼梯 要 干吗 ?
+%mor:	v:dirc|zou3=go_away v:dirc|shang4=go_up n|lou2ti1=stairs
+	v:aux|yao4=should v|gan4ma2=do_what ?
+%gra:	1|5|CJCT 2|1|VD 3|5|SUBJ 4|5|AUX 5|0|INCROOT 6|5|PUNCT
+*CHI:	然后 他 进来 睡觉 啦 !
+%mor:	conj|ran2hou4=thereupon pro:per|ta1=he v:dirc|jin4lai2=inside
+	v|shui4jiao4=sleep sfp|la1 !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|SRL 5|3|SFP 6|3|PUNCT
+*TEA:	乔治 和 谁 一起 睡觉 ?
+%mor:	n:prop|qiao2zhi4=George prep|he2=with pro:wh|shei2=who
+	adv|yi1qi3=together v|shui4jiao4=sleep ?
+%gra:	1|5|SUBJ 2|5|JCT 3|2|PREPO 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*CHI:	猪 爸爸 .
+%mor:	n|zhu1=pig n:relat|ba4&DIM=father .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	乔治 为什么 和 猪 爸爸 一起 睡 ?
+%mor:	n:prop|qiao2zhi4=George adv:wh|wei4shen2me=how_come conj|he2=and
+	n|zhu1=pig n:relat|ba4&DIM=father adv|yi1qi3=together v|shui4=sleep
+	?
+%gra:	1|7|SUBJ 2|7|JCT 3|2|CONJ 4|5|MOD 5|3|COORD 6|7|JCT 7|0|ROOT 8|7|PUNCT
+*CHI:	因为 他 喜欢 猪 爸爸 .
+%mor:	conj|yin1wei4=because pro:per|ta1=he v|xi3huan1=like n|zhu1=pig
+	n:relat|ba4&DIM=father .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*TEA:	接下来 是 谁 来 了 ?
+%mor:	adv|jie1xia4lai2=next v:cop|shi4=is pro:wh|shei2=who
+	v:dirc|lai2=come asp|le ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|2|ASP 6|2|PUNCT
+*CHI:	猪 妈妈 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*TEA:	猪 妈妈 在3 干吗 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother adv|zai4=currently
+	v|gan4ma2=do_what ?
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	猪 妈妈 在2 这里 .
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|zai4=exist post|zhe4li3=here .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*TEA:	猪 妈妈 在2 哪里 ?
+%mor:	n|zhu1=pig n:relat|ma1&DIM=mother v|zai4=exist pro:wh|na3li3=where
+	?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*TEA:	这 是 厨房 吗 ?
+%mor:	pro:dem|zhe4=this v:cop|shi4=is n|chu2fang2=kitchen sfp|ma ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|SFP 5|2|PUNCT
+*CHI:	对 ‡ 猪 妈妈 在2 厨房 旁边 .
+%mor:	adj|dui4=correct beg|beg n|zhu1=pig n:relat|ma1&DIM=mother
+	v|zai4=exist n|chu2fang2=kitchen post|pang2bian1=side .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*CHI:	现在 佩奇 呢 ?
+%mor:	adv|xian4zai4=now n:prop|pei4qi2=Peppa_pig sfp|ne ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|SFP 4|2|PUNCT
+@End

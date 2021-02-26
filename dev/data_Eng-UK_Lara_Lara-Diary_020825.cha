@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/c-00017993-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;08.25|female|||Target_Child|||
+@Date:	10-FEB-1997
+@Comment:	Mum Dad Grandma and Grandad
+@Types:	long, everyday, TD
+*CHI:	where (i)s More_Dadaw ?
+%mor:	pro:int|where cop|be&3S n:prop|More_Dadaw ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where (i)s More_Dadaw ?
+%mor:	pro:int|where cop|be&3S n:prop|More_Dadaw ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where 0has Daddy gone ?
+%mor:	pro:int|where 0aux|has n:prop|Daddy part|go&PASTP ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|XMOD 5|1|PUNCT
+*CHI:	what 0are you doing ?
+%mor:	pro:int|what 0aux|are pro:per|you part|do-PRESP ?
+%gra:	1|2|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where (ha)s More_Dadaw gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|More_Dadaw part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what you get ?
+%mor:	pro:int|what pro:per|you v|get ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	what 0are you doing ?
+%mor:	pro:int|what 0aux|are pro:per|you part|do-PRESP ?
+%gra:	1|2|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what (i)s gonna [: going to] happen to them ?
+%mor:	pro:int|what aux|be&3S part|go-PRESP inf|to v|happen prep|to
+	pro:obj|them ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where 0have Mummy and Daddy gone ?
+%mor:	pro:int|where 0aux|have n:prop|Mummy coord|and n:prop|Daddy
+	part|go&PASTP ?
+%gra:	1|6|LINK 2|6|AUX 3|6|SUBJ 4|3|CONJ 5|4|COORD 6|0|ROOT 7|6|PUNCT
+*CHI:	what 0have you got ?
+%mor:	pro:int|what 0aux|have pro:per|you v|get&PAST ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what 0have you got ?
+%mor:	pro:int|what 0aux|have pro:per|you v|get&PAST ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what 0are you doing ?
+%mor:	pro:int|what 0aux|are pro:per|you part|do-PRESP ?
+%gra:	1|2|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what 0are you doing ?
+%mor:	pro:int|what 0aux|are pro:per|you part|do-PRESP ?
+%gra:	1|2|LINK 2|4|PRED 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where (i)s that plasticine ?
+%mor:	pro:int|where cop|be&3S comp|that n|plasticine ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	what about Mummy ?
+%mor:	pro:int|what prep|about n:prop|Mummy ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	where 0have the others gone ?
+%mor:	pro:int|where 0aux|have det:art|the n:pt|others part|go&PASTP ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|4|XMOD 6|1|PUNCT
+*CHI:	what 0have you got in your pocket ?
+%mor:	pro:int|what 0aux|have pro:per|you v|get&PAST prep|in det:poss|your
+	n|pocket ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	where (ha)s More_Dadaw gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|More_Dadaw part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where (ha)s my belly+button gone ?
+%mor:	pro:rel|where v|have&3S det:poss|my n|+n|belly+n|button
+	part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|XJCT 6|2|PUNCT
+*CHI:	what (i)s that ?
+%mor:	pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what (i)s in the door ?
+%mor:	pro:int|what cop|be&3S prep|in det:art|the n|door ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+@End

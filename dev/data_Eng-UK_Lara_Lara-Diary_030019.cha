@@ -1,0 +1,68 @@
+@UTF8
+@PID:	11312/c-00018106-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|3;00.19|female|||Target_Child|||
+@Date:	04-JUN-1997
+@Comment:	Mum Dad Grandma Grandad
+@Types:	long, everyday, TD
+*CHI:	where (ha)s More_Dadaw gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|More_Dadaw part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what (i)s these ?
+%mor:	pro:int|what cop|be&3S pro:dem|these ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	where (ha)s the cardigan gone ?
+%mor:	pro:rel|where v|have&3S det:art|the n|cardigan part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*CHI:	where (i)s bunny ?
+%mor:	pro:int|where cop|be&3S n|bunny ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	why are you doing that ?
+%mor:	pro:int|why aux|be&PRES pro:per|you part|do-PRESP comp|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	where (i)s the sun ?
+%mor:	pro:int|where cop|be&3S det:art|the n|sun ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	why did you get this open ?
+%mor:	pro:int|why mod|do&PAST pro:per|you v|get pro:dem|this adj|open ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|OM 7|4|PUNCT
+*CHI:	what you doing ?
+%mor:	pro:int|what pro:per|you part|do-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	why have you got those on ?
+%mor:	pro:rel|why aux|have pro:per|you v|get&PAST pro:dem|those prep|on ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	why are [*] you got your trainers on ?
+%mor:	pro:int|why cop|be&PRES pro:per|you v|get&PAST det:poss|your
+	n|train&dv-AGT-PL adv|on ?
+%gra:	1|2|LINK 2|4|CJCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*CHI:	which hat would you like on ?
+%mor:	pro:rel|which n|hat mod|will&COND pro:per|you co|like adv|on ?
+%gra:	1|2|LINK 2|0|INCROOT 3|5|AUX 4|5|SUBJ 5|2|COM 6|2|JCT 7|2|PUNCT
+*CHI:	where (ha)s my Daddy gone ?
+%mor:	pro:rel|where v|have&3S det:poss|my n:prop|Daddy part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	where (ha)ve you gone ?
+%mor:	pro:rel|where aux|have pro:per|you part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	why have you got ?
+%mor:	pro:rel|why aux|have pro:per|you part|get&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what have you got ?
+%mor:	pro:int|what v|have pro:per|you v|get&PAST ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*CHI:	where (i)s Daddy one ?
+%mor:	pro:int|where cop|be&3S n:prop|Daddy pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*CHI:	what (a)re you going to do ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|go-PRESP inf|to v|do ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*CHI:	where (ha)s my sunhat gone ?
+%mor:	pro:rel|where v|have&3S det:poss|my n|+n|sun+n|hat part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|XJCT 6|2|PUNCT
+@End

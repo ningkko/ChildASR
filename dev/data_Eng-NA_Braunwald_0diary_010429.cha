@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/c-00010567-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, FAT Father, MOT Mother
+@ID:	eng|Braunwald|CHI|01;04.29|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	19-JUL-1972
+@Types:	long, toyplay, TD
+*CHI:	Mama saw [: straw] bow [: blow] bow [: blow] .
+%mor:	n:prop|Mama n|straw n|blow n|blow .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	910
+*CHI:	saw [: straw] saw [: straw] bow [: blow] bubble bubble .
+%mor:	n|straw n|straw n|blow n|bubble n|bubble .
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	911
+*FAT:	no-no .
+%mor:	n|no-no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	912
+*CHI:	no-no Daddy .
+%mor:	n|no-no n:prop|Daddy .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%sit:	912
+*CHI:	baby Deedee [: Joanna] .
+%mor:	n|baby n:prop|Joanna .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%sit:	913
+*CHI:	broo(m) Tata [: Petra] .
+%mor:	n|broom n:prop|Petra .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%sit:	914
+*CHI:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	915
+*MOT:	see what ?
+%mor:	v|see pro:int|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	915
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	915
+*CHI:	baby see see see .
+%mor:	n|baby co|see co|see co|see .
+%gra:	1|0|INCROOT 2|4|COM 3|4|COM 4|1|CMOD 5|1|PUNCT
+%sit:	916
+*CHI:	boo(k) Mama here boo(k) .
+%mor:	n|book n:prop|Mama adv|here n|book .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+%sit:	917
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	918
+*MOT:	where is Daddy ?
+%mor:	pro:int|where cop|be&3S n:prop|Daddy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	918
+*CHI:	Daddy byebye carcar [: car] .
+%mor:	n:prop|Daddy co|byebye n|car .
+%gra:	1|3|MOD 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%sit:	918
+@End

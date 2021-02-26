@@ -1,0 +1,29 @@
+@UTF8
+@PID:	11312/c-00018073-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;11.17|female|||Target_Child|||
+@Date:	02-MAY-1997
+@Comment:	Mum Dad Grandma Grandad
+@Types:	long, everyday, TD
+*CHI:	who is this ?
+%mor:	pro:int|who cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	whose is this ?
+%mor:	pro:rel|whose cop|be&3S pro:dem|this ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	immed after
+*CHI:	where has it gone ?
+%mor:	pro:rel|where aux|have&3S pro:per|it part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has Sindy gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Sindy part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where has the easel gone ?
+%mor:	pro:rel|where v|have&3S det:art|the n|easel part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|XMOD 6|2|PUNCT
+*CHI:	where (i)s Sarah gone ?
+%mor:	pro:int|where aux|be&3S n:prop|Sarah part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

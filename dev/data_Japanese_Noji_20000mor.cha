@@ -1,0 +1,2241 @@
+@UTF8
+@PID:	11312/a-00013877-1
+@Color words:	*FAT: 1 0 0 65535 *MOT: 1 0 32896 16448 *CHI: 1 65535 0 0
+@Begin
+@Languages:	jpn, eng
+@Participants:	CHI Sumihare Target_Child , MOT Mother , FAT Father , TER
+	Teruki Brother , OTH Other Unidentified
+@ID:	jpn|Noji|CHI|2;00.00|male|||Target_Child|||
+@ID:	jpn|Noji|MOT|||||Mother|||
+@ID:	jpn|Noji|FAT|||||Father|||
+@ID:	jpn|Noji|TER|||||Brother|||
+@ID:	jpn|Noji|OTH|||||Unidentified|||
+@Comment:	Wakachi2002v8 JMOR08
+@Comment:	Birth of CHI 9-MAR-1948
+@Date:	09-MAR-1950
+@Comment:	2;00.00
+@G:	2-0001A
+@Types:	long, toyplay, TD
+*CHI:	Kaachan ‡ ombu churu@u [: suru] yo .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:vn:mot|ombu=piggyback
+	v:ir:sub|su-PRES=do ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	母ちゃん, おんぶちゅるよ .
+@Comment:	gozen7jisugi. hahani , ombushitaitoiu.
+*CHI:	aachan@u [: Akachan] [*] amaiamai motto .
+%xmor:	n:prop|Akachan n:mot|amaiamai=sweet adv|motto=more .
+%add:	MOT
+%ort:	ああちゃん甘い甘いもっと .
+@Comment:	gozen7jisugi. akachan aachan ni , miruku amaiama i o
+	nomaseteirutoki , hahaniombushiteete , senakakara , kono
+	yooniiu.
+*MOT:	nyanko wa ?
+%ort:	ニャンコは ?
+*CHI:	ouchi kaitta@u [: kaetta] .
+%xmor:	o_HON#n|uchi=home v:c|kaer-PAST=return .
+%ort:	お家かいった .
+@Comment:	gozen7jisugi. daidokorode , yosononeko nyanko gainakuna
+	ttanode , hahagakikuto , konoyooni , kotaeru.
+*CHI:	ato@q .
+%xmor:	meta|ato .
+%ort:	あと .
+*CHI:	an@q .
+%xmor:	meta|an .
+%ort:	あと .
+*CHI:	aa@q .
+%xmor:	meta|aa .
+%add:	SLF
+%ort:	ああ .
+@Comment:	gozen7jisugi. akachan otoototeruki nokoe o , manete ,
+	konoyooniiu. gozen8jigoromade , shibashiba , maneteeu.
+*CHI:	aachan@u [: Akachan] [*] koko yo .
+%xmor:	n:prop|Akachan n:deic:dem|koko=here ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃんここよ .
+@Comment:	gozen8jimae. akachan aachan , otooto , Teruki noso bahekite
+	, te o tataite , otooto o ayashiteiru.
+*CHI:	bekkuri@u [: bikkuri] tta@u [: shita] [*] .
+%xmor:	n:vn|bikkuri=surprised v:ir:sub|su-PAST=do .
+%ort:	べっくりった .
+*CHI:	bekkuri@u [: bikkuri] chita@u [: shita] [*] .
+%xmor:	n:vn|bikkuri=surprised v:ir:sub|su-PAST=do .
+%add:	FAT
+%ort:	べっくりちた .
+@Comment:	gozen8jisugi. chichigaombuzurunoni , zempookaraookikufuq te
+	, seninoseteyaruto , bikkurishita bekkuri tta toiu. ' ri' wa
+	, mada , hakkiritohahibikanai.
+@G:	2-0001B
+*CHI:	Kaachan ‡ wanwan nenne shiteru yo .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:mot|wanwan=dog
+	n:vn:mot|nenne=sleeping v:ir:sub|su-ASP-PRES=do ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	母ちゃん, ワンワンネンネしてるよ .
+*CHI:	Toochan ‡ wanwan nenne .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:mot|wanwan=dog
+	n:vn:mot|nenne=sleeping .
+%add:	FAT
+%ort:	父ちゃん, ワンワン寝んね .
+@Comment:	gozen8jisugi. chichiniombushiteete , tansunooenioitearu ,
+	omochanoinu wanwan o mite , konoyooniiu. hahawa , a kachan
+	otooto , Teruki ni , ochichi o nomaseteiru.
+*CHI:	ichi ni: no chan@u [: san] [*] .
+%xmor:	num|ichi=one num|ni=two ptl:attr|no=GEN num|san=three .
+%ort:	イチニーのチャン .
+*CHI:	ichi ni: no chan@u [: san] [*] .
+%xmor:	num|ichi=one num|ni=two ptl:attr|no=GEN num|san=three .
+%ort:	イチニーのチャン .
+*CHI:	ichi nii no chan@u [: san] [*] .
+%xmor:	num|ichi=one n|nii=brother ptl:attr|no=GEN num|san=three .
+%add:	SLF
+%ort:	イチニのチャン .
+@Comment:	gozen8jisugi. chichiniombushiteete , senakade , ichininosan
+	chan toiu.
+*FAT:	onabe doo shiteru no ?
+%ort:	お鍋どうしてるの ?
+*CHI:	poq@o poq@o poq@o .
+%xmor:	onoma|poq onoma|poq onoma|poq .
+%ort:	ポポポ .
+*FAT:	nani o taiteru no ?
+%ort:	何を炊いてるの ?
+*CHI:	kaichan@u [: kayusan] .
+%xmor:	n|kayu-san_HON=rice_gruel .
+%ort:	かいちゃん .
+@Comment:	gozen8:45. daidokorode , onabekarayugegatatteiruno o mite ,
+	chichiga , ichisan#noyoonikikuto , ichini#noyooko ,
+	fukiagetee ruyoosu o nobete , okayusan kaichan o
+	taiteirutoiu.
+*FAT:	Kaachan wa ?
+%ort:	母ちゃんは ?
+*CHI:	ouchi .
+%xmor:	o_HON#n|uchi=home .
+%ort:	お家 .
+*FAT:	nani shiteru no ?
+%ort:	何してるの ?
+*CHI:	uun [: uunuun] shiteru .
+%xmor:	n:vn:mot|uunuun=poo v:ir:sub|su-ASP-PRES=do .
+%ort:	ううんしてる .
+@G:	2-0002A
+@Comment:	gozen8:45sugi. hahagainainode , chichigakikuto ,
+	konoyoonikota eru. benjoniitteru uun toiu.
+*CHI:	shikko bakkari .
+%xmor:	n:vn:mot|shikko=urinate ptl:foc|bakari=nothing_but .
+%add:	MOT
+%ort:	しっこばっかり .
+@Comment:	gozen8:45sugi. hahatobenjoniitte , konoyooniitte , un ko o
+	shinai. 'ri' wa , sukoshikasuretayoonihibiku.
+*CHI:	kao eeee [= kiree] choodai .
+%xmor:	n|kao=face n:vn:mot|eeee=cleaning v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	顔ええええ頂戴 .
+@Comment:	gozen9jimae. hahagakyoodainomaenitatsuto , chichinosenakaka
+	ra , kao o , kireeni eeee shitekuretohahaniiu.
+*FAT:	mannenhitsu .
+%ort:	万年筆 .
+*CHI:	mannenhitsu .
+%xmor:	n|mannenhitsu=fountain_pen .
+%ort:	万年筆 .
+@Comment:	gozen9jimae. chichigaiuno o , manete , mannenhitsumannenhi
+	tsu toiu. 'hitsu' wa , koeyowakuhakkiritohahibikanai.
+*CHI:	bumbu nenne .
+%xmor:	n:mot|bumbu=water n:vn:mot|nenne=sleeping .
+%ort:	ぶうぶ寝んね .
+*CHI:	Tootooobachan nenne .
+%xmor:	n:prop|Tootoo-oba_AUNT-chan_FAM=Hamamoto n:vn:mot|nenne=sleeping .
+%ort:	とうとおばちゃん寝んね .
+*CHI:	chunchun nenne .
+%xmor:	n:mot|chunchun=bird n:vn:mot|nenne=sleeping .
+%ort:	チュンチュン寝んね .
+*CHI:	bachu@u [: basu] nenne (.) chita@u [: shita] .
+%xmor:	n|basu=bus n:vn:mot|nenne=sleeping v:ir:sub|su-PAST=do .
+%add:	FAT
+%ort:	バチュ寝んね . ちた .
+@Comment:	gozen9jisugi. chichiniombushiteete , suidoonomizu pumpu ,
+	otonarinoHamamoto no obasan tootooopachan , suzume chunchun
+	, pasu pachu ga , nemutta nenne toiu. 5#no 'chita' wa ,
+	oshimaini , 4#no 'bachu nenne' o itte , su koshiyasunde ,
+	itta.
+*CHI:	Toochan ‡ koko haitta .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:deic:dem|koko=here
+	v:c|hair-PAST=enter .
+%add:	FAT
+%ort:	父ちゃん, ここ入った .
+@Comment:	gozen9jisugi. udeni , mizugahaittato , chichiniittekuru. su
+	idoosennotokorode , mizuijiri o shiteitanodearu.
+*FAT:	are na:ni ?
+%ort:	あれなあに ?
+@G:	2-0002B
+*CHI:	denchen@u [: densen] .
+%xmor:	n|densen=electric_wire .
+%add:	FAT
+%ort:	でんちぇん .
+@Comment:	gozen9jisugi. kyoomo , kinootoonajijiyooni , chichitosampo
+	nideta. densen denchen o sashite , chichigakikuto , konoyoo
+	nikotaeru.
+*CHI:	kaakaa .
+%xmor:	n:mot|kaakaa=crow .
+%add:	SLF
+%ort:	かあかあ .
+@Comment:	gozen9jisugi. doozen. doteshitanotokorode , karasunonakigoe
+	kaa kaa o kikuto , suguniiu. karasunosugataha , mienai .
+*CHI:	taitai ?
+%xmor:	n:mot|taitai=fish ?
+%add:	FAT
+%ort:	たいたい ?
+@Comment:	gozen9jisugi. doozen. kinoonosamponotokono , namekuji ta
+	itai nokoto o oboeteete , onajibashomadeikuto , chichiniki
+	ku.
+*CHI:	obachan itta .
+%xmor:	n|oba-chan_FAM=aunt v:c|ik-PAST=go .
+%ort:	おばちゃん行った .
+*FAT:	doko e itta no ?
+%ort:	どこへ行ったの ?
+*CHI:	atchi .
+%xmor:	n:deic:dem|atchi=over_there .
+%ort:	あっち .
+*CHI:	obachan mata itta .
+%xmor:	n|oba-chan_FAM=aunt adv|mata=again v:c|ik-PAST=go .
+%add:	FAT
+%ort:	おばちゃんまた行った .
+@Comment:	gozen9jisugi. doozen. Misasabashinohoohearuiteiruto , fu
+	jin obachan gatootteikuno o mikaketeeu.
+*CHI:	hayai [/] hayai .
+%xmor:	adj|haya-PRES=fast .
+%add:	FAT
+%ort:	早い早い .
+@Comment:	gozen9jisugi. doozen. chichigadakkoshite , tsutsumi o
+	hashiriori ruto , kiikoede , konoyooniiu. 'ya@i' wa ,
+	'ha@yai' no 'ha' ga , nukete , umakuienakattanodearu.
+*CHI:	kaero(o) .
+%xmor:	v:c|kaer-HORT=return .
+%ort:	帰ろ .
+*CHI:	kaero(o) .
+%xmor:	v:c|kaer-HORT=return .
+%add:	MOT
+%ort:	帰ろ .
+@Comment:	gozen10jisugi. hahatochikakunoyamanesensee yamanekunioshi
+	taku
+@G:	2-0003A
+@Comment:	niitte , asondeitaga , shibarakusuruto , hahanikonoyooniiq
+	te , kaeritagaru.
+*CHI:	choodai .
+%xmor:	v:ir|choodai&IMP=give .
+%ort:	頂戴 .
+*CHI:	oichikatta@u [: oishikatta] .
+%xmor:	adj|oishi-PAST=tasty .
+%add:	MOT
+%ort:	おいちかった .
+@Comment:	gozen10:30koro. hahaga , ohagi o tsukurunoni , azuki o
+	niteiru to , osara o mottekite , 1#noyooni ii ,
+	nandomookawari o shite kara , 2#noyooniiu.
+*CHI:	kaetta [/] kaetta .
+%xmor:	v:c|kaer-PAST=return .
+%add:	SLF
+%ort:	帰った帰った .
+@Comment:	gozen11jikoro. hahatopan o morainiiki , otonarinohamakisan
+	notokoromadekaeruto , hitorigotonoyooniitte , hitoridehashiq
+	tekaeru.
+*CHI:	a: tabeta .
+%xmor:	co:i|aq=ah v:v|tabe-PAST=eat .
+%add:	SLF
+%ort:	あー食べた .
+@Comment:	gozen11:30sugi. chikakunoyamanesenseekaraitadaita , hassa
+	ku o , tapeowari , ookiikoede , konoyooniiu.
+*MOT:	amechan iran no ?
+%ort:	飴ちゃんいらんの ?
+*CHI:	amechan iran .
+%xmor:	n|ame-chan_FAM=candy v:c|ir-NEG:n&PRES=need .
+%ort:	飴ちゃんいらん .
+*CHI:	ouchi aru yo .
+%xmor:	o_HON#n|uchi=home v:ir|ar-PRES=be ptl:fina|yo=ASSERT .
+%ort:	お家あるよ .
+@Comment:	12jimae. okashiyasanniitte , 1#noyooni , hahanikikareruto ,
+	2-3#noyooniiu. okashiyasan katayamanoobasan , bikkuri
+	shitakao o suru.
+*CHI:	aachan@u [: Akachan] [*] batte@u [: matte] [*] ne .
+%xmor:	n:prop|Akachan v:c|mat-IMP:te=wait ptl:fina|ne=TAG .
+%ort:	ああちゃんばってね .
+*CHI:	aachan@u [: Akachan] [*] sembee yo .
+%xmor:	n:prop|Akachan n|sembee=rice_cracker ptl:fina|yo=ASSERT .
+%ort:	ああちゃんせんべいよ .
+*CHI:	aachan@u [: Akachan] [*] tete .
+%xmor:	n:prop|Akachan n:mot|tete=hand .
+%add:	TER
+%ort:	ああちゃん手手 .
+@Comment:	12jikoro. chichiga , akachan aachan , otooto , Teruki o
+	daiteiruto , sobanikite , ootooto o jibungadakkoshiyootoshi
+	te , sore o yame , 1#noyooni , matte batte netoi
+@G:	2-0003B
+@Comment:	tte , sorekara , sembee sembee o hirottekite , akachan note
+	tete ni , nigiraseyootoshiteeu.
+*CHI:	boku kakko@u [: dakko] churu@u [: suru] [*] .
+%xmor:	n:deic:prs|boku=i_MASC n:vn:mot|dakko=embracing v:ir:sub|su-PRES=do
+	.
+%add:	MOT
+%ort:	僕かっこちゅる .
+@Comment:	12jisugi. hahaga , akachan aachan , otooto , Teruki o
+	daiteiruto , sobaheette , ryoote o hirogete , dakootoshite
+	kakko churu , konoyooniiu.
+*CHI:	iichan@u [: niichan] nenne churu@u [: suru] [*] .
+%xmor:	n|nii-chan_FAM=brother n:vn:mot|nenne=sleeping v:ir:sub|su-PRES=do
+	.
+%add:	MOT
+%ort:	いいちゃん寝んねちゅる .
+@Comment:	12jisugi. akachan otooto , Teruki nonedokonihaitte , ni
+	ichan iichan , jibunnokoto. mo , neru nennechuru toitte ,
+	neru.
+*CHI:	hiyaita@u [/] hiyaita@u [: hiraita] [=! singing] .
+%xmor:	v:c|hirak-PAST=open .
+*CHI:	nanno@u [: nanohana] hiyaita@u [: hiraita] [=! singing] .
+%xmor:	n|nanohana=rape_blossoms v:c|hirak-PAST=open .
+%add:	SLF
+%ort:	ひやいたひやいたなんのひやいた(歌いながら) .
+@Comment:	12jisugi. chichinohondanakara , hon o dashitekite ,
+	'hiraita hi yaita hiraita hiyaita nannohana hiraita' noâí o
+	utau .
+*CHI:	hootai choodai .
+%xmor:	n:vn|hootai=bandage v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	包帯頂戴 .
+@Comment:	gogo1jisugi. suidoonotokorode , korondete o kiri , hahaga ,
+	ho utai hootai shite agerutoiuto , zugunimaneteeu.
+*CHI:	itakatta .
+%xmor:	adj|ita-PAST=aching .
+%add:	MOT
+%ort:	痛かった .
+@Comment:	gogo1jisugi. doozen. heyanikaettekite , hootai o shiteiru
+	tokiniiu.
+*CHI:	tsumetakatta .
+%xmor:	adj|tsumeta-PAST=cold .
+%add:	MOT
+%ort:	冷たかった .
+@Comment:	gogo1jisugi. doozen. kaettekite , shibarakushitekara ,
+	suido unotokorode , korondenuretatokinokoto o , konoyoonii
+@G:	2-0004A
+@Comment:	u.
+*CHI:	koko haitta .
+%xmor:	n:deic:dem|koko=here v:c|hair-PAST=enter .
+%add:	MOT
+%ort:	ここ入った .
+@Comment:	gogo1jikoro. te o aratteite , sodeguchikaraudenookunohoo
+	koko he , mizugahairuto , konoyooniitte ,
+	hahanotokoronikuru.
+*CHI:	Kaachan ‡ Keechan ga .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:prop|Kee-chan_FAM=Kee
+	ptl:case|ga=NOM .
+%add:	MOT
+%ort:	母ちゃん, けえちゃんが .
+@Comment:	gogo4:30koro. otonari no Takehara no Keekochan Keechan ga
+	oochikaradetekuruto , konoyooniitte , daisokoronohahanomoto
+	nikaettekuru.
+*CHI:	naai@u [: nagai] [/] naai@u [: nagai] [*] .
+%xmor:	adj|naga-PRES=long .
+%add:	SLF
+%ort:	なあいなあい .
+@Comment:	gogo7jigoro. yuushokunotoki , otsuyunonakano , tororokombu
+	o toridashite , nagainakai naai naai to , shikiriniiu. '
+	naai' no ':' wa , 'ga' ga , umakuienainodearu.
+*CHI:	utau .
+%xmor:	v:c|utaw-PRES=sing .
+%ort:	歌う .
+*CHI:	Kaachan ‡ utau .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc v:c|utaw-PRES=sing .
+%add:	MOT
+%ort:	母ちゃん, 歌う .
+@Comment:	gogo7:30koro. akachan otooto , Teruki nofutonni ,
+	isshoninenneshite , dooyoonohon o mite , hahanikonoyooniiu.
+@Comment:	OtherPerson
+@Date:	10-MAR-1950
+@Comment:	2;00.01
+@G:	2-0004A
+*CHI:	chiichai no [*] amechan choodai .
+%xmor:	adj:mot|chitcha-PRES=small ptl:attr|no=GEN n|ame-chan_FAM=candy
+	v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	小ちゃいの飴ちゃん頂戴 .
+@Comment:	gozen1:30. mezamete , hahani , nedatteiru. nemuinode ,
+	mutsuka tteiu.
+*CHI:	Toochan chindoi@u [: shindoi] [*] ?
+%xmor:	n:prop|Toochan=Father_FAM adj|shindo-PRES=exhausting ?
+%add:	MOT
+%ort:	父ちゃんちんどい ?
+@Comment:	gozen7jimae. chichiyorimohayakuokite , chichinooeninorikaka
+@G:	2-0004B
+@Comment:	ruyoonishite , shindoi chindoi katokiku.
+*CHI:	nijihan yo .
+%xmor:	num:cl|ni-ji_OCLOCK-han_HALF=two ptl:fina|yo=ASSERT .
+%add:	FAT , MOT
+%ort:	二時半よ .
+@Comment:	gozen7ji. rajioNHK , shichijinojihoo o utsuto , suguni ,
+	'2:30' nijihan yotoiu.
+*CHI:	aachan@u [: Akachan] [*] no oppai .
+%xmor:	n:prop|Akachan ptl:attr|no=GEN n:mot|oppai=breast .
+%add:	MOT
+%ort:	ああちゃんのオッパイ .
+@Comment:	gozen7jisugi. hahanifuku o kisete moratteirutoki ,
+	hahanoochi chinisawatte , akachan aachan , otooto , Teruki
+	no uchi chi oppai to , iu.
+*CHI:	omochi tsumetai [% 1] .
+%xmor:	o_HON#n|mochi=rice_cake adj|tsumeta-PRES=cold .
+%ort:	お餅冷たい .
+*CHI:	takitaki choodai [% 2] .
+%xmor:	n:vn:mot|takitaki=cook v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	たきたき頂戴 .
+@Comment:	gozen7jisugi. kinootsukutte moratta , ohagi omochi o
+	êHbenagara , atatamete takitaki kureto , hahanitanomu.
+*FAT:	hakushon .
+%add:	SLF
+%ort:	ハクション .
+*CHI:	Toochan chan@o chita@u [: shita] .
+%xmor:	n:prop|Toochan=Father_FAM onoma|chan v:ir:sub|su-PAST=do .
+%add:	FAT
+%ort:	父ちゃんちゃんちた .
+@Comment:	gozen7jisugi. chichiga , kushami hakushon , chan o suruto ,
+	manete , konoyooniiu.
+*CHI:	aachan@u [: Akachan] [*] kakko@u [: dakko] churu@u [: suru] .
+%xmor:	n:prop|Akachan n:vn:mot|dakko=embracing v:ir:sub|su-PRES=do .
+%ort:	ああちゃんかっこちゅる .
+*CHI:	aachan@u [: Akachan] [*] ombu churu@u [: suru] .
+%xmor:	n:prop|Akachan n:vn:mot|ombu=piggyback v:ir:sub|su-PRES=do .
+%add:	FAT
+%ort:	ああちゃんおんぶちゅる .
+*CHI:	yochiyochi@u [: yoshiyoshi] .
+%xmor:	n:vn:mot|yoshiyoshi=stroke .
+%add:	TER
+%ort:	よちよち .
+@Comment:	gozen8jisugi. chichiga , akachan aachaso , otooto , teru ki
+	o daiteiruto , sobahekite , dakkosuru kakko churu , ombusuru
+	ombu churu toii , akachannimukatte , yoshi yoshi yochiyochi
+	toiu.
+*CHI:	aan@q uun@q itta yo „ aachan@u [: Akachan] [*] ga .
+%xmor:	meta|aan meta|uun v:c|iw-PAST=say ptl:fina|yo=ASSERT tag|disloc
+	n:prop|Akachan ptl:case|ga=NOM .
+%add:	FAT
+%ort:	ああんううん言ったよ, ああちゃんが .
+@G:	2-0005A
+@Comment:	gozen8jisugi. doozen. akachan aachan , otooto , te ruki no
+	, akubi aan , uun nomane o shite , chichiniiu.
+*CHI:	koko abunai ne .
+%xmor:	n:deic:dem|koko=here adj|abuna-PRES=dangerous ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	ここ危ないね .
+@Comment:	gozen9jisugi. sukeeto o motte , chichitosamponidete ,
+	mizutama rinoato koko o toorutoki , konoyooniiu.
+*CHI:	koko ii ne .
+%xmor:	n:deic:dem|koko=here adj|i-PRES=good ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	ここいいね .
+@Comment:	gozen10jimae. doozen. chichitosamponidete , romennoiitoko
+	ro koko o , sukeeto o oshinagara , konoyooniiu.
+*CHI:	Toochan mate [/] mate .
+%xmor:	n:prop|Toochan=Father_FAM v:c|mat-IMP=wait .
+%add:	FAT
+%ort:	父ちゃん待て待て .
+@Comment:	gozen10jimae. doozen. kawadotenomichide , sukeeto o
+	oshinaga ra , chichiniiu. yoku , chichini , 'Sumiharechan
+	mate mate' toi wareteita.
+*CHI:	Toochan ‡ chan churu@u [: suru] .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:vn:mot|chan=sit_down
+	v:ir:sub|su-PRES=do .
+%add:	FAT
+%ort:	父ちゃんちゃんちゅる .
+*CHI:	Toochan ‡ churuchuru suru .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:vn:mot|churuchuru=slide
+	v:ir:sub|su-PRES=do .
+%add:	FAT
+%ort:	父ちゃんちゅるちゅるする .
+@Comment:	gozen10jimae. doozen. itsumonotsutsumide , ookinasuginokino
+	yokodaoshinioitearuno o mite , sonooeni , suwaroo 'chan
+	churu' toii , mata , sonooekara , subetteoriru churuchuru
+	toiu.
+*CHI:	Toochan ‡ atchi ikoo ne .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:deic:dem|atchi=over_there
+	v:c|ik-HORT=go ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	父ちゃん, あっち行こうね .
+@Comment:	gozen10jimae. doozen. tsutsumi o nanseenohoo atchi he ,
+	ikootoiu.
+*CHI:	hayai .
+%xmor:	adj|haya-PRES=fast .
+%add:	SLF
+%ort:	早い .
+@Comment:	gozen10jimae. doozen. samponotojoode , sanyoohonsen o
+	noboru
+@G:	2-0005B
+@Comment:	resshaga , tekkyoo o wataruno o miteete , iu.
+*OTH:	Otoochan wa ?
+%add:	hatanonoobasan
+*CHI:	aachan@u [: Akachan] [*] akko@u [: dakko] .
+%xmor:	n:prop|Akachan n:vn:mot|dakko=embracing .
+%add:	hatanonoobasan
+%ort:	ああちゃんあっこ .
+@Comment:	gozen10jisugi. otonarinohatanonoobasanni , 1#noyoonikikare
+	te , akachan aachan , otooto , Teruki o , dakko aq ko
+	shiteirutoiu.
+*CHI:	tonton [/] tonton amechan kaau@u [: kau] .
+%xmor:	onoma|tonton n|ame-chan_FAM=candy v:c|kaw-PRES=buy .
+%add:	MOT
+%ort:	トントントントン飴ちゃんかあう .
+@Comment:	gogo1:30sugi. tontonaruiteette tonton tonton , kyarameru
+	amechan o kau kaau to , hahaninedatteiru.
+*MOT:	xxx ga kita yo [% 1] .
+%ort:	xxxが来たよ .
+*CHI:	kuru yo [% 2] .
+%xmor:	v:ir|ku-PRES=come ptl:fina|yo=ASSERT .
+%ort:	来るよ .
+@Comment:	hahaga , 1#noyooniiuto , 2#noyooni , hahaniiu.
+*CHI:	saji .
+%xmor:	n|saji=spoon .
+%add:	MOT
+%ort:	さじ .
+@Comment:	12jisugi. chuushokunotoki , 'saji' toiu. imamadeha ,
+	'saaji' toitteita.
+*CHI:	yameta .
+%xmor:	v:v|yame-PAST=stop .
+%add:	MOT
+%ort:	止めて .
+@Comment:	12:30sugi. rajionorekoodoongakuga , owatta yameta toki ,
+	konoyooniiu.
+*CHI:	oami@u [: okami] choodai .
+%xmor:	o_HON#n|kami=paper v:ir|choodai&IMP=give .
+%add:	FAT
+%ort:	あおみ頂戴 .
+@Comment:	gogo1jikoro. chichinohonnokabaanoserohan oami o , totte
+	hoshiitoiu. 'a' wa , mada , 'ka' toienaikaradearu.
+@G:	2-0006A
+*FAT:	shupoppo kita deshoo [% 1] .
+%ort:	シュポッポ来たでしょう .
+*CHI:	shupoppo kon [% 2] .
+%xmor:	n:mot|shuppoppo=locomotive v:ir|ku-NEG:n&PRES=come .
+%ort:	シュポッポ来ん .
+*CHI:	kon [% 3] .
+%xmor:	v:ir|ku-NEG:n&PRES=come .
+%add:	FAT
+%ort:	来ん .
+@Comment:	gogo2:30koro. okotteite , chichiga , 1#noyooniittemo ,
+	konai kon toiu.
+*CHI:	bachu@u [: basu] [*] ?
+%xmor:	n|basu=bus ?
+%ort:	ばちゅ ?
+*CHI:	bachu@u [: basu] ?
+%xmor:	n|basu=bus ?
+%add:	MOT
+%ort:	ばちゅ ?
+@Comment:	gogo2:30sugi. hahatoyuubinkyokuheekunoni , basu bachu ni
+	notte , nottekara , tashikameruyoonikiku.
+*FAT:	basu ni notta no [% 1] ?
+%ort:	バスに乗ったの ?
+*CHI:	un [% 2] .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*FAT:	basu doo itta no [% 3] ?
+%ort:	バスどう行ったの ?
+*CHI:	buu@o [% 4] .
+%xmor:	onoma|buu .
+%ort:	ブー .
+@G:	2-0006A
+@Comment:	gogo2:30sugi. doozen. hahatobasuninotteittanode , kaette
+	kara , chichigakikuto , 2 , 4#noyooni , kotaeru.
+*CHI:	moo@o itta yo .
+%xmor:	onoma|moo v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	もう行ったよ .
+@Comment:	gogo3jisugi. dooro o , ushi moo ganaiteettano o , shitsuna
+	iniitekiite , chichiniiu.
+*CHI:	ochita [% 1] .
+%xmor:	v:v|ochi-PAST=fall .
+%ort:	落ちた .
+*FAT:	nani ga [% 2] ?
+%ort:	何が ?
+*CHI:	amechan ga [% 3] .
+%xmor:	n|ame-chan_FAM=candy ptl:case|ga=NOM .
+%ort:	飴ちゃんが .
+@Comment:	gogo4jimae. chichinosenakaniatte , 1#noyooniiunode ,
+	chichiga kikuto , 3#noyooniiu.
+*CHI:	hitori teen@o chu@u [: suru] [*] .
+%xmor:	num:cl|hito-ri_PERSON=one onoma|teen v:ir:sub|su-PRES=do .
+%add:	FAT
+%ort:	一人テーンちゅ .
+@Comment:	gogo4jisugi. chichigaombushite , 'chan' Sumiharesenyoono
+	koshikake o , kobushidetatakuto , omoshirogatte , tsui
+@G:	2-0006B
+@Comment:	ni , orite , jibunhitoride hitori , tanto teen tatakita
+	itoiu.
+*CHI:	chinda@u [: sunda] [*] .
+%xmor:	v:c|sum-PAST=finish .
+%add:	SLF
+%ort:	ちんだ .
+@Comment:	gogo4jisugi. mishinnofumiita o oshite , kuruma o
+	mawashinagara , jibundeyamete , konoyooniiu.
+*CHI:	kita yo [% 1] .
+%xmor:	v:ir|ku-PAST=come ptl:fina|yo=ASSERT .
+%ort:	来たよ .
+*CHI:	ringo no ojichan ga [% 2] .
+%xmor:	n|ringo=apple ptl:attr|no=GEN n|oji-chan_FAM=uncle ptl:case|ga=NOM
+	.
+%ort:	リンゴのおじちゃんが .
+*CHI:	ringo kita yo [% 3] .
+%xmor:	n|ringo=apple v:ir|ku-PAST=come ptl:fina|yo=ASSERT .
+%ort:	リンゴ来たよ .
+*CHI:	kaau@u [: kau] [% 4] .
+%xmor:	v:c|kaw-PRES=buy .
+%add:	MOT
+%ort:	かあう .
+@Comment:	gogo5:30. ringonato o urinikuruojisan ringono ojichan ga ,
+	kuruma o hiitekuruto , sugunihahanimukatteiu.
+*CHI:	jii@o [% 1] .
+%xmor:	onoma|jii .
+%ort:	ジー .
+*CHI:	chikko@u [: shikko] moo nai yo [% 2] .
+%xmor:	n:mot|shikko=urine adv|moo=already v:ir|ar&NEG-PRES=be
+	ptl:fina|yo=ASSERT .
+%ort:	ちっこもうないよ .
+*CHI:	nai yo [% 3] .
+%xmor:	v:ir|ar&NEG-PRES=be ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	ないよ .
+@Comment:	gogo5:30sugi. chichiniombushitamamabenjoniiki ,
+	chichinoshoo bennooto jii o manete , owaruto ,
+	2-3#noyooniiu.
+*MOT:	koppu o otsukue no ue ni okinasai .
+%ort:	コップをお机の上に置きなさい .
+*CHI:	koko ni oita .
+%xmor:	n:deic:dem|koko=here ptl:post|ni=DAT v:c|ok-PAST=put .
+%ort:	ここに置いた .
+@Comment:	gogo6jisugi. hahaga , miruku o iretakoppu o , shokutaku
+	otsu kue nioketoiuto , konoyooniitte , oku.
+*CHI:	buuwa [= makinohi] pachiq itta yo .
+%xmor:	n:mot|buuwa=light onoma|pachiq v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ぶうわパチ言ったよ .
+@Comment:	gogo6:30sugi. daidokoronokamadono , makinohi buuwa no ,
+	haze ruoto pachiq o kiite , hahaniiu.
+*CHI:	chuun@o itteru yo .
+%xmor:	onoma|chuun v:c|iw-ASP-PRES=say ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	チューン言ってるよ .
+@Comment:	gogo6:30sugi. daidokorohekite , hahagafurai o shiteiruno o
+	mite , sonoaburano , shinshintoiuoto chuun o , manete
+@G:	2-0007A
+@Comment:	iu.
+*CHI:	goobo@u [: goboo] ?
+%xmor:	n|goboo=burdock ?
+%add:	MOT
+%ort:	ごうぼ ?
+@Comment:	gogo6:30sugi. doozen. hahaga , gohoo goobo o ageteete ,
+	'goboo' o 'gooboo' noyooniiuto , 'goobo?' tokiku.
+*CHI:	oichikatta@u [: oishikatta] yo .
+%xmor:	adj|oishi-PAST=tasty ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	おいちかったよ .
+@Comment:	gogo7jimae. oimonoagetano o tabete , hontonioishisooni ,
+	hahaniiu.
+*CHI:	Toochan ‡ uta:u .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc v:c|utaw-PRES=sing .
+%add:	FAT
+%ort:	父ちゃん, 歌ーう .
+@Comment:	gogo 8jisugi. chichini , rajioNHKnoongakuniawasete , utae
+	utaau toiu. 'utaau' niha , utaetoiukimochigatsuyoi.
+@Comment:	OtherPerson
+@Date:	11-MAR-1950
+@Comment:	2;00.02
+@G:	2-0007A
+*CHI:	koko ochita yo .
+%xmor:	n:deic:dem|koko=here v:v|ochi-PAST=fall ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	ここ落ちたよ .
+@Comment:	gozen7:30sugi. oodonnoochitano o yubisashite , konoyooniiu.
+*CHI:	bopu@u [: boku] hitori .
+%xmor:	n:deic:prs|boku=i_MASC num:cl|hito-ri_PERSON=one .
+%add:	MOT
+%ort:	ぼぷ一人 .
+@Comment:	gozen8jimae. chooshokunotoki , boku bopu hitori de hito ri
+	, gohan o yosootoiu.
+*CHI:	Toochan buq@o tte .
+%xmor:	n:prop|Toochan=Father_FAM onoma|buq ptl:quot|tte=QUOT .
+%add:	FAT
+%ort:	父ちゃんブって .
+@Comment:	gozen8:30. chichiga , onara buq to o suruto , suguniiu.
+*CHI:	Kaachan ommo choodai [% 1] .
+%xmor:	n:prop|Kaachan=Mother_FAM n:mot|ommo=outside v:ir|choodai&IMP=give
+	.
+%ort:	母ちゃんおんも頂戴 .
+*CHI:	ommo [% 2] .
+%xmor:	n:mot|ommo=outside .
+%ort:	おんも .
+@G:	2-0007B
+*CHI:	Kaachan ‡ ommo choodai ya [% 3] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:mot|ommo=outside
+	v:ir|choodai&IMP=give ptl:fina|ya=ASSERT .
+%ort:	母ちゃん, おんも頂戴よ .
+*CHI:	Kaachan ‡ ommo choodai ya [% 4] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:mot|ommo=outside
+	v:ir|choodai&IMP=give ptl:fina|ya=ASSERT .
+%ort:	母ちゃん, おんも頂戴や .
+*CHI:	ommo choodai [% 5] .
+%xmor:	n:mot|ommo=outside v:ir|choodai&IMP=give .
+%ort:	おんも頂戴 .
+*CHI:	ommo [% 6] .
+%xmor:	n:mot|ommo=outside .
+%ort:	おんも .
+*CHI:	ommo [% 7] .
+%xmor:	n:mot|ommo=outside .
+%ort:	おんも .
+*CHI:	Kaachan ‡ ommo choodai ya [% 8] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:mot|ommo=outside
+	v:ir|choodai&IMP=give ptl:fina|ya=ASSERT .
+%ort:	母ちゃん, おんも頂戴や .
+*CHI:	<Kaachan oi > [/] Kaachan ‡ oi [% 9] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc co:i|oi=hey .
+%ort:	母ちゃんおい母ちゃん, おい .
+*CHI:	Kaachan ‡ ommo choodai [% 10] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:mot|ommo=outside
+	v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	母ちゃん, おんも頂戴 .
+@Comment:	gozen9jimae. daidokorode , hahanioimo ommo o nedatte iru.
+*OTH:	iku yo .
+%add:	Hamamoto no obasan
+%ort:	行くよ .
+@Comment:	gozen9jisugi. otonarinoHamamoto no obasanga , kaimonokago o
+	sageteiruno o miruto , suguni , konoyooniitte , tondeetteto
+	ndeiku.
+*CHI:	Seechan ‡ abunai yo .
+%xmor:	n:prop|Seechan tag|voc adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT
+	.
+%ort:	せえちゃん, 危ないよ .
+*CHI:	abunai yo .
+%xmor:	adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT .
+%add:	Hatano no Seejikun
+%ort:	危ないよ .
+@Comment:	gozen10jisugi. otonarinoHamamoto no obasantoyachin o
+	osameni ittenokaerini , otonarinoseejikunni ,
+	konoyooniitteiru.
+*CHI:	ippen kaero(o) .
+%xmor:	adv|ippen=one_time v:c|kaer-HORT=return .
+%add:	MOT
+%ort:	いっぺん帰ろ .
+@Comment:	gozen10:30koro. hahaga , sakini 'ippen kaero' toittetano o
+	, sonomama , konoyooniitte , hahanoatokarakaettekuru.
+*CHI:	babachii yo .
+%xmor:	adj:mot|babachi-PRES=dirty ptl:fina|yo=ASSERT .
+%add:	KEI
+%ort:	ばばちいよ .
+*CHI:	kokko [= niwatori] babachii yo ne .
+%xmor:	n:mot|kokko=hen adj:mot|babachi-PRES=dirty ptl:fina|yo=ASSERT
+	ptl:fina|ne=TAG .
+%add:	10:30noKeekochan
+%ort:	コッコばばちいよね .
+*CHI:	kotchi oide .
+%xmor:	n:deic:dem|kotchi=here v:ir|oide&IMP=come_to_me .
+%add:	KEI
+%ort:	こっちおいで .
+@Comment:	gozen10:30sugi. otonari no Takehara no Keekochan toasondee
+	rutoki , tarainitsuchi o iretemazeteiruno o mite , 1-2#
+@G:	2-0008A
+@Comment:	noyooni ii , temaneki o shite , 3 o iu.
+*CHI:	kokkochan [= niwatori] no mamma .
+%xmor:	n:mot|kokko-chan_FAM=hen ptl:attr|no=GEN n:mot|mamma=food .
+%ort:	コッコちゃんのまんま .
+*CHI:	kokkochan [= niwatori] no mamma yo .
+%xmor:	n:mot|kokko-chan_FAM=hen ptl:attr|no=GEN n:mot|mamma=food
+	ptl:fina|yo=ASSERT .
+%add:	UHA
+%ort:	コッコちゃんのまんまよ .
+@Comment:	gozen11jisugi. kankanni , tsuchi o ire ,
+	takegiredemazeteiru. sore o motte , otonarinoHamamoto no
+	ojisannotokoroni , niwatori kokkochan no , esa mamma
+	datoittemotteiku.
+*CHI:	chuchu@o tsutsuu@o ta@u [=? yutta] yo .
+%xmor:	onoma|chuchu onoma|tsutsuu uni|ta ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	チュンチュンツツーたよ .
+@Comment:	12:30. chuushokunotoki , ocha o , oto o tatetenomi , ko
+	noyooniiu.
+*FAT:	okaze doo itteru no ?
+%ort:	お風どう言ってるの ?
+*CHI:	batabata@o itta yo .
+%xmor:	onoma|batabata v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%ort:	バタバタ言ったよ .
+@Comment:	gogo1:30sugi. chuushokunotoki , himonoga , kaze okaze de ,
+	shoojiniatatteoto o tateteirunode , konoyooniiu.
+*CHI:	gaaze [/] gaaze .
+%xmor:	n|gaaze=gauze .
+%add:	MOT
+%ort:	ガーゼガーゼ .
+@Comment:	gogo1jimae. shokujigaowatte , kohoshitagohantsubu o hirotte
+	, za o tatootosurutoki , hahani , konoyooniitte , 'gaaze' o
+	to tte morau.
+*CHI:	Toochan ‡ amechan hanchan [/] hanchan [= takusan] aru .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n|ame-chan_FAM=candy
+	n:mot|hanchan=much v:ir|ar-PRES=be .
+%add:	FAT
+%ort:	父ちゃん, 飴ちゃんはんちゃんはんちゃんある .
+@Comment:	gogo1jimae. kyarameru amechan o , pokettoniirenagara ,
+	takusan hanchan aruto , chichiniiu.
+*CHI:	koko ee(ee) [= kiree] choo@u [: shiyoo] ne [% 1] .
+%xmor:	n:deic:dem|koko=here n:vn:mot|eeee=cleaning v:ir:sub|su-HORT=do
+	ptl:fina|ne=TAG .
+%ort:	ここええちょうね .
+*CHI:	ikan ne [% 2] .
+%xmor:	v:c|ik-NEG:n&PRES=PRH ptl:fina|ne=TAG .
+%add:	MOT
+%ort:	いかんね .
+@Comment:	gogo1jisugi. hahatotomoni , uwashikinoyaburemeni ,
+	moofunokire
+@G:	2-0008B
+@Comment:	hashi o , pindeosaetaueni , pin o sasootoshite , kokoni ,
+	pin o osoo ee choo neto , 1#noyooni ii , sorega , umakui
+	kanaito , 2#noyooniiu.
+*CHI:	koko chinda@u [: sunda] ne .
+%xmor:	n:deic:dem|koko=here v:c|sum-PAST=finish ptl:fina|ne=TAG .
+%add:	MOT
+%ort:	ここちんだね .
+@Comment:	gogo1jisugi. hahaga , tataminipin o oshiteiruno o miteete ,
+	su nda chinda netoiu.
+*CHI:	Kaachan ‡ ii yo .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc adj|i-PRES=good
+	ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	母ちゃん, いいよ .
+@Comment:	gogo1jisugi. chichinokatani , moofunokirehashi o noseteoite
+	, wa haniiu.
+*CHI:	attai yo .
+%xmor:	adj:mot|atta-PRES=warm ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	あったいよ .
+@Comment:	gogo1jisugi. uwashikinoyaburetatokoroni , moofunokirehashi
+	o o shiateteiruto , shibarakushite , sonooeniagatte , hahani
+	, ata takai attai yotoiu.
+*CHI:	baba totte .
+%xmor:	n|baba=dirt v:c|tor-IMP:te=take .
+%add:	MOT
+%ort:	ばば取って .
+@Comment:	gogo1jisugi. hahani , omochanosakinitsuita , gomi baba o ,
+	tottekuretoira.
+*MOT:	naotta ?
+%ort:	直った ?
+*CHI:	nootta@u [: naotta] yo .
+%xmor:	v:c|naor-PAST=heal ptl:fina|yo=ASSERT .
+%ort:	のおったよ .
+@Comment:	gogo1:30koro. zubongasagattano o , jibundenaosootoshiteiru
+	node , hahagakikuto , konoyoonikotaeru.
+*CHI:	Toochan no oppai .
+%xmor:	n:prop|Toochan=Father_FAM ptl:attr|no=GEN n:mot|oppai=breast .
+%add:	FAT
+%ort:	父ちゃんのおっぱい .
+*CHI:	Kaachan no oppai boku .
+%xmor:	n:prop|Kaachan=Mother_FAM ptl:attr|no=GEN n:mot|oppai=breast
+	n:deic:prs|boku=i_MASC .
+%add:	MOT
+%ort:	母ちゃんのオッパイ僕 .
+@Comment:	gogo1:30koro. chichiyahahani , konoyooniiu. bamenfumeekaku.
+@G:	2-0009A
+*CHI:	Kaachan ‡ pin nai ne [% 1] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n|pin=pin v:ir|ar&NEG-PRES=be
+	ptl:fina|ne=TAG .
+%ort:	母ちゃん, ピンないね .
+*CHI:	koko aru no [% 2] .
+%xmor:	n:deic:dem|koko=here v:ir|ar-PRES=be n:fml|no=QUD .
+%add:	MOT
+%ort:	ここあるの .
+@Comment:	gogo1:30koro. oshipin uwashikinatonimochiiru , pin nohaiq
+	teitakamibukurogakaraninatteirunode , 1#noyooni ii , tatami
+	koko nisashitearuno o mite , 2# o iu.
+*CHI:	hairan ne [% 1] .
+%xmor:	v:c|hair-NEG:n&PRES=enter ptl:fina|ne=TAG .
+%ort:	入らんね .
+@G:	2-0009A
+*CHI:	ookii [% 2] .
+%xmor:	adj|ooki-PRES=big .
+%add:	MOT
+%ort:	大きい .
+@Comment:	gogo1:30koro. kyarameru o kamibukuroniirete ,
+	hahanoyoofukuno pokettoniireyootoshite , hairanai hairan
+	node , 1-2#no yo uniiu.
+*CHI:	Toochan no kakko aru no .
+%xmor:	n:prop|Toochan=Father_FAM ptl:attr|no=GEN n:mot|kakko=shoe
+	v:ir|ar-PRES=be n:fml|no=QUD .
+%add:	MOT
+%ort:	父ちゃんのかっこあるの .
+@Comment:	gogo1:30koro. kogaihederunoni , hahanogeta o haiteshimai ,
+	haha nishiteha , chichino , geta kakko gaaruyotoiu.
+*CHI:	okuchu@u [: okutsu] .
+%xmor:	o_HON#n|kutsu=shoe .
+%add:	MOT
+%ort:	あくちゅ .
+@Comment:	gogo1:30koro. jibunnokutsu okuchi o dashitekite , hahani ,
+	haka shitekuretoiu.
+*CHI:	iichan@u [: niichan] chikko@u [: shikko] yo .
+%xmor:	n|nii-chan_FAM=brother n:mot|shikko=urine ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	いいちゃんちっこよ .
+@Comment:	gogo3jikoro. sotokarakaettekite , oniichan iichan ,
+	jibunnokoto , shikko chikko yotoiu.
+*CHI:	googoo@o pachin [% SLF] .
+%xmor:	onoma|googoo onoma|pachin .
+%ort:	ゴーゴーパチン .
+@Comment:	gogo6:30koro. ramunenotama o mitsukete , ramunenotamanokoto
+	o , ko noyooniiu.
+*OTH:	yuki ya konkon [% 1] .
+%add:	Sasakino Tooruchan
+%ort:	雪やコンコン .
+*CHI:	niichan yaya@q konko@q yuuta [% 2] .
+%xmor:	n|nii-chan_FAM=brother meta|yaya meta|konko v:c|yuw-PAST=say .
+%add:	MOT
+%ort:	兄ちゃんややコンコ言うた .
+@Comment:	gogo6:30koro. daidokorode , hahaniombushiteete ,
+	chikakunosasa kisannoniichan Tooruchan ga , 1#noyooni ,
+@G:	2-0009B
+@Comment:	'yuki' no uta o utatteiruno o kiite , yukiya yaya konkono
+	yooniiu.
+*CHI:	panchu@u [: pantsu] hitori haita .
+%xmor:	n|pantsu=pants num:cl|hito-ri_PERSON=one v:c|hak-PAST=wear .
+%add:	MOT
+%ort:	パンチュ一人履いた .
+@Comment:	gogo7jikoro. benjokaradete , pantsu panchu o , uenia
+	genagara , hahaniiu.
+*CHI:	Kaachan appu ii ne .
+%xmor:	n:prop|Kaachan=Mother_FAM n:mot|appu=nice_dress adj|i-PRES=good
+	ptl:fina|ne=TAG .
+%add:	MOT
+%ort:	母ちゃんあっぷいいね .
+@Comment:	gogo7:30koro. hahatootoototoisshonineteirutoki , hahanoyo
+	ufuku appu o mite , ii ii netoiu.
+@Comment:	OtherPerson
+@Date:	12-MAR-1950
+@Comment:	2;00.03
+@G:	2-0010A
+*CHI:	Kaachan ‡ buuwa [= dentoo] kiita [: kieta] yo .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:mot|buuwa=light
+	v:v|kie-PAST=disappear ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	母ちゃんぶうわきいたよ .
+@Comment:	gozen7jisugi. rajiogakietatoki , nakisoonakao o shite ,
+	haha niiu. 'buuwa' wa , rajiototomoni dentoogakietanode ,
+	cho kusetsunodookiha , rajiogakieteshimattakotodeattaga ,
+	konoyo uniiu.
+*CHI:	futa wa ?
+%xmor:	n|futa=lid ptl:top|wa=TOP ?
+%add:	FAT
+%ort:	蓋は ?
+@Comment:	gozen7jisugi. tokononakade , kankanno , futa futa o
+	chichini kiku.
+*CHI:	chuchuchuton@o tta@u [: itta] yo .
+%xmor:	onoma|chuchuchuton v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	チュチュチュトンったよ .
+@Comment:	gozen7:30koro. sakannisaezurusuzumenokoe o , tokononakadeki
+	iteete , chichiniiu.
+*CHI:	boku no amaiamai ?
+%xmor:	n:deic:prs|boku=i_MASC ptl:attr|no=GEN n:mot|amaiamai=sweet ?
+%add:	MOT
+%ort:	僕の甘い甘い ?
+@Comment:	gozen7:30koro. hahaniombushiteete , hahaga , akachan oto
+	uto , Teruki nomiruku amaiamai o tsukutteiruno o mi
+@G:	2-0010B
+@Comment:	te , kiku. 'boku' no 'ku' wa , 'pu' ni chikai.
+*FAT:	yuki .
+%ort:	雪 .
+*CHI:	uki@u [: yuki] .
+%xmor:	n|yuki=snow .
+%ort:	うき .
+@Comment:	gozen7:30sugi. yuki uki gafutteirunode , chichigaiwaseruto
+	, konoyooniiu.
+*CHI:	yameta .
+%xmor:	v:v|yame-PAST=stop .
+%add:	SLF
+%ort:	止めた .
+@Comment:	gozen7:30sugi. kotatsunizugatteasondeiru. kotatsunitsukamaq
+	te , ryooashi o ushironiageteiru. sore o yamete , konoyoonii
+	u.
+*CHI:	gotongoton@o tta@u [: itta] yo [% 1] .
+%xmor:	onoma|gotongoton v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%ort:	ゴトンゴトンった .
+*CHI:	koko abunai yo [% 2] .
+%xmor:	n:deic:dem|koko=here adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ここ危ないよ .
+@Comment:	gogo7:30zugi. fusumagataoreruto , sonooto o sugutoraete ,
+	1#no yooniii , sonobasho koko heette , hahani , 2#noyooniiu.
+*CHI:	koko kake .
+%xmor:	n:deic:dem|koko=here v:v|kake&GER=put_on .
+%add:	FAT
+%ort:	ここ掛け .
+@Comment:	gozen8jisugi. chichinokao o fukutaoru o , itsumonokugi koko
+	ni , kakeyo kake to , chichiniombushiteeteeu.
+*CHI:	uta:u .
+%xmor:	v:c|utaw-PRES=sing .
+%add:	FAT
+%ort:	歌う .
+@Comment:	gozen8jizugi. rajioNHKno 'ongakunomori' o kikinagara ,
+	chichi niombushiteete , utae taau toiu. 'u' wa , hakkirito
+	haienai.
+*CHI:	kuchan@o [= kushami] tta@u [: itta] yo „ aachan@u [: Akachan] [*]
+	ga .
+%xmor:	onoma|kuchan v:c|iw-PAST=say ptl:fina|yo=ASSERT tag|disloc
+	n:prop|Akachan ptl:case|ga=NOM .
+%add:	MOT
+%ort:	くちゃんったよ, ああちゃんが .
+@Comment:	gozen8jisugi. akachan aachan , otooto , Teruki ga , kushami
+	kuchan o suruto , sugunimanete , hahaniiu. 'ku' wa ,
+	amarihakkiritohakikoenai.
+@G:	2-0010B
+*CHI:	bachu@u [: basu] [*] [% 1] .
+%xmor:	n|basu=bus .
+%ort:	バチュ .
+*CHI:	tootta ne [% 2] .
+%xmor:	v:c|toor-PAST=pass ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	通ったね .
+@Comment:	gozen9jimae. basu bachu gatoorutooto o kikiwakete , 1#no
+	yooniii , shibarakushite , 2# o iu.
+*CHI:	chekken@u [: sekken] choodai .
+%xmor:	n|sekken=soap v:ir|choodai&IMP=give .
+%ort:	ちぇっけん頂戴 .
+*CHI:	are choodai .
+%xmor:	n:deic:dem|are=that v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	あれ頂戴 .
+@Comment:	gozen9jisugi. hahagasentakushiteiruto , sore o miteete ,
+	chichi nosekara , sekken chekken o hoshigatteiu.
+*MOT:	tsumetakatta .
+%add:	SLF
+%ort:	冷たかった .
+*CHI:	tsumetakatta .
+%xmor:	adj|tsumeta-PAST=cold .
+%ort:	冷たかった .
+@Comment:	gozen9jisugi. hahagasentaku o owatte , heyaniagattekitato
+	ki , hahanoiuno o , maneteeu.
+*CHI:	Kaachan ‡ oi okki choodai [% 1] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc co:i|oi=hey
+	n:vn:mot|okki=getting_up v:ir|choodai&IMP=give .
+%ort:	母ちゃん, おい起っき頂戴 .
+*CHI:	oide [% 2] .
+%xmor:	v:ir|oide&IMP=come_to_me .
+%ort:	おいで .
+*CHI:	taachan@u [: Kaachan] ‡ ombu choodai [% 3] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n:vn:mot|ombu=piggyback
+	v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	たあちゃんおんぶ頂戴 .
+@Comment:	gozen9jisugi. hahagaakachan otooto , Teruki o nekasete
+	iruno o , chichiniombushi nagaramiteete , haha kaachiyan ,
+	taa chan niiu.
+*FAT:	amechan tabeteru no [% 1] ?
+%ort:	飴ちゃん食べてるの ?
+*CHI:	amechan tabete [*] [= tabeteru] [% 2] .
+%xmor:	n|ame-chan_FAM=candy v:v|tabe-IMP:te=eat .
+%ort:	飴ちゃん食べて .
+*CHI:	amechan tabete [*] [= tabeteru] [% 3] .
+%xmor:	n|ame-chan_FAM=candy v:v|tabe-IMP:te=eat .
+%add:	FAT
+%ort:	飴ちゃん食べて .
+@Comment:	gozen9jisugi. chichiniombushiteirutoki , chichiga ,
+	1#noyooniki kuto , sukoshishite , 2-3#noyooniiu. 'tabeteru@'
+	toiuyooni haienainodearu.
+*FAT:	Okaachan no appu doko ga ii no [% 1] ?
+%ort:	お母ちゃんのあっぷどこがいいの ?
+*CHI:	koko ii no [% 2] .
+%xmor:	n:deic:dem|koko=here adj|i-PRES=good n:fml|no=QUD .
+%ort:	ここいいの .
+*CHI:	Otoochan no appa@u [: appu] ii ne [% 3] .
+%xmor:	n:prop|Otoochan=HON_Father_FAM ptl:attr|no=GEN
+	n:mot|appu=nice_dress adj|i-PRES=good ptl:fina|ne=TAG .
+%ort:	お父ちゃんのあっぱいいね .
+*CHI:	bopu@u [: boku] no xxx [% 4] .
+%xmor:	n:deic:prs|boku=i_MASC ptl:attr|no=GEN .
+%ort:	ぼぷのxxx .
+@G:	2-0011A
+*CHI:	boku no appu xxx [% 5] .
+%xmor:	n:deic:prs|boku=i_MASC ptl:attr|no=GEN n:mot|appu=nice_dress .
+%ort:	僕のあっぷxxx .
+*CHI:	appu no bopu@u [: boku] [% 6] .
+%xmor:	n:mot|appu=nice_dress ptl:attr|no=GEN n:deic:prs|boku=i_MASC .
+%add:	FAT
+%ort:	あっぷのぼぷ .
+@Comment:	gozen9:30sugi. chichiga , hahano , kimono appu , appa
+	nitsui te , 1#noyoonikikuto , 2#noyoonikotae ,
+@Comment:	tsuzuite , 3-4-6#noyooniiro. 4-5 , 6no 'xxx' wa ,
+	waratteshima ttatokorodearu. bokuha , 'bopu' tokini , 'boku'
+	tohibiku.
+*CHI:	bachu@u [: basu] buuu@o [% 1] .
+%xmor:	n|basu=bus onoma|buuu .
+%add:	FAT
+%ort:	バチュブー .
+*CHI:	Kaachan ‡ bachu@u [: basu] [*] itta [% 2] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n|basu=bus v:c|ik-PAST=go .
+%ort:	母ちゃん, ばちゅ行った .
+*CHI:	tootto@u [: tootta] [% 3] .
+%xmor:	v:c|toor-PAST=pass .
+%ort:	通っと .
+*CHI:	Kaachan ‡ bachu@u [: basu] [*] tootta yo [% 4] .
+%xmor:	n:prop|Kaachan=Mother_FAM tag|voc n|basu=bus v:c|toor-PAST=pass
+	ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	母ちゃん, バチュ通ったよ .
+@Comment:	gozen9:30sugi. chichiniombushiteete , okunaide , basu bachu
+	notooruoto o kiite , 1#noyooni ii , tsuide , sentakushitee
+	ruhahani , 2-4#noyooniiu. 3ha , 'tootta' toiootoshite , 'to'
+	ninattamononoyoodearu.
+*CHI:	ii ne [% 1] .
+%xmor:	adj|i-PRES=good ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	いいね .
+*CHI:	futachu@u [: futatsu] ii ne [% 2] .
+%xmor:	num:cl|futa-tsu_PIECE=two adj|i-PRES=good ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	ふたちゅいいね .
+@Comment:	gozen9:30sugi. chichiga , bisuketto o metaporinnokannooenio
+	kuto , 1#noyooniiu. sorekara , shibarakushite ,
+	sarani1tsukasane ruto , futatsu futachu iinetoiu.
+*MOT:	ohayoogozaimasu [% 1] .
+%add:	otonari no obasan
+%ort:	おはようございます .
+*CHI:	ohayoomachu@u [: ohayoogozaimasu] [% 2] .
+%xmor:	co:g|ohayoo_gozaimasu=good_morning .
+%add:	SLF
+%ort:	おはようまちゅ .
+@Comment:	gozen9:30sugi. hahagamizukuminidete , 1#noyooni ,
+	aisatsushite iruno o kiite , okunaide , 2#noyooniiu.
+@G:	2-0011B
+@Comment:	'machu' wa , karuku , yowakunaru. shitagatte ,
+	kawaiikanjimo tomonau.
+*CHI:	chinchin [= sukeeto] shite ommo atoboo@u [: asoboo] [% 1] .
+%xmor:	n:mot|chinchin=skates v:ir|su-CONN=do n:mot|ommo=outside
+	v:c|asob-HORT=play .
+%ort:	チンチンしておんもあとぼう .
+*CHI:	chinchin [= sukeeto] chite@u [: shite] atobaa@u [: asoboo] [% 2] .
+%xmor:	n:mot|chinchin=skates v:ir|su-CONN=do v:c|asob-HORT=play .
+%ort:	チンチンちてあとばあ .
+*CHI:	sukeeto atoba@u [: asoboo] [% 3] .
+%xmor:	n|sukeeto=skates v:c|asob-HORT=play .
+%ort:	スケートあとば .
+*CHI:	atoba@u [: asoboo] ne [% 4] .
+%xmor:	v:c|asob-HORT=play ptl:fina|ne=TAG .
+%ort:	あとばね .
+*CHI:	ommo atoba@u [: asoboo] no [% 5] .
+%xmor:	n:mot|ommo=outside v:c|asob-HORT=play n:fml|no=QUD .
+%ort:	おんもあとばの .
+*CHI:	ne [/] ne [/] ne [% 6] .
+%xmor:	co:i|ne=APPEAL .
+%add:	FAT
+%ort:	ねねね .
+@Comment:	gozen9:45. chichiniombushiteete , sukeeto chinchin , suketo
+	shite , kogai ommo de , asoboo atoboo , atobaa , ato ba to ,
+	shikiriniiu. 1#no 'atoboo' wa , amarihakkiritohai enai.
+*CHI:	gotongoton@o tta@u [: itta] yo „ koko .
+%xmor:	onoma|gotongoton v:c|iw-PAST=say ptl:fina|yo=ASSERT tag|disloc
+	n:deic:dem|koko=here .
+%ort:	ゴトンゴトンったよ, ここ .
+*FAT:	tenjoo ?
+%ort:	天井 ?
+*CHI:	tenjoo .
+%xmor:	n|tenjoo=ceiling .
+%ort:	天井 .
+*CHI:	chuuchuusan kotonkoton@o tenjoo [% 4] .
+%xmor:	n:mot|chuuchuu-san_HON=mouse onoma|kotonkoton n|tenjoo=ceiling .
+%ort:	チューチューさんコトンコトン天井 .
+*CHI:	ta@u [: itta] ne [% 5] .
+%xmor:	v:c|iw-PAST=say ptl:fina|ne=TAG .
+%ort:	たね .
+@Comment:	gozen10jimaechichiniombushiteete , tenjoo koko , tenjoo o
+	yubisashiteeu. 4 o itte , atokara , 5 o chichiniiu.
+*CHI:	jinjinjinjin@o shikko shita yo .
+%xmor:	onoma|jinjinjinjin n:vn:mot|shikko=urinating v:ir:sub|su-PAST=do
+	ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	じんじんじんじんしっこしたよ .
+@Comment:	gozen10jikoro. tarainishikko o shite , sonooto o maneteeu.
+*CHI:	hatopoppo .
+%xmor:	n:mot|+n|hato+onoma|poppo=dove .
+%add:	FAT
+%ort:	ハトポッポ .
+@Comment:	gozen10jikoro. hagaki o mottekite , choonoe o mite ,
+	hakkiri toiu.
+*OTH:	kyoo wa samui desu ne .
+%add:	MOT
+%ort:	今日は寒いですね .
+*CHI:	kyoo samui ne .
+%xmor:	n|kyoo=today adj|samu-PRES=cold ptl:fina|ne=TAG .
+%add:	SLF
+%ort:	今日寒いね .
+@G:	2-0012A
+@Comment:	gozen11jisugi. ãßkunoakimotonoobaasannoaisatsu o kiite ,
+	maneteeu.
+*MOT:	omoi ne „ anta wa .
+%ort:	重いね, あんたは .
+*CHI:	anta [*] [= SUM] omoi ne [% 2] .
+%xmor:	n:deic:prs|anta=you_CLQ adj|omo-PRES=heavy ptl:fina|ne=TAG .
+%ort:	あんた重いね .
+@Comment:	gozen11jisugi. hahagaombushite , iuto , 2#noyooni ,
+	sugunima neteeu.
+*CHI:	koko yabeta@u [: yabureta] yo .
+%xmor:	n:deic:dem|koko=here v:v|yabure-PAST=tear ptl:fina|yo=ASSERT .
+%ort:	ここやべたよ .
+*CHI:	eeee choodai .
+%xmor:	n:vn:mot|eeee=cleaning v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	ええええ頂戴 .
+@Comment:	12jikoro. nenneko o kite , sodetsukenohokorobi kokoyabeta
+	ni , te o irete , tsukurotte eeee kureto , hahaniiu. 'be@'
+	wa , 'yabureta@' toienaide , konoyooniiu.
+*FAT:	ronronron baa [% 1] .
+%add:	TER
+%ort:	ロンロンロンばあ ..
+*CHI:	dondondon@i baa [% 2] .
+%xmor:	co:i|dondondon co:g|baa=boo .
+%add:	TER
+%ort:	ドンドンドンばあ .
+@Comment:	gogo2jikoro. chichiga , akachan otooto , Teruki o ayasuno
+	ni , 1#noyooniiuto , sugunimanete , 2#noyooniiu.
+*CHI:	ommo tsumetai yo .
+%xmor:	n:mot|ommo=outside adj|tsumeta-PRES=cold ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	おんも冷たいよ .
+@Comment:	gogo6jisugi. hahaniombushite , kogai ommo nideruto , yuki
+	gafutteirunode , iu.
+*CHI:	mata haitta .
+%xmor:	adv|mata=again v:c|hair-PAST=enter .
+%add:	MOT
+%ort:	また入った .
+@Comment:	gogo6:30koro. yukiga , daidokoroni ,
+	chirachiratohaittekuruno o mite , konoyooniiu.
+*CHI:	aachan@u [: Akachan] [*] iichan@u [: Niichan] ri(i) shita yo .
+%xmor:	n:prop|Akachan n:prop|Niichan n:vn:mot|rii=getting_down
+	v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃんいいちゃんりしたよ .
+@Comment:	gogo6:30koro. hahanosekaraorita ri shita tokini , aka
+@G:	2-0012B
+@Comment:	chan aachan , otooto , Teruki niyasashikuhanashikakeruyo
+	uniiu. 'iichan' wa , niichan.
+*CHI:	aachan@u [: Akachan] [*] nonda [/] nonda .
+%xmor:	n:prop|Akachan v:c|nom-PAST=drink .
+%add:	FAT
+%ort:	ああちゃん飲んだ飲んだ .
+@Comment:	gogo6:30koro. akachan aachan , otooto , Teruki gamiru ku o
+	nomiowaruno o mite , chichinosobanikiteeu.
+*CHI:	sameta .
+%xmor:	v:v|same-PAST=cool .
+%add:	FAT
+%ort:	冷めた .
+@Comment:	gogo7jimae. koppuniocha o ire , chichinotsukuenooenimotte
+	itte , shibarakushite , konoyoonichichiniiu. imamadeha ,
+	'hii ta' hieta toitteita.
+*CHI:	tonton wa ?
+%xmor:	n:mot|tonton=hammer ptl:top|wa=TOP ?
+%ort:	トントンは ?
+*MOT:	doko ni aru no ?
+%ort:	どこにあるの ?
+*CHI:	ue [/] ue yo .
+%xmor:	n|ue=up ptl:fina|yo=ASSERT .
+%ort:	上上よ .
+@Comment:	gogo7jimae. kanazuchi tonton noaribasho o hahanikikareru to
+	, ue ue yotokotaeru. chichinoheyanohakonooeniokukoto
+	ninatteirunode , sore o shitteiteeu.
+*CHI:	aachan@u [: Akachan] [*] batte@u [: matte] ne .
+%xmor:	n:prop|Akachan v:c|mat-IMP:te=wait ptl:fina|ne=TAG .
+%add:	TER
+%ort:	ああちゃんばってね .
+*CHI:	tonton shita yo .
+%xmor:	n:vn:mot|tonton=hammering v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT .
+%ort:	トントンしたよ .
+*CHI:	chinda@u [: sunda] yo .
+%xmor:	v:c|sum-PAST=finish ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ちんだよ .
+@Comment:	gogo7jisugi. akachan aachan , otooto , Teruki ni , ma tte
+	batte netoitte , kanazuchi tonton de , tatAkiowaru to ,
+	sunda chinda yotoitte , sobanikuru.
+*FAT:	mada aru yo [% 1] .
+%ort:	まだあるよ .
+*CHI:	mada aru yo nai [*] [% 2] .
+%xmor:	adv|mada=still v:ir|ar-PRES=be ptl:fina|yo=ASSERT
+	v:ir|ar&NEG-PRES=be .
+%ort:	まだあるよない .
+*CHI:	mada nai [% 3] .
+%xmor:	adv|mada=still v:ir|ar&NEG-PRES=be .
+%ort:	まだない .
+*CHI:	moo nai [% 4] .
+%xmor:	adv|moo=already v:ir|ar&NEG-PRES=be .
+%ort:	もうない .
+*CHI:	moo chinda@u [: sunda] [% 5] .
+%xmor:	adv|moo=already v:c|sum-PAST=finish .
+%add:	FAT
+%ort:	もうちんだ .
+@Comment:	gogo7jisugi. unko o shiteirutoki , chichiga , 1#no yo
+@G:	2-0013A
+@Comment:	unikikuto , 2 , 3-4ÅC5#noyooniiu. 5ha , moo sunda chinda .
+*MOT:	yoo iwan wa .
+%ort:	よう言わんわ .
+*CHI:	yoo iwan wa .
+%xmor:	adv|yoo=well v:c|iw-NEG:n&PRES=say ptl:fina|wa=FINA .
+%ort:	よう言わんわ .
+@Comment:	gogo7jisugi. hahagaitteruno o , sugunimaneteeu.
+*CHI:	patampatan@o [% 1] .
+%xmor:	onoma|patampatan .
+%add:	SLF
+%ort:	パタンパタン .
+*CHI:	yameta yo [% 2] .
+%xmor:	v:v|yame-PAST=stop ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	止めたよ .
+@Comment:	gogo7:15koro. mishinnofumiita o osaete , ototatete ,
+	1#noyoo niii , yameruto , 2#noyooniiu.
+*CHI:	0 .
+@Comment:	gogo7:30mae. kanazuchiganukete , sore o jibundesashiowari ,
+	mono sashi o hirotte , kanazuchichinosaki o tataku. bootenha
+	, damatta mamade.
+*CHI:	hitori tsuita buuwa [= dentoo] .
+%xmor:	num:cl|hito-ri_PERSON=one v:c|tsuk-PAST=switch_on n:mot|buuwa=light
+	.
+%add:	FAT
+%ort:	一人付いたぶうわ .
+@Comment:	gogo7:30. dentoo buuwa ga , hitorideni hitori tsuitano o
+	mite , iu.
+*CHI:	pachipachipachi iyu@u [: iu] ne .
+%xmor:	onoma|pachipachipachi v:c|iw-PRES=say ptl:fina|ne=TAG .
+%add:	FAT
+%ort:	パチパチパチいゆね .
+@Comment:	gogo7:30sugi. teedennotame , daiyooroosokunihi o tsukeruto
+	, oto o tateruno o , sugunitoraeteeu. 'iyu' wa , 'iyu' wa ,
+	iuto.
+@Date:	13-MAR-1950
+@Comment:	2;00.04
+@G:	2-0013A
+*CHI:	Toochan ‡ chuuchuusan gotongoton tta@u [: itta] yo .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:mot|chuuchuu-san_HON=mouse
+	onoma|gotongoton v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	父ちゃん, チュウチュウさんゴトンゴトンったよ .
+@G:	2-0013B
+@Comment:	gozenyojikoro. tenjoode , nezumiga , gotogoto goton goto n
+	suruno o kiite , suguni , sobanineteiruchichiniiu.
+*CHI:	ageru .
+%xmor:	v:v|age-PRES=give .
+%add:	MOT
+%ort:	あげる .
+@Comment:	gozen6:30koro. jibunnotapeteita , bisuketto o ,
+	hahanonioshi konde , konoyooniiu. wariai , hakkiritoittaga ,
+	'ge' wa , sukoshishihakkirishinakatta.
+*MOT:	Okaachan akachan to Obaachan no tokoro e itte kuru kara
+	Sumiharechan Otoochan to orusuban shiteru kane(e) ?
+%ort:	お母ちゃん赤ちゃんとおばあちゃんの所へ行ってくるからスミハレちゃんお父ちゃんとお留守番してるかね ?
+*CHI:	iku .
+%xmor:	v:c|ik-PRES=go .
+%ort:	行く .
+@Comment:	gozen7:30sugi. hahaga , 1#noyoonikikuto , konoyooniiu.
+*CHI:	raaji nenne shita [% 1] ?
+%xmor:	n:mot|raaji=radio n:vn:mot|nenne=sleeping v:ir:sub|su-PAST=do ?
+%ort:	ラアジ寝んねした ?
+*FAT:	rajio ga pachipachi suru kara ne [% 2] .
+%ort:	ラアジがパチパチするからね .
+*CHI:	pachipachi tta@u [: itta] „ raaji ga [% 3] .
+%xmor:	onoma|pachipachi v:c|iw-PAST=say tag|disloc n:mot|raaji=radio
+	ptl:case|ga=NOM .
+%ort:	パチパチった, ラアジが .
+@Comment:	gozen8jimae. chichiga , rajionosuitchi o kiruto , suguni ,
+	1#no yooni , rajio raaji nenneshita?tokiku. sorede ,
+	chichiga , 2# noyooniiuto , sugu , 3#noyooniitte ,
+	tashikameru.
+*MOT:	aaqa kowareta yo .
+%ort:	ああ壊れたよ .
+*CHI:	tonton churu@u [: suru] ne .
+%xmor:	n:vn:mot|tonton=hammering v:ir:sub|su-PRES=do ptl:fina|ne=TAG .
+%ort:	トントンちゅるね .
+@Comment:	gozen8jimae. daidokorode , omocha o kowashitanode , hahaga
+	, 1#noyooniiuto , suguni , kanazuchi tonton o mo
+@G:	2-0014A
+@Comment:	ttekite , kowaretaomocha o , naosu tonton churu toiu .
+*CHI:	benjo tonton shita ne „ boku ga .
+%xmor:	n|benjo=lavatory n:vn:mot|tonton=hammering v:ir:sub|su-PAST=do
+	ptl:fina|ne=TAG tag|disloc n:deic:prs|boku=i_MASC ptl:case|ga=NOM .
+%add:	FAT
+%ort:	便所トントンしたね, 僕が .
+@Comment:	gozen8jimae. chichiniombushite , genkannidetatoki ,
+	hidariyo konobenjonoto o mite , kowareteitasonoto o
+	jibungakanazuchide tataita tonton shita koto o omoidashi ,
+	sore o chichiniiu.
+*CHI:	Toochan ‡ Kaachan toon [= koronda] shita yo .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n:prop|Kaachan=Mother_FAM
+	n:vn:mot|toon=fall v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	父ちゃん, 母ちゃんトーンしたよ .
+@Comment:	gozen8jisugi. hahaga , koronda toon shita no o mite ,
+	chichini , konoyooniitte , shirasenikuru.
+*MOT:	onori ga nakunatte shimatta [% 1] .
+%ort:	お海苔が無くなってしまった .
+*MOT:	mata onori kawanakya [% 2] .
+%ort:	またお海苔買わなきゃ .
+*CHI:	mata nori [% 3] ?
+%xmor:	adv|mata=again n|nori=seaweed ?
+%ort:	また海苔 ?
+*MOT:	mata onori kaoo ne [% 4] .
+%ort:	またお海苔買おうね .
+*CHI:	choo@u [: soo ne] .
+%xmor:	adv:deic:dem|soo=like_that ptl:fina|ne=TAG .
+%ort:	ちょう .
+@Comment:	gozen8jisugi. chooshokunotoki , noriganakunattanode , haha
+	ga , 1-2#noyooniiuto , 3#noyoonikiku. hahaga , 4#noyooniiu
+	to , kaoone choo ne tooozuru. 3#no , 'nori' wa , mada ,
+	hakkiritohaienai.
+*CHI:	benjo no to eeee [= naosu] suru yo [% 1] .
+%xmor:	n|benjo=lavatory ptl:attr|no=GEN n|to=door n:vn:mot|eeee=cleaning
+	v:ir:sub|su-PRES=do ptl:fina|yo=ASSERT .
+%ort:	便所の戸ええええするよ .
+*CHI:	tonton wa [% 2] ?
+%xmor:	n:mot|tonton=hammer ptl:top|wa=TOP ?
+%add:	FAT
+%ort:	トントンは ?
+*CHI:	tonton shita yo [% 3] .
+%xmor:	n:vn:mot|tonton=hammering v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	トントンしたよ .
+@Comment:	gozen9jimae. 1#noyooni , chichiniitte , benjonotonokoware
+	teiruno o , naosu eeee suru toiu. soshi
+@G:	2-0014B
+@Comment:	te , 2#noyooni , kanazuchi tonton noaribasho o kiku. kanazu
+	chide , benjonoto o tataite tonton , 3#noyooni , hahanii u.
+*CHI:	bopu@u [: boku] no taachitaachi@c [= tokee] yo [% 1] .
+%xmor:	n:deic:prs|boku=i_MASC ptl:attr|no=GEN chi|taachitaachi
+	ptl:fina|yo=ASSERT .
+%ort:	ぼぷのたあちたあちよ .
+*CHI:	Obaachan [% 2] .
+%xmor:	n:prop|Obaachan=HON_Granma_FAM .
+%add:	FAT
+%ort:	おばあちゃん .
+@Comment:	gozen9jisugi. 1# , 2#noyooniitte , kaadoniempitsude , maru
+	nado o kaku. 'taachitaachi' wa , tokee udetokee nokoto.
+*FAT:	Okaachan ni aachan@u [: Akachan] [*] ni amaiamai choodai itte
+	choodai [% 1] .
+%ort:	お母ちゃんにああちゃんに甘い甘い頂戴言って頂戴 .
+*CHI:	aachan@u [: Akachan] [*] amaiamai choodai to yo: [% 2] .
+%xmor:	n:prop|Akachan n:mot|amaiamai=sweet v:ir|choodai&IMP=give n|to=door
+	ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ああちゃん甘い甘い頂戴とよー .
+@Comment:	gozen9:30sugi. chichiga , akachan aachan , otoototeruki ni
+	, miruku amaiamai o tsukuttekureto , hahaniittekure to ,
+	1#noyooniiuto , 2#noyooni , hahaniiu.
+*CHI:	ojichan wa [% 1] ?
+%xmor:	n|oji-chan_FAM=uncle ptl:top|wa=TOP ?
+%ort:	おじちゃんは ?
+*MOT:	ojichan inai yo [% 2] .
+%ort:	おじちゃんいないよ .
+*CHI:	ojichan chinchimbuu [= densha] [% 3] ?
+%xmor:	n|oji-chan_FAM=uncle n:mot|chinchimbuu=train ?
+%ort:	おじちゃんチンチンブー ?
+*CHI:	bachu@u [: basu] [*] ?
+%xmor:	n|basu=bus ?
+%ort:	バチュ ?
+@Comment:	gozen9:30sugi. minamigawanomadokara , otonarinoHamamoto no
+	oji san
+@Comment:	ojichan o mikaketanode , hahani , 1#noyoonikiku. hahaga ,
+	2#noyoonikotaeruto , densha chinchimbuu deettano?basu bachu
+	deettano?to , hahanikiku.
+*CHI:	taachitaachi@c [= tokee] pachin churu@u [: suru] .
+%xmor:	chi|taachitaachi n:vn:mot|pachin=clicking v:ir:sub|su-PRES=do .
+%add:	FAT
+%ort:	たあちたあちパチンちゅる .
+@Comment:	gozen9:30sugi. chichinoodedokee taachikuuchi o motte , ryu
+	uzu o nuite , sore o , 'pachin' tomotonioshiireyooto
+@G:	2-0015A
+@Comment:	suru.
+*CHI:	Otoochan hai doozo .
+%xmor:	n:prop|Otoochan=HON_Father_FAM co:i|hai=yes co:g|doozo=please .
+%add:	FAT
+%ort:	お父ちゃんはいどうぞ .
+@Comment:	chichiga , shoobenniitteiruto , ookiikoede , konoyoonii tte
+	, ato o ottekuru.
+*CHI:	ohashi no pappa [= tabako] .
+%xmor:	o_HON#n|hashi=chopsticks ptl:attr|no=GEN n:mot|pappa=tobacco .
+%add:	FAT
+%ort:	お箸のぱっぱ .
+@Comment:	gogo1jisugi. jibunnoohashi ohashi o , yakannokuchikarasashi
+	konde , hashinosakikarayugegatatsuto , sore o , tabako pappa
+	ni mitate , sonohashi o kuchinikuwaete , konoyooniiu.
+*CHI:	pachin ta@u [: itta] yo .
+%xmor:	onoma|pachin v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	パチンたよ .
+@Comment:	gogo1:30. kamadonomakiga , hazeru pachin no o kiite ,
+	chichinii u.
+*CHI:	aachan@u [: Akachan] [*] okki suru yo .
+%xmor:	n:prop|Akachan n:vn:mot|okki=getting_up v:ir:sub|su-PRES=do
+	ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	ああちゃん起っきするよ .
+@Comment:	gogo1:30sugi. chichitosawaideete , kyuuni ,
+	nemutteiruakachan aachan , otooto , Teruki gaokiru okki suru
+	yo to , chichinichuuisuru. higoroha , jibunga ,
+	ryooshinkarayoku iwareteirunodearu.
+*CHI:	hanchan [/] hanchan [= takusan] aru yo .
+%xmor:	n:mot|hanchan=much v:ir|ar-PRES=be ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	はんちゃんはんちゃんあるよ .
+@Comment:	gogo1:30zugi. ochawannoocha o , hashidekakimaze ,
+	awadatsuno o mite , yorokonde , takusantakusan hanchan [/]
+	hanchan aruto , konobunnoyooniiu.
+*CHI:	a beeto@u [: bisuketto] ga ochita yo .
+%xmor:	co:i|aq=ah n|bisuketto=bisquit ptl:case|ga=NOM v:v|ochi-PAST=fall
+	ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	あベイトが落ちたよ .
+@Comment:	gogo2jimae. bisuketto beeto o otoshite , konoyooniitte ,
+	hiroo.
+@G:	2-0015B
+*CHI:	Otoochan ‡ itaita(i) [= saihoobako] nainai choodai .
+%xmor:	n:prop|Otoochan=HON_Father_FAM tag|voc n:mot|itaiitai=aching
+	n:vn:mot|nainai=allgone v:ir|choodai&IMP=give .
+%add:	FAT
+%ort:	お父ちゃんいたいたないない頂戴 .
+@Comment:	gogo2jimae. mishinnoshitanioitearu , saihoobako itaita o ,
+	shimatte nainai kuretochichiniiu.
+*CHI:	ommachan iku yo .
+%xmor:	n:mot|omma-chan_FAM=horse v:c|ik-PRES=go ptl:fina|yo=ASSERT .
+%ort:	おんまちゃん行くよ .
+*CHI:	amunai@u [: abunai] [*] yo .
+%xmor:	adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	あむないよ .
+@Comment:	gogo2jimae. jibungaoomasan ommachan ninatte , aka chan
+	otooto , Teruki o nekaseteiruhahanoïûhe , abuna
+@Comment:	i amunai yotoitte , ikootosuru.
+*CHI:	enchen@u [: sekken] choodai .
+%xmor:	n|sekken=soap v:ir|choodai&IMP=give .
+%add:	FAT
+%ort:	えんちゃん頂戴 .
+@Comment:	gogo2:15sugi. sekken enchen o tottehoshiito , chichinii u.
+	'seq@ken' no 'seq@' gaienaide , 'en' ninatta.
+*FAT:	Sumiharechan ‡ chotto choodai [% 1] .
+%ort:	スミハレちゃんちょっと頂戴 .
+*CHI:	chotto choodai [% 2] . [+ imit]
+%xmor:	adv|chotto=a_bit v:ir|choodai&IMP=give .
+%ort:	ちょっと頂戴 .
+@Comment:	gogo2:15zugi. chichiga , hige o atatteite , sekken o
+	motteiru node , 1#noyooniiuto , suguni , 2#noyoonimaneteette
+	, sekke n o tewatashisuru.
+*CHI:	kankan choodai !
+%xmor:	n:mot|kankan=can v:ir|choodai&IMP=give !
+%add:	MOT
+%ort:	カンカン頂戴 !
+@Comment:	gogo2:30sugi. kogainideteete , hahani , kankan kankan o
+	hoshigaru.
+*CHI:	ima gakko [: gakkoo] ?
+%xmor:	n|ima=now n|gakkoo=school ?
+%add:	FAT
+%ort:	今がっこ ?
+@Comment:	gogo3jimae. chichigasotodeshiyootoshiteiruto ,
+	chichinimukatte , imakara ima , gakkoo gakko heekunotokiku.
+@Date:	14-MAR-1950
+@Comment:	2;00.05
+@G:	2-0016A
+*CHI:	hyupoppo@u [: shupoppo] iku .
+%xmor:	n:mot|shuppoppo=locomotive v:c|ik-PRES=go .
+%ort:	ひゅぽっぽ行く .
+*CHI:	hyupoppo@u [: shupoppo] iku .
+%xmor:	n:mot|shuppoppo=locomotive v:c|ik-PRES=go .
+%ort:	ひゅぽっぽ行く .
+*CHI:	hyupoppo@u [: shupoppo] iku .
+%xmor:	n:mot|shuppoppo=locomotive v:c|ik-PRES=go .
+%add:	FAT
+%ort:	ひゅぽっぽ行く .
+@Comment:	gozen7:30. chichini , kisha hyupoppo o mini , sampaniikoo
+	to , nedatteiu.
+*CHI:	aachan@u [: Akachan] [*] oppai choodai [% 1] .
+%xmor:	n:prop|Akachan n:mot|oppai=breast v:ir|choodai&IMP=give .
+%ort:	ああちゃんおっぱい頂戴 .
+*CHI:	aachan@u [: Akachan] [*] oppai choodai [% 2] .
+%xmor:	n:prop|Akachan n:mot|oppai=breast v:ir|choodai&IMP=give .
+%add:	FAT
+%ort:	ああちゃんおっぱい頂戴 .
+*CHI:	aachan@u [: Akachan] [*] oppai choodai to yo: [% 3] .
+%xmor:	n:prop|Akachan n:mot|oppai=breast v:ir|choodai&IMP=give
+	ptl:quot|to=QUOT ptl:fina|yo=FIN .
+%ort:	ああちゃんおっぱい頂戴とよー .
+*CHI:	aachan@u [: Akachan] [*] oppai choodai kko@u yo: [% 4] .
+%xmor:	n:prop|Akachan n:mot|oppai=breast v:ir|choodai&IMP=give uni|kko
+	ptl:fina|yo=ASSERT .
+%ort:	ああちゃんおっぱい頂戴っこよー .
+*CHI:	aachan@u [: Akachan] [*] oppai choodai to yo: [% 5] .
+%xmor:	n:prop|Akachan n:mot|oppai=breast v:ir|choodai&IMP=give
+	ptl:quot|to=QUOT ptl:fina|yo=ASSERT .
+%ort:	ああちゃんおっぱい頂戴とよー .
+*CHI:	aachan@u [: Akachan] [*] oppai choodai ikko@u yo: [% 6] .
+%xmor:	n:prop|Akachan n:mot|oppai=breast v:ir|choodai&IMP=give uni|ikko
+	ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ああちゃんおっぱいいっこよー .
+@Comment:	gozen7:30koro. akachan aachan , otooto , Teruki game o
+	samashite , naiteiruno o mite , 1-2#noyooni , chichiniitte ,
+	tsu ide , 3-4-6#noyooni , hahaniiu. kinoo ,
+	chichigahahanitoritsuga setatoki , ittano o oboeteete ,
+	bummatsubunikurooshinagara , akachanga ,
+	oppaichoodaitoitteruyotoiukoto o , haha nitsutaeyootosuru.
+*CHI:	atoo@u [: satoo] choodai .
+%xmor:	n|satoo=sugar v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	あとう頂戴 .
+@Comment:	gozen7:30sugi. pan o taberunoni , satoo a@too o kureto ,
+	hahaniiu. 'sa@' toienakute , 'a@too' ninaru.
+*CHI:	ojichan nenne [% 1] .
+%xmor:	n|oji-chan_FAM=uncle n:vn:mot|nenne=sleeping .
+%ort:	おじちゃん寝んね .
+*CHI:	ringoojichan nenne [% 2] . [+ notrain]
+%xmor:	n|+n|ringo+n|oji-chan_FAM=apple_uncle n:vn:mot|nenne=sleeping .
+%ort:	リンゴおじちゃん寝んね .
+*CHI:	mi:nna nenne [% 3] .
+%xmor:	quant|mina=all n:vn:mot|nenne=sleeping .
+%add:	SLF
+%ort:	みーんな寝んね .
+@Comment:	gozen8jimae. asondeete , 1-3 o , hitorigotonoyooniiu.
+@G:	2-0016B
+*CHI:	takai yo .
+%xmor:	adj|taka-PRES=high ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	高いよ .
+@Comment:	gozen8jisugi. chichinohizanikite , te o agete , tenjoo o
+	mina gara , konoyooniiu. 'ta i' wa ,
+	takainotsumorideetteiruO
+*MOT:	koohii .
+%ort:	コーヒー .
+*CHI:	koochii@u [: koohii] .
+%xmor:	n|koohii=coffee .
+%ort:	コーチー .
+@Comment:	gozen8jisugi. hahagaiuto , maneteeu. imamadeha , 'amai amai
+	toitteita.
+*CHI:	futa wa ?
+%xmor:	n|futa=lid ptl:top|wa=TOP ?
+%add:	FAT
+%ort:	蓋は ?
+@Comment:	gozen8jisugi. koohii o wakashiteiruonabeno , futa futa o
+	tottekoohii o tsuguto , sonoato , sugu , futa o
+	shiyootoshite , chi chini , konoyoonikiku.
+*CHI:	koko anga shita yo „ Toochan ga .
+%xmor:	n:deic:dem|koko=here n:vn:mot|anga=get_up v:ir:sub|su-PAST=do
+	ptl:fina|yo=ASSERT tag|disloc n:prop|Toochan=Father_FAM
+	ptl:case|ga=NOM .
+%add:	FAT
+%ort:	ここあんがしたよ, 父ちゃんが .
+@Comment:	gozen8:30. chichigaisunooe koko ni agatte anga , rajio no
+	koshoo o shirabetano o omoidashite , isu koko o osaete iu.
+*MOT:	ikan ikan yuu no o totte inai .
+%add:	FAT
+%ort:	いかんいかん言うのを取っていない .
+*CHI:	Otoochan ika:n [/] ika:n yuuta ne .
+%xmor:	n:prop|Otoochan=HON_Father_FAM v:c|ik-NEG:n&PRES=PRH
+	v:c|yuw-PAST=say ptl:fina|ne=TAG .
+%ort:	お父ちゃんいかーんいかーん言うたね .
+@Comment:	gozen8:30zugi. hahaga , 1#noyooniiuno o kiite , chichini ,
+	sono koto o iu. hahano 'totteinai' toiunoha , 'ikan ikan'
+	toiukotoba o , kaadonisaishuushiteinaitoiukoto o iu .
+*CHI:	poka@o [/] poka@o [/] poka@o [/] poka@o .
+%xmor:	onoma|poka .
+%ort:	ポカポカポカポカ .
+*CHI:	iihi@o [/] iihi@o [/] iihi@o [/] iihi@o .
+%xmor:	onoma|iihi .
+%add:	SLF
+%ort:	いいひいいひいいひいいひ .
+@G:	2-0017A
+@Comment:	gozen8:30sugi. tataminooe o , oomasanninatte , konoyooni
+	iinagara , haimawaru.
+*CHI:	koko tenki [= hikari] kita yo .
+%xmor:	n:deic:dem|koko=here n|tenki=weather v:ir|ku-PAST=come
+	ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	ここ天気来たよ .
+*CHI:	tenki batte@u [: matte] ne .
+%xmor:	n|tenki=weather v:c|mat-IMP:te=wait ptl:fina|ne=TAG .
+%add:	nikkoo
+%ort:	天気ばってね .
+@Comment:	gozen8:30sugi. tataminooenikuru , asanohikari tenki o mi te
+	, 1#noyooniiu. sononikkoonimukatte , chottoshokuji o
+	surukara , matte batte netoiu. asanohikarinoochiteiruta
+	taminooe o , pokapokaoomaninatte , hatteikukotogadekinai
+	toiuimidearu.
+*CHI:	tantantan@o [/] tantantan@o .
+%xmor:	onoma|tantantan .
+%add:	SLF
+%ort:	タンタンタン, タンタンタン .
+@Comment:	gozen8:30sugi. doozen. tataminooeniasanohikarigaochitee
+	runo o mataidehashirinagara , konoyooniiu.
+*CHI:	chinchin shite ommo atobaan@u [: asoboo] .
+%xmor:	n:mot|chinchin=skates v:ir|su-CONN=do n:mot|ommo=outside
+	v:c|asob-HORT=play .
+%add:	MOT
+%ort:	チンチンしておんもあとばーん .
+@Comment:	gozen9jimae. sukeetoshite chinchin shite , soto ommo de ,
+	asohoo atobaan to , hahaniiu.
+*CHI:	himo nai .
+%xmor:	n|himo=string v:ir|ar&NEG-PRES=be .
+%ort:	紐ない .
+*CHI:	Tootooobachan aru no .
+%xmor:	n:prop|Tootoo-oba_AUNT-chan_FAM=Hamamoto v:ir|ar-PRES=be
+	n:fml|no=QUD .
+%add:	MOT
+%ort:	とうとおばちゃんあるの .
+@Comment:	gozen9jimae. hahanigeta o hakasete moratteite , geta o
+	kukuru , himo himo ganaino o mite , 1#noyooniiu. soshite ,
+	kinoo , otonarinoHamamotosan no ouchi de , geta o nugashite
+	morattano o o moidashite , 2#noyooniiu.
+*FAT:	hayo ikoo ne .
+%ort:	早よ行こうね .
+*CHI:	hai [: hayo] ikoo ne .
+%xmor:	adv|hayo=fast v:c|ik-HORT=go ptl:fina|ne=TAG .
+%ort:	はい行こうね .
+@Comment:	gozen9:30. chichitoitsumonoyoonisamponideyootoshite ,
+	chichigai uto , maneteeu.
+@G:	2-0017B
+*CHI:	tonda: [% 1] .
+%xmor:	v:c|tob-PAST=fly .
+%ort:	飛んだー .
+*FAT:	piichiku@o [/] piichiku@o [/] piichiku@o tte yuu deshoo [% 2] .
+%ort:	ピーチクピーチクピーチクって言うでしょう .
+*FAT:	hibari yo [% 3] .
+%ort:	ひばりよ .
+*CHI:	0 .
+@Comment:	gozen9:30sugi. doozen. chichitosamponidete , hajimete ,
+	hibari o kiku. chichigayubisasuto , ureshisoonimitsukete ,
+	1#noyooniiu. chichiga , 2-3#noyooni , ittekikaseru.
+*CHI:	takai yo .
+%xmor:	adj|taka-PRES=high ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	高いよ .
+@Comment:	gozen9:30sugi. doozen. chichitosamponidete ,
+	tsutsuminotokorode , sasa o oritori , sora o aoide ,
+	kazashite , takai ta i toi u.
+*FAT:	chiisai buubu hayai ne [% 1] .
+%ort:	小さいブーブ早いよ .
+*CHI:	chiisai no buubu [*] .
+%xmor:	adj|chiisa-PRES=small ptl:attr|no=GEN n:mot|buubu=car .
+%ort:	小さいのブーブ .
+@Comment:	gozen9:30sugi. doozen. chichitosamponidete , Misasabashi o
+	wata ru , kogatajidoosha chiisai buubu o mite , chichiga ,
+	1#no yo uniiuto , manete , konoyooniiu.
+*CHI:	batabata kita yo [% 1] .
+%xmor:	n:mot|batabata=cycle_car v:ir|ku-PAST=come ptl:fina|yo=ASSERT .
+%ort:	バタバタ来たよ .
+*FAT:	akai hata ga hirahira shiteru ne [% 2] .
+%ort:	赤い旗がヒラヒラしてるね .
+*CHI:	are nan ne [% 3] ?
+%xmor:	n:deic:dem|are=that n:deic:wh|nani=what ptl:fina|ne=TAG ?
+%ort:	あれ何ね ?
+*FAT:	akaiakai hata yo [% 4] .
+%ort:	赤い赤い旗よ .
+*FAT:	hirahira shiteru ne [% 5] .
+%ort:	ヒラヒラしてるね .
+*CHI:	un [% 6] .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+@Comment:	gozen9:30sugi. doozenchichitosamponidete , kogata3rinsha
+	batabata ga , akaihata o tsuketehashitteiruno o mite ,
+	chichiga , 2#noyooniiuto , 3#noyoonikiki , 4-5#noyooniiuto ,
+	unazuku.
+@G:	2-0018A
+*CHI:	bachu@u [: basu] kita yo [% 1] .
+%xmor:	n|basu=bus v:ir|ku-PAST=come ptl:fina|yo=ASSERT .
+%ort:	バチュ来たよ .
+*FAT:	ikutsu ?
+%ort:	いくつ ?
+*CHI:	futaachu@u [: futatsu] .
+%xmor:	num:cl|futa-tsu_PIECE=two .
+%ort:	ふたーちゅ .
+@Comment:	gozen9:30sugi. doozen. chichitosamponidete , Misasabashi o
+	wata rubasu pachu o mite , jibunkara , 1#noyooni ,
+	chichiniiu. chi chigadaisuu o kikuto , futatsu futaachu
+	tokotaeru.
+*CHI:	hyuppoopoo@u [: shuppoppo] tta [: itta] [= say] yo .
+%xmor:	n:mot|shuppoppo=locomotive v:c|iw-PAST=say ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	ヒュッポーポーったよ .
+@Comment:	gozen9:30sugi. doozen. chichitosamponidete , Misasabashi o
+	wata ruressha hyuppoo ga , watariowatte , kiteki o narasuto
+	, sugunimanete , chichiniiu.
+*CHI:	hatopoppo .
+%xmor:	n:mot|+n|hato+onoma|poppo=dove .
+%add:	FAT
+%ort:	ハトポッポ .
+@Comment:	gozen9:30sugi. doozen. chichitosamponidete ,
+	tsutsuminotokoroka rakawanooe o tobuhakuchoo o mite ,
+	yubisashitekonoyooniiu.
+*CHI:	hayai [/] hayai .
+%xmor:	adj|haya-PRES=fast .
+%add:	SLF
+%ort:	早い早い .
+@Comment:	gozen9:30sugi. doozen. chichitosamponiittenokaeri , sukee
+	toninotte , jibunde , konoyooniiu.
+*FAT:	hayo ikoo ne .
+%ort:	早よ行こうね .
+*CHI:	hai [: hayo] ikoo ne nai [*] .
+%xmor:	adv|hayo=fast v:c|ik-HORT=go ptl:fina|ne=TAG v:ir|ar&NEG-PRES=be .
+%ort:	はい行こうねない .
+@Comment:	gozen9:30sugi. doozen. chichitosamponiittenokaeri ,
+	chichiga 1#noyooniitte , sokusuto , sugu ,
+	2#noyoonihiteesuru.
+*FAT:	hibari doo itta no [% 1] ?
+%ort:	ひばりどういったの ?
+*CHI:	chuchuchu@o tta@u [: itta] [% 2] .
+%xmor:	onoma|chuchuchu v:c|iw-PAST=say .
+%ort:	チュチュチュった .
+*CHI:	piichiku@o [/] piichiku@o tta [: itta] [% 3] .
+%xmor:	onoma|piichiku v:c|iw-PAST=say .
+%add:	FAT
+%ort:	ピーチクピーチクった .
+@G:	2-0018B
+@Comment:	gozen10jimae. sampokarakaette , chichiga , sampotojoonohi
+	barinitsuitekikuto , 2#noyoonikotae , sore o kaadonitotteiru
+	to , 3#noyooniittekuru.
+*FAT:	chinchin [= sukeeto] no okku [= abura] yo [% 1] .
+%ort:	チンチンのおっくよ .
+*CHI:	chinchin okku [= sukeeto no abura] .
+%xmor:	n:mot|chinchin=sukeeto n:mot|okku=medicine .
+%ort:	チンチンおっく .
+@Comment:	gozen10jizugi. sampokarakaette , sukeeto chinchin ni , a
+	bura okku o yatteite , chichiga , 1#noyooniiuto , manetee u.
+*CHI:	Tootooobachan ‡ angya [: anga] choodai .
+%xmor:	n:prop|Tootoo-oba_AUNT-chan_FAM=Hamamoto tag|voc
+	n:vn:mot|anga=get_up v:ir|choodai&IMP=give .
+%ort:	とうとおばちゃん, あんぎゃ頂戴 .
+*CHI:	Tootooobachan ‡ shikko choodai .
+%xmor:	n:prop|Tootoo-oba_AUNT-chan_FAM=Hamamoto tag|voc
+	n:vn:mot|shikko=urinating v:ir|choodai&IMP=give .
+%add:	Hamamoto no obasan
+%ort:	とうとおばちゃん, しっこ頂戴 .
+@Comment:	gozen10jisugi. otonarinoHamamoto no obasan tootooobacha n
+	gaienikorareruto , dakko angya shite , shikkosasete shikko
+	natoto , amaeteeu.
+*CHI:	bachu@u [: basu] ga .
+%xmor:	n|basu=bus ptl:case|ga=NOM .
+%ort:	バチュが .
+*CHI:	itta .
+%xmor:	v:c|ik-PAST=go .
+%add:	MOT
+%ort:	行った .
+@Comment:	gozen10:30mae. madokaramiteete , mukoonogairo o , basu ba
+	chu gatooruto , hahaniiu. 1#to2#tonoaidani , shibarakumaga
+	aru.
+*CHI:	booru .
+%xmor:	n|booru=ball .
+%add:	FAT
+%ort:	ボール .
+@Comment:	gozen10:30mae. omochabakokara , hisashiburini , booru o
+	mitsu kete , iu. 'ru' wa , kasukanihibiku.
+*CHI:	boku churu@u [: suru] .
+%xmor:	n:deic:prs|boku=i_MASC v:ir|su-PRES=do .
+%add:	FAT
+%ort:	僕ちゅる .
+@Comment:	gozen11jisugi. benjonotonochootsugainokugi o naosootoshi te
+	, kanazuchi o motte , jibundeshiyootoshiteeu.
+*CHI:	kachin [% SLF] .
+%xmor:	n|ka-chin=mosquito_FAM .
+%ort:	カチン .
+@G:	2-0019A
+@Comment:	gogo1ji. chuushokugo , chichinochawanga , nabeni ,
+	kachintoa tattano o kiite , suguniiu.
+*CHI:	aachan@u [: Akachan] [*] batabata churu@u [: suru] yo .
+%xmor:	n:prop|Akachan n:vn:onoma|batabata=bustle v:ir:sub|su-PRES=do
+	ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃんバタバタちゅるよ .
+@Comment:	gogo2:30. shoojinoyaburega , kazeninaru batabata no o
+	akachan aachan , otooto , Teruki nihanashikakeruyooni ,
+@Comment:	chichiniombushiteeteeu.
+*CHI:	aachan@u [: Akachan] [*] bakka@u [: makura] choodai [% 1] .
+%xmor:	n:prop|Akachan n|makura=pillow v:ir|choodai&IMP=give .
+%add:	MOT
+%ort:	ああちゃんばっか頂戴 .
+@Comment:	interval
+*CHI:	aachan@u [: Akachan] [*] bakka@u [: makura] choodai to yo [% 2] .
+%xmor:	n:prop|Akachan n|makura=pillow v:ir|choodai&IMP=give
+	ptl:quot|to=QUOT ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ああちゃんばっか頂戴とよ .
+*CHI:	aachan@u [: Akachan] [*] bakka@u [: makura] choodai choo@u
+	[: shiyoo] yo [% 3] .
+%xmor:	n:prop|Akachan n|makura=pillow v:ir|choodai&IMP=give
+	v:ir|su-HORT=do ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ああちゃんばっか頂戴ちょうよ .
+@Comment:	gogo3jisugi. Akachan aachan , otooto , Teruki o , ma kura
+	bakka nashide , tataminooeninekaseteiruto , suguni , 1
+	#noyooni ii , tsuzuite , 3#noyooni , hahaniiu. 2#ha , asa ,
+	ittamonodearu.
+*CHI:	aachan@u [: Akachan] [*] boochi@u [: booshi] yo .
+%xmor:	n:prop|Akachan n|booshi=hat ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃんぼうちよ .
+*CHI:	aachan@u [: Akachan] [*] boochi@u [: booshi] ii ne .
+%xmor:	n:prop|Akachan n|booshi=hat adj|i-PRES=good ptl:fina|ne=TAG .
+%add:	MOT
+%ort:	ああちゃんぼうちいいね .
+@Comment:	gogo3jisugi. hahaga , akachan aachan , otooto , Teruki ni ,
+	booshi boochi o dashiteiruto , 1#noyooniotootoniii ,
+	2#noyooni , hahaniiu.
+*CHI:	aachan@u [: Akachan] [*] sembee yo .
+%xmor:	n:prop|Akachan n|sembee=rice_cracker ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃんせんべいよ .
+@Comment:	gogo3jisugi. hahato , osembee sembee o kattekite , aka chan
+	aachan , otooto , Teruki nimiseteeu.
+*CHI:	koko yabeta@u [: yabureta] .
+%xmor:	n:deic:dem|koko=here v:v|yabure-PAST=tear .
+%ort:	ここやべた .
+*CHI:	koko yabeta@u [: yabureta] yo .
+%xmor:	n:deic:dem|koko=here v:v|yabure-PAST=tear ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ここやべたよ .
+@Comment:	gogo3jisugi. tabinoyaburetaanani , yubi o irete ,
+	hahanishimeshi te , kokoga , yabureta yabeta toiu.
+@G:	2-0019B
+*MOT:	chinchin de asobu ?
+%ort:	チンチンで遊ぶ ?
+*CHI:	chinchin de ommo atoba@u [: asoboo] .
+%xmor:	n:mot|chinchin=skates ptl:post|de=LOC n:mot|ommo=outside
+	v:c|asob-HORT=play .
+%ort:	チンチンでおんもあとば .
+@Comment:	gogo3jisugi. hahagaiuto , sukeeto chinchin de , kogai o mmo
+	de , asobuyo atoba toiu.
+*CHI:	boku akko@u [: dakko] churu@u [: suru] .
+%xmor:	n:deic:prs|boku=i_MASC n:vn:mot|dakko=embracing v:ir:sub|su-PRES=do
+	.
+%add:	SLF
+%ort:	僕あっこちゅる .
+@Comment:	gogo4jikoro. otonarinoseejikunga , korondenaiteiruto , ho
+	kuga , dakko akko surutoitte , sobaniitte , dAkiokosoo
+	tosuru.
+*CHI:	jiin@o .
+%xmor:	onoma|jiin .
+%add:	SLF
+%ort:	ジーン .
+@Comment:	gogo4jisugi. hahagaokome o fukuroniutsushiteiruoto jiin o
+	kiite , iu.
+*CHI:	chuuchuusan ga koton .
+%xmor:	n:mot|chuuchuu-san_HON=mouse ptl:case|ga=NOM onoma|koto .
+%ort:	チューチューさんがコトン .
+*FAT:	chuuchuusan janai no .
+%ort:	チューチューさんじゃないの .
+*FAT:	okaze yo .
+%ort:	お風よ .
+*CHI:	okaze koton .
+%xmor:	o_HON#n|kaze=wind onoma|koto .
+%ort:	お風コトン .
+@Comment:	gogo4jisugi. kazenotameni , rumadonoshoojiganaruto , nezumi
+	chuuchuusan ga , oto o taterutoiu. sorede , chichiga , 2-3
+	#noyooni , kazedatoiuto , 4#noyooniiu.
+*CHI:	yooidon yuuta yo .
+%xmor:	co:g|yooidon=ready_set_go v:c|yuw-PAST=say ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	ヨーイドン言うたよ .
+@Comment:	gogo5:30koro. daidokoroniite , kitagawanorojoodeasobukin
+	rinnokodomoraga , itteruno o kiite , hahaniiu.
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan@u [: niichan] kita yo .
+%xmor:	n:prop|Akachan tag|voc n|nii-chan_FAM=brother v:ir|ku-PAST=come
+	ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃん, いいちゃん来たよ .
+@Comment:	gogo7:30koro. akachan aachan , otooto , Teruki nokota
+	tsunikite , niichan iichan kitayotoiu.
+@G:	2-0020A
+*CHI:	batambatan [= mishin] nai ne .
+%xmor:	n:mot|batambatan=seesaw v:ir|ar&NEG-PRES=be ptl:fina|ne=TAG .
+%ort:	バタンバタンないね .
+*CHI:	kuukuu [: kurukuru] shuru@u [: suru] yo .
+%xmor:	onoma|kurukuru v:ir|su-PRES=do ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	クークーしゅるよ .
+@Comment:	gogo7:30sugi. mishinnofumiita o batambatan batambatan i
+	waseruno o yamete , kuruma o , kurukuru kuu kuu mawasuyotoi
+	u.
+*CHI:	aachan@u [: Akachan] [*] batanbatan@o shuru@u [: suru] ne .
+%xmor:	n:prop|Akachan onoma|batanbatan v:ir|su-PRES=do ptl:fina|ne=TAG .
+%add:	TER
+%ort:	ああちゃんバタンバタンしゅるね .
+@Comment:	gogo8jimae. akachan aachan , otooto , Teruki toiq
+	shonifutonnihaitteite , shibarakusuruto , okidashite ,
+	mishin nofumiita o batambatan batambatan sase , kuruma o
+	mawashite asobu.
+@Comment:	Teruki Brother , OTH OtherPerson
+@Date:	15-MAR-1950
+@Comment:	2;00.06
+@G:	2-0020A
+*CHI:	Tootooobachan ‡ tamatama choodai i [: e] ikoo ne .
+%xmor:	n:prop|Tootoo-oba_AUNT-chan_FAM=Hamamoto tag|voc n:mot|tamatama=egg
+	v:ir|choodai&IMP=give ptl:post|e=LAT v:c|ik-HORT=go ptl:fina|ne=TAG
+	.
+%add:	MOT
+%ort:	とうとおばちゃん, たまたま頂戴行こうね .
+@Comment:	gozen7jisugi. kishooshite , daidokoronohahanomotoniiki , yo
+	dominaku , konoyooniiu. otonarinoHamamoto no obasan
+	Tootooobachan ni , tamago tamatama o , kainiikushuukanna
+	node , ittanodearu.
+*CHI:	hanchan [/] hanchan [= takusan] shita yo .
+%xmor:	n:mot|hanchan=much v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT .
+%ort:	はんちゃんはんちゃんしたよ .
+*CHI:	hanchan [/] hanchan [= takusan] shita yo „ chikko@u [: shikko] .
+%xmor:	n:mot|hanchan=much v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT
+	tag|disloc n:vn:mot|shikko=urinate .
+%add:	MOT
+%ort:	はんちゃん, はんちゃんしたよ, ちっこ .
+@Comment:	gozen7jisugi. kishooshite , hahanotokoroniiki , shikko chiq
+	ko o , takusan hanchan shitaatode , hahaniiu.
+*CHI:	chuun@o yuuta yo .
+%xmor:	onoma|chuun v:c|yuw-PAST=say ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	ちゅーん言うたよ .
+@Comment:	gozen8jimae. shichirinnikaketa , mezashiga , shuan chuun
+@G:	2-0020B
+@Comment:	toyakeruno o kiite , konoyooni , chichiniiu.
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan [: niichan] irai [: erai] yo .
+%xmor:	n:prop|Akachan tag|voc n|nii-chan_FAM=brother adj|era-PRES=eminent
+	ptl:fina|yo=ASSERT .
+%ort:	ああちゃん, いいちゃんいらいよ .
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan [: niichan] irai [: erai] yo .
+%xmor:	n:prop|Akachan tag|voc n|nii-chan_FAM=brother adj|era-PRES=eminent
+	ptl:fina|yo=ASSERT .
+%ort:	ああちゃん, いいちゃんいらいよ .
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan [: niichan] irai [: erai] yo .
+%xmor:	n:prop|Akachan tag|voc n|nii-chan_FAM=brother adj|era-PRES=eminent
+	ptl:fina|yo=ASSERT .
+%ort:	ああちゃん, いいちゃんいらいよ .
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan [: niichan] irai [: erai] yo .
+%xmor:	n:prop|Akachan tag|voc n|nii-chan_FAM=brother adj|era-PRES=eminent
+	ptl:fina|yo=ASSERT .
+%ort:	ああちゃん, いいちゃんいらいよ .
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan [: niichan] irai [: erai] yo .
+%xmor:	n:prop|Akachan tag|voc n|nii-chan_FAM=brother adj|era-PRES=eminent
+	ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃん, いいちゃんいらいよ .
+@Comment:	gozen8jimae. hitorideshokutakunitsuite , hahaga , akachan
+	aachan , otooto , Teruki noomutsu o kaeruaida , naite
+	iruakachannohoo o mite , oniichan iichan , erai irai yo
+	orikooshiteiruyo. to , kurikaeshite , otooto niiu.
+*CHI:	boku no ochowan [: ochawan] .
+%xmor:	n:deic:prs|boku=i_MASC ptl:attr|no=GEN o_HON#n|+n|cha+n|wan=tea_cup
+	.
+%ort:	僕のおちょわん .
+*CHI:	Kaachan no ochawan .
+%xmor:	n:prop|Kaachan=Mother_FAM ptl:attr|no=GEN
+	o_HON#n|+n|cha+n|wan=tea_cup .
+%add:	MOT
+%ort:	母ちゃんのお茶わん .
+@Comment:	gozen8jimae. choshokunotokiniiu. 'cho' wa , 'cha' to
+	ienakattanodearu.
+*CHI:	tsumetai no [* m] cha . [+ notrain]
+%xmor:	adj|tsumeta-PRES=cold ptl:attr|no=GEN n|cha=tea .
+%add:	MOT
+%ort:	冷たいの茶 .
+@Comment:	gozen8jisugi. atsuiochani , tsumetaiocha tsumetai no cha o
+	iretehoshiitokini , konoyooniiu.
+*MOT:	Obaachan kairu [: kaeru] kane(e) [% 1] ?
+%ort:	おばあちゃんかいるかね ?
+*CHI:	Baachan kairu [: kaeru] [% 2] .
+%xmor:	n:prop|Baachan=grandmother_FAM v:c|kaer-PRES=return .
+%ort:	ばあちゃんかいる .
+*CHI:	hitori kairu@u [: kaeru] [% 3] .
+%xmor:	num:cl|hito-ri_PERSON=one v:c|kaer-PRES=return .
+%ort:	一人かいる .
+*CHI:	ooochi [: ouchi] hitori kairu@u [: kaeru] [% 4] .
+%xmor:	o_HON#n|uchi=home num:cl|hito-ri_PERSON=one v:c|kaer-PRES=return .
+%add:	MOT
+%ort:	おおおち一人かいる .
+@Comment:	gozen8jisugi. hahaga , 1#noyoonikikuto , 2#noyooniitte ,
+	tsu gini , tsuzukete , 3-4 o iu. haruyasumininatte ,
+	sobonotokoroni kaerukotoga ,
+	chooshokujinowadaininattanodearu.
+*FAT:	ko:ko [% 1] .
+%ort:	こーこ .
+*FAT:	itte goran [% 2] .
+%ort:	言ってごらん .
+@G:	2-0021A
+*CHI:	ko:ko [% 3] .
+%xmor:	n:deic:dem|koko=here .
+%ort:	こーこ .
+*FAT:	ne wakatta [% 4] ?
+%ort:	ね分かった ?
+*CHI:	&=nod [% 5] .
+%ort:	(うなずく)
+@Comment:	gozen8jisugi. chooshokunotoki , chichiga , 1-2#noyooniiuto
+	, 3#noyoonikotaeru. nen o osuto , unazuku. 4-5bunnoyoona
+	reeha , chikagoro , mirareruyooninaru.
+*CHI:	ommo itte atoba@u [: asoboo] .
+%xmor:	n:mot|ommo=outside v:c|ik-CONN=go v:c|asob-HORT=play .
+%ort:	おんも行ってあとば .
+*CHI:	chinchi(n) [= sukeeto] shite atobaa@u [: asoboo] .
+%xmor:	n:mot|chinchin=skates v:ir|su-CONN=do v:c|asob-HORT=play .
+%add:	MOT
+%ort:	チンチンしてあとばー .
+@Comment:	gozen8:30. kogai ommo niitte , asobau atobe , atobaa ,
+	sukeeto chinchi de , asobau atobaa to , hahaniiu.
+*CHI:	Otoochan ‡ oorai pon suru yo .
+%xmor:	n:prop|Otoochan=HON_Father_FAM tag|voc co:g|oorai=alright
+	n:vn:mot|pon=throwing_ball v:ir:sub|su-PRES=do ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	お父ちゃん, オーライポンするよ .
+@Comment:	gozen8:30sugi. booru o motte , chichininageru. oorai pon .
+	'oorai' no 'ra' ka 'da' nikikoerutokimoaru.
+*CHI:	ameta@u [: yameta] yo .
+%xmor:	v:v|yame-PAST=stop ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	あめたよ .
+@Comment:	gozen8:30sugi. onabenofuta o mawashite , sorega ,
+	mawariyameruto , yameta ameta yotoiu. 'a' wa , 'ya'
+	toienaide , konoyo unihibiita.
+*OTH:	Sumiharechan ‡ koko ni oide [% 1] .
+%add:	Hamamoto no ojisan
+%ort:	スミハレちゃん, ここにおいで .
+*CHI:	kita yo .
+%xmor:	v:ir|ku-PAST=come ptl:fina|yo=ASSERT .
+%add:	UHA
+%ort:	来たよ .
+@Comment:	gozen10:30mae. otonarinoHamamoto no ojisanga , 1#noyoonii
+	uto , ojisannoochiheette , konoyooniiu.
+*CHI:	mata angya@u [: anga] suru .
+%xmor:	adv|mata=again n:vn:mot|anga=get_up v:ir:sub|su-PRES=do .
+%add:	MOT
+%ort:	またあんぎょする .
+@Comment:	gozen10:30koro. otonari no Hamamotosan tokorodeasondeita
+@G:	2-0021B
+@Comment:	ga , hahatokaimononiitta. kaettekuruto , mata , hamamotosan
+	nooochinoheyani , agaru angya suru toitte , hamamotosa
+	nkataheeku. 'gya' wa , 'ga' ga , konoyoonikikoeta.
+*CHI:	hayai yo .
+%xmor:	adj|haya-PRES=fast ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	早いよ .
+@Comment:	gozen11jikoro. hahatopan o kainiikunoni , sukeetoninottei
+	ki , asufarutonooe o subette , konoyooni , hahaniiu.
+*CHI:	meemeechan yo .
+%xmor:	n:mot|meemee-chan_FAM=sheep ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	メイメイちゃんよ .
+@Comment:	gozen11jikoro. zuttomaeni , yagi meemeechan nokotogao
+	shieteatta. hahatotomoni , motomachinosumiyasannohooheekuto
+	chuu , yagi o mikakete , konoyooni , hahaniiu.
+*MOT:	ippen kaeroo [% 1] .
+%ort:	いっぺん帰ろう .
+*CHI:	ippen kaeroo nai [% 2] [*] .
+%xmor:	adv|ippen=one_time v:c|kaer-HORT=return v:ir|ar&NEG-PRES=be .
+%ort:	いっぺん帰ろうない .
+@Comment:	hirukoro , sukeetodeasondeete , nakanakaienikaerootoshina
+	inode , hahaga , 1#noyooniiuto , suguni , 2#noyooniitte , ka
+	erootoshinai.
+*CHI:	Toochan ‡ benjo no to ga hazuriteru@u [: hazureteru] yo .
+%xmor:	n:prop|Toochan=Father_FAM tag|voc n|benjo=lavatory ptl:attr|no=GEN
+	n|to=door ptl:case|ga=NOM v:v|hazure-ASP-PRES=get_out_of_place
+	ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	父ちゃん, 便所の戸がはずりてるよ .
+@Comment:	gogo1jimae. benjonotoga , hazureteru hazuriteru to ,
+	chichini shirasenikiteeu. 'ga' wa , kasukanikikoeru.
+*TER:	uu .
+%add:	SLF
+%ort:	うう .
+*CHI:	uu@q itta yo „ aachan@u [: Akachan] [*] ga .
+%xmor:	meta|uu v:c|iw-PAST=say ptl:fina|yo=ASSERT tag|disloc
+	n:prop|Akachan ptl:case|ga=NOM .
+%add:	FAT
+%ort:	うう言ったよ, ああちゃんが .
+@Comment:	gogo1jisugi. madobedeasondeete , Akachan aachan , o tooto ,
+	Teruki ga , 'uu' toiuno o kiite , suguni , chichinii u.
+@G:	2-0022A
+*MOT:	wan tsuu no surii .
+%ort:	ワンツーのスリー .
+*CHI:	man@u [: one@s] chuu@u [: two@s] no tsuu [: two@s] [% 2] .
+%xmor:	L2eng|one L2eng|two ptl:attr|no=GEN L2eng|two .
+%ort:	マンチューのツー .
+*CHI:	pan@u [: one@s] chuu@u [: two@s] no surii [: three@s ] [% 3] .
+%xmor:	L2eng|one L2eng|two ptl:attr|no=GEN L2eng|three .
+%ort:	パンチューのスリー .
+@Comment:	gogo1:30. hahanomane o shite , 2-3#noyooniiu.
+*MOT:	maa abunai yo .
+%ort:	まあ危ないよ .
+*CHI:	maa abunai yo .
+%xmor:	co:i|maa=dear_me adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT .
+%ort:	まあ危ないよ .
+@Comment:	gogo1:30sugi. hahagaiuno o , maneteeu.
+*CHI:	guuguu churu@u [: suru] yo .
+%xmor:	onoma|guuguu v:ir|su-PRES=do ptl:fina|yo=ASSERT .
+%add:	MOT
+%ort:	グーグーちゅるよ .
+@Comment:	gogo2jimae. mishinnoshitanomushi o , guruguru guuguu ugoka
+	shite , iu.
+*CHI:	batambatan aa hayai [/] hayai .
+%xmor:	n:mot|batambatan=seesaw co:i|aa=ah adj|haya-PRES=fast .
+%ort:	バタンバタンああ早い早い .
+*CHI:	aa ameta [: yameta] .
+%xmor:	co:i|aa=ah v:v|yame-PAST=stop .
+%add:	MOT
+%ort:	あああめた .
+@Comment:	gogo2jimae. mishinnoshitanokuruma o , patampatan batampata
+	n mawashite , 1-2#noyooniiu. kurumaga , mawariyameru yamu to
+	, yameta a@meta toiu.
+*CHI:	kakko [= geta] eeee shita .
+%xmor:	n:mot|kakko=shoe n:vn:mot|eeee=cleaning v:ir:sub|su-PAST=do .
+%add:	MOT
+%ort:	かっこええええした .
+*CHI:	kotchi eeee choodai [% 2] .
+%xmor:	n:deic:dem|kotchi=here n:vn:mot|eeee=cleaning v:ir|choodai&IMP=give
+	.
+%add:	getayasan
+%ort:	こっちええええ頂戴 .
+@Comment:	gogo3:30koro. furuigeta kakko ni , o o tatete morau eee:
+	shita to , sugusore o haite , imahaiteirugeta kotchi o
+	deshite , getayasanni , 2#noyooniiu.
+*CHI:	aachan@u [: Akachan] [*] ‡ iichan [: Niichan] nenne shita yo .
+%xmor:	n:prop|Akachan tag|voc n:prop|Niichan n:vn:mot|nenne=sleeping
+	v:ir:sub|su-PAST=do ptl:fina|yo=ASSERT .
+%add:	TER
+%ort:	ああちゃん, いいちゃん寝んねしたよ .
+@Comment:	gogo4jisugi. akachan aachan , otooto , Teruki nosoba nikite
+	, futonnonakanihaitte , niichan iichan ha , ne nneshitayoto
+	, akachannimukatteiu.
+@G:	2-0022B
+*CHI:	uu@q itta yo .
+%xmor:	meta|uu v:c|ik-PAST=go ptl:fina|yo=ASSERT .
+%add:	FAT
+%ort:	うう行ったよ .
+@Comment:	gogo8ji. sairenganaruto , sonoshuumatsunotokoro o , yokuyoo
+	o mottetoraeru.
+*CHI:	teen@o .
+%xmor:	onoma|teen .
+%add:	SLF
+%ort:	テーン .
+@Comment:	gogo9jimae. yakannofuta o motte , hibachinofuchi o tataki ,
+	sono oto teen o , mizukaraiu.
+*CHI:	deiro [: deyoo] [*] .
+%xmor:	v:v|de-HORT=get_out .
+%ort:	でいろ .
+*CHI:	deiro [: deyoo] [*] .
+%xmor:	v:v|de-HORT=get_out .
+%ort:	でいろ .
+*CHI:	deiro [: deyoo] [*] .
+%xmor:	v:v|de-HORT=get_out .
+%add:	FAT
+%ort:	でいろ .
+@Comment:	gogo9jisugi. chichitoofuton o kabutteite , sorekara , deyoo
+	deiro toshite , konoyooniiu.
+*CHI:	ohashi nainai chuu@u [: suru] no .
+%xmor:	o_HON#n|hashi=chopsticks n:vn:mot|nainai=allgone
+	v:ir:sub|su-PRES=do n:fml|no=QUD .
+%add:	FAT
+%ort:	お箸ないないちゅーの .
+@Comment:	gogo9jisugi. ohashinopappa o nainaisurutoitte , daidokoro
+	hemotteiku. ohashi o , yakannokuchinisashikonde ,
+	yugegatatsuno o , tabako pappa nimitatete , itteita.
+*MOT:	otto abunai yo .
+%ort:	おっと危ないよ .
+*CHI:	otto abunai yo .
+%xmor:	co:i|ottotto=oops adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT .
+%ort:	おっと危ないよ .
+@Comment:	gogo9:30mae. chichinisugatteite , hanareyootosuruyoosu o
+	mite , hahaga , 1#noyoonichuuisuruto , sonomamamanete , iu.
+*CHI:	hayai ne .
+%xmor:	adj|haya-PRES=fast ptl:fina|ne=TAG .
+%add:	SLF
+%ort:	早いね .
+@Comment:	gogo9:30. mishinnoshitanokuruma o mawashinagara ,
+	konoyooniiu.
+@Comment:	OtherPerson
+@End

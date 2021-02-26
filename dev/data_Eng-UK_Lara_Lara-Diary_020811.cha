@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/c-00017979-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;08.11|female|||Target_Child|||
+@Date:	27-JAN-1997
+@Comment:	Mum Dad Grandma and Grandad
+@Types:	long, everyday, TD
+*CHI:	what he ?
+%mor:	pro:int|what pro:sub|he ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	where (i)s More_Dadaw coming ?
+%mor:	pro:int|where aux|be&3S n:prop|More_Dadaw part|come-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where (ha)s Daddy gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|Daddy part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	who (ha)s gone toilet ?
+%mor:	pro:rel|who aux|have&3S part|go&PASTP n|toilet ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+@Comment:	Mum and Dad to work
+*CHI:	what you got on your dinner ?
+%mor:	pro:int|what pro:per|you v|get&PAST prep|on det:poss|your n|dinner
+	?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	what you got on your dinner ?
+%mor:	pro:int|what pro:per|you v|get&PAST prep|on det:poss|your n|dinner
+	?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	why he gone home ?
+%mor:	pro:int|why pro:sub|he part|go&PASTP n|home ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	what about giraffe ?
+%mor:	pro:int|what prep|about n|giraffe ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	where (i)s all the animals ?
+%mor:	pro:int|where cop|be&3S qn|all det:art|the n|animal-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|PRED 6|2|PUNCT
+*CHI:	what about these ?
+%mor:	pro:int|what prep|about pro:dem|these ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	why it right now ?
+%mor:	pro:int|why pro:per|it adv|right adv|now ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|JCT 4|2|JCT 5|1|PUNCT
+%com:	after why what
+*CHI:	what you doing ?
+%mor:	pro:int|what pro:per|you part|do-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@Comment:	Mum and Dad back
+*CHI:	where (i)s my cough medicine .
+%mor:	pro:int|where cop|be&3S det:poss|my n|cough n|medicine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	where (ha)s my Daddy gone ?
+%mor:	pro:rel|where v|have&3S det:poss|my n:prop|Daddy part|go&PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*CHI:	what about that spoon ?
+%mor:	pro:int|what prep|about det:dem|that n|spoon ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	why they got no clothes on ?
+%mor:	pro:int|why pro:sub|they v|get&PAST qn|no n:pt|clothes adv|on ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%com:	after why what
+*CHI:	where (i)s our sister ?
+%mor:	pro:int|where cop|be&3S det:poss|our n|sister ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	where (i)s our sister ?
+%mor:	pro:int|where cop|be&3S det:poss|our n|sister ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	why it hot ?
+%mor:	pro:int|why pro:per|it adj|hot ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*CHI:	where (ha)s her face gone ?
+%mor:	pro:rel|where aux|have&3S det:poss|her n|face part|go&PASTP ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%com:	sleeping beauty reading
+@End

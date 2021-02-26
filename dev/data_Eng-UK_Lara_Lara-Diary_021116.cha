@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/c-00018072-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Lara Target_Child
+@ID:	eng|Lara|CHI|2;11.16|female|||Target_Child|||
+@Date:	01-MAY-1997
+@Comment:	Mum Dad Grandma Grandad
+@Types:	long, everyday, TD
+*CHI:	what are you doing ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	why don't I help you ?
+%mor:	pro:int|why mod|do~neg|not pro:sub|I v|help pro:per|you ?
+%gra:	1|5|JCT 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	what is that funny noise ?
+%mor:	pro:int|what cop|be&3S det:dem|that adj|fun&dn-Y n|noise ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	how about I have my sippers ?
+%mor:	pro:int|how adv|about pro:sub|I v|have det:poss|my n|sip&dv-AGT-PL
+	?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	what are you doing with that cloth ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|do-PRESP prep|with
+	det:dem|that n|cloth ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	which one do you like , More_Dadaw ?
+%mor:	pro:rel|which det:num|one mod|do pro:per|you co|like cm|cm
+	n:prop|More_Dadaw ?
+%gra:	1|4|LINK 2|4|QUANT 3|4|AUX 4|7|SUBJ 5|4|COM 6|4|LP 7|0|ROOT 8|7|PUNCT
+*CHI:	what did you bought [*] , Daddy ?
+%mor:	pro:int|what mod|do&PAST pro:per|you v|buy&PAST cm|cm n:prop|Daddy
+	?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|ENUM 7|4|PUNCT
+*CHI:	where has your drink gone ?
+%mor:	pro:rel|where aux|have&3S det:poss|your n|drink part|go&PASTP ?
+%gra:	1|5|LINK 2|5|AUX 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	where did he landed [*] ?
+%mor:	pro:int|where mod|do&PAST pro:sub|he v|land-PAST ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	where did this go ?
+%mor:	pro:rel|where mod|do&PAST det:dem|this v|go ?
+%gra:	1|4|LINK 2|4|AUX 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CHI:	where (ha)s More_Dadaw gone ?
+%mor:	pro:rel|where aux|have&3S n:prop|More_Dadaw part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what (i)s Sarah going to do ?
+%mor:	pro:int|what aux|be&3S n:prop|Sarah part|go-PRESP inf|to v|do ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+@End

@@ -1,0 +1,3249 @@
+@UTF8
+@PID:	11312/c-00009177-1
+@Begin
+@Languages:	jpn, eng
+@Participants:	CHI Akifumi Target_Child , MOT Okaasan Mother , REE Ree
+	Brother , SUZ Suuze Investigator
+@ID:	jpn|Miyata|CHI|2;09.07|male|||Target_Child|||
+@ID:	jpn|Miyata|MOT|||||Mother|||
+@ID:	jpn|Miyata|REE|||||Brother|||
+@ID:	jpn|Miyata|SUZ|||||Investigator|||
+@Date:	04-JUL-1990
+@Comment:	Wakachi2002v8, JMOR08 ;
+@Warning:	recorded time 1:00:00
+@Situation:	playing with selfmade newspaper
+@Types:	long, toyplay, TD
+*MOT:	hai shimbun yomoo ?
+%xmor:	co:i|hai=yes n|shimbun=newspaper v:c|yom-HORT=read ?
+%cod:	$Q
+%ort:	はい新聞読もう ?
+*MOT:	hai Okaasan shimbun yonda .
+%xmor:	co:i|hai=yes n:prop|Okaasan=HON_Mother_HON n|shimbun=newspaper
+	v:c|yom-PAST=read .
+%ort:	はいお母さん新聞読んだ .
+*MOT:	Akichan mo shimbun yomu ?
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:foc|mo=ADD n|shimbun=newspaper
+	v:c|yom-PRES=read ?
+%cod:	$Q
+%ort:	アキちゃんも新聞読む ?
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%act:	looking at picture book (Looking for Wally)
+%ort:	嫌 .
+*MOT:	chotto shimbun wa muzukashii kara ?
+%xmor:	adv|chotto=a_bit n|shimbun=newspaper ptl:top|wa=TOP
+	adj|muzukashi-PRES=difficult ptl:conj|kara=because ?
+%cod:	$Q
+%ort:	ちょっと新聞は難しいから ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	soo ne .
+%xmor:	adv:deic:dem|soo=like_that ptl:fina|ne=TAG .
+%act:	taking book
+%ort:	そうね .
+*MOT:	saisho kara yomoo ka ?
+%xmor:	n|saisho=first ptl:post|kara=ABL v:c|yom-HORT=read ptl:fina|ka=Q ?
+%cod:	$Q $FIN
+%act:	turns pages
+%ort:	最初から読もうか ?
+*CHI:	jibun de yomu .
+%xmor:	n:deic:prs|jibun=self v:cop|de&CONN=be v:c|yom-PRES=read .
+%ort:	自分で読む .
+*CHI:	jibun de yomu .
+%xmor:	n:deic:prs|jibun=self v:cop|de&CONN=be v:c|yom-PRES=read .
+%act:	turns pages back to the page he looked at before
+%ort:	自分で読む .
+*MOT:	jibun de yomu no ?
+%xmor:	n:deic:prs|jibun=self v:cop|de&CONN=be v:c|yom-PRES=read
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	自分で読むの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*MOT:	oshiete „ ohanashi .
+%xmor:	v:v|oshie-IMP:te=teach tag|disloc o_HON#n|hanashi=story .
+%ort:	教えてお話 .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	tʃijau .
+*CHI:	Okaasan shimbun .
+%xmor:	n:prop|Okaasan=HON_Mother_HON n|shimbun=newspaper .
+%ort:	お母さん新聞 .
+*MOT:	a Okaasan shimbun yomu no ?
+%xmor:	co:i|aq=ah n:prop|Okaasan=HON_Mother_HON n|shimbun=newspaper
+	v:c|yom-PRES=read n:fml|no=QUD ?
+%cod:	$Q
+%ort:	あお母さん新聞読むの ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	a !
+%xmor:	co:i|aq=ah !
+%gpx:	pointing picture
+%ort:	あ !
+*CHI:	yane kara otʃitekijata [: ochite kichatta] .
+%xmor:	n|yane=roof ptl:post|kara=ABL v:v|ochi-CONN=fall
+	v:ir:sub|ku-COMPL-PAST=come .
+%ort:	屋根からotʃitekijata .
+*MOT:	ochite kita ne „ pyon@o .
+%xmor:	v:v|ochi-CONN=fall v:ir:sub|ku-PAST=come ptl:fina|ne=TAG tag|disloc
+	onoma|pyon .
+%ort:	落ちて来たねピョン .
+*CHI:	a ame ga futteta .
+%xmor:	co:i|aq=ah n|ame=rain ptl:case|ga=NOM v:c|fur-ASP-PAST=rainfall .
+%gpx:	pointing
+%ort:	あ雨が降ってた .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	hee &=laugh .
+%xmor:	co:i|hee=indeed .
+%exp:	Aki turns page cautiously , hiding book
+%ort:	ヒー(笑) .
+*CHI:	&=laugh .
+%ort:	(笑) .
+*MOT:	hitori de yonderu no ?
+%xmor:	num:cl|hito-ri_PERSON=one v:cop|de&CONN=be v:c|yom-ASP-PRES=read
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	一人で読んでるの ?
+*CHI:	Reechan okichatta no naa „ koko de ?
+%xmor:	n:prop|Ree-chan_FAM=Ree v:v|oki-COMPL-PAST=get_up n:fml|no=QUD
+	ptl:fina|naa=TAG tag|disloc n:deic:dem|koko=here ptl:post|de=LOC ?
+%cod:	$Q
+%gpx:	pointing window
+%exp:	in the piano room behind the other window which also goes onto the
+	balcony , Ree is sleeping
+%ort:	レイちゃん起きちゃったのなあここで ?
+*MOT:	Reechan okitenai yo .
+%xmor:	n:prop|Ree-chan_FAM=Ree v:v|oki-ASP-NEG-PRES=get_up
+	ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	レイちゃん起きてないよ .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%gpx:	pointing behind himself
+%ort:	tʃijau .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	tʃijau .
+*CHI:	atchi de yatt(e) aru no „ Reechan o atama been@o tte .
+%xmor:	n:deic:dem|atchi=over_there ptl:post|de=LOC v:c|yar-CONN=do
+	v:ir:sub|ar-PRES=be n:fml|no=QUD tag|disloc n:prop|Ree-chan_FAM=Ree
+	ptl:case|o=ACC n|atama=head onoma|been ptl:quot|tte=QUOT .
+%act:	kicking with his foot
+%ort:	あっちでやったるのレイちゃんを頭ビーンって .
+*MOT:	Reechan no atama o ?
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:attr|no=GEN n|atama=head ptl:case|o=ACC
+	?
+%cod:	$Q
+%ort:	レイちゃんの頭を ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	ashi de been@o tte yatta no ?
+%xmor:	n|ashi=foot ptl:post|de=LOC onoma|been ptl:quot|tte=QUOT
+	v:c|yar-PAST=do n:fml|no=QUD ?
+%cod:	$Q
+%ort:	足でビーンってやったの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	kawaisoo .
+%xmor:	n:an|kawaisoo=pitiable .
+%ort:	可哀想 .
+*SUZ:	Reechan nani yutta ?
+%ort:	レイちゃん何言った ?
+*CHI:	gomennasai tte: .
+%xmor:	co:g|gomennasai=sorry ptl:quot|tte=QUOT .
+%ort:	ゴメンナサイってー .
+*SUZ:	Reechan ga ?
+%ort:	レイちゃんが ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	tʃijau .
+*CHI:	Akichan ga .
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:case|ga=NOM .
+%ort:	アキちゃんが .
+*SUZ:	Akichan ga ?
+%ort:	アキちゃんが ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*SUZ:	Reechan wa nani yutta ?
+%ort:	レイちゃんは何言った ?
+*CHI:	futatʃu [: futatsu] yutta „ Reechan to .
+%xmor:	num:cl|futa-tsu_PIECE=two v:c|yuw-PAST=say tag|disloc
+	n:prop|Ree-chan_FAM=Ree ptl:post|to=COMT .
+%gpx:	holds up 2 fingers
+%ort:	ふたちゅ言ったレイちゃんと .
+*CHI:	a !
+%xmor:	co:i|aq=ah !
+%act:	turns pages
+%ort:	あ !
+*SUZ:	futatsu nani ?
+%ort:	二つ何 ?
+*CHI:	gomennasai tte .
+%xmor:	co:g|gomennasai=sorry ptl:quot|tte=QUOT .
+%ort:	ゴメンナサイって .
+*SUZ:	++ yutta ?
+%ort:	言った ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	turning pages
+%ort:	うん .
+*MOT:	hitori de yomu no ?
+%xmor:	num:cl|hito-ri_PERSON=one v:cop|de&CONN=be v:c|yom-PRES=read
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	一人で読むの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	hee .
+%xmor:	co:i|hee=indeed .
+%tim:	0:03:00
+%ort:	へえ .
+*MOT:	xxx ga kita kanaa ?
+%xmor:	ptl:case|ga=NOM v:ir|ku-PAST=come ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	xxxが来たかなあ ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	doko kara ?
+%xmor:	n:deic:wh|doko=where ptl:post|kara=ABL ?
+%cod:	$Q
+%ort:	どこから ?
+*MOT:	osora kara .
+%xmor:	o_HON#n|sora=sky ptl:post|kara=ABL .
+%ort:	お空から .
+*MOT:	hitori de yomu no ?
+%xmor:	num:cl|hito-ri_PERSON=one v:cop|de&CONN=be v:c|yom-PRES=read
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	一人で読むの ?
+*CHI:	Okaasan yonde .
+%xmor:	n:prop|Okaasan=HON_Mother_HON v:c|yom-IMP:te=read .
+%ort:	お母さん読んで .
+*MOT:	Okaasan shimbun yomu no ne .
+%xmor:	n:prop|Okaasan=HON_Mother_HON n|shimbun=newspaper v:c|yom-PRES=read
+	n:fml|no=QUD ptl:fina|ne=TAG .
+%ort:	お母さん新聞読むのね .
+*SUZ:	Suuze wa nani yomu no ?
+%ort:	スーゼは何読むの ?
+*CHI:	kore .
+%xmor:	n:deic:dem|kore=this .
+%gpx:	pointing book
+%ort:	これ .
+*CHI:	hora .
+%xmor:	co:i|hora=look .
+%act:	brings other book for Suuze (Daruma to Toraneko to Kaminari)
+%ort:	ほら .
+*SUZ:	shingoo da ne .
+%ort:	信号だね .
+*SUZ:	arigatoo .
+%ort:	ありがとう .
+*CHI:	kore wa ne nat:ʃau [: naichau] [* m] no yo ne .
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP ptl:fina|ne=TAG
+	v:c|nak-COMPL-PRES=cry n:fml|no=QUD ptl:fina|yo=ASSERT
+	ptl:fina|ne=TAG .
+%act:	opening the book for Suuze
+%exp:	scene of crying child
+%ort:	これはねnat:ʃauのよね .
+*MOT:	hontoo ne .
+%xmor:	n|hontoo=in_fact ptl:fina|ne=TAG .
+%ort:	本当ね .
+*CHI:	pyun@o tte itta no ne .
+%xmor:	onoma|pyun ptl:quot|tte=QUOT v:c|iw-PAST=say n:fml|no=QUD
+	ptl:fina|ne=TAG .
+%ort:	ピュンって言ったのね .
+*MOT:	dooshite naiteru n da kke ?
+%xmor:	adv:deic:wh|dooshite=why v:c|nak-ASP-PRES=cry n:fml|no=QUD
+	v:cop|da&PRES=be ptl:fina|kke=WONDER ?
+%cod:	$Q
+%ort:	どうして泣いてるんだっけ ?nat:ʃau
+*CHI:	doko de ?
+%xmor:	n:deic:wh|doko=where ptl:post|de=LOC ?
+%cod:	$Q
+%ort:	どこで ?
+*SUZ:	koko naitenai ne .
+%ort:	こk泣いてないね .
+*SUZ:	naiteru ne .
+%exp:	next page
+%ort:	泣いてるね .
+*SUZ:	dooshite naiteru no ne ?
+%cod:	$FIN
+%ort:	どうして泣いてるのね ?
+*CHI:	ko(r)e yabutteru de .
+%xmor:	n:deic:dem|kore=this v:c|yabur-ASP-PRES=tear ptl:post|de=LOC .
+%com:	causal de
+%ort:	こえ破ってるで .
+*SUZ:	kore yabutteru no ?
+%ort:	これ破ってるの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*SUZ:	kore nani ?
+%ort:	これ何 ?
+*CHI:	kore totchatta no .
+%xmor:	n:deic:dem|kore=this v:c|tor-COMPL-PAST=take n:fml|no=QUD .
+%ort:	これ取っちゃったの .
+*MOT:	Toranekochan ga biri@o tte yatta ne .
+%xmor:	n:prop|Toranekochan ptl:case|ga=NOM onoma|biri ptl:quot|tte=QUOT
+	v:c|yar-PAST=do ptl:fina|ne=TAG .
+%ort:	トラ猫ちゃんがビリってやったね .
+*CHI:	oyoofuku o .
+%xmor:	o_HON#n|yoofuku=clothes ptl:case|o=ACC .
+%ort:	お洋服を .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*SUZ:	sore de kotchi de nani kureteru no ?
+%ort:	それでこっちで何くれてるの ?
+*CHI:	budoo kureteru .
+%xmor:	n|budoo=grape v:v|kure-ASP-PRES=give .
+%ort:	葡萄くれてる .
+*SUZ:	a soo .
+%ort:	あそう .
+*MOT:	budoo doozo tte yutteru no „ nekochan ga ?
+%xmor:	n|budoo=grape co:g|doozo=please ptl:quot|tte=QUOT
+	v:c|yuw-ASP-PRES=say n:fml|no=QUD tag|disloc n|neko-chan_FAM=cat
+	ptl:case|ga=NOM ?
+%cod:	$Q
+%ort:	葡萄どうぞって言ってるの猫ちゃんが ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	budoo tabenasai yo tte .
+%xmor:	n|budoo=grape v:v|tabe-IMP:nasai=eat ptl:fina|yo=ASSERT
+	ptl:quot|tte=QUOT .
+%ort:	葡萄食べなさいよって .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	soo da .
+%xmor:	adv:deic:dem|soo=like_that v:cop|da&PRES=be .
+%ort:	そうだ .
+*MOT:	hajime kara miyoo ka ?
+%xmor:	v:v|hajime&GER=begin ptl:post|kara=ABL v:v|mi-HORT=look
+	ptl:fina|ka=Q ?
+%cod:	$Q $FIN
+%ort:	はじめから見ようか ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	ne .
+%xmor:	ptl:fina|ne=TAG .
+%ort:	ね .
+*CHI:	Akichan wa ne .
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:top|wa=TOP ptl:fina|ne=TAG .
+%ort:	アキちゃんはね .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	Okaachan shimbun yonde .
+%xmor:	n:prop|Okaachan n|shimbun=newspaper v:c|yom-IMP:te=read .
+%ort:	お母ちゃん新聞読んで .
+*MOT:	Okaachan shimbun &=laugh ?
+%xmor:	n:prop|Okaachan n|shimbun=newspaper ?
+%cod:	$Q
+%ort:	お母ちゃん新聞(笑) ?
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*CHI:	yonde .
+%xmor:	v:c|yom-IMP:te=read .
+%ort:	読んで .
+*MOT:	yonderu yo .
+%xmor:	v:c|yom-ASP-PRES=read ptl:fina|yo=ASSERT .
+%ort:	読んでるよ .
+*MOT:	Akichan wa ?
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	アキちゃんは ?
+*MOT:	Akichan kaminarisan yonderu no ?
+%xmor:	n:prop|Aki-chan_FAM=Aki n|kaminari-san_HON=thunder
+	v:c|yom-ASP-PRES=read n:fml|no=QUD ?
+%cod:	$Q
+%ort:	アキちゃん雷さん読んでるの ?
+*MOT:	gohan tabeteru ne .
+%xmor:	n|gohan=rice v:v|tabe-ASP-PRES=eat ptl:fina|ne=TAG .
+%ort:	ご飯食べてるね .
+*CHI:	obaachan wa nani ?
+%xmor:	o_HON#n|baa-chan_FAM=grandmother ptl:top|wa=TOP n:deic:wh|nani=what
+	?
+%cod:	$Q
+%gpx:	pointing picture
+%ort:	お婆ちゃんは何 ?
+*MOT:	obaachan mo tabeteru ne .
+%xmor:	o_HON#n|baa-chan_FAM=grandmother ptl:foc|mo=ADD
+	v:v|tabe-ASP-PRES=eat ptl:fina|ne=TAG .
+%ort:	お婆ちゃんも食べてるね .
+*CHI:	chigau .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	違う .
+*CHI:	obaachan koo yatte nani ?
+%xmor:	o_HON#n|baa-chan_FAM=grandmother adv:deic:dem|koo=like_this
+	v:c|yar-CONN=do n:deic:wh|nani=what ?
+%cod:	$Q
+%gpx:	touching his chin
+%ort:	お婆ちゃんこうやって何 ?
+*MOT:	obaachan ga atsui [/] atsui tte gohan no koto o .
+%xmor:	o_HON#n|baa-chan_FAM=grandmother ptl:case|ga=NOM adj|atsu-PRES=hot
+	ptl:quot|tte=QUOT n|gohan=rice ptl:attr|no=GEN n:fml|koto=fact
+	ptl:case|o=ACC .
+%ort:	お婆ちゃんが熱い熱いってご飯のことを .
+*CHI:	dono gohan ?
+%xmor:	adn:deic:wh|dono=which n|gohan=rice ?
+%cod:	$Q
+%ort:	どのご飯 ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*MOT:	kono gohan .
+%xmor:	adn:deic:dem|kono=this n|gohan=rice .
+%ort:	このご飯 .
+*CHI:	chigau .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	違う .
+*CHI:	koko no gohan ?
+%xmor:	n:deic:dem|koko=here ptl:attr|no=GEN n|gohan=rice ?
+%cod:	$Q
+%gpx:	pointing
+%ort:	ここのご飯 ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%tim:	0:06:10
+%ort:	うん .
+*CHI:	Kam(in)ari ga nani ?
+%xmor:	n:prop|Kaminari ptl:case|ga=NOM n:deic:wh|nani=what ?
+%cod:	$Q
+%ort:	かまりが何 ?
+*MOT:	Kaminarisan ga Darumasan shootai shita .
+%xmor:	n:prop|Kaminarisan ptl:case|ga=NOM n:prop|Darumasan
+	n:vn|shootai=invitation v:ir:sub|su-PAST=do .
+%ort:	雷さんがダルマさん招待した .
+*CHI:	“ohiru desu” .
+%xmor:	bq|BQ o_HON#n|hiru=noon v:cop|da&POL-PRES=be eq|EQ .
+%ort:	お昼です .
+*CHI:	“gohan da yo” tte .
+%xmor:	bq|BQ n|gohan=rice v:cop|da&PRES=be ptl:fina|yo=ASSERT eq|EQ
+	ptl:quot|tte=QUOT .
+%ort:	ご飯だよって .
+*CHI:	yonde .
+%xmor:	v:c|yom-IMP:te=read .
+%act:	turns pages to end
+%ort:	読んで .
+*CHI:	yonde .
+%xmor:	v:c|yom-IMP:te=read .
+%ort:	読んで .
+*MOT:	jibun de yonda ne .
+%xmor:	n:deic:prs|jibun=self v:cop|de&CONN=be v:c|yom-PAST=read
+	ptl:fina|ne=TAG .
+%ort:	自分で読んだね .
+*CHI:	Akichan kotchi .
+%xmor:	n:prop|Aki-chan_FAM=Aki n:deic:dem|kotchi=here .
+%ort:	アキちゃんこっち .
+*MOT:	kondo Okaasan kore ?
+%xmor:	n|kondo=this_time n:prop|Okaasan=HON_Mother_HON
+	n:deic:dem|kore=this ?
+%cod:	$Q
+%ort:	今度お母さんこれ ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	Akichan shimbun yomu no ?
+%xmor:	n:prop|Aki-chan_FAM=Aki n|shimbun=newspaper v:c|yom-PRES=read
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	アキちゃん新聞読むの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*CHI:	yonde .
+%xmor:	v:c|yom-IMP:te=read .
+%ort:	読んで .
+*MOT:	yonderu [/] yonderu .
+%xmor:	v:c|yom-ASP-PRES=read .
+%ort:	読んでる読んでる .
+*CHI:	hajime kara .
+%xmor:	v:v|hajime&GER=begin ptl:post|kara=ABL .
+%ort:	初めから .
+*MOT:	a hajime kara ?
+%xmor:	co:i|aq=ah v:v|hajime&GER=begin ptl:post|kara=ABL ?
+%cod:	$Q
+%ort:	あ初めから ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	yonderu yo .
+%xmor:	v:c|yom-ASP-PRES=read ptl:fina|yo=ASSERT .
+%ort:	読んでるよ .
+*MOT:	Kaminarichan no ohanashi omoshiroi naa .
+%xmor:	n:prop|Kaminarichan ptl:attr|no=GEN o_HON#n|hanashi=story
+	adj|omoshiro-PRES=interesting ptl:fina|naa=TAG .
+%ort:	雷ちゃんのお話面白いなあ .
+*MOT:	yonda ?
+%xmor:	v:c|yom-PAST=read ?
+%cod:	$Q
+%ort:	読んだ ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	gives the newspaper to MOT
+%ort:	うん .
+*MOT:	kondo nani yomu no ?
+%xmor:	n|kondo=this_time n:deic:wh|nani=what v:c|yom-PRES=read
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	今度何読むの ?
+*CHI:	koko ni [* m] ii yo .
+%xmor:	n:deic:dem|koko=here ptl:post|ni=DAT adj|i-PRES=good
+	ptl:fina|yo=ASSERT .
+%com:	NB ni
+%gpx:	pointing under umbrella
+%ort:	ここにいいよ .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	akanai yo .
+%xmor:	v:c|ak-NEG-PRES=open ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%act:	touches bag
+%ort:	開かないよ .
+*CHI:	akanai yo .
+%xmor:	v:c|ak-NEG-PRES=open ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	開かないよ .
+*CHI:	koko made nobo(ri)tai [* m] .
+%xmor:	n:deic:dem|koko=here ptl:post|made=TERM v:c|nobor-DESID-PRES=climb
+	.
+%act:	goes to shelfes
+%ort:	ここまでのぼたい .
+*MOT:	Yamanekochan no ohanashi yomoo ka ?
+%xmor:	n:prop|Yamanekochan ptl:attr|no=GEN o_HON#n|hanashi=story
+	v:c|yom-HORT=read ptl:fina|ka=Q ?
+%cod:	$Q $FIN
+%ort:	山猫ちゃんのお話読もうか ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%exp:	Aki comes to Amo , sits down besides her
+%ort:	ん ?
+*MOT:	hajime kara yomoo ka ?
+%xmor:	v:v|hajime&GER=begin ptl:post|kara=ABL v:c|yom-HORT=read
+	ptl:fina|ka=Q ?
+%cod:	$Q $FIN
+%act:	opens book
+%ort:	初めから読もうか ?
+*MOT:	otsukisama ni akachan ga imasu [=! reading voice] .
+%xmor:	o_HON#n|tsuki-sama_HON=moon ptl:post|ni=DAT n|akachan=baby
+	ptl:case|ga=NOM v:v|i-POL-PRES=exist .
+%gpx:	pointing stars
+%ort:	お月様に赤ちゃんがいます(音声を読みながら) .
+*MOT:	kore mo kodomo ne .
+%xmor:	n:deic:dem|kore=this ptl:foc|mo=ADD n|kodomo=child ptl:fina|ne=TAG
+	.
+%ort:	これも子供ね .
+*MOT:	kore chiisai ne .
+%xmor:	n:deic:dem|kore=this adj|chiisa-PRES=small ptl:fina|ne=TAG .
+%ort:	これ小さいね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	kore wa ichiban chiisai ne .
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP adv|ichiban=most
+	adj|chiisa-PRES=small ptl:fina|ne=TAG .
+%ort:	これは一番小さいね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	chiisana otokonoko ga imasu [=! reading voice] .
+%xmor:	adn|chiisana=small n|otoko_no_ko=boy ptl:case|ga=NOM
+	v:v|i-POL-PRES=exist .
+%ort:	小さな男の子がいます(音声を読みながら) .
+*MOT:	mina manto o kite pyumpyun@o tte dekakete ikimasu
+	[=! reading voice] .
+%xmor:	n:deic:prs|mina=all n|manto=mantle ptl:case|o=ACC v:v|ki-CONN=wear
+	onoma|pyumpyun ptl:quot|tte=QUOT v:v|dekake-CONN=go_out
+	v:c:sub|ik-POL-PRES=go .
+%ort:	みなマントを着てピョンピョンって出かけていきます(音声を読みながら) .
+*CHI:	doko iku no „ mina ?
+%xmor:	n:deic:wh|doko=where v:c|ik-PRES=go n:fml|no=QUD tag|disloc
+	n:deic:prs|mina=all ?
+%cod:	$Q
+%ort:	どこ行くの皆 ?
+*MOT:	kooen e iku no „ asobi ni .
+%xmor:	n|kooen=park ptl:post|e=LAT v:c|ik-PRES=go n:fml|no=QUD tag|disloc
+	v:c|asob-GER=play ptl:post|ni=DAT .
+%ort:	公園へ行くの遊びに .
+*CHI:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*CHI:	kore dake nai .
+%xmor:	n:deic:dem|kore=this ptl:foc|dake=only v:ir|ar&NEG-PRES=be .
+%cod:	$NEG
+%gpx:	pointing little star
+%ort:	これだけない .
+*MOT:	kore wa mada chiisai kara ne ikenai kara “boku mo manto ga hoshii
+	naa” tte itteru .
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP adv|mada=still
+	adj|chiisa-PRES=small ptl:conj|kara=because ptl:fina|ne=TAG
+	v:c|ik-POT-NEG-PRES=go ptl:conj|kara=because bq|BQ
+	n:deic:prs|boku=i_MASC ptl:foc|mo=ADD n|manto=mantle ptl:case|ga=NOM
+	adj|hoshi-PRES=desired ptl:fina|naa=TAG eq|EQ ptl:quot|tte=QUOT
+	v:c|iw-ASP-PRES=say .
+%cod:	$NEG
+%ort:	これはまだ小さいからね行けないから “僕もマントが欲しいなあ” って言ってる .
+*CHI:	doko de ?
+%xmor:	n:deic:wh|doko=where ptl:post|de=LOC ?
+%cod:	$Q
+%ort:	どこで ?
+*MOT:	“midoriiro no manto ga hoshii naa” tte itteru .
+%xmor:	bq|BQ n|+n|midori+n|iro=green_color ptl:attr|no=GEN n|manto=mantle
+	ptl:case|ga=NOM adj|hoshi-PRES=desired ptl:fina|naa=TAG eq|EQ
+	ptl:quot|tte=QUOT v:c|iw-ASP-PRES=say .
+%ort:	“緑色のマントが欲しいなあ” って言ってる .
+*MOT:	midoriiro no manto .
+%xmor:	n|+n|midori+n|iro=green_color ptl:attr|no=GEN n|manto=mantle .
+%tim:	0:09:15
+%ort:	緑色のマント .
+*MOT:	midoriiro no manto o kisete ageta no „ okaasan ga .
+%xmor:	n|+n|midori+n|iro=green_color ptl:attr|no=GEN n|manto=mantle
+	ptl:case|o=ACC v:v|kise-CONN=clothe v:v:sub|age-PAST=give
+	n:fml|no=QUD tag|disloc o_HON#n|kaa-san_HON=mother ptl:case|ga=NOM .
+%ort:	緑色のマントを着せてあげたのお母さんが .
+*CHI:	doko [=! whispering] ?
+%xmor:	n:deic:wh|doko=where ?
+%cod:	$Q
+%ort:	どこ(囁きながら) ?
+*MOT:	koko no senaka ni .
+%xmor:	n:deic:dem|koko=here ptl:attr|no=GEN n|senaka=back ptl:post|ni=DAT
+	.
+%ort:	ここの背中に .
+*CHI:	doko no ?
+%xmor:	n:deic:wh|doko=where ptl:attr|no=GEN ?
+%cod:	$Q
+%ort:	どこの ?
+*MOT:	koko no senaka ni .
+%xmor:	n:deic:dem|koko=here ptl:attr|no=GEN n|senaka=back ptl:post|ni=DAT
+	.
+%gpx:	pointing
+%ort:	ここの背中に .
+*CHI:	doko no okaasan ?
+%xmor:	n:deic:wh|doko=where ptl:attr|no=GEN o_HON#n|kaa-san_HON=mother ?
+%cod:	$Q
+%ort:	どこのお母さん ?
+*MOT:	koko no ookii okaasan .
+%xmor:	n:deic:dem|koko=here ptl:attr|no=GEN adj|ooki-PRES=big
+	o_HON#n|kaa-san_HON=mother .
+%ort:	ここの大きなお母さん .
+*MOT:	pyun@o tte dekakemashita [=! reading voice] .
+%xmor:	onoma|pyun ptl:quot|tte=QUOT v:v|dekake-POL-PAST=go_out .
+%ort:	ピュンって出かけました(音声を読みながら) .
+*MOT:	toon@o tte okkochita [=! reading voice] .
+%xmor:	onoma|toon ptl:quot|tte=QUOT v:v|okkochi-PAST=drop .
+%ort:	トーンって落っこちた(音声を読みながら) .
+*MOT:	ochita tokoro wa mori no naka [= mid] [=! reading voice] .
+%xmor:	v:v|ochi-PAST=fall n|tokoro=place ptl:top|wa=TOP n|mori=woods
+	ptl:attr|no=GEN n|naka=middle .
+%ort:	落ちた所は森の中(音声を読みながら) .
+*MOT:	“mabushii naa” tte neko ga ita [=! reading voice] .
+%xmor:	bq|BQ adj|mabushi-PRES=dazzling ptl:fina|naa=TAG eq|EQ
+	ptl:quot|tte=QUOT n|neko=cat ptl:case|ga=NOM v:v|i-PAST=exist .
+%ort:	“まぶしいなあ” って猫がいた(音声を読みながら) .
+*MOT:	“kono ko wa doko no ko da” tte .
+%xmor:	bq|BQ adn:deic:dem|kono=this n|ko=child ptl:top|wa=TOP
+	n:deic:wh|doko=where ptl:attr|no=GEN n|ko=child v:cop|da&PRES=be
+	eq|EQ ptl:quot|tte=QUOT .
+%ort:	“この子はどこの子だ” って .
+*CHI:	Akichan .
+%xmor:	n:prop|Aki-chan_FAM=Aki .
+%ort:	アキちゃん .
+*MOT:	Akichan na no „ kore ?
+%xmor:	n:prop|Aki-chan_FAM=Aki v:cop|da&PRES:na=be n:fml|no=QUD tag|disloc
+	n:deic:dem|kore=this ?
+%cod:	$Q
+%ort:	アキちゃんなのこれ ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*MOT:	pikapikapika@o [=! reading voice] .
+%xmor:	onoma|pikapikapika .
+%ort:	ピカピカピカ(音声を読みながら) .
+*MOT:	batta mo kimashita [=! reading voice] .
+%xmor:	n|batta=grasshopper ptl:foc|mo=ADD v:ir|ku-POL-PAST=come .
+%ort:	バッタもきました(音声を読みながら) .
+*MOT:	< “omae wa dare da” > [=! reading voice] ?
+%xmor:	bq|BQ n:deic:prs|omae=you_CLQ ptl:top|wa=TOP n:deic:wh|dare=who
+	v:cop|da&PRES=be eq|EQ ?
+%cod:	$Q
+%ort:	お前は誰だ(音声を読みながら) .
+*CHI:	Akichan .
+%xmor:	n:prop|Aki-chan_FAM=Aki .
+%ort:	アキちゃん .
+*MOT:	“tsuki no ko da yo” tte [=! reading voice] .
+%xmor:	bq|BQ n|tsuki=moon ptl:attr|no=GEN n|ko=child v:cop|da&PRES=be
+	ptl:fina|yo=ASSERT eq|EQ ptl:quot|tte=QUOT .
+%ort:	“月の子だよ” って(音声を読みながら)
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	pyompyon@o to tobimashita [=! reading voice] .
+%xmor:	onoma|pyompyon ptl:quot|to=QUOT v:c|tob-POL-PAST=fly .
+%ort:	ピョンピョンと飛びました(音声を読みながら) .
+*MOT:	+" <okaasan ‡ battakun to tomodachi ni natta yo> [=! reading voice]
+	.
+%xmor:	o_HON#n|kaa-san_HON=mother tag|voc n|batta-kun_MFAM=grasshopper
+	ptl:coo|to=and n|tomodachi=friend v:cop|ni&ADV=be
+	v:c|nar-PAST=become ptl:fina|yo=ASSERT .
+%ort:	お母さんバッタくんと友達になったよ(音声を読みながら) .
+*MOT:	osakana mo mi ni kimashita [=! reading voice] .
+%xmor:	o_HON#n|sakana=fish ptl:foc|mo=ADD v:v|mi&GER=look ptl:post|ni=DAT
+	v:ir|ku-POL-PAST=come .
+%ort:	お魚も見に来ました(音声を読みながら) .
+*MOT:	pyompyon@o [=! reading voice] .
+%xmor:	onoma|pyompyon .
+%ort:	ピョンピョン(音声を読みながら) .
+*MOT:	kono ko ga migi ni iku to osakana mo migi [=! reading voice] .
+%xmor:	adn:deic:dem|kono=this n|ko=child ptl:case|ga=NOM n|migi=right
+	ptl:post|ni=DAT v:c|ik-PRES=go ptl:conj|to=when o_HON#n|sakana=fish
+	ptl:foc|mo=ADD n|migi=right .
+%ort:	この子が右に行くとお魚み右(音声を読みながら) .
+*MOT:	kono ko ga hidari ni iku to osakana mo hidari ni ikimasu
+	[=! reading voice] .
+%xmor:	adn:deic:dem|kono=this n|ko=child ptl:case|ga=NOM n|hidari=left
+	ptl:post|ni=DAT v:c|ik-PRES=go ptl:conj|to=when o_HON#n|sakana=fish
+	ptl:foc|mo=ADD n|hidari=left ptl:post|ni=DAT v:c|ik-POL-PRES=go .
+%ort:	この子が左に行くとお魚も左に行きます(音声を読みながら) .
+*MOT:	“boku osakana to tomodachi ni natta yo” to iimashita
+	[=! reading voice] .
+%xmor:	bq|BQ n:deic:prs|boku=i_MASC o_HON#n|sakana=fish ptl:post|to=COMT
+	n|tomodachi=friend v:cop|ni&ADV=be v:c|nar-PAST=become
+	ptl:fina|yo=ASSERT eq|EQ ptl:quot|to=QUOT v:c|iw-POL-PAST=say .
+%ort:	“僕お魚と友達になったよ” と言いました(音声を読みながら) .
+*CHI:	doko e iku no naa ?
+%xmor:	n:deic:wh|doko=where ptl:post|e=LAT v:c|ik-PRES=go n:fml|no=QUD
+	ptl:fina|naa=TAG ?
+%cod:	$Q $FIN
+%ort:	どこへ行くのなあ ?
+*MOT:	pyompyompyon@o kawa no mukoo e tonderu no .
+%xmor:	onoma|pyompyompyon n|kawa=river ptl:attr|no=GEN
+	n|mukoo=opposite_side ptl:post|e=LAT v:c|tob-ASP-PRES=fly
+	n:fml|no=QUD .
+%ort:	ピョンピョンピョン川の向こうへ飛んでるの .
+*MOT:	+" <ano ko hoshi no ko da tte> [=! reading voice] .
+%xmor:	adn:deic:dem|ano=that n|ko=child v:c|hos-GER=dry ptl:attr|no=GEN
+	n|ko=child v:cop|da&PRES=be ptl:quot|tte=QUOT .
+%ort:	あの子星の子だって(音声を読みながら) .
+*MOT:	tsukamaete miyoo tte nekochan ga [=! reading voice] .
+%xmor:	v:v|tsukamae-CONN=catch v:v:sub|mi-HORT=try ptl:quot|tte=QUOT
+	n|neko-chan_FAM=cat ptl:case|ga=NOM .
+%ort:	捕まえてみようって猫ちゃんが(音声を読みながら) .
+*CHI:	itchatta de tsukama(e)nai [* m] .
+%xmor:	v:c|ik-COMPL-PAST=go ptl:fina|de=ASSERT v:v|tsukamae-NEG-PRES=catch
+	.
+%cod:	$NEG
+%com:	causal de
+%ort:	行っちゃったで捕まない .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	yamaneko ga kuru to sakana ga nigete ikimashita [=! reading voice]
+	.
+%xmor:	n|yamaneko=wildcat ptl:case|ga=NOM v:ir|ku-PRES=come
+	ptl:conj|to=when n|sakana=fish ptl:case|ga=NOM
+	v:v|nige-CONN=run_away v:c:sub|ik-POL-PAST=go .
+%ort:	山猫が来ると魚が逃げて行きました(音声を読みながら) .
+*MOT:	battasan mo nigete ikimashita [=! reading voice] .
+%xmor:	n|batta-san_HON=grasshopper ptl:foc|mo=ADD v:v|nige-CONN=run_away
+	v:c:sub|ik-POL-PAST=go .
+%ort:	バッタさんも逃げて行きました(音声を読みながら) .
+*MOT:	“boku wa yamaneko da zo” tte hoshi no kosan ni tobitsukimashita
+	[=! reading voice] .
+%xmor:	bq|BQ n:deic:prs|boku=i_MASC ptl:top|wa=TOP n|yamaneko=wildcat
+	v:cop|da&PRES=be ptl:fina|zo=ASSERT eq|EQ ptl:quot|tte=QUOT
+	n|hoshi=star ptl:attr|no=GEN n|ko-san_HON=child ptl:post|ni=DAT
+	v:c|tob_tsuk-POL-PAST=jump_at .
+%ort:	“僕は山猫だぞ” って星の子さんに飛びつきました(音声を読みながら) .
+*MOT:	hoshi no ko ga pyun@o to hanetobimashita [=! reading voice] .
+%xmor:	n|hoshi=star ptl:attr|no=GEN n|ko=child ptl:case|ga=NOM onoma|pyun
+	ptl:quot|to=QUOT v:c|hane_tob-POL-PAST=hop_around .
+%ort:	星の子がピュンと羽飛びました(音声を読みながら) .
+*MOT:	“okaasan ‡ boku wa yamaneko to tomodachi ni natta yo” to
+	iimashita [=! reading voice] .
+%xmor:	bq|BQ o_HON#n|kaa-san_HON=mother tag|voc n:deic:prs|boku=i_MASC
+	ptl:top|wa=TOP n|yamaneko=wildcat ptl:post|to=COMT
+	n|tomodachi=friend v:cop|ni&ADV=be v:c|nar-PAST=become
+	ptl:fina|yo=ASSERT eq|EQ ptl:quot|to=QUOT v:c|iw-POL-PAST=say .
+%tim:	0:12:00
+%ort:	“お母さん僕は山猫と友達になったよ” と言いました .
+*MOT:	a !
+%xmor:	co:i|aq=ah !
+%exp:	Aki gets up , goes away
+%ort:	あ !
+*MOT:	Akichan ‡ !
+%xmor:	n:prop|Aki-chan_FAM=Aki tag|voc !
+%ort:	アキちゃん !
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	comes back
+%ort:	うん .
+*MOT:	doo shiyoo ?
+%xmor:	adv:deic:wh|doo=how v:ir|su-HORT=do ?
+%cod:	$Q $FIN
+%ort:	どうしよう ?
+*MOT:	biribiribiribiri@o [=! reading voice] .
+%xmor:	onoma|biribiribiribiri .
+%ort:	びりびりびりびり(音声を読みながら) .
+*MOT:	yaburechatta [=! reading voice] .
+%xmor:	v:v|yabure-COMPL-PAST=tear .
+%ort:	破れちゃった !(音声を読みながら) .
+*MOT:	+" <iya ne> [=! reading voice] .
+%xmor:	n:an|iya=disgusting ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	嫌ね(音声を読みながら) .
+*MOT:	+" <midori no manto yabureta yo> [=! reading voice] .
+%xmor:	n|midori=green ptl:attr|no=GEN n|manto=mantle v:v|yabure-PAST=tear
+	ptl:fina|yo=ASSERT .
+%ort:	緑のマント破れたよ(音声を読みながら) .
+*MOT:	+" <uchi ni kaerenai yo> [=! reading voice] .
+%xmor:	n|uchi=home ptl:post|ni=DAT v:c|kaer-POT-NEG-PRES=return
+	ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	家に帰れないよ(音声を読みながら) .
+*MOT:	eeneen tte .
+%xmor:	co:i|eeneen=boo_hoo ptl:quot|tte=QUOT .
+%ort:	エーンエーンって .
+*CHI:	okaasan wa ?
+%xmor:	o_HON#n|kaa-san_HON=mother ptl:top|wa=TOP ?
+%cod:	$Q $WAP
+%ort:	お母さんは ?
+*MOT:	okaasan koko ni iru .
+%xmor:	o_HON#n|kaa-san_HON=mother n:deic:dem|koko=here ptl:post|ni=DAT
+	v:v|i-PRES=exist .
+%ort:	お母さんここにいる .
+*MOT:	tsuki da „ okaasan .
+%xmor:	n|tsuki=moon v:cop|da&PRES=be tag|disloc o_HON#n|kaa-san_HON=mother
+	.
+%ort:	月だ, お母さん .
+*CHI:	doko ni iru no ?
+%xmor:	n:deic:wh|doko=where ptl:post|ni=DAT v:v|i-PRES=exist n:fml|no=QUD
+	?
+%cod:	$Q
+%ort:	どこにいるの ?
+*MOT:	osora .
+%xmor:	o_HON#n|sora=sky .
+%ort:	お空 .
+*CHI:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*CHI:	<akachan dok(o) > [//] akachan no okaasan wa ?
+%xmor:	n|akachan=baby ptl:attr|no=GEN o_HON#n|kaa-san_HON=mother
+	ptl:top|wa=TOP ?
+%cod:	$Q $WAP
+%ort:	赤ちゃんどこ赤ちゃんのお母さんは ?
+*MOT:	akachan no okaasan wa otsukisan da kara sora ni iru ne .
+%xmor:	n|akachan=baby ptl:attr|no=GEN o_HON#n|kaa-san_HON=mother
+	ptl:top|wa=TOP o_HON#n|tsuki-san_HON=moon v:cop|da&PRES=be
+	ptl:conj|kara=because n|sora=sky ptl:post|ni=DAT v:v|i-PRES=exist
+	ptl:fina|ne=TAG .
+%ort:	赤ちゃんのお母さんはお月さんだから空にいるね .
+*CHI:	naiteru no ?
+%xmor:	v:c|nak-ASP-PRES=cry n:fml|no=QUD ?
+%cod:	$Q
+%ort:	泣いてるの ?
+*MOT:	naiteru .
+%xmor:	v:c|nak-ASP-PRES=cry .
+%ort:	泣いてる .
+*MOT:	“yaburechatta yo” .
+%xmor:	bq|BQ v:v|yabure-COMPL-PAST=tear ptl:fina|yo=ASSERT eq|EQ .
+%ort:	破れちゃったよ .
+*MOT:	sakana mo mi ni kimashita [=! reading voice] .
+%xmor:	n|sakana=fish ptl:foc|mo=ADD v:v|mi&GER=look ptl:post|ni=DAT
+	v:ir|ku-POL-PAST=come .
+%ort:	魚も見に来ました(音声を読みながら) .
+*MOT:	eeneen@q .
+%xmor:	meta|eeneen .
+%ort:	エーンエーン .
+*MOT:	<budoo o tabe(te) > [//] budoo agemashita [=! reading voice] .
+%xmor:	n|budoo=grape v:v|age-POL-PAST=give .
+%ort:	葡萄を食べ葡萄あげました(音声を読みながら) .
+*MOT:	budoo tte oishii ne [=! reading voice] .
+%xmor:	n|budoo=grape ptl:quot|tte=QUOT adj|oishi-PRES=tasty
+	ptl:fina|ne=TAG .
+%ort:	葡萄って美味しいね(音声を読みながら) .
+*MOT:	yabureta manto o mite nekochan ga kangaemashita [=! reading voice]
+	.
+%xmor:	v:v|yabure-PAST=tear n|manto=mantle ptl:case|o=ACC v:v|mi-CONN=look
+	n|neko-chan_FAM=cat ptl:case|ga=NOM v:v|kangae-POL-PAST=think .
+%ort:	破れたマントを見て猫ちゃんが考えました(音声を読みながら) .
+*MOT:	“ito de nutte ageyoo” .
+%xmor:	bq|BQ n|ito=thread ptl:post|de=LOC v:c|nuw-CONN=sew
+	v:v:sub|age-HORT=give eq|EQ .
+%sit:	Aki gets up , goes to shelves , tries to climb shelves
+%ort:	糸で縫ってあげよう .
+*MOT:	nekochan wa sagashi ni ikimashita [=! reading voice] .
+%xmor:	n|neko-chan_FAM=cat ptl:top|wa=TOP v:c|sagas-GER=search
+	ptl:post|ni=DAT v:c|ik-POL-PAST=go .
+%ort:	猫ちゃんは探しにいきました(音声を読みながら) .
+*MOT:	< “doko ni aru no kanaa” > [=! reading voice] ?
+%xmor:	bq|BQ n:deic:wh|doko=where ptl:post|ni=DAT v:ir|ar-PRES=be
+	n:fml|no=QUD ptl:fina|kanaa=DOUBT eq|EQ ?
+%cod:	$Q
+%ort:	どこにあるのかなあ(音声を読みながら) ?
+*MOT:	<atta> [=! reading voice] .
+%xmor:	v:ir|ar-PAST=be .
+%ort:	あった(音声を読みながら) .
+*MOT:	hitotsu mitsukemashita [=! reading voice] .
+%xmor:	num:cl|hito-tsu_PIECE=one v:v|mitsuke-POL-PAST=find .
+%ort:	一つ見つけました(音声を読みながら) .
+*MOT:	kondo wa [=! reading voice] +/.
+%xmor:	n|kondo=this_time ptl:top|wa=TOP +/.
+%ort:	今度は(音声を読みながら) .
+*CHI:	kore noboroo ?
+%xmor:	n:deic:dem|kore=this v:c|nobor-HORT=climb ?
+%cod:	$Q
+%act:	comes to MOT , pulls her hand
+%ort:	これ登ろう ?
+*MOT:	doko iku no ?
+%xmor:	n:deic:wh|doko=where v:c|ik-PRES=go n:fml|no=QUD ?
+%cod:	$Q $FIN
+%ort:	どこ行くの ?
+*CHI:	koko .
+%xmor:	n:deic:dem|koko=here .
+%gpx:	pointing shelf
+%ort:	ここ .
+*CHI:	noboranai [* m] yo .
+%xmor:	v:c|nobor-NEG-PRES=climb ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%err:	noboranai = noborenai
+%ort:	登らないよ .
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	koko noboroo ?
+%xmor:	n:deic:dem|koko=here v:c|nobor-HORT=climb ?
+%cod:	$Q $FIN
+%act:	fetches stool , climbs it
+%ort:	ここ登ろう ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	noboranai [* m] yo .
+%xmor:	v:c|nobor-NEG-PRES=climb ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%err:	noboranai = noborenai
+%ort:	登らない .
+*MOT:	soko made de ii yo .
+%xmor:	n:deic:dem|soko=there ptl:post|made=TERM v:cop|de&CONN=be
+	adj|i-PRES=good ptl:fina|yo=ASSERT .
+%ort:	そこまででいいよ .
+*CHI:	deen@o .
+%xmor:	onoma|deen .
+%act:	takes box with PhonoCards , makes movement like pouring them out
+%ort:	デーン .
+*MOT:	kondo konekochan oyu o wakashimashita [=! reading voice] .
+%xmor:	n|kondo=this_time ko_HON#n|neko-chan_FAM=cat o_HON#n|yu=hot_water
+	ptl:case|o=ACC v:c|wak-CAUS:contr-POL-PAST=boil .
+%ort:	今度子猫ちゃんお湯を沸かしました(音声を読みながら) .
+*CHI:	deen@o .
+%xmor:	onoma|deen .
+%act:	pours cards out
+%ort:	デーン .
+*MOT:	kutsukutsukutsu@o [=! reading voice] .
+%xmor:	onoma|kutsukutsukutsu .
+%ort:	くつくっつくつ(音声を読みながら) .
+*MOT:	yoisho [/] yoisho [=! reading voice] .
+%xmor:	co:i|yoisho=oof .
+%ort:	よいしょ(音声を読みながら) .
+*MOT:	ito de oyoofuku o xxx [=! reading voice] .
+%xmor:	n|ito=thread ptl:post|de=LOC o_HON#n|yoofuku=clothes ptl:case|o=ACC
+	.
+%ort:	糸でお洋服をxxx(音声を読みながら) .
+*MOT:	yokatta ne .
+%xmor:	adj|i-PAST=good ptl:fina|ne=TAG .
+%ort:	良かったね .
+*MOT:	okaasan n(o) toko(ro) e kaeru yo [=! reading voice] .
+%xmor:	o_HON#n|kaa-san_HON=mother ptl:attr|no=GEN n|tokoro=place
+	ptl:post|e=LAT v:c|kaer-PRES=return ptl:fina|yo=ASSERT .
+%ort:	お母さんとこへ帰るよ(音声を読みながら) .
+*MOT:	pyun@o to hoshisama ga otsukisama no okaasan n(o) toko(ro) e kaette
+	ikimashita [=! reading voice] .
+%xmor:	onoma|pyun ptl:quot|to=QUOT n|hoshi-sama=star_HON ptl:case|ga=NOM
+	o_HON#n|tsuki-sama_HON=moon ptl:attr|no=GEN
+	o_HON#n|kaa-san_HON=mother ptl:attr|no=GEN n|tokoro=place
+	ptl:post|e=LAT v:c|kaer-CONN=return v:c:sub|ik-POL-PAST=go .
+%ort:	ピュンと星様がお月様のお母さんんとこへ帰っていきました(音声を読みながら) .
+*CHI:	batta wa ?
+%xmor:	n|batta=grasshopper ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	バッタは ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	batta .
+%xmor:	n|batta=grasshopper .
+%ort:	バッタ .
+*MOT:	batta mo miteru yo .
+%xmor:	n|batta=grasshopper ptl:foc|mo=ADD v:v|mi-ASP-PRES=look
+	ptl:fina|yo=ASSERT .
+%tim:	0:15:25
+%ort:	バッタも見てるよ .
+*CHI:	nani ?
+%xmor:	n:deic:wh|nani=what ?
+%cod:	$Q
+%ort:	何 ?
+*CHI:	nenne shiteru no ?
+%xmor:	n:vn:mot|nenne=sleeping v:ir:sub|su-ASP-PRES=do n:fml|no=QUD ?
+%cod:	$Q
+%ort:	寝んねしてるの ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*MOT:	miteru no „ batta .
+%xmor:	v:v|mi-ASP-PRES=look n:fml|no=QUD tag|disloc n|batta=grasshopper .
+%ort:	見てるのバッタ .
+*CHI:	nenne shiteru no ?
+%xmor:	n:vn:mot|nenne=sleeping v:ir:sub|su-ASP-PRES=do n:fml|no=QUD ?
+%cod:	$Q
+%ort:	寝んねしてるの ?
+*MOT:	nenne shitenai .
+%xmor:	n:vn:mot|nenne=sleeping v:ir:sub|su-ASP-NEG-PRES=do .
+%cod:	$NEG
+%ort:	寝んねしてない .
+*MOT:	miteru .
+%xmor:	v:v|mi-ASP-PRES=look .
+%ort:	見てる .
+*CHI:	doko e iku no naa ?
+%xmor:	n:deic:wh|doko=where ptl:post|e=LAT v:c|ik-PRES=go n:fml|no=QUD
+	ptl:fina|naa=TAG ?
+%cod:	$Q $FIN
+%ort:	どこへ行くのなあ ?
+*CHI:	oshimai .
+%xmor:	o_HON#v:c|shimaw-GER=finish .
+%ort:	おしまい .
+*MOT:	nekochan mo tsukarete shimatta [=! reading voice] .
+%xmor:	n|neko-chan_FAM=cat ptl:foc|mo=ADD v:v|tsukare-CONN=be_tired
+	v:c:sub|shimaw-PAST=finish .
+%ort:	猫ちゃんも疲れてしまった(音声を読みながら) .
+*MOT:	gussuri nemashita [=! reading voice] .
+%xmor:	adv|gussuri=deeply v:v|ne-POL-PAST=lie_down .
+%ort:	ぐっすりねました(音声を読みながら) .
+*CHI:	a kowashichatta „ koko .
+%xmor:	co:i|aq=ah v:c|kowas-COMPL-PAST=break tag|disloc
+	n:deic:dem|koko=here .
+%act:	Phonocards into the basket , which handle is torn
+%ort:	あ壊しちゃったここ .
+*MOT:	kowareta ne .
+%xmor:	v:v|koware-PAST=break ptl:fina|ne=TAG .
+%ort:	壊れたね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	oshimai .
+%xmor:	o_HON#v:c|shimaw-GER=finish .
+%ort:	おしまい .
+*CHI:	kotchi .
+%xmor:	n:deic:dem|kotchi=here .
+%gpx:	pointing Phonocards
+%ort:	こっち .
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%act:	fetches reading machine for PhonoCards
+%ort:	はい .
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	kondo dore yaru no ?
+%xmor:	n|kondo=this_time n:deic:wh|dore=which v:c|yar-PRES=do n:fml|no=QUD
+	?
+%cod:	$Q
+%ort:	今度どれやるの ?
+*CHI:	kore .
+%xmor:	n:deic:dem|kore=this .
+%ort:	これ .
+*CHI:	ookisugiru naa ?
+%xmor:	v:v|+adj|ooki+v:v|sugi-PRES=big_too_much ptl:fina|naa=TAG ?
+%cod:	$Q
+%act:	turning volume button
+%ort:	大きすぎるなあ ?
+*MOT:	uun .
+%xmor:	co:i|uun_NEG=no .
+%ort:	ううん .
+*MOT:	ookisuginai yo .
+%xmor:	v:v|+adj|ooki+v:v|sugi-NEG-PRES=big_too_much ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	大きすぎないよ .
+*CHI:	hora .
+%xmor:	co:i|hora=look .
+%exp:	PhonoCard "jooki" then noise
+%ort:	ほら .
+*CHI:	o:kisuge:ta [: ookisugita] .
+%xmor:	v:v|+adj|ooki+v:v|sugi-PAST=big_too_much .
+%ort:	大きすげえた .
+*MOT:	ja moo chotto chiisaku shite .
+%xmor:	conj|ja=well adv|moo=already adv|chotto=a_bit adj|chiisa-ADV=small
+	v:ir|su-CONN=do .
+%ort:	じゃもうちょっと小さくして .
+*MOT:	kore kurai .
+%xmor:	n:deic:dem|kore=this ptl:foc|kurai=about .
+%act:	turns volume down
+%ort:	これ暗い .
+*CHI:	koko kurai [* s] .
+%xmor:	n:deic:dem|koko=here ptl:foc|kurai=about .
+%err:	kokokurai = korekurai
+%act:	turns volume down
+%ort:	ここ暗い .
+*MOT:	soko kikoenai yo .
+%xmor:	n:deic:dem|soko=there v:v|kikoe-NEG-PRES=hear ptl:fina|yo=ASSERT .
+%ort:	そこ聞こえないよ .
+*CHI:	koko wa ?
+%xmor:	n:deic:dem|koko=here ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%act:	turns volume button
+%ort:	ここは ?
+*MOT:	soko demo ii yo .
+%xmor:	n:deic:dem|soko=there ptl:foc|de_mo=even adj|i-PRES=good
+	ptl:fina|yo=ASSERT .
+%ort:	そこでもいいよ .
+*MOT:	oto chiisai ne .
+%xmor:	n|oto=sound adj|chiisa-PRES=small ptl:fina|ne=TAG .
+%exp:	PhonoCard "dassen" then noise
+%ort:	音小さいね .
+*CHI:	dassen@q tte yutta .
+%xmor:	meta|dassen ptl:quot|tte=QUOT v:c|yuw-PAST=say .
+%ort:	脱線って言った .
+*CHI:	Reechan wa ?
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	レイちゃんは ?
+*MOT:	&=sneeze .
+%ort:	(くしゃみ)
+*CHI:	Reechan wa ?
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	レイちゃんは ?
+*MOT:	Reechan okinai kara chiisai koe no hoo ga ii ne .
+%xmor:	n:prop|Ree-chan_FAM=Ree v:v|oki-NEG-PRES=get_up
+	ptl:conj|kara=because adj|chiisa-PRES=small n|koe=voice
+	ptl:attr|no=GEN n:fml|hoo=side ptl:case|ga=NOM adj|i-PRES=good
+	ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	レイちゃん起きないから小さい声の方がいいね .
+*MOT:	chotto ookii ne .
+%xmor:	adv|chotto=a_bit adj|ooki-PRES=big ptl:fina|ne=TAG .
+%exp:	PhonoCards "fune" then noise
+%ort:	ちょっと大きいね .
+*CHI:	o:kiʃugeru [: ookisugiru] .
+%xmor:	v:v|+adj|ooki+v:v|sugi-PRES=big_too_much .
+%ort:	o:kiʃugeru .
+*MOT:	chotto ookii ne .
+%xmor:	adv|chotto=a_bit adj|ooki-PRES=big ptl:fina|ne=TAG .
+%ort:	ちょっと大きいね .
+*CHI:	chotto o:kiʃugiru [: ookisugiru] .
+%xmor:	adv|chotto=a_bit v:v|+adj|ooki+v:v|sugi-PRES=big_too_much .
+%ort:	ちょっとo:kiʃugeru .
+*CHI:	a issho da ne .
+%xmor:	co:i|aq=ah n|issho=together v:cop|da&PRES=be ptl:fina|ne=TAG .
+%exp:	takes Phonocard with numbers
+%ort:	あ一緒だね .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%exp:	Phonocard "ichi" then song , "juuni" then song containing "garanto"
+%ort:	うん .
+*CHI:	garanto@o [/] garanto@o [=! singing] .
+%xmor:	onoma|garanto .
+%ort:	ガラントガラント(歌いながら) .
+*MOT:	chotto ookiku nai ?
+%xmor:	adv|chotto=a_bit adj|ooki-ADV=big v:ir:sub|ar&NEG-PRES=be ?
+%cod:	$Q $NEG
+%tim:	0:18:20
+%ort:	ちょっと大きくない ?
+*CHI:	kore nani ?
+%xmor:	n:deic:dem|kore=this n:deic:wh|nani=what ?
+%cod:	$Q
+%ort:	これ何 ?
+*MOT:	zero .
+%xmor:	num|zero=zero .
+%ort:	ゼロ .
+*CHI:	garantogaranto@u hachi .
+%xmor:	uni|garantogaranto num|hachi=eight .
+%ort:	ガラントガラント八 .
+*MOT:	are ?
+%xmor:	n:deic:dem|are=that ?
+%cod:	$Q
+%ort:	あれ ?
+*CHI:	zero .
+%xmor:	num|zero=zero .
+%ort:	ゼロ .
+*MOT:	zero da ne .
+%xmor:	num|zero=zero v:cop|da&PRES=be ptl:fina|ne=TAG .
+%ort:	ゼロだね .
+*CHI:	issho da ne .
+%xmor:	n|issho=together v:cop|da&PRES=be ptl:fina|ne=TAG .
+%ort:	一緒だね .
+*MOT:	koko ni mo suuji aru yo .
+%xmor:	n:deic:dem|koko=here ptl:post|ni=DAT ptl:foc|mo=ADD n|suuji=number
+	v:ir|ar-PRES=be ptl:fina|yo=ASSERT .
+%act:	gives other Phonocards
+%ort:	ここにも数字あるよ .
+*CHI:	a honto(o) .
+%xmor:	co:i|aq=ah n|hontoo=in_fact .
+%exp:	Phonocard "hachi" then song
+%ort:	あ本当 .
+*CHI:	garanto@u .
+%xmor:	uni|garanto .
+%ort:	ガラント .
+*CHI:	hora [/] hora .
+%xmor:	co:i|hora=look .
+%ort:	ほらほら .
+*CHI:	hachi .
+%xmor:	num|hachi=eight .
+%ort:	八 .
+*MOT:	akiya@q tte yutta .
+%xmor:	meta|akiya ptl:quot|tte=QUOT v:c|yuw-PAST=say .
+%ort:	空き家って言った .
+*CHI:	garantogaranto@u kore .
+%xmor:	uni|garantogaranto n:deic:dem|kore=this .
+%gpx:	pointing Phonocard with train on it
+%ort:	ガラントガラントこれ .
+*MOT:	shinkansen ?
+%xmor:	n|shinkansen=bullet_train ?
+%cod:	$Q
+%ort:	新幹線 ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	koko ni mo suuji aru yo .
+%xmor:	n:deic:dem|koko=here ptl:post|ni=DAT ptl:foc|mo=ADD n|suuji=number
+	v:ir|ar-PRES=be ptl:fina|yo=ASSERT .
+%ort:	ここにも数字あるよ .
+*CHI:	kore garanto@u iu kanaa ?
+%xmor:	n:deic:dem|kore=this uni|garanto v:c|iw-PRES=say
+	ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	これガラントいうかなあ ?
+*MOT:	garan@u tte iwanai .
+%xmor:	uni|garan ptl:quot|tte=QUOT v:c|iw-NEG-PRES=say .
+%cod:	$NEG
+%exp:	Phonocard "shichi" then song
+%ort:	ガランって言わない .
+*CHI:	dore dake garanto@u iu no ?
+%xmor:	n:deic:wh|dore=which ptl:foc|dake=only uni|garanto v:c|iw-PRES=say
+	n:fml|no=QUD ?
+%cod:	$Q
+%act:	puts in Phonocard 7 in again
+%ort:	どれだけガラント言うの ?
+*CHI:	shichi .
+%xmor:	num|shichi=seven .
+%ort:	七 .
+*CHI:	kono ana ni nani ?
+%xmor:	adn:deic:dem|kono=this n|ana=hole ptl:post|ni=DAT
+	n:deic:wh|nani=what ?
+%cod:	$Q
+%gpx:	pointing Phonocard of whale , small hole on back
+%ort:	この穴に何 ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	kore .
+%xmor:	n:deic:dem|kore=this .
+%ort:	これ .
+*MOT:	hana [= nose] ?
+%xmor:	n|hana=nose ?
+%cod:	$Q
+%ort:	鼻 ?
+*CHI:	chigau .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	違う .
+*CHI:	senaka ni .
+%xmor:	n|senaka=back ptl:post|ni=DAT .
+%ort:	背中に .
+*MOT:	senaka ni ana ga aiteru .
+%xmor:	n|senaka=back ptl:post|ni=DAT n|ana=hole ptl:case|ga=NOM
+	v:c|ak-ASP-PRES=open .
+%ort:	背中に穴が開いてる .
+*CHI:	aitenai yoo ni wa ?
+%xmor:	v:c|ak-ASP-NEG-PRES=open smod|yoo=SENS v:cop|ni&ADV=be
+	ptl:top|wa=TOP ?
+%cod:	$Q $WAG $NEG
+%com:	NB yoo
+%ort:	開いてないようには ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*MOT:	kayui no ?
+%xmor:	adj|kayu-PRES=itchy n:fml|no=QUD ?
+%cod:	$Q
+%exp:	Aki scratching his back
+%ort:	痒いの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	koko to koko .
+%xmor:	n:deic:dem|koko=here ptl:coo|to=and n:deic:dem|koko=here .
+%exp:	Amo has fetched cream
+%ort:	こことここ .
+*MOT:	koko to (.) kotchi ?
+%xmor:	n:deic:dem|koko=here ptl:coo|to=and n:deic:dem|kotchi=here ?
+%cod:	$Q
+%act:	putting cream onto Aki's back
+%ort:	こことこっち ?
+*MOT:	kotchi wa ?
+%xmor:	n:deic:dem|kotchi=here ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	こっちは ?
+*MOT:	kore mo soo .
+%xmor:	n:deic:dem|kore=this ptl:foc|mo=ADD adv:deic:dem|soo=like_that .
+%tim:	0:21:00
+%ort:	これもそう .
+*MOT:	kotchi moo kayuku nai no ?
+%xmor:	n:deic:dem|kotchi=here adv|moo=already adj|kayu-ADV=itchy
+	v:ir:sub|ar&NEG-PRES=be n:fml|no=QUD ?
+%cod:	$Q $NEG
+%ort:	こっちもうかゆくないの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	koko dake ?
+%xmor:	n:deic:dem|koko=here ptl:foc|dake=only ?
+%cod:	$Q
+%ort:	ここだけ ?
+*CHI:	ch(ig)au .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	違う .
+*CHI:	koko .
+%xmor:	n:deic:dem|koko=here .
+%gpx:	pointing his back
+%ort:	ここ .
+*MOT:	koko wa chigau .
+%xmor:	n:deic:dem|koko=here ptl:top|wa=TOP v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	ここは違う .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	itai [= ache] ?
+%xmor:	adj|ita-PRES=aching ?
+%cod:	$Q
+%ort:	痛い ?
+*MOT:	kayui deshoo ?
+%xmor:	adj|kayu-PRES=itchy smod|daroo&POL=INFR ?
+%cod:	$Q
+%ort:	痒いでしょう ?
+*CHI:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	itai [= ache] janai .
+%xmor:	adj|ita-PRES=aching ptl:fina|janai=TAG .
+%cod:	$NEG
+%ort:	痛いじゃない .
+*MOT:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*CHI:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	moojiki naoru kara ne .
+%xmor:	adv|moojiki=soon v:c|naor-PRES=heal ptl:conj|kara=because
+	ptl:fina|ne=TAG .
+%ort:	もうじき治るからね .
+*CHI:	koko net:ʃat:e [: notchatte] ii ?
+%xmor:	n:deic:dem|koko=here v:c|nor-COMPL-CONN=get_on adj|i-PRES=good ?
+%cod:	$Q
+%act:	puts foot onto PhonoCard
+%ort:	ここnet:ʃat:eいい ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	koko .
+%xmor:	n:deic:dem|koko=here .
+%gpx:	pointing
+%ort:	ここ .
+*MOT:	koko de nani ?
+%xmor:	n:deic:dem|koko=here ptl:post|de=LOC n:deic:wh|nani=what ?
+%cod:	$Q
+%ort:	ここで何 ?
+*SUZ:	nekashite ii tte ?
+%com:	taken netchatte as nechatte and not notchatte
+%ort:	寝かしていいって ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	scratching
+%ort:	うん .
+*SUZ:	hott(e)oite .
+%ort:	ほっておいて .
+*SUZ:	shinaide .
+%ort:	しないで .
+*CHI:	dore ?
+%xmor:	n:deic:wh|dore=which ?
+%cod:	$Q
+%ort:	どれ ?
+*SUZ:	sonna kayui no ?
+%ort:	そんな痒いの ?
+*SUZ:	moo hitotsu no wa ?
+%cod:	$WAP
+%ort:	もう一つのは ?
+*SUZ:	zero to kyuu wa doko ?
+%ort:	ゼロと九はどこ ?
+*CHI:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*SUZ:	chotto matte .
+%ort:	ちょっと待って .
+*MOT:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*SUZ:	kore mo kikitai naa .
+%ort:	これも聞きたいなあ .
+*CHI:	dore ?
+%xmor:	n:deic:wh|dore=which ?
+%cod:	$Q
+%ort:	どれ ?
+*SUZ:	kore .
+%ort:	これ .
+*SUZ:	narashite .
+%ort:	ならして .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%act:	scratching
+%ort:	痛い .
+*SUZ:	kayui .
+%ort:	痒い .
+*CHI:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	moo sugu naoru .
+%xmor:	adv|moo=already adv|sugu=soon v:c|naor-PRES=heal .
+%ort:	もうすぐ治る .
+*CHI:	itai [= ache] !
+%xmor:	adj|ita-PRES=aching !
+%ort:	痛い .
+*MOT:	moo sugu naoru kara gaman shite .
+%xmor:	adv|moo=already adv|sugu=soon v:c|naor-PRES=heal
+	ptl:conj|kara=because n:vn|gaman=endurance v:ir:sub|su-CONN=do .
+%tim:	0:24:00
+%ort:	もうすぐ治るから我慢して .
+*CHI:	itaiitai .
+%xmor:	n:mot|itaiitai=aching .
+%ort:	痛い痛い .
+*CHI:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*MOT:	ja naoshite ageru ne .
+%xmor:	conj|ja=well v:c|naos-CONN=cure v:v:sub|age-PRES=give
+	ptl:fina|ne=TAG .
+%ort:	じゃ治してあげるね .
+*MOT:	< naoru yo > [/] < naoru yo > [/] < naoru yo > [/] naoru yo .
+%xmor:	v:c|naor-PRES=heal ptl:fina|yo=ASSERT .
+%act:	"healing" Aki's back
+%ort:	治るよ治るよ治るよ治るよ .
+*MOT:	mahoo [/] mahoo [/] mahoo .
+%xmor:	n|mahoo=magic .
+%act:	"healing" Aki's back
+%ort:	魔法魔法魔法 .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	kayui ne .
+%xmor:	adj|kayu-PRES=itchy ptl:fina|ne=TAG .
+%ort:	痒いね .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	yon mo dete kita yo .
+%xmor:	num|yon=four ptl:foc|mo=ADD v:v|de-CONN=get_out
+	v:ir:sub|ku-PAST=come ptl:fina|yo=ASSERT .
+%act:	gives Phonocard
+%ort:	四も出てきたよ .
+*MOT:	yon mo atta ?
+%xmor:	num|yon=four ptl:foc|mo=ADD v:ir|ar-PAST=be ?
+%cod:	$Q
+%ort:	四もあった ?
+*CHI:	kore wa ?
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP ?
+%cod:	$Q $WAN
+%ort:	これは ?
+*MOT:	a obake ga dete kita .
+%xmor:	co:i|aq=ah n|obake=ghost ptl:case|ga=NOM v:v|de-CONN=get_out
+	v:ir:sub|ku-PAST=come .
+%ort:	あお化けが出てきた .
+*CHI:	dotchi ga ?
+%xmor:	n:deic:wh|dotchi=which ptl:case|ga=NOM ?
+%cod:	$Q
+%ort:	どっちが ?
+*MOT:	obake ga dete kita .
+%xmor:	n|obake=ghost ptl:case|ga=NOM v:v|de-CONN=get_out
+	v:ir:sub|ku-PAST=come .
+%ort:	お化けが出てきた .
+*MOT:	motto sagasoo ka „ suuji ?
+%xmor:	adv|motto=more v:c|sagas-HORT=search ptl:fina|ka=Q tag|disloc
+	n|suuji=number ?
+%cod:	$Q
+%ort:	もっと探そうか数字 ?
+*MOT:	hora .
+%xmor:	co:i|hora=look .
+%ort:	ほら .
+*MOT:	mitsuketa .
+%xmor:	v:v|mitsuke-PAST=find .
+%ort:	見つけた .
+*CHI:	juuni .
+%xmor:	num|+num|juu+num|ni=twelve .
+%ort:	十二 .
+*CHI:	zembu suuji aru ne .
+%xmor:	quant|zembu=all n|suuji=number v:ir|ar-PRES=be ptl:fina|ne=TAG .
+%ort:	全部数字あるね .
+*MOT:	zembu aru .
+%xmor:	quant|zembu=all v:ir|ar-PRES=be .
+%ort:	全部ある .
+*CHI:	garanto@u .
+%xmor:	uni|garanto .
+%act:	puts Phonocard into machine
+%ort:	ガラント .
+*CHI:	mina aru ne „ ʃu:ʒi [: suuji] .
+%xmor:	n:deic:prs|mina=all v:ir|ar-PRES=be ptl:fina|ne=TAG tag|disloc
+	n|suuji=number .
+%ort:	みなあるねジュウジ .
+*MOT:	suuji aru ne .
+%xmor:	n|suuji=number v:ir|ar-PRES=be ptl:fina|ne=TAG .
+%ort:	数字あるね .
+*CHI:	a mada atta .
+%xmor:	co:i|aq=ah adv|mada=still v:ir|ar-PAST=be .
+%ort:	あまだあった .
+*MOT:	mada atta ?
+%xmor:	adv|mada=still v:ir|ar-PAST=be ?
+%cod:	$Q
+%ort:	まだあった ?
+*CHI:	suuji zembu aru ne .
+%xmor:	n|suuji=number quant|zembu=all v:ir|ar-PRES=be ptl:fina|ne=TAG .
+%ort:	数字全部あるね .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	suuji sagashite .
+%xmor:	n|suuji=number v:c|sagas-IMP:te=search .
+%ort:	数字探して .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	koko ni mo aru yo .
+%xmor:	n:deic:dem|koko=here ptl:post|ni=DAT ptl:foc|mo=ADD v:ir|ar-PRES=be
+	ptl:fina|yo=ASSERT .
+%ort:	ここにもあるよ .
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*CHI:	zembu yo .
+%xmor:	quant|zembu=all ptl:fina|yo=ASSERT .
+%ort:	全部よ .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	zembu .
+%xmor:	quant|zembu=all .
+%tim:	0:27:15
+%ort:	全部 .
+*MOT:	zembu sagasoo ?
+%xmor:	quant|zembu=all v:c|sagas-HORT=search ?
+%cod:	$Q
+%ort:	全部探そう ?
+*CHI:	kore mo ii no ?
+%xmor:	n:deic:dem|kore=this ptl:foc|mo=ADD adj|i-PRES=good n:fml|no=QUD ?
+%cod:	$Q
+%act:	shows card with Kanji on backside
+%ort:	これもいいの ?
+*MOT:	sore suuji kanaa ?
+%xmor:	n:deic:dem|sore=this n|suuji=number ptl:fina|kanaa=DOUBT ?
+%cod:	$Q $FIN
+%ort:	それ数字かなあ ?
+*CHI:	suuji to chigau .
+%xmor:	n|suuji=number ptl:post|to=COMT v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	数字と違う .
+*MOT:	chigau ne .
+%xmor:	v:c|chigaw-PRES=different ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	違うね .
+*CHI:	zembu suuji ne .
+%xmor:	quant|zembu=all n|suuji=number ptl:fina|ne=TAG .
+%ort:	全部数字ね .
+*MOT:	zembu suuji ga ii ne .
+%xmor:	quant|zembu=all n|suuji=number ptl:case|ga=NOM adj|i-PRES=good
+	ptl:fina|ne=TAG .
+%ort:	全部数字がいいね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	go ga aru kedo .
+%xmor:	num|go=five ptl:case|ga=NOM v:ir|ar-PRES=be ptl:conj|kedo=although
+	.
+%ort:	五があるけど .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	hora .
+%xmor:	co:i|hora=look .
+%ort:	ほら .
+*CHI:	go [/] go .
+%xmor:	num|go=five .
+%exp:	Phonocard doesn't sound
+%ort:	五五 .
+*CHI:	iwanai „ go tte ?
+%xmor:	v:c|iw-NEG-PRES=say tag|disloc num|go=five ptl:quot|tte=QUOT ?
+%cod:	$Q $NEG
+%ort:	言わない五って ?
+*MOT:	iwanai ne .
+%xmor:	v:c|iw-NEG-PRES=say ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	言わないね .
+*MOT:	doo shita n daroo ?
+%xmor:	adv:deic:wh|doo=how v:ir|su-PAST=do n:fml|no=QUD v:cop|da-HORT=be ?
+%cod:	$Q $FIN
+%ort:	どうしたんだろう ?
+*CHI:	Akichan ga yabutta n da naa ?
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:case|ga=NOM v:c|yabur-PAST=tear
+	n:fml|no=QUD v:cop|da&PRES=be ptl:fina|naa=TAG ?
+%cod:	$Q
+%ort:	アキちゃんが破ったんだなあ ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	yabutta no kanaa ?
+%xmor:	v:c|yabur-PAST=tear n:fml|no=QUD ptl:fina|kanaa=DOUBT ?
+%cod:	$Q $FIN
+%ort:	破ったのかなあ ?
+*MOT:	Akichan yabutta no ?
+%xmor:	n:prop|Aki-chan_FAM=Aki v:c|yabur-PAST=tear n:fml|no=QUD ?
+%cod:	$Q
+%ort:	アキちゃん破ったの ?
+*MOT:	mina deta ne .
+%xmor:	n:deic:prs|mina=all v:v|de-PAST=get_out ptl:fina|ne=TAG .
+%ort:	皆出たね .
+*MOT:	mina atta ?
+%xmor:	n:deic:prs|mina=all v:ir|ar-PAST=be ?
+%cod:	$Q
+%ort:	皆あった ?
+*CHI:	dore ?
+%xmor:	n:deic:wh|dore=which ?
+%cod:	$Q
+%ort:	どれ ?
+*MOT:	kore [/] kore .
+%xmor:	n:deic:dem|kore=this .
+%ort:	これこれ .
+*MOT:	kujira .
+%xmor:	n|kujira=whale .
+%ort:	クジラ .
+*MOT:	zembu dete kita .
+%xmor:	quant|zembu=all v:v|de-CONN=get_out v:ir:sub|ku-PAST=come .
+%ort:	全部出てきた .
+*MOT:	narabeyoo ka ?
+%xmor:	v:v|narabe-HORT=line_up ptl:fina|ka=Q ?
+%cod:	$Q $FIN
+%ort:	並べようか ?
+*CHI:	dore ?
+%xmor:	n:deic:wh|dore=which ?
+%cod:	$Q
+%ort:	どれ ?
+*MOT:	suuji .
+%xmor:	n|suuji=number .
+%ort:	数字 .
+*CHI:	doko de ?
+%xmor:	n:deic:wh|doko=where ptl:post|de=LOC ?
+%cod:	$Q
+%ort:	どこで ?
+*MOT:	koko .
+%xmor:	n:deic:dem|koko=here .
+%ort:	ここ .
+*MOT:	narabeyoo ka ?
+%xmor:	v:v|narabe-HORT=line_up ptl:fina|ka=Q ?
+%cod:	$Q
+%ort:	並べようか ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	ichiban saisho wa zero .
+%xmor:	adv|ichiban=most n|saisho=first ptl:top|wa=TOP num|zero=zero .
+%ort:	一番最初はゼロ .
+*MOT:	tsugi wa dore kanaa ?
+%xmor:	n|tsugi=next ptl:top|wa=TOP n:deic:wh|dore=which
+	ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	次はどれかなあ ?
+*CHI:	(s)hichi .
+%xmor:	num|shichi=seven .
+%ort:	七 .
+*CHI:	sebun [: seven@s] .
+%xmor:	L2eng|seven .
+%tim:	0:30:10
+%ort:	セブン .
+*MOT:	seven@s ?
+%xmor:	L2eng|seven ?
+%cod:	$Q
+%ort:	セブン ?
+*MOT:	soo ?
+%xmor:	adv:deic:dem|soo=like_that ?
+%cod:	$Q
+%ort:	そう ?
+*CHI:	soo .
+%xmor:	co:i|soo=right .
+%ort:	そう .
+*MOT:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*MOT:	tsugi wa ?
+%xmor:	n|tsugi=next ptl:top|wa=TOP ?
+%cod:	$Q $WAN
+%act:	puts Phonocards in a row
+%ort:	次は ?
+*CHI:	obake no .
+%xmor:	n|obake=ghost ptl:attr|no=GEN .
+%ort:	お化けの .
+*MOT:	obake ga suki ?
+%xmor:	n|obake=ghost ptl:case|ga=NOM n:an|suki=like ?
+%cod:	$Q
+%ort:	お化けが好き ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	kore ?
+%xmor:	n:deic:dem|kore=this ?
+%cod:	$Q
+%ort:	これ ?
+*CHI:	kore to chigau .
+%xmor:	n:deic:dem|kore=this ptl:post|to=COMT v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	これと違う .
+*MOT:	kore ?
+%xmor:	n:deic:dem|kore=this ?
+%cod:	$Q
+%ort:	これ ?
+*CHI:	moo chotto ne kore .
+%xmor:	adv|moo=already adv|chotto=a_bit ptl:fina|ne=TAG
+	n:deic:dem|kore=this .
+%act:	gives other card
+%ort:	もうちょっとねこれ .
+*MOT:	kono obake ga suki na no ?
+%xmor:	adn:deic:dem|kono=this n|obake=ghost ptl:case|ga=NOM n:an|suki=like
+	v:cop|da&PRES:na=be n:fml|no=QUD ?
+%cod:	$Q
+%ort:	このお化けが好きなの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	fuun .
+%xmor:	co:i|fuun=AMAZED .
+%ort:	ふうん .
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*CHI:	Suuze wa ?
+%xmor:	n:prop|Suuze=Suse ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	スーゼは ?
+*SUZ:	hachi ga hoshii .
+%ort:	八が欲しい .
+*CHI:	doko no hachi ?
+%xmor:	n:deic:wh|doko=where ptl:attr|no=GEN num|hachi=eight ?
+%cod:	$Q
+%ort:	どこの八 ?
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*CHI:	kore no ?
+%xmor:	n:deic:dem|kore=this ptl:attr|no=GEN ?
+%cod:	$Q
+%act:	throws card to Suuze
+%ort:	これの ?
+*SUZ:	un .
+%ort:	うん .
+*SUZ:	hai .
+%ort:	はい .
+*MOT:	pon dame ne .
+%xmor:	n:vn:mot|pon=throwing_ball n:an|dame=no_good ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	ポンダメね .
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*CHI:	Suuze toide@n [: tonde] [* m] pon tte . [+ dsse]
+%xmor:	n:prop|Suuze=Suse v:c|tob-CONN=fly n:vn:mot|pon=throwing_ball
+	ptl:quot|tte=QUOT .
+%ort:	スーゼといでポンって .
+*MOT:	otete ni .
+%xmor:	o_HON#n:mot|tete=hand ptl:post|ni=DAT .
+%ort:	お手手に .
+*MOT:	pon dame .
+%xmor:	n:vn:mot|pon=throwing_ball n:an|dame=no_good .
+%cod:	$NEG
+%ort:	ポンダメ .
+*CHI:	nenne shiteru .
+%xmor:	n:vn:mot|nenne=sleeping v:ir:sub|su-ASP-PRES=do .
+%gpx:	pointing card
+%ort:	寝んねしてる .
+*MOT:	kore ?
+%xmor:	n:deic:dem|kore=this ?
+%cod:	$Q
+%ort:	これ ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	nenne shiteru ne .
+%xmor:	n:vn:mot|nenne=sleeping v:ir:sub|su-ASP-PRES=do ptl:fina|ne=TAG .
+%ort:	寝んねしてるね .
+*CHI:	nani kuru no ?
+%xmor:	n:deic:wh|nani=what v:ir|ku-PRES=come n:fml|no=QUD ?
+%cod:	$Q
+%ort:	何来るの ?
+*MOT:	nemui kara nenne shiteru yo .
+%xmor:	adj|nemu-PRES=sleepy ptl:conj|kara=because n:vn:mot|nenne=sleeping
+	v:ir:sub|su-ASP-PRES=do ptl:fina|yo=ASSERT .
+%ort:	眠いから寝んねしてるよ .
+*CHI:	obake kuru de ?
+%xmor:	n|obake=ghost v:ir|ku-PRES=come ptl:fina|de=ASSERT ?
+%cod:	$Q
+%com:	causal de
+%ort:	お化け来るで ?
+*MOT:	obake ga kuru no kanaa ?
+%xmor:	n|obake=ghost ptl:case|ga=NOM v:ir|ku-PRES=come n:fml|no=QUD
+	ptl:fina|kanaa=DOUBT ?
+%cod:	$Q $FIN
+%ort:	お化けが来るのかなあ ?
+*SUZ:	obake wa matteru n da ne .
+%ort:	お化けは待ってるんだね .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*SUZ:	obake wa matteru n da ne .
+%ort:	お化けは待ってるんだね .
+*CHI:	doko ?
+%xmor:	n:deic:wh|doko=where ?
+%cod:	$Q
+%ort:	どこ ?
+*CHI:	obake no uchi wa ?
+%xmor:	n|obake=ghost ptl:attr|no=GEN n|uchi=home ptl:top|wa=TOP ?
+%cod:	$Q $WAP
+%ort:	お化けの家は ?
+*SUZ:	obake no uchi wa doko ni aru no kanaa ?
+%ort:	お化けの家はどこにあるのかなあ ?
+*CHI:	suna no naka kanaa ?
+%xmor:	n|suna=sand ptl:attr|no=GEN n|naka=middle ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	砂の中かなあ ?
+*MOT:	a .
+%xmor:	co:i|aq=ah .
+%ort:	あ .
+*MOT:	suna .
+%xmor:	n|suna=sand .
+%ort:	砂 .
+*MOT:	suna no naka kanaa ?
+%xmor:	n|suna=sand ptl:attr|no=GEN n|naka=middle ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	砂の中かなあ ?
+*CHI:	naa ?
+%xmor:	ptl:fina|naa=TAG ?
+%cod:	$Q
+%ort:	なあ ?
+*CHI:	sora !
+%xmor:	n|sora=sky !
+%gpx:	pointing to ceiling
+%ort:	空 !
+*CHI:	osora n(o) naka !
+%xmor:	o_HON#n|sora=sky ptl:attr|no=GEN n|naka=middle !
+%ort:	お空ん中 !
+*MOT:	osora no naka ni aru ?
+%xmor:	o_HON#n|sora=sky ptl:attr|no=GEN n|naka=middle ptl:post|ni=DAT
+	v:ir|ar-PRES=be ?
+%cod:	$Q $FIN
+%ort:	お空の中にある ?
+*CHI:	un !
+%xmor:	co:i|un=yes !
+%ort:	うん !
+*MOT:	obake no uchi ga ?
+%xmor:	n|obake=ghost ptl:attr|no=GEN n|uchi=home ptl:case|ga=NOM ?
+%cod:	$Q
+%ort:	お化けの家が ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	obake dok(o) kara kuru no ?
+%xmor:	n|obake=ghost n:deic:wh|doko=where ptl:post|kara=ABL
+	v:ir|ku-PRES=come n:fml|no=QUD ?
+%cod:	$Q
+%ort:	お化けどこから来るの ?
+*MOT:	dok(o) kara kuru n da ne &=laugh ?
+%xmor:	n:deic:wh|doko=where ptl:post|kara=ABL v:ir|ku-PRES=come
+	n:fml|no=QUD v:cop|da&PRES=be ptl:fina|ne=TAG ?
+%cod:	$Q
+%ort:	どっからくるんだね(笑) ?
+*CHI:	a kotʃu: [: kootsuu] shita .
+%xmor:	co:i|aq=ah n:vn|kootsuu=traffic v:ir:sub|su-PAST=do .
+%gpx:	pointing picture of ball rolling onto the street
+%ort:	あkotʃu:した .
+*CHI:	hora kore .
+%xmor:	co:i|hora=look n:deic:dem|kore=this .
+%ort:	ほらこら .
+*MOT:	a hontoo .
+%xmor:	co:i|aq=ah n|hontoo=in_fact .
+%ort:	あ本当 .
+*MOT:	abunai yo tte .
+%xmor:	adj|abuna-PRES=dangerous ptl:fina|yo=ASSERT ptl:quot|tte=QUOT .
+%ort:	危ないよって .
+*CHI:	kore ne Akichan ?
+%xmor:	n:deic:dem|kore=this ptl:fina|ne=TAG n:prop|Aki-chan_FAM=Aki ?
+%cod:	$Q
+%gpx:	pointing child on the street
+%ort:	これねアキちゃん ?
+*MOT:	Akichan da ne .
+%xmor:	n:prop|Aki-chan_FAM=Aki v:cop|da&PRES=be ptl:fina|ne=TAG .
+%ort:	アキちゃんだね .
+*CHI:	kore ne booru wa nani ?
+%xmor:	n:deic:dem|kore=this ptl:fina|ne=TAG n|booru=ball ptl:top|wa=TOP
+	n:deic:wh|nani=what ?
+%cod:	$Q
+%ort:	これねボールは何 ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	pompompon@o tte kuru .
+%xmor:	onoma|pompompon ptl:quot|tte=QUOT v:ir|ku-PRES=come .
+%ort:	ポンポンポンってくる .
+*CHI:	kore nani ?
+%xmor:	n:deic:dem|kore=this n:deic:wh|nani=what ?
+%cod:	$Q
+%gpx:	pointing ball
+%ort:	これ何 ?
+*MOT:	tonde (i)tchatta no „ booru .
+%xmor:	v:c|tob-CONN=fly v:c:sub|ik-COMPL-PAST=go n:fml|no=QUD tag|disloc
+	n|booru=ball .
+%ort:	飛んでっちゃったのボール .
+*CHI:	toide@n [: tonde] [* m] ?
+%xmor:	v:c|tob-IMP:te=fly ?
+%cod:	$Q
+%ort:	といで ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	saa .
+%xmor:	co:i|saa=well .
+%ort:	さあ .
+*MOT:	kore wa nezumichan no san .
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP n|nezumi-chan_FAM=mouse
+	ptl:attr|no=GEN num|san=three .
+%act:	gives Phonocard
+%ort:	これはネズミちゃんの三 .
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%act:	throws card
+%ort:	はい .
+*MOT:	otete ni .
+%xmor:	o_HON#n:mot|tete=hand ptl:post|ni=DAT .
+%ort:	お手手に .
+*MOT:	otete ni .
+%xmor:	o_HON#n:mot|tete=hand ptl:post|ni=DAT .
+%ort:	お手手に .
+*CHI:	kore nani ?
+%xmor:	n:deic:dem|kore=this n:deic:wh|nani=what ?
+%cod:	$Q
+%gpx:	pointing little torn paper on Phonocard
+%ort:	これ何 ?
+*MOT:	kore wa roku .
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP num|roku=six .
+%ort:	これは六 .
+*CHI:	kore ?
+%xmor:	n:deic:dem|kore=this ?
+%cod:	$Q
+%ort:	これ ?
+*MOT:	kore hon kara dete kita .
+%xmor:	n:deic:dem|kore=this n|hon=book ptl:post|kara=ABL
+	v:v|de-CONN=get_out v:ir:sub|ku-PAST=come .
+%ort:	これ本から出てきた .
+*CHI:	doko no hon kara ?
+%xmor:	n:deic:wh|doko=where ptl:attr|no=GEN n|hon=book ptl:post|kara=ABL ?
+%cod:	$Q
+%ort:	どこの本から ?
+*MOT:	ojisan no kasa tte kait(e) aru .
+%xmor:	n|oji-san_HON=uncle ptl:attr|no=GEN n|kasa=umbrella
+	ptl:quot|tte=QUOT v:c|kak-CONN=write v:ir:sub|ar-PRES=be .
+%ort:	オジサンの傘って書いたる .
+*MOT:	sore iranai .
+%xmor:	n:deic:dem|sore=this v:c|ir-NEG-PRES=need .
+%cod:	$FIN $NEG
+%exp:	Aki puts little paper into shelf to the books
+%tim:	0:33:00
+%ort:	それいらない .
+*CHI:	doko kanaa ?
+%xmor:	n:deic:wh|doko=where ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%act:	looking for the book where the paper comes from
+%ort:	どこかなあ ?
+*CHI:	ojiisan n(o) kasa tte kotchi kara wa ?
+%xmor:	o_HON#n|jii-san_HON=grandfather ptl:attr|no=GEN n|kasa=umbrella
+	ptl:quot|tte=QUOT n:deic:dem|kotchi=here ptl:post|kara=ABL
+	ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%act:	takes out umbrella book
+%ort:	オジサンん傘ってこっちからは ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	soo [/] soo .
+%xmor:	co:i|soo=right .
+%ort:	そうそう .
+*MOT:	moo iranai yo „ sore .
+%xmor:	adv|moo=already v:c|ir-NEG-PRES=need ptl:fina|yo=ASSERT tag|disloc
+	n:deic:dem|sore=this .
+%cod:	$NEG
+%ort:	もういらないよそれ .
+*CHI:	kore nani ?
+%xmor:	n:deic:dem|kore=this n:deic:wh|nani=what ?
+%cod:	$Q
+%act:	opens book , turns pages
+%ort:	これ何 ?
+*MOT:	ookii kasa da ne .
+%xmor:	adj|ooki-PRES=big n|kasa=umbrella v:cop|da&PRES=be ptl:fina|ne=TAG
+	.
+%ort:	大きい傘だね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	waa takusan .
+%xmor:	co:i|waa=wow quant|takusan=many .
+%ort:	わあたくさん .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	ojiisan dake no .
+%xmor:	o_HON#n|jii-san_HON=grandfather ptl:foc|dake=only ptl:attr|no=GEN .
+%ort:	オジサンだけの .
+*CHI:	dok(o) kara hairu no naa ?
+%xmor:	n:deic:wh|doko=where ptl:post|kara=ABL v:c|hair-PRES=enter
+	n:fml|no=QUD ptl:fina|naa=TAG ?
+%cod:	$Q $FIN
+%act:	holds paper to picture
+%ort:	どっから入るのなあ ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	dok(o) kara ?
+%xmor:	n:deic:wh|doko=where ptl:post|kara=ABL ?
+%cod:	$Q
+%ort:	どっから ?
+*MOT:	ojiisan ?
+%xmor:	o_HON#n|jii-san_HON=grandfather ?
+%cod:	$Q
+%ort:	オジサン ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	dok(o) kara ?
+%xmor:	n:deic:wh|doko=where ptl:post|kara=ABL ?
+%cod:	$Q
+%ort:	どっから ?
+*MOT:	ojiisan kok(o) kara hairu no yo .
+%xmor:	o_HON#n|jii-san_HON=grandfather n:deic:dem|koko=here
+	ptl:post|kara=ABL v:c|hair-PRES=enter n:fml|no=QUD
+	ptl:fina|yo=ASSERT .
+%ort:	オジサンこっから入るのよ .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%act:	scratching
+%ort:	痛い .
+*SUZ:	kayui .
+%ort:	痒い .
+*CHI:	kayui .
+%xmor:	adj|kayu-PRES=itchy .
+%ort:	痒い .
+*SUZ:	mada kayui no ?
+%ort:	まだ痒いの ?
+*CHI:	ʃo: [: soo] .
+%xmor:	co:i|soo=right .
+%ort:	しょう .
+*CHI:	koko .
+%xmor:	n:deic:dem|koko=here .
+%gpx:	pointing at his back
+%ort:	ここ .
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%exp:	Aki gets up , goes to kitchen
+%ort:	ん ?
+*MOT:	moojiki naoru .
+%xmor:	adv|moojiki=soon v:c|naor-PRES=heal .
+%ort:	もうじき治る .
+*CHI:	okuʃuɽi [: okusuri] wa ?
+%xmor:	o_HON#n|kusuri=medicine ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	おくしゅりは ?
+*MOT:	moojiki naoru kara .
+%xmor:	adv|moojiki=soon v:c|naor-PRES=heal ptl:conj|kara=because .
+%ort:	もうじき治るから .
+*CHI:	een [=! whining] .
+%xmor:	co:i|een=boo_hoo .
+%ort:	エーン .
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*MOT:	moojiki naoru kara .
+%xmor:	adv|moojiki=soon v:c|naor-PRES=heal ptl:conj|kara=because .
+%ort:	もうじき治るから .
+*MOT:	moo kayui no naoru ne .
+%xmor:	adv|moo=already adj|kayu-PRES=itchy n:fml|no=RLV v:c|naor-PRES=heal
+	ptl:fina|ne=TAG .
+%ort:	もう痒いの治るね .
+*MOT:	doko ?
+%xmor:	n:deic:wh|doko=where ?
+%cod:	$Q
+%exp:	Aki sits down on her lap
+%ort:	どこ ?
+*SUZ:	misete .
+%ort:	見せて .
+*MOT:	mushi [= insect] ga ita no kanaa ?
+%xmor:	n|mushi=insect ptl:case|ga=NOM v:v|i-PAST=exist n:fml|no=QUD
+	ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	虫がいたのかなあ ?
+*MOT:	mushi [= insect] ga chiku tte shita ?
+%xmor:	n|mushi=insect ptl:case|ga=NOM onoma|chiku ptl:quot|tte=QUOT
+	v:ir:sub|su-PAST=do ?
+%cod:	$Q
+%ort:	虫がチクってした ?
+*MOT:	honto(o) .
+%xmor:	n|hontoo=in_fact .
+%ort:	本当 .
+*CHI:	itai [= ache] .
+%xmor:	adj|ita-PRES=aching .
+%ort:	痛い .
+*MOT:	kayui no ?
+%xmor:	adj|kayu-PRES=itchy n:fml|no=QUD ?
+%cod:	$Q
+%ort:	痒いの ?
+*CHI:	kore .
+%xmor:	n:deic:dem|kore=this .
+%gpx:	pointing Phonocards which Amo had lined up before
+%ort:	これ .
+*CHI:	suuji ga .
+%xmor:	n|suuji=number ptl:case|ga=NOM .
+%ort:	数字が .
+*MOT:	suuji ga aru yo .
+%xmor:	n|suuji=number ptl:case|ga=NOM v:ir|ar-PRES=be ptl:fina|yo=ASSERT .
+%ort:	数字があるよ .
+*MOT:	mina suuji da ne .
+%xmor:	n:deic:prs|mina=all n|suuji=number v:cop|da&PRES=be ptl:fina|ne=TAG
+	.
+%ort:	みな数字だね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	juuichi ga atchi ni oite aru yo .
+%xmor:	num|+num|juu+num|ichi=eleven ptl:case|ga=NOM
+	n:deic:dem|atchi=over_there ptl:post|ni=DAT v:c|ok-CONN=put
+	v:ir:sub|ar-PRES=be ptl:fina|yo=ASSERT .
+%ort:	十一があっちに置いてあるよ .
+*REE:	een [=! crying] .
+%ort:	エーン .
+*MOT:	hitori de sabishii yo tte .
+%xmor:	num:cl|hito-ri_PERSON=one v:cop|de&CONN=be
+	adj|sabishi-PRES=feeling_lonely ptl:fina|yo=ASSERT ptl:quot|tte=QUOT
+	.
+%act:	goes to other room to fetch Ree
+%ort:	一人で寂しいよって .
+*CHI:	minna doko ni iru no ?
+%xmor:	n:deic:prs|mina=all n:deic:wh|doko=where ptl:post|ni=DAT
+	v:v|i-PRES=exist n:fml|no=QUD ?
+%cod:	$Q
+%ort:	皆どこにいるの ?
+*CHI:	minna .
+%xmor:	n:deic:prs|mina=all .
+%ort:	皆 .
+*SUZ:	mina koko de asonderu ne .
+%ort:	皆ここで遊んでるね .
+*SUZ:	Reechan dake ga mukoo de naiteru ne .
+%ort:	レイちゃんだけが向こうで泣いてるね .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	doo shita no ?
+%xmor:	adv:deic:wh|doo=how v:ir|su-PAST=do n:fml|no=QUD ?
+%cod:	$Q $FIN
+%ort:	どうしたの ?
+*SUZ:	kotchi ni kitai ne .
+%ort:	こっちにきたいね .
+*CHI:	googuru wa yuwanai .
+%xmor:	n|googuru=goggles ptl:top|wa=TOP v:c|yuw-NEG-PRES=say .
+%exp:	Phonocard 5 song containing "googuru" doesn't sound
+%tim:	0:36:00
+%ort:	ゴーグルは言わない .
+*CHI:	go tte iwanai .
+%xmor:	num|go=five ptl:quot|tte=QUOT v:c|iw-NEG-PRES=say .
+%cod:	$NEG
+%ort:	五って言わない .
+*SUZ:	iwanai ne .
+%ort:	言わないね .
+*SUZ:	dooshite ?
+%ort:	どうして ?
+*CHI:	ima ne Akichan ga ne garigari@o shita de [= causal] .
+%xmor:	n|ima=now ptl:fina|ne=TAG n:prop|Aki-chan_FAM=Aki ptl:case|ga=NOM
+	ptl:fina|ne=TAG onoma|garigari v:ir:sub|su-PAST=do
+	ptl:fina|de=ASSERT .
+%ort:	今ねアキちゃんがねガリガリしたで .
+*SUZ:	a soo .
+%ort:	あそう .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*SUZ:	ichi mo yatte .
+%ort:	一もやって .
+*CHI:	doko ?
+%xmor:	n:deic:wh|doko=where ?
+%cod:	$Q
+%ort:	どこ ?
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*SUZ:	iya ?
+%ort:	嫌 ?
+*SUZ:	ja san .
+%ort:	じゃ三 .
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*SUZ:	zero .
+%ort:	ゼロ .
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*SUZ:	garangaran@u no zero .
+%ort:	ガランガランのゼロ .
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*SUZ:	iya ?
+%ort:	嫌 ?
+*SUZ:	ja kyuu .
+%ort:	じゃ九 .
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*SUZ:	ja nani suru ?
+%ort:	じゃ何する ?
+*CHI:	moo (h)okatte mon .
+%xmor:	adv|moo=already v:c|hokar-IMP:te=throw_away ptl:fina|mon=ASSERT .
+%ort:	もうおかってもん .
+*SUZ:	moo nani ?
+%ort:	もう何 ?
+*CHI:	(h)okatte mon .
+%xmor:	v:c|hokar-IMP:te=throw_away ptl:fina|mon=ASSERT .
+%ort:	おかってもん .
+*SUZ:	nani ?
+%ort:	何 ?
+*CHI:	kore moo oshimai no .
+%xmor:	n:deic:dem|kore=this adv|moo=already o_HON#v:c|shimaw-GER=finish
+	n:fml|no=QUD .
+%ort:	これもうおしまいの .
+*SUZ:	oshimai ?
+%ort:	おしまい ?
+*CHI:	kono aiueo no tsumiki ga ii mon .
+%xmor:	adn:deic:dem|kono=this n:let|aiueo=hiragana ptl:attr|no=GEN
+	n|tsumiki=blocks ptl:case|ga=NOM adj|i-PRES=good ptl:fina|mon=ASSERT
+	.
+%ort:	このあいうえおの積み木がいいもん .
+*SUZ:	un .
+%ort:	うん .
+*SUZ:	ja kore naoshite .
+%ort:	じゃこれ直して .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*SUZ:	kore katazukete .
+%ort:	これ片付けて .
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%act:	puts Phonocards into basket
+%ort:	はい .
+*SUZ:	Suuze wa hon mite ii ?
+%ort:	スーゼは本見ていい ?
+*CHI:	hon mo oshimai .
+%xmor:	n|hon=book ptl:foc|mo=ADD o_HON#v:c|shimaw-GER=finish .
+%ort:	本もおしまい .
+*SUZ:	mitai .
+%ort:	見たい .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*SUZ:	kore mitai .
+%ort:	これ見たい .
+*CHI:	moo oshimai no „ kore .
+%xmor:	adv|moo=already o_HON#v:c|shimaw-GER=finish n:fml|no=QUD tag|disloc
+	n:deic:dem|kore=this .
+%ort:	もうおしまいのこれ .
+*SUZ:	fuun .
+%ort:	ふうん .
+*CHI:	Suuze wa ?
+%xmor:	n:prop|Suuze=Suse ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	スーゼは ?
+*SUZ:	Suuze wa kore ageru kara .
+%ort:	スーゼはこれあげるから .
+*CHI:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*SUZ:	kore kara tsumiki dasu ?
+%ort:	これから積み木です ?
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*SUZ:	ima kara wa tsumiki ?
+%ort:	今からは積み木 ?
+*CHI:	soo .
+%xmor:	co:i|soo=right .
+%ort:	そう .
+*SUZ:	fuun .
+%ort:	ふうん .
+*CHI:	ima kara tsumiki .
+%xmor:	n|ima=now ptl:post|kara=ABL n|tsumiki=blocks .
+%ort:	今から積み木 .
+*CHI:	kotchi no de Akichan tsumiki yatte .
+%xmor:	n:deic:dem|kotchi=here ptl:attr|no=GEN ptl:post|de=LOC
+	n:prop|Aki-chan_FAM=Aki n|tsumiki=blocks v:c|yar-CONN=do .
+%act:	gets under umbrella
+%ort:	こっちのでアキちゃん積み木やって .
+*CHI:	Akichan tsumiki yaru de yattete .
+%xmor:	n:prop|Aki-chan_FAM=Aki n|tsumiki=blocks v:c|yar-PRES=do
+	ptl:fina|de=ASSERT v:c|yar-ASP-IMP:te=do .
+%com:	causal de
+%ort:	アキちゃん積み木やるでやってて .
+*CHI:	yaroo ?
+%xmor:	v:c|yar-HORT=do ?
+%cod:	$Q
+%ort:	やろう ?
+*SUZ:	un .
+%ort:	うん .
+*SUZ:	yaroo ?
+%ort:	やろう ?
+*CHI:	dore de ?
+%xmor:	n:deic:wh|dore=which ptl:post|de=LOC ?
+%cod:	$Q
+%ort:	どれで ?
+*SUZ:	nani tsukuroo kane(e) ?
+%ort:	何作ろうかね ?
+*CHI:	kooen tsukuroo ?
+%xmor:	n|kooen=park v:c|tsukur-HORT=make ?
+%cod:	$Q
+%ort:	公園作ろう ?
+*SUZ:	un .
+%ort:	うん .
+*SUZ:	kooen .
+%ort:	公園 .
+*SUZ:	tsukutte .
+%ort:	作って .
+*CHI:	chigau .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	違う .
+*CHI:	kore katezu@n [: katazukeru] [* m] kara .
+%xmor:	n:deic:dem|kore=this v:v|katazuke-PRES=tidy_up
+	ptl:conj|kara=because .
+%ort:	これかてずから .
+*SUZ:	dare ga katazukeru o ?
+%ort:	誰が片付けるの ?
+*CHI:	are no ne kiiro no ne are .
+%xmor:	n:deic:dem|are=that ptl:attr|no=GEN ptl:fina|ne=TAG
+	n|+n|ki+n|iro=yellow_color ptl:attr|no=GEN ptl:fina|ne=TAG
+	n:deic:dem|are=that .
+%gpx:	pointing yellow basket for Phonocards
+%ort:	あれのね黄色のねあれ .
+*SUZ:	un .
+%ort:	うん .
+*SUZ:	asoko ni irete „ kaado .
+%ort:	あそこに入れてカード .
+*SUZ:	Suuze wa ehon o tsumu kara .
+%ort:	スーゼは絵本を積むから .
+*SUZ:	Akichan wa kaado o irete .
+%ort:	アキちゃんはカードを入れて .
+*CHI:	iya .
+%xmor:	n:an|iya=disgusting .
+%cod:	$NEG
+%ort:	嫌 .
+*SUZ:	kotchi mo iya da yo .
+%ort:	こっちも嫌だよ .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*SUZ:	Suuze mo iya da yo .
+%tim:	0:39:00
+%ort:	スーゼも嫌だよ .
+*SUZ:	Reechan wa mata nechatta kanaa ?
+%exp:	Amo doesn't come back with Ree
+%ort:	レイちゃんはまた寝ちゃったかなあ ?
+*CHI:	mata nechatta kanaa ?
+%xmor:	adv|mata=again v:v|ne-COMPL-PAST=lie_down ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	また寝ちゃったかなあ ?
+*CHI:	nenai kanaa ?
+%xmor:	v:v|ne-NEG-PRES=lie_down ptl:fina|kanaa=DOUBT ?
+%cod:	$Q $NEG
+%ort:	寝ないかなあ ?
+*SUZ:	tsumiki de asoboo ?
+%ort:	積み木で遊ぼう ?
+*CHI:	tsumiki de asoboo ka ?
+%xmor:	n|tsumiki=blocks ptl:post|de=LOC v:c|asob-HORT=play ptl:fina|ka=Q ?
+%cod:	$Q
+%ort:	積み木で遊ぼうか ?
+*SUZ:	un .
+%ort:	うん .
+*CHI:	ikoo ?
+%xmor:	v:c|ik-HORT=go ?
+%cod:	$Q
+%ort:	行こう ?
+*CHI:	koko .
+%xmor:	n:deic:dem|koko=here .
+%ort:	ここ .
+*CHI:	tsumiki de asoboo ka ?
+%xmor:	n|tsumiki=blocks ptl:post|de=LOC v:c|asob-HORT=play ptl:fina|ka=Q ?
+%cod:	$Q
+%ort:	積み木で遊ぼうか ?
+*SUZ:	kooen tsukuroo ka ?
+%ort:	公園作ろうか ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	Akichan no ouchi tsukuroo ka ?
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:attr|no=GEN o_HON#n|uchi=home
+	v:c|tsukur-HORT=make ptl:fina|ka=Q ?
+%cod:	$Q
+%ort:	アキちゃんのお家作ろうか ?
+*SUZ:	a: ii kangae da ne .
+%ort:	あいい考えだね .
+*SUZ:	tsukuroo ka ?
+%ort:	作ろうか ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	tsukuroo ?
+%xmor:	v:c|tsukur-HORT=make ?
+%cod:	$Q
+%ort:	作ろう ?
+*CHI:	tsukuroo ?
+%xmor:	v:c|tsukur-HORT=make ?
+%cod:	$Q
+%ort:	作ろう ?
+*SUZ:	okuchi ga okashii ne .
+%exp:	Aki takes soft toy hen
+%ort:	お口がおかしいね .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*SUZ:	okuchi ga okashii ne .
+%ort:	お口がおかしいね .
+*CHI:	naka akete miyoo ?
+%xmor:	n|naka=middle v:v|ake-CONN=open v:v:sub|mi-HORT=try ?
+%cod:	$Q $FIN
+%exp:	hen has a zipper
+%ort:	中開けてみよう ?
+*SUZ:	akeru no ?
+%ort:	開けるの ?
+*SUZ:	tʃijau [: chigau] .
+%ort:	tʃijau .
+*SUZ:	moo kakeru no .
+%act:	closing zipper
+%ort:	もうかけるの .
+*SUZ:	kore ga ne okashii de .
+%com:	causal de
+%gpx:	pointing beak
+%ort:	これがねおかしいで .
+*CHI:	tama ga atte .
+%xmor:	n|tama=ball ptl:case|ga=NOM v:ir|ar-CONN=be .
+%exp:	small ball out of clothes (egg)
+%ort:	玉があって .
+*CHI:	tsuno ga deteru „ kore .
+%xmor:	n|tsuno=horn ptl:case|ga=NOM v:v|de-ASP-PRES=get_out tag|disloc
+	n:deic:dem|kore=this .
+%ort:	角が出てるこれ .
+*SUZ:	misete .
+%ort:	見せて .
+*CHI:	tsuno haitteteru@n [: haitteru] [* m] .
+%xmor:	n|tsuno=horn v:c|hair-ASP-PRES=enter .
+%ort:	角はいっててる .
+*SUZ:	tsuno ?
+%ort:	角 ?
+*CHI:	tamago no tsuno .
+%xmor:	n|tamago=egg ptl:attr|no=GEN n|tsuno=horn .
+%ort:	卵の角 .
+*CHI:	mokkai kakete miyoo ka ?
+%xmor:	adv|mokkai=once_more v:v|kake-CONN=hook v:v:sub|mi-HORT=try
+	ptl:fina|ka=Q ?
+%cod:	$Q $FIN
+%tim:	0:42:30
+%ort:	もっかいかけてみようか ?
+*CHI:	akete ii ?
+%xmor:	v:v|ake-CONN=open adj|i-PRES=good ?
+%cod:	$Q
+%ort:	開けていい ?
+*SUZ:	akenai yo .
+%ort:	開けないよ .
+*CHI:	denchi ga kowarete aru .
+%xmor:	n|denchi=battery ptl:case|ga=NOM v:v|koware-CONN=break
+	v:ir:sub|ar-PRES=be .
+%ort:	電池がこ壊れてある .
+*SUZ:	n ?
+%ort:	ん ?
+*SUZ:	denchi haittenai .
+%ort:	電池入ってない .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	tʃijau .
+*CHI:	denchi ga kowatchau@n [: kowarechau] [* m] no „ kooiu no .
+%xmor:	n|denchi=battery ptl:case|ga=NOM v:v|koware-COMPL-PRES=break
+	n:fml|no=QUD tag|disloc adn:deic:dem|kooiu=like_this n:fml|no=RLV .
+%gpx:	pointing camera
+%ort:	電池がこわっちゃうのこういうの .
+*SUZ:	soo ne .
+%ort:	そうね .
+*CHI:	kotchi wa ?
+%xmor:	n:deic:dem|kotchi=here ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	こっちは ?
+*SUZ:	kotchi wa ?
+%cod:	$WAG
+%ort:	こっちは ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*SUZ:	kooiufuuna no .
+%ort:	こういう風なの .
+*SUZ:	kotchi wa kooiufuuna no .
+%ort:	こっちはこういう風なの .
+*CHI:	misete .
+%xmor:	v:v|mise-IMP:te=show .
+%exp:	zoom of camera
+%ort:	見せて .
+*CHI:	ii ?
+%xmor:	adj|i-PRES=good ?
+%cod:	$Q
+%ort:	いい ?
+*SUZ:	hora .
+%ort:	ほら .
+*SUZ:	ugoita deshoo ?
+%ort:	動いたでしょう ?
+*SUZ:	sonna ue motanaide .
+%exp:	Aki tries to move camera
+%ort:	そんな上持たないで .
+*CHI:	koko ?
+%xmor:	n:deic:dem|koko=here ?
+%cod:	$Q
+%ort:	ここ ?
+*SUZ:	un .
+%ort:	うん .
+*SUZ:	mieru ?
+%ort:	見える ?
+*CHI:	koo (y)atte ?
+%xmor:	adv:deic:dem|koo=like_this v:c|yar-CONN=do ?
+%cod:	$Q
+%ort:	こうあって ?
+*SUZ:	soo .
+%ort:	そう .
+*CHI:	miru .
+%xmor:	v:v|mi-PRES=look .
+%ort:	見る .
+*SUZ:	koko sawaranai .
+%ort:	ここ触らない .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	tʃijau .
+*CHI:	koko wa ne denchi no ne kuchi .
+%xmor:	n:deic:dem|koko=here ptl:top|wa=TOP ptl:fina|ne=TAG
+	n|denchi=battery ptl:attr|no=GEN ptl:fina|ne=TAG n|kuchi=mouth .
+%ort:	こおkはね電池のね口 .
+*SUZ:	n ?
+%ort:	ここはね電池のね口 .
+*MOT:	Reechan asobi ni kita yo .
+%xmor:	n:prop|Ree-chan_FAM=Ree v:c|asob-GER=play ptl:post|ni=DAT
+	v:ir|ku-PAST=come ptl:fina|yo=ASSERT .
+%act:	comes back with Ree on her arm
+%ort:	レイちゃん遊びに来たよ .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%tim:	0:45:00
+%ort:	うん .
+*CHI:	issho ni .
+%xmor:	n|issho=together v:cop|ni&ADV=be .
+%act:	takes top , spins it
+%ort:	一緒に .
+*MOT:	sugoi [/] sugoi .
+%xmor:	adj|sugo-PRES=terrific .
+%ort:	すごいすごい .
+*MOT:	kotchi de misete .
+%xmor:	n:deic:dem|kotchi=here ptl:post|de=LOC v:v|mise-IMP:te=show .
+%ort:	こっちで見せて .
+*MOT:	mienai yo .
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	見えないよ .
+*CHI:	hayai .
+%xmor:	adj|haya-PRES=fast .
+%ort:	早い .
+*MOT:	joozu [/] joozu .
+%xmor:	n:an|joozu=skilled .
+%ort:	上手上手 .
+*CHI:	hayai .
+%xmor:	adj|haya-PRES=fast .
+%ort:	早い .
+*MOT:	moo oshimai da .
+%xmor:	adv|moo=already o_HON#v:c|shimaw-GER=finish v:cop|da&PRES=be .
+%exp:	top falls down
+%ort:	もうおしまいだ .
+*MOT:	moo ikkai misete .
+%xmor:	adv|moo=already num:cl|ichi-kai_TIMES=one v:v|mise-IMP:te=show .
+%ort:	もう一回見せて .
+*CHI:	ii yo .
+%xmor:	adj|i-PRES=good ptl:fina|yo=ASSERT .
+%act:	gives top to MOT
+%ort:	いいよ .
+*MOT:	Reechan mo yaru ?
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:foc|mo=ADD v:c|yar-PRES=do ?
+%cod:	$Q
+%ort:	レイちゃんもやる ?
+*CHI:	chigau .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	違う .
+*CHI:	Okaachan .
+%xmor:	n:prop|Okaachan .
+%ort:	お母ちゃん .
+*MOT:	Reechan mo misete yattete .
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:foc|mo=ADD v:v|mise-CONN=show
+	v:c|yar-ASP-IMP:te=do .
+%ort:	レイちゃんも見せてやってて
+*CHI:	ii yo .
+%xmor:	adj|i-PRES=good ptl:fina|yo=ASSERT .
+%ort:	いいよ .
+*CHI:	asoko nani ʃuɽu [: suru] kanaa ?
+%xmor:	n:deic:dem|asoko=over_there n:deic:wh|nani=what v:ir|su-PRES=do
+	ptl:fina|kanaa=DOUBT ?
+%cod:	$Q $FIN
+%gpx:	pointing door , which is bound to the wall
+%ort:	あそこ何しゅるかなあ ?
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	asoko .
+%xmor:	n:deic:dem|asoko=over_there .
+%ort:	あそこ .
+*MOT:	doko ?
+%xmor:	n:deic:wh|doko=where ?
+%cod:	$Q
+%ort:	どこ ?
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%ort:	tʃijau .
+*CHI:	ten made no ne asoko .
+%xmor:	n|ten=heaven ptl:post|made=TERM v:cop|da&ADN:no=be ptl:fina|ne=TAG
+	n:deic:dem|asoko=over_there .
+%ort:	天までのねあそこ .
+*MOT:	Otoosan ga kooji shita .
+%xmor:	n:prop|Otoosan=HON_Father_HON ptl:case|ga=NOM
+	n:vn|kooji=construction_work v:ir:sub|su-PAST=do .
+%ort:	お父さんが工事した .
+*CHI:	Reechan ga nani ?
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:case|ga=NOM n:deic:wh|nani=what ?
+%cod:	$Q
+%ort:	レイちゃんが何 ?
+*MOT:	gotsun shinai yoo ni .
+%xmor:	n:vn:mot|gottsun=bumping_into v:ir:sub|su-NEG-PRES=do smod|yoo=SENS
+	v:cop|ni&ADV=be .
+%cod:	$NEG
+%ort:	ゴツンしないように .
+*CHI:	asoko ?
+%xmor:	n:deic:dem|asoko=over_there ?
+%cod:	$Q
+%ort:	あそこ ?
+*MOT:	moo akanai .
+%xmor:	adv|moo=already v:c|ak-NEG-PRES=open .
+%cod:	$NEG
+%ort:	もう開かない .
+*CHI:	Akichan yaro(o) ?
+%xmor:	n:prop|Aki-chan_FAM=Aki v:c|yar-HORT=do ?
+%cod:	$Q $FIN
+%act:	gets up
+%ort:	アキちゃんやろ ?
+*MOT:	Akichan todokanai yo .
+%xmor:	n:prop|Aki-chan_FAM=Aki v:c|todok-NEG-PRES=reach ptl:fina|yo=ASSERT
+	.
+%ort:	アキちゃん届かないよ .
+*MOT:	Akichan mo kooji suru no ?
+%xmor:	n:prop|Aki-chan_FAM=Aki ptl:foc|mo=ADD n:vn|kooji=construction_work
+	v:ir:sub|su-PRES=do n:fml|no=QUD ?
+%cod:	$Q
+%exp:	Aki fetched hammer
+%ort:	アキちゃんも工事するの ?
+*MOT:	a kooji shite .
+%xmor:	co:i|aq=ah n:vn|kooji=construction_work v:ir:sub|su-CONN=do .
+%ort:	あ工事して .
+*MOT:	waa kooji shita .
+%xmor:	co:i|waa=wow n:vn|kooji=construction_work v:ir:sub|su-PAST=do .
+%exp:	Aki hammering
+%ort:	わあ工事した .
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	kooji shita ?
+%xmor:	n:vn|kooji=construction_work v:ir:sub|su-PAST=do ?
+%cod:	$Q
+%ort:	工事した ?
+*CHI:	aʃoko [: asoko] .
+%xmor:	n:deic:dem|asoko=over_there .
+%gpx:	pointing up
+%ort:	あしょこ .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	Otoosan se takai mon ne .
+%xmor:	n:prop|Otoosan=HON_Father_HON n|se=height adj|taka-PRES=high
+	ptl:fina|mon=ASSERT ptl:fina|ne=TAG .
+%tim:	0:48:10
+%ort:	お父さん背高いもんね .
+*MOT:	koko mo kooji shite .
+%xmor:	n:deic:dem|koko=here ptl:foc|mo=ADD n:vn|kooji=construction_work
+	v:ir:sub|su-CONN=do .
+%exp:	Aki with hammer to other door
+%gpx:	pointing threshold
+%ort:	ここも工事して .
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	arigatoo .
+%xmor:	co:g|arigatoo-thank_you .
+%ort:	ありがとう .
+*MOT:	moo ii yo „ kooji .
+%xmor:	adv|moo=already adj|i-PRES=good ptl:fina|yo=ASSERT tag|disloc
+	n:vn|kooji=construction_work .
+%ort:	もういいよ工事 .
+*MOT:	oshimai .
+%xmor:	o_HON#v:c|shimaw-GER=finish .
+%exp:	Aki still hammering
+%ort:	おしまい .
+*SUZ:	owatta ?
+%ort:	終わった ?
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	kooji owari .
+%xmor:	n:vn|kooji=construction_work v:c|owar-GER=end .
+%ort:	工事終わり .
+*MOT:	arigatoo .
+%xmor:	co:g|arigatoo-thank_you .
+%ort:	ありがとう .
+*SUZ:	kondo kooen tsukuroo ?
+%ort:	今度公園作ろう ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	a ame futte kita .
+%xmor:	co:i|aq=ah n|ame=rain v:c|fur-CONN=rainfall v:ir:sub|ku-PAST=come .
+%ort:	あ雨降ってきた .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	あ雨降ってきた .
+*MOT:	ame futteru „ kyoo .
+%xmor:	n|ame=rain v:c|fur-ASP-PRES=rainfall tag|disloc n|kyoo=today .
+%ort:	雨降ってる今日 .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	tʃijau .
+*CHI:	koko no toko(ro) .
+%xmor:	n:deic:dem|koko=here ptl:attr|no=GEN n|tokoro=place .
+%gpx:	pointing under umbrella
+%ort:	ここのとこ .
+*CHI:	koko ame futteru .
+%xmor:	n:deic:dem|koko=here n|ame=rain v:c|fur-ASP-PRES=rainfall .
+%ort:	ここ雨降ってる .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	kitcha dame da yo .
+%xmor:	v:c|kir-CONN&wa=cut n:an|dame=no_good v:cop|da&PRES=be
+	ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%exp:	Ree comes nearer
+%ort:	来ちゃだめだよ .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	Reechan koma suru ?
+%xmor:	n:prop|Ree-chan_FAM=Ree n|koma=top_toy v:ir|su-PRES=do ?
+%cod:	$Q
+%add:	REE
+%ort:	レイちゃんこまする ?
+*CHI:	Reechan kuru kanaa ?
+%xmor:	n:prop|Ree-chan_FAM=Ree v:ir|ku-PRES=come ptl:fina|kanaa=DOUBT ?
+%cod:	$Q $FIN
+%ort:	レイちゃんくるかなあ ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%tim:	0:51:00
+%ort:	うん .
+*CHI:	ofuton hijo: [: hikoo] ?
+%xmor:	o_HON#n|futon=bedding v:c|hik-HORT=pull ?
+%cod:	$Q $FIN
+%act:	brings futon
+%ort:	お布団ひじょー ?
+*SUZ:	hiku no ?
+%ort:	ひくの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	puts futon over tricycle
+%ort:	うん .
+*MOT:	ame ga futteru kara ?
+%xmor:	n|ame=rain ptl:case|ga=NOM v:c|fur-ASP-PRES=rainfall
+	ptl:conj|kara=because ?
+%cod:	$Q
+%ort:	雨が降ってるから ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	sanrinsha nurenai yoo ni ?
+%xmor:	n|sanrinsha=tricycle v:v|nure-NEG-PRES=get_wet smod|yoo=SENS
+	v:cop|ni&ADV=be ?
+%cod:	$Q $NEG
+%ort:	三輪車濡れないように ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	kakatteru no .
+%xmor:	v:c|kakar-ASP-PRES=hang n:fml|no=QUD .
+%ort:	掛かってるの .
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	kore .
+%xmor:	n:deic:dem|kore=this .
+%ort:	これ .
+*CHI:	zembu yaroo ?
+%xmor:	quant|zembu=all v:c|yar-HORT=do ?
+%cod:	$Q $FIN
+%ort:	全部やろう ?
+*MOT:	zembu yaru no ?
+%xmor:	quant|zembu=all v:c|yar-PRES=do n:fml|no=QUD ?
+%cod:	$Q
+%ort:	全部やるの ?
+*MOT:	waa .
+%xmor:	co:i|waa=wow .
+%exp:	Aki fetches cushions
+%ort:	わあ .
+*MOT:	kasa magatchau yo .
+%xmor:	n|kasa=umbrella v:c|magar-COMPL-PRES=bend ptl:fina|yo=ASSERT .
+%exp:	Aki putting cushions onto umbrella
+%ort:	傘曲がっちゃうよ .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	tʃijau .
+*CHI:	ame futteru de .
+%xmor:	n|ame=rain v:c|fur-ASP-PRES=rainfall ptl:post|de=LOC .
+%com:	causal de
+%ort:	雨降ってるで .
+*MOT:	aa a .
+%xmor:	co:i|aa=ah co:i|aq=ah .
+%ort:	あああ .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%exp:	umbrella slides away under the weight
+%ort:	ん ?
+*MOT:	omosugiru .
+%xmor:	v:v|+adj|omo+v:v|sugi-PRES=heavy_too_much .
+%ort:	重すぎる .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*MOT:	omosugita .
+%xmor:	v:v|+adj|omo+v:v|sugi-PAST=heavy_too_much .
+%ort:	重すぎた .
+*CHI:	kore wa ?
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%act:	takes thin quilt
+%ort:	これは ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	sore mo ii yo .
+%xmor:	n:deic:dem|sore=this ptl:foc|mo=ADD adj|i-PRES=good
+	ptl:fina|yo=ASSERT .
+%ort:	それもいいよ .
+*CHI:	kasa wa ?
+%xmor:	n|kasa=umbrella ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	傘は ?
+*CHI:	kore kasa wa ?
+%xmor:	n:deic:dem|kore=this n|kasa=umbrella ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	これ傘は ?
+*CHI:	kore kasa wa ?
+%xmor:	n:deic:dem|kore=this n|kasa=umbrella ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	これ傘は ?
+*MOT:	sore dattara ii yo .
+%xmor:	n:deic:dem|sore=this v:cop|da-COND:tara=be adj|i-PRES=good
+	ptl:fina|yo=ASSERT .
+%ort:	それだったらいいよ .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	makura wa ?
+%xmor:	n|makura=pillow ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%ort:	枕は ?
+*MOT:	makura wa omosugiru mon .
+%xmor:	n|makura=pillow ptl:top|wa=TOP
+	v:v|+adj|omo+v:v|sugi-PRES=heavy_too_much ptl:fina|mon=ASSERT .
+%ort:	枕は重すぎるもん .
+*CHI:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%act:	trying again with quilt
+%ort:	ん ?
+*CHI:	nigechatta no .
+%xmor:	v:v|nige-COMPL-PAST=run_away n:fml|no=QUD .
+%exp:	umbrella sliding away
+%ort:	逃げちゃったの .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	mokkai kabusete goran .
+%xmor:	adv|mokkai=once_more v:v|kabuse-CONN=cover v:ir:sub|goran&IMP=try .
+%ort:	もっかいかぶせてごらん .
+*CHI:	deen@o .
+%xmor:	onoma|deen .
+%ort:	デーン .
+*CHI:	kabu(ra)nai [* m] yo .
+%xmor:	v:c|kabur-NEG-PRES=put_on_hat ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	かぶないよ .
+*MOT:	n ?
+%xmor:	co:i|n=yes ?
+%cod:	$Q
+%ort:	ん ?
+*CHI:	kabu(ra)nai [* m] yo !
+%xmor:	v:c|kabur-NEG-PRES=put_on_hat ptl:fina|yo=ASSERT !
+%cod:	$NEG
+%ort:	かぶないよ !
+*CHI:	kabu(ra)nai [* m] yo !
+%xmor:	v:c|kabur-NEG-PRES=put_on_hat ptl:fina|yo=ASSERT !
+%cod:	$NEG
+%ort:	かぶないよ !
+*MOT:	hirogete yatte goran .
+%xmor:	v:v|hiroge-CONN=spread v:c|yar-CONN=do v:ir:sub|goran&IMP=try .
+%ort:	広げてやってごらん .
+*MOT:	koko to motte +...
+%xmor:	n:deic:dem|koko=here ptl:post|to=COMT v:c|mot-CONN=hold +...
+%act:	shows how to put the quilt over the umbrella
+%ort:	ここと持って .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	+, koo yatte dekiru yo .
+%xmor:	adv:deic:dem|koo=like_this v:c|yar-CONN=do v:v|deki-PRES=can/make
+	ptl:fina|yo=ASSERT .
+%ort:	くやって出来るよ .
+*CHI:	kabu(ra)nai [* m] yo .
+%xmor:	v:c|kabur-NEG-PRES=put_on_hat ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	かぶないよ .
+*CHI:	yatte .
+%xmor:	v:c|yar-IMP:te=do .
+%ort:	やって .
+*MOT:	koo ?
+%xmor:	adv:deic:dem|koo=like_this ?
+%cod:	$Q
+%ort:	こう ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	hai .
+%xmor:	co:i|hai=yes .
+%ort:	はい .
+*MOT:	kore de ii .
+%xmor:	n:deic:dem|kore=this v:cop|de&CONN=be adj|i-PRES=good .
+%ort:	これでいい .
+*CHI:	koko .
+%xmor:	n:deic:dem|koko=here .
+%ort:	ここ .
+*MOT:	koko koo ?
+%xmor:	n:deic:dem|koko=here adv:deic:dem|koo=like_this ?
+%cod:	$Q
+%ort:	こここう ?
+*CHI:	kore wa ?
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP ?
+%cod:	$Q $WAG
+%gpx:	pointing other quilt
+%ort:	これは ?
+*CHI:	kore wa omoi ?
+%xmor:	n:deic:dem|kore=this ptl:top|wa=TOP adj|omo-PRES=heavy ?
+%cod:	$Q
+%ort:	これは重い ?
+*MOT:	kore mo kabuseru no ?
+%xmor:	n:deic:dem|kore=this ptl:foc|mo=ADD v:v|kabuse-PRES=cover
+	n:fml|no=QUD ?
+%cod:	$Q
+%ort:	これもかぶせるの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	koo suru no ?
+%xmor:	adv:deic:dem|koo=like_this v:ir|su-PRES=do n:fml|no=QUD ?
+%cod:	$Q
+%act:	helping
+%ort:	こうするの ?
+*CHI:	soo .
+%xmor:	co:i|soo=right .
+%ort:	そう .
+*CHI:	mienai yo ne .
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ptl:fina|yo=ASSERT ptl:fina|ne=TAG .
+%cod:	$NEG
+%exp:	umbrella is hidden under the quilts
+%ort:	見えないよね .
+*CHI:	tʃijau [: chigau] .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	tʃijau .
+*CHI:	koko ame futten [: futteru] node .
+%xmor:	n:deic:dem|koko=here n|ame=rain v:c|fur-ASP-PRES=rainfall
+	ptl:conj|node=because .
+%ort:	ここ雨降ってんので .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	koko gomen_kudasai to iu no ?
+%xmor:	n:deic:dem|koko=here co:g|gomen_kudasai=excuse_me ptl:quot|to=QUOT
+	v:c|iw-PRES=say n:fml|no=QUD ?
+%cod:	$Q
+%exp:	small entrance between the quilts
+%ort:	ここごめんくださいと言うの ?
+*CHI:	chigau .
+%xmor:	v:c|chigaw-PRES=different .
+%cod:	$NEG
+%ort:	違う .
+*CHI:	dame .
+%xmor:	n:an|dame=no_good .
+%cod:	$NEG
+%ort:	ダメ .
+*CHI:	koko wa ne hairu toko(ro) no ne kore heɽeɽu [: ireru] [* p] no .
+%xmor:	n:deic:dem|koko=here ptl:top|wa=TOP ptl:fina|ne=TAG
+	v:c|hair-PRES=enter n|tokoro=place ptl:attr|no=GEN ptl:fina|ne=TAG
+	n:deic:dem|kore=this v:v|ire-PRES=put_in n:fml|no=QUD .
+%com:	blending of haireru and ireru
+%ort:	ここはね入るとこのねこれ heɽeɽuの .
+*MOT:	ireru no ?
+%xmor:	v:v|ire-PRES=put_in n:fml|no=QUD ?
+%cod:	$Q
+%ort:	入れるの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	puts books under umbrella
+%ort:	うん .
+*MOT:	takusan da ne .
+%xmor:	quant|takusan=many v:cop|da&PRES=be ptl:fina|ne=TAG .
+%ort:	たくさんだね .
+*SUZ:	isu made mo hairu no ?
+%ort:	椅子までも入るの ?
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%act:	puts little stool from bathing room under umbrella
+%ort:	うん .
+*MOT:	moo manin da ne .
+%xmor:	adv|moo=already n|manin=fully_occupied v:cop|da&PRES=be
+	ptl:fina|ne=TAG .
+%ort:	もう満員だね .
+*MOT:	a sugoi .
+%xmor:	co:i|aq=ah adj|sugo-PRES=terrific .
+%ort:	あ凄い .
+*CHI:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	kondo hairenai ne .
+%xmor:	n|kondo=this_time v:c|hair-POT-NEG-PRES=enter ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	今度入れないね .
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*MOT:	manin da ne .
+%xmor:	n|manin=fully_occupied v:cop|da&PRES=be ptl:fina|ne=TAG .
+%ort:	満員だね .
+*CHI:	kondo doko ni shiyoo kanaa ?
+%xmor:	n|kondo=this_time n:deic:wh|doko=where v:cop|ni&ADV=be
+	v:ir|su-HORT=do ptl:fina|kanaa=DOUBT ?
+%cod:	$Q
+%ort:	今度どこにしようかなあ ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%tim:	0:57:00
+%ort:	うん .
+*CHI:	kore ni shiyoo ?
+%xmor:	n:deic:dem|kore=this v:cop|ni&ADV=be v:ir|su-HORT=do ?
+%cod:	$Q $FIN
+%act:	takes big quilt , puts it over umbrella
+%ort:	これにしよう ?
+*MOT:	a mienai yo .
+%xmor:	co:i|aq=ah v:v|mie-NEG-PRES=be_in_sight ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	あ見えないよ .
+*MOT:	komatta naa .
+%xmor:	v:c|komar-PAST=have_difficulty ptl:fina|naa=TAG .
+%ort:	困ったなあ .
+*MOT:	waa takusan .
+%xmor:	co:i|waa=wow quant|takusan=many .
+%ort:	わあたくさん .
+*CHI:	ookii ?
+%xmor:	adj|ooki-PRES=big ?
+%cod:	$Q
+%act:	puts other quilt over tricycle
+%ort:	大きい ?
+*CHI:	mienai ?
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ?
+%cod:	$Q $NEG
+%ort:	見えない ?
+*MOT:	un .
+%xmor:	co:i|un=yes .
+%ort:	うん .
+*CHI:	mienai ?
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ?
+%cod:	$Q $NEG
+%ort:	見えない ?
+*MOT:	mienai yo .
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	見えないよ .
+*CHI:	moo nai ?
+%xmor:	adv|moo=already v:ir|ar&NEG-PRES=be ?
+%cod:	$Q $NEG
+%ort:	もうない ?
+*MOT:	moo nai yo .
+%xmor:	adv|moo=already v:ir|ar&NEG-PRES=be ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	もうないよ .
+*CHI:	kore yaroo ?
+%xmor:	n:deic:dem|kore=this v:c|yar-HORT=do ?
+%cod:	$Q $FIN
+%act:	puts blocks under umbrella
+%ort:	これやろう ?
+*MOT:	tsumiki mo mienaku natchatta ne .
+%xmor:	n|tsumiki=blocks ptl:foc|mo=ADD v:v|mie-NEG-ADV=be_in_sight
+	v:c|nar-COMPL-PAST=become ptl:fina|ne=TAG .
+%cod:	$NEG
+%ort:	積み木も見えなくなっちゃったね .
+*MOT:	moo mienai .
+%xmor:	adv|moo=already v:v|mie-NEG-PRES=be_in_sight .
+%cod:	$NEG
+%ort:	もう見えない .
+*MOT:	doo shiyoo ?
+%xmor:	adv:deic:wh|doo=how v:ir|su-HORT=do ?
+%cod:	$Q $FIN
+%ort:	どうしよう ?
+*MOT:	doo shiyoo ?
+%xmor:	adv:deic:wh|doo=how v:ir|su-HORT=do ?
+%cod:	$Q $FIN
+%ort:	どうしよう ?
+*MOT:	mienai yo .
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ptl:fina|yo=ASSERT .
+%cod:	$NEG
+%ort:	見えないよ .
+*MOT:	tsumiki doko itta ?
+%xmor:	n|tsumiki=blocks n:deic:wh|doko=where v:c|ik-PAST=go ?
+%cod:	$Q
+%ort:	積み木どこ行った ?
+*MOT:	Reechan mo mitai yo tte .
+%xmor:	n:prop|Ree-chan_FAM=Ree ptl:foc|mo=ADD smod|mitai=INFR
+	ptl:fina|yo=ASSERT ptl:quot|tte=QUOT .
+%ort:	レイちゃんも見たいよって .
+*CHI:	dame .
+%xmor:	n:an|dame=no_good .
+%cod:	$NEG
+%ort:	ダメ .
+*MOT:	komatta ne .
+%xmor:	v:c|komar-PAST=have_difficulty ptl:fina|ne=TAG .
+%ort:	困ったね .
+*MOT:	ookii ne .
+%xmor:	adj|ooki-PRES=big ptl:fina|ne=TAG .
+%exp:	Aki puts quilt over horse
+%ort:	大きいね .
+*MOT:	mienai ne .
+%xmor:	v:v|mie-NEG-PRES=be_in_sight ptl:fina|ne=TAG .
+%cod:	$NEG
+%tim:	1:00:00
+%ort:	見えないね .
+@End

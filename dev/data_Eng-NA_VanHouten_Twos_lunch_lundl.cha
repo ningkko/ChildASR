@@ -1,0 +1,296 @@
+@UTF8
+@PID:	11312/c-00017718-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Lori Mother, CHI Adam Target_Child
+@ID:	eng|VanHouten|MOT||female|MOT_Older||Mother|MOT_2||
+@ID:	eng|VanHouten|CHI|2;04.|male|TD||Target_Child|||
+@Comment:	Education of MOT is 2
+@Situation:	Lunch. Child sits in high chair facing Mother , who does
+	not eat. Child is fairly intelligible.
+@Comment:	Age Group of MOT Older
+@Comment:	cross, meal, TD
+@Types:	cross, meal, TD
+*MOT:	who's that down there ?
+%mor:	pro:int|who~cop|be&3S pro:dem|that prep|down n|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%sit:	dog is barking .
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	Kelly .
+%mor:	n:prop|Kelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	Kelly .
+%mor:	n:prop|Kelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/A
+*CHI:	what Kelly doin(g) ?
+%mor:	pro:int|what n:prop|Kelly part|do-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Rfi
+*MOT:	she's barkin(g) .
+%mor:	pro:sub|she~aux|be&3S part|bark-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Rep
+*CHI:	where baby ?
+%mor:	pro:int|where n|baby ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*MOT:	he's in your crib .
+%mor:	pro:sub|he~cop|be&3S prep|in det:poss|your n|crib .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rri $Rep
+*MOT:	we're gonna feed him after you eat .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|feed pro:obj|him
+	prep|after pro:per|you v|eat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|SUBJ
+	9|7|POBJ 10|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Con $Rep
+*CHI:	go and get him .
+%mor:	v|go coord|and v|get pro:obj|him .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Res $Des
+*MOT:	after .
+%mor:	prep|after .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Rep
+*CHI:	we're gonna get baby [*] .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|get n|baby .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%cod:	MLU=5 $NMV=1 $Res $Rep
+*CHI:	where Gail ?
+%mor:	pro:int|where n:prop|Gail ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*MOT:	see (.) she's over there .
+%mor:	co|see pro:sub|she~cop|be&3S prep|over n|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=2 $Rri $Rep
+*MOT:	what is she doin(g) ?
+%mor:	pro:int|what cop|be&3S pro:sub|she part|do-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%sit:	points to sandwich; says he's got something .
+%cod:	$Ini $Rep
+*MOT:	hm: .
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Rsc
+*MOT:	okay (.) eat your lunch .
+%mor:	co|okay v|eat det:poss|your n|lunch .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	picks up new half of sandwich .
+*MOT:	you gotta finish the other one .
+%mor:	pro:per|you mod|got~inf|to v|finish det:art|the qn|other
+	pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rta $C/R
+*MOT:	you're gonna start a new one ?
+%mor:	pro:per|you~aux|be&PRES part|go-PRESP~inf|to v|start det:art|a
+	adj|new pro:indef|one ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	tries to pick up sandwich .
+*MOT:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Rep
+*MOT:	is it stuck ?
+%mor:	aux|be&3S pro:per|it v|stick&PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	0 .
+%sit:	puts bread in milk .
+*MOT:	why'd you put it in there ?
+%mor:	pro:rel|why~mod|genmod pro:per|you v|put&ZERO pro:per|it prep|in
+	n|there ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rta $Rfi
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rfi
+*MOT:	what're you doing with it ?
+%mor:	pro:int|what~aux|be&PRES pro:per|you part|do-PRESP prep|with
+	pro:per|it ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*MOT:	I tell you .
+%mor:	pro:sub|I v|tell pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	you gonna dunk it ?
+%mor:	pro:per|you part|go-PRESP~inf|to v|dunk pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Exp
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	well (.) that's something new .
+%mor:	co|well pro:dem|that~cop|be&3S pro:indef|something adj|new .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|POSTMOD 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Rep
+*CHI:	0 .
+%sit:	sticks wet , dripping bread in mouth .
+*MOT:	how does it taste ?
+%mor:	pro:int|how mod|do&3S pro:per|it v|taste ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	laughs .
+%cod:	$MLU=4 $NMV=1 $Rta $Rfi
+*CHI:	0 .
+%sit:	nods; mouth is full .
+%cod:	$MLU=0 $NMV=0 $Res $Rep
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Cla
+*MOT:	is it good like that ?
+%mor:	aux|be&3S pro:per|it adj|good prep|like pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|PRED 3|2|POSTMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*CHI:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	oh (.) yeah ?
+%mor:	co|oh co|yeah ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Exp
+*CHI:	mhm .
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	nods .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $C/A
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	nods .
+%cod:	$MLU=1 $NMV=0 $Con $C/A
+*CHI:	Mom .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Des
+*MOT:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Rfi
+*CHI:	gonna do it s'more [: some more] .
+%mor:	part|go-PRESP~inf|to v|do pro:per|it qn|some adv|more .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|6|QUANT 6|3|JCT 7|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*CHI:	for my baby .
+%mor:	prep|for det:poss|my n|baby .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%sit:	baby starts crying .
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*MOT:	oh (.) that's your baby ?
+%mor:	co|oh pro:dem|that~cop|be&3S det:poss|your n|baby ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Rfi
+*MOT:	<gonna get (h)im in a few minutes> [?] .
+%mor:	part|go-PRESP~inf|to v|get pro:obj|him prep|in det:art|a n|few
+	n|minute-PL .
+%gra:	1|0|INCROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|1|PUNCT
+%sit:	gaze clock .
+%cod:	$Ini $Rep
+*MOT:	he'll be alright .
+%mor:	pro:sub|he~mod|will cop|be adj|alright .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	0 .
+%sit:	dunk new piece of bread .
+*MOT:	<You xxx get to eat that piece that you're doin(g)> [?] .
+%mor:	n:prop|You v|get inf|to v|eat det:dem|that n|piece pro:rel|that
+	pro:per|you~aux|be&PRES part|do-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|2|PUNCT
+%cod:	$Rta $Rep
+*CHI:	0 .
+%sit:	gaze camera person .
+*MOT:	what are you sayin(g) ?
+%mor:	pro:int|what aux|be&PRES pro:per|you part|say-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rta $Rfi
+*MOT:	+" what is she doing that for ?
+%mor:	pro:int|what cop|be&3S pro:sub|she n:gerund|do-PRESP adv|that
+	prep|for ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OM 5|4|JCT 6|4|JCT 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%cod:	$Res
+*MOT:	she mighta [: might have] wanted to see you use silverware .
+%mor:	pro:sub|she mod|might aux|have part|want-PASTP inf|to v|see
+	pro:per|you n|use n|silverware .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+%cod:	$MLU=8 $NMV=3 $Res $Rep
+*MOT:	oh (.) boy .
+%mor:	co|oh n|boy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	dog barking and baby crying .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	Kelly's gonna be on there .
+%mor:	adj|Kelly&dn-POSS part|go-PRESP~inf|to cop|be prep|on n|there .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%sit:	has just found out video equipment has sound .
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*MOT:	Carl's gonna be on there .
+%mor:	adj|Carl&dn-POSS part|go-PRESP~inf|to cop|be prep|on n|there .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|INF 4|2|COMP 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*MOT:	they're gonna say (.) “boy (.) what a noisy household” !
+%mor:	pro:sub|they~aux|be&PRES part|go-PRESP~inf|to v|say n|boy
+	pro:int|what det:art|a adj|noise&dn-Y n|household !
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|10|DET 8|10|DET
+	9|10|MOD 10|6|APP 11|3|PUNCT
+%cod:	$MLU=9 $NMV=1 $Con $Rep
+*CHI:	where Kelly ?
+%mor:	pro:int|where n:prop|Kelly ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*MOT:	where's Kelly ?
+%mor:	pro:int|where~cop|be&3S n:prop|Kelly ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Exp
+*MOT:	Kelly is downstairs .
+%mor:	n:prop|Kelly cop|be&3S adv|downstairs .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	I'm gonna go get the baby .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|go v|get det:art|the
+	n|baby .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|SRL 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rep
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rfi
+@End
