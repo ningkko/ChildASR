@@ -5,7 +5,7 @@ import sys
 import os
 import tqdm
 
-
+import src.cha_util as cha_util
 from src.pylangacq.chat import *
 from src.pylangacq.dependency import *
 from src.pylangacq.measures import *
@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import numpy as np
 import math
+import string
 # import argparse
 
 # import enchant
@@ -41,6 +42,50 @@ def find_eng_words(words):
     df = pd.DataFrame(list(_dict.items()))
     df.columns = ["word","count"]
     return df
+
+def count_utterance_freq(utterances):
+    """
+    :param: a list of utterances
+    :output: a pandas dataframe of unique utterances and their frenquencies 
+    """
+
+    _dict=Counter(utterances)
+    _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
+    
+    df = pd.DataFrame(list(_dict.items()))
+    df.columns = ["utterance","count"]
+    return df
+
+def get_utterances_from_cha(corpus_name):
+    """
+    This function reads all .cha files for a corpus and return all utterance including punctuations
+    :return: all utterances (non-unique) appear in a corpus
+    """
+    all_utterance = []
+
+    file_path = corpus_name+"/*.cha"
+    files = glob.glob(file_path)
+
+    pbar = tqdm.tqdm(total=len(files))
+
+    for file in files:
+        # print(file)
+        eve = read_chat(file)
+        #get all participants
+        pars = list(eve.participant_codes())
+        for p in pars:
+            if p!= "CHI":
+                utts = [k[1] for k in eve.utterances(participant=p)]
+                clean_utts = []
+                for sentence in utts:
+                    clean_sent = cha_util.extract_words(sentence)
+                    if clean_sent:
+                        clean_utts.append(clean_sent)
+                all_utterance += clean_utts
+                
+        pbar.update(1)
+    # print(all_utterance)
+    return all_utterance
 
 def get_words_from_cha(corpus_name):
     """
@@ -73,6 +118,17 @@ def get_words_from_cha(corpus_name):
         ff.write(str(glob_par_list))
 
     return all_words
+
+def get_utterance(corpus_name):
+
+    all_utterance = get_utterances_from_cha(corpus_name)
+    utterance_freq = count_utterance_freq(all_utterance)
+
+    output_filename = corpus_name+"_utt_freq.csv"
+    utterance_freq.to_csv("src/words/"+output_filename,index=False)
+
+    print("%s contains %i utterances."%(corpus_name, utterance_freq["count"].sum()))
+    return all_utterance
 
 def get_words(corpus_name):
 
@@ -110,3 +166,12 @@ def plot(corpus_name, words):
     plt.title(corpus_name+" word frequency distribution") 
     plt.savefig("analysis/"+corpus_name+".png")
     plt.show()
+
+def learn_vocabulary_size(corpus, learning_rate):
+    '''
+    Given a corpus and a learning rate, calculate the learned vocabulary size
+    '''
+    learned_voc = []
+    for word, freq in corpus.items():
+        probability = 1-(1-learning_rate)^freq
+

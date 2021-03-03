@@ -42,17 +42,7 @@ def main():
             kept_num = delete_files.delete_files(data_dir, files)
             print("%i cha files kept\n==================================="%kept_num)
 
-        all_words = pd.DataFrame()
-        word_p = "src/words/"+corpus_name+".csv"
-        if os.path.exists(word_p):
-            print("word file exists")
-            all_words = pd.read_csv(word_p)
-            if all_words.empty:
-                print("file empty")
-    
-        if all_words.empty:
-            print("extracting words from transcripts..")
-            all_words = analyze.get_words(corpus_name)
+      
 
 if __name__ == "__main__":
     main()
