@@ -57,7 +57,7 @@ def main():
     chi_dist = {}
     
     # pbar = tqdm.tqdm(total=3)
-    pbar = tqdm.tqdm(total=len(corpus_0))
+    pbar = tqdm.tqdm(total=999)
 
     i = 1
     while i < 1000:
