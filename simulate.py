@@ -9,7 +9,7 @@ import math
 
 # CORPUS_0_PATH = "src/words/dev_utt.txt"
 LEARNING_RATE = 0.1
-CORPUS_0_PATH = "corpora/000.txt"
+CORPUS_0_PATH = "corpora/bi/000.txt"
 
 
 def _zip(original_file_path):
@@ -24,7 +24,7 @@ def _zip(original_file_path):
     os.chdir(filepath)
     ZipFile(zipfile, 'w').write(original_file)
     os.remove(original_file)
-    os.chdir("../")
+    os.chdir("../../")
 
 
 def generate_file_name(i):
@@ -33,11 +33,11 @@ def generate_file_name(i):
     :@return: file name
     """
     if 0<i<10:
-        return "corpora/00"+str(i)+".json"
+        return "corpora/bi//00"+str(i)+".json"
     elif 10<=i<100:
-        return "corpora/0"+str(i)+".json"
+        return "corpora/bi/0"+str(i)+".json"
     elif 100<=i<1000:
-        return "corpora/"+str(i)+".json"
+        return "corpora/bi/"+str(i)+".json"
 
 def main(): 
 
@@ -48,10 +48,14 @@ def main():
         with open(CORPUS_0_PATH, "r") as file:
             corpus_0 = file.read().split("\n")
 
+    corpus_0 = np.random.choice(corpus,int(len(corpus_0/2)),replace=False)   # bi-lingual
+    with open(CORPUS_0_PATH,"w") as file:
+        file.write("\n".join(corpus_0))
+    
     corpus_words = analyze.corpus_to_words(corpus_0)
-    with open("corpora/000.json", "w") as file:
+    with open("corpora/bi/000.json", "w") as file:
         json.dump(corpus_words,file,indent=4)
-    _zip("corpora/000.json")
+    _zip("corpora/bi/000.json")
     learned_words = analyze.learn_vocabulary_size(corpus_words, LEARNING_RATE)
 
     print(len(learned_words))
@@ -84,7 +88,7 @@ def main():
         pbar.update(1)
         i += 1
 
-    with open("analysis/dev_child.json","w") as file:
+    with open("analysis/bi_child.json","w") as file:
         json.dump(chi_dist,file,indent=4)
 
 main()
