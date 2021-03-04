@@ -252,7 +252,7 @@ def learn_vocabulary_size(corpus, learning_rate):
     for word, freq in corpus.items():
         probability = 1-math.pow((1-learning_rate),freq)
 
-        if probability >= 0.9997:
+        if probability >= 0.997:
             learned_voc.append(word)
         # pbar.update(1)
 

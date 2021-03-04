@@ -8,7 +8,7 @@ import tqdm
 import math
 
 # CORPUS_0_PATH = "src/words/dev_utt.txt"
-LEARNING_RATE = 0.05
+LEARNING_RATE = 0.1
 CORPUS_0_PATH = "corpora/000.txt"
 
 
@@ -23,7 +23,7 @@ def _zip(original_file_path):
 
     os.chdir(filepath)
     ZipFile(zipfile, 'w').write(original_file)
-    # os.remove(original_file)
+    os.remove(original_file)
     os.chdir("../")
 
 
@@ -58,27 +58,25 @@ def main():
 
     chi_dist = {0:len(learned_words)}
     
-    pbar = tqdm.tqdm(total=3)
-    # pbar = tqdm.tqdm(total=999)
+    # pbar = tqdm.tqdm(total=3)
+    pbar = tqdm.tqdm(total=999)
 
     i = 1
-    # while i < 1000:
-    while i<4:
+    while i < 1000:
+    # while i<4:
         # print(i)
         new_corpus_name = generate_file_name(i)
         # print(new_corpus_name)
-
-        if not os.path.exists(new_corpus_name.replace("json","txt")):
-            new_corpus = analyze.sample_w_replacement(corpus_0)
+        if os.path.exists(new_corpus_name):
+            with open(new_corpus_name,"r") as file:
+                corpus_words = json.load(file)
         else:
-            with open(new_corpus_name.replace("json","txt"),"r") as file:
-                new_corpus = file.read().split("\n")
+            new_corpus = analyze.sample_w_replacement(corpus_0)
+            corpus_words = analyze.corpus_to_words(new_corpus)
 
-        corpus_words = analyze.corpus_to_words(new_corpus)
-
-        with open(new_corpus_name, "w") as file:
-            json.dump(corpus_words,file,indent=4)
-        _zip(new_corpus_name)
+            with open(new_corpus_name, "w") as file:
+                json.dump(corpus_words,file,indent=4)
+            _zip(new_corpus_name)
 
         learned_words = analyze.learn_vocabulary_size(corpus_words, LEARNING_RATE)
 
