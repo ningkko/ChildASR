@@ -21,6 +21,9 @@ import numpy as np
 import math
 import string
 import json
+from pattern.text.en import singularize
+
+
 # import argparse
 
 # import enchant
@@ -231,6 +234,7 @@ def corpus_to_words(corpus):
 
     words_dict = Counter(words)
     words_dict = {k: v for k, v in sorted(words_dict.items(), key=lambda item: item[1])}
+    words_dict = {key:val for key, val in words_dict.items() if val > 10}
     # with open("src/words/dev_freq.json","w") as file:
         # json.dump(words_dict,file,indent=4)
 
@@ -248,7 +252,7 @@ def learn_vocabulary_size(corpus, learning_rate):
     for word, freq in corpus.items():
         probability = 1-math.pow((1-learning_rate),freq)
 
-        if probability >= 0.71:
+        if probability >= 0.9997:
             learned_voc.append(word)
         # pbar.update(1)
 

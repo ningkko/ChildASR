@@ -2,6 +2,7 @@ import string
 import re
 from nltk.corpus import words
 nltk_eng_dict = set(words.words())
+from pattern.text.en import singularize
 
 
 def clean(word):
@@ -9,7 +10,10 @@ def clean(word):
     for symbol in in_word_symbols:
         if symbol in word:
             word = word.replace(symbol,"")
-    return word
+    word = singularize(word)
+    if word in nltk_eng_dict:
+        return word
+    return ""
 
 def extract_words(sentence):
     """
@@ -55,9 +59,10 @@ def extract_words(sentence):
 
         word = clean(word)
 
-        if "+" in word:
-            print(word)
-        clean_words.append(word)
+        # if "+" in word:
+            # print(word)
+        if word:
+            clean_words.append(word)
         previous_word = word
 
     return " ".join(clean_words)
