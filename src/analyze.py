@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import glob
 # import config 
 import pickle
@@ -17,17 +20,30 @@ from collections import Counter
 import numpy as np
 import math
 import string
+import json
 # import argparse
 
 # import enchant
 
-from nltk.corpus import words
-nltk_eng_dict = set(words.words())
+# from nltk.corpus import words
+# nltk_eng_dict = set(words.words())
+
+def calc_freq(words):
+    """
+    :param: a list of words
+    :output: a pandas dataframe of unique words and their frenquencies 
+    """
+    _dict = Counter(words)
+    _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
+    
+    df = pd.DataFrame(list(_dict.items()))
+    df.columns = ["word","count"]
+    return df
 
 def find_eng_words(words):
     """
     :param: a list of words
-    :output: a pandas dataframe of unique words and their frenquencies 
+    :output: a pandas dataframe of unique english words and their frenquencies 
     """
 
     _dict={}
@@ -69,7 +85,6 @@ def get_utterances_from_cha(corpus_name):
     pbar = tqdm.tqdm(total=len(files))
 
     for file in files:
-        # print(file)
         eve = read_chat(file)
         #get all participants
         pars = list(eve.participant_codes())
@@ -85,6 +100,11 @@ def get_utterances_from_cha(corpus_name):
                 
         pbar.update(1)
     # print(all_utterance)
+    output_filename = "src/words/"+corpus_name+"_utt.txt"
+
+    with open(output_filename,"w") as file:
+        file.writelines("\n".join(all_utterance))
+
     return all_utterance
 
 def get_words_from_cha(corpus_name):
@@ -124,17 +144,14 @@ def get_utterance(corpus_name):
     all_utterance = get_utterances_from_cha(corpus_name)
     utterance_freq = count_utterance_freq(all_utterance)
 
-    output_filename = corpus_name+"_utt_freq.csv"
-    utterance_freq.to_csv("src/words/"+output_filename,index=False)
-
     print("%s contains %i utterances."%(corpus_name, utterance_freq["count"].sum()))
     return all_utterance
 
 def get_words(corpus_name):
 
     all_words = get_words_from_cha(corpus_name)
-    word_freq = find_eng_words(all_words)
-
+    # word_freq = find_eng_words(all_words)
+    word_freq = calc_freq(all_words)
     output_filename = corpus_name+"_word_freq.csv"
     word_freq.to_csv("src/words/"+output_filename,index=False)
 
@@ -167,11 +184,74 @@ def plot(corpus_name, words):
     plt.savefig("analysis/"+corpus_name+".png")
     plt.show()
 
+
+def generate_original_corpus(CORPUS_0_FREQ_PATH, CORPUS_0_PATH):
+    """
+    generates a list of sentences given the freqency file 
+
+    ## This takes ~3 hr
+    """
+    df = pd.read_csv(CORPUS_0_FREQ_PATH).dropna()
+    corpus_0 = np.array([])
+
+    pbar = tqdm.tqdm(total=len(df))
+
+    for index, content in df.iterrows():
+        sentence = content[0]
+        freq = content[1]
+        corpus_0 = np.append(corpus_0,[content]*freq)
+        pbar.update(1)
+
+    corpus_0 = list(corpus_0)
+
+    with open(CORPUS_0_PATH, "w") as file:
+        file.writelines(corpus_0)
+
+    return corpus_0
+
+
+def sample_w_replacement(corpus):
+    """
+    :@param: a list of utterances
+    :@return: a new list of utterances 
+    """
+    n = len(corpus)
+    return np.random.choice(corpus,n)
+    
+def corpus_to_words(corpus):
+    """
+    given a corpus, return a dictionary of unique words and their frequencies
+    :@param: a list of utterances
+    :@return: a dictionary of unique words
+    """
+    words = []
+    for sent in corpus:
+        sent = sent.replace("\'s","").lower().split(" ")
+        words += sent
+
+    words_dict = Counter(words)
+    words_dict = {k: v for k, v in sorted(words_dict.items(), key=lambda item: item[1])}
+    # with open("src/words/dev_freq.json","w") as file:
+        # json.dump(words_dict,file,indent=4)
+
+    return words_dict
+
+
 def learn_vocabulary_size(corpus, learning_rate):
     '''
-    Given a corpus and a learning rate, calculate the learned vocabulary size
+    Given a corpus and a learning rate, return learned words
     '''
+
     learned_voc = []
+    # pbar = tqdm.tqdm(total=len(corpus))
+
     for word, freq in corpus.items():
-        probability = 1-(1-learning_rate)^freq
+        probability = 1-math.pow((1-learning_rate),freq)
+
+        if probability >= 0.71:
+            learned_voc.append(word)
+        # pbar.update(1)
+
+    return learned_voc
+
 
