@@ -23,7 +23,10 @@ def extract_words(sentence):
 
     pass_symbols = ["+/.","+//","//.","+//.","@l","xxx","yyy","www","+<","+..."]
     sentence = sentence.split(" ")
+
+    # for repetitions
     previous_word = ""
+
     for word in sentence:
         if word in string.punctuation:
             continue
@@ -31,8 +34,10 @@ def extract_words(sentence):
             if ps in word:
                 continue
 
+        # pause
         if "(" in word and "." in word and ")" in word:
             continue
+        # repetition
         if "[/]" in word:
             clean_words.append(previous_word)
             continue

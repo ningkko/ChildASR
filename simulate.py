@@ -48,10 +48,10 @@ def main():
         with open(CORPUS_0_PATH, "r") as file:
             corpus_0 = file.read().split("\n")
 
-    corpus_0 = np.random.choice(corpus,int(len(corpus_0/2)),replace=False)   # bi-lingual
+    corpus_0 = np.random.choice(corpus_0,int(len(corpus_0)/2),replace=False)   # bi-lingual
     with open(CORPUS_0_PATH,"w") as file:
         file.write("\n".join(corpus_0))
-    
+
     corpus_words = analyze.corpus_to_words(corpus_0)
     with open("corpora/bi/000.json", "w") as file:
         json.dump(corpus_words,file,indent=4)

@@ -161,33 +161,54 @@ def get_words(corpus_name):
     print("%s contains %i words."%(corpus_name, word_freq["count"].sum()))
     return all_words
 
-
-def plot(corpus_name, words):
-
+def find_freq_dist(voc_size):
     """
-    :param corpus_name: 
-    :param words: 
+    :@param: dictionaries of child voc size distributions
     """
 
-    if not os.path.isdir("analysis"):
-        os.mkdir("analysis")
-
-    plt.clf()
-
-    l = int(len(_dict)*0.2)
-    keys = words["word"][l:]
-    values = words["count"][l:]
+    dist = Counter([v for k,v in voc_size.items()])
+    dist = {k: v for k, v in sorted(dist.items(), key=lambda item: item[0])}
+    x = [k for k,v in dist.items()]
+    y = [v for k,v in dist.items()]
     
-    plt.axes().set_ylim([0, int(math.ceil(max(values)*1.5))])
-    plt.bar(keys, values)
-    plt.xticks([])
-    plt.xlabel("words")     
-    plt.ylabel("freq") 
-    plt.title(corpus_name+" word frequency distribution") 
-    plt.savefig("analysis/"+corpus_name+".png")
+    return x,y
+
+def find_lim(a,b):
+    """
+    :@param: lists of ints
+    """
+    return int(min(a+b)), int(max(a+b))
+
+def plot(voc_size1, voc_size2):
+
+    """
+    :@param: dictionaries of child voc size distributions
+    :@return: lineplots
+    """
+    x1,y1 = find_freq_dist(voc_size1)
+    plt.plot(x1, y1, label = "Typical Developing Kids", linewidth=0.6)
+    
+    x2,y2 = find_freq_dist(voc_size2)
+    plt.plot(x2, y2, label = "Bilingual Kids", linewidth=0.6)
+    print(x2)
+    print(y2)
+    
+    plt.xlabel('Vocabulary sizes')
+    plt.ylabel('Number of kids')
+    plt.title('Child Vocabulary Distribution')
+    
+    x_min,x_max = find_lim(x1,x2)
+    print(x_min,x_max)
+    y_min,y_max = find_lim(y1,y2)
+
+    plt.xticks([x_min,x_min+(x_max-x_min)/2,x_max])
+    plt.yticks([0, y_max/2,y_max])
+
+    plt.legend()
+    plt.savefig("analysis/result.png",dpi=100)
+
     plt.show()
-
-
+    
 def generate_original_corpus(CORPUS_0_FREQ_PATH, CORPUS_0_PATH):
     """
     generates a list of sentences given the freqency file 
@@ -220,7 +241,8 @@ def sample_w_replacement(corpus):
     """
     n = len(corpus)
     return np.random.choice(corpus,n)
-    
+
+
 def corpus_to_words(corpus):
     """
     given a corpus, return a dictionary of unique words and their frequencies
