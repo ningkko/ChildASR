@@ -6,13 +6,43 @@ import os
 import json
 import tqdm
 import math
+import argparse
 
+
+parser = argparse.ArgumentParser(description='.')
+parser.add_argument('--month', type=int, help='Age of the kids')
+parser.add_argument('--group', type=str, help='Bilingual (bi) or typical (dev)')
+
+args = parser.parse_args()
+
+
+month = args.month
 # CORPUS_0_PATH = "src/words/dev_utt.txt"
-LEARNING_RATE = 0.1
-CORPUS_0_PATH = "corpora/bi/000.txt"
+# LEARNING_RATE = 0.1
+group = args.group
+dev_corpus_path = "corpora/000_dev.txt"
+bi_corpus_path = "corpora/000_bi.txt"
 
 
-def _zip(original_file_path):
+INITIALIZE_BI = False
+if group == "dev":
+    CORPUS_0_PATH = dev_corpus_path
+    corpus_size = int(analyze.input_voc(month)/3.687035554756014)
+
+else:
+    corpus_size = int(analyze.input_voc(month)/3.687035554756014/2)
+    CORPUS_0_PATH = bi_corpus_path
+    if not os.path.exists(bi_corpus_path):
+        CORPUS_0_PATH = dev_corpus_path
+        INITIALIZE_BI = True
+
+# with open("lr/bi_30.json","r") as file:
+#     lr = json.load(file)
+with open("lr/dev_"+str(month)+".json","r") as file:
+    lr_dict = json.load(file)
+    selected_words = [k for k, v in lr_dict.items()]
+
+def zip_freq(original_file_path):
     """
     zip a file and delete the original one
     """
@@ -27,17 +57,17 @@ def _zip(original_file_path):
     os.chdir("../../")
 
 
-def generate_file_name(i):
+def generate_file_name(i, group):
     """
     :@param: int index i 
     :@return: file name
     """
     if 0<i<10:
-        return "corpora/bi//00"+str(i)+".json"
+        return "corpora/"+group+"/00"+str(i)+".json"
     elif 10<=i<100:
-        return "corpora/bi/0"+str(i)+".json"
+        return "corpora/"+group+"/0"+str(i)+".json"
     elif 100<=i<1000:
-        return "corpora/bi/"+str(i)+".json"
+        return "corpora/"+group+"/"+str(i)+".json"
 
 def main(): 
 
@@ -46,19 +76,21 @@ def main():
         exit(1)
     else:
         with open(CORPUS_0_PATH, "r") as file:
-            corpus_0 = file.read().split("\n")
+            corpus_0 = file.read().split("\n")  
 
-    corpus_0 = np.random.choice(corpus_0,int(len(corpus_0)/2),replace=False)   # bi-lingual
-    with open(CORPUS_0_PATH,"w") as file:
-        file.write("\n".join(corpus_0))
+    if INITIALIZE_BI:
+        corpus_0 = analyze.sample_w_replacement(corpus_0, corpus_size)
 
-    corpus_words = analyze.corpus_to_words(corpus_0)
-    with open("corpora/bi/000.json", "w") as file:
-        json.dump(corpus_words,file,indent=4)
-    _zip("corpora/bi/000.json")
-    learned_words = analyze.learn_vocabulary_size(corpus_words, LEARNING_RATE)
+        with open(bi_corpus_path,"w") as file:
+            file.write("\n".join(corpus_0))
 
-    print(len(learned_words))
+    ## get the freq dict 
+    word_freq = analyze.corpus_to_word_freq(corpus_0)
+    with open("corpora/"+group+"/000.json", "w") as file:
+        json.dump(word_freq,file,indent=4)
+    learned_words = analyze.learn_vocabulary_size(word_freq, lr_dict, selected_words)
+
+    # print(len(learned_words))
 
     chi_dist = {0:len(learned_words)}
     
@@ -67,31 +99,33 @@ def main():
 
     i = 1
     while i < 1000:
-    # while i<4:
-        # print(i)
-        new_corpus_name = generate_file_name(i)
-        # print(new_corpus_name)
+    # while i<3:
+        new_corpus_name = generate_file_name(i, group)
+
         if os.path.exists(new_corpus_name):
             with open(new_corpus_name,"r") as file:
-                corpus_words = json.load(file)
+                word_freq = json.load(file)
         else:
-            new_corpus = analyze.sample_w_replacement(corpus_0)
-            corpus_words = analyze.corpus_to_words(new_corpus)
+            new_corpus = analyze.sample_w_replacement(corpus_0, corpus_size)
+            word_freq = analyze.corpus_to_word_freq(new_corpus)
 
             with open(new_corpus_name, "w") as file:
-                json.dump(corpus_words,file,indent=4)
-            _zip(new_corpus_name)
-
-        learned_words = analyze.learn_vocabulary_size(corpus_words, LEARNING_RATE)
+                json.dump(word_freq,file,indent=4)
+            # zip_freq(new_corpus_name)
+        
+        selected_dict, learned_words = analyze.learn_vocabulary_size(word_freq, lr_dict, selected_words)
+        with open(new_corpus_name, "w") as file:
+            json.dump(selected_dict,file,indent=4)
 
         chi_dist[i] = len(learned_words)
         pbar.update(1)
         i += 1
 
-    with open("analysis/bi_child.json","w") as file:
+    with open("analysis/"+group+"_child.json","w") as file:
         json.dump(chi_dist,file,indent=4)
 
 main()
+
 
 
 

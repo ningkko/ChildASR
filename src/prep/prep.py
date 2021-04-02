@@ -22,7 +22,7 @@ def prep_file(x):
              2. a list of files as a reference of files to keep 
     """
     # print(args.input_path)
-    df = pd.read_excel(x)
+    df = pd.read_excel(x, names=["path", "1", "2", "3", "4", "5","6","7","8"])
 
     df["website"] = df["path"].apply(lambda x: _find_website(x))
     websites = df["website"].unique()

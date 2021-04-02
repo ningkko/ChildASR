@@ -22,8 +22,11 @@ import math
 import string
 import json
 from pattern.text.en import singularize
+import random
+from scipy.stats import binom
 
-
+from nltk.probability import FreqDist
+import statistics
 # import argparse
 
 # import enchant
@@ -103,7 +106,7 @@ def get_utterances_from_cha(corpus_name):
                 
         pbar.update(1)
     # print(all_utterance)
-    output_filename = "src/words/"+corpus_name+"_utt.txt"
+    output_filename = "corpora/"+corpus_name+"_000.txt"
 
     with open(output_filename,"w") as file:
         file.writelines("\n".join(all_utterance))
@@ -168,10 +171,38 @@ def find_freq_dist(voc_size):
 
     dist = Counter([v for k,v in voc_size.items()])
     dist = {k: v for k, v in sorted(dist.items(), key=lambda item: item[0])}
-    x = [k for k,v in dist.items()]
-    y = [v for k,v in dist.items()]
-    
-    return x,y
+    xs = [k for k,v in dist.items()]
+    ys = [v for k,v in dist.items()]
+
+    ### the following code finds the x where max y appears
+
+    left_x, left_y = 0, 0
+    right_x, right_y = 0, 0
+    for x,y in zip(xs,ys):
+        if y > right_y:
+            left_y, right_y = y, y 
+            left_x, right_x = x, x
+        if y == right_y:      
+            right_x = (x-left_x)/2+left_x
+    median_x = right_x
+    # ## find the median
+    # index_dict = dict(zip(ys,xs))
+    # # print(index_dict)
+    # median_y = statistics.median(ys)
+    # median_x = index_dict.get(median_y)
+
+    # if not median_x:
+    #     left_y = 0
+    #     for x,y in zip(sorted(xs),sorted(ys)):
+    #         if y < median_y:
+    #             left_y = y
+    #         else:
+    #             break
+    #     left_x = index_dict.get(left_y)
+    #     right_x = index_dict.get(y)
+    #     median_x = (left_x+right_x)
+
+    return xs,ys,median_x
 
 def find_lim(a,b):
     """
@@ -185,27 +216,31 @@ def plot(voc_size1, voc_size2):
     :@param: dictionaries of child voc size distributions
     :@return: lineplots
     """
-    x1,y1 = find_freq_dist(voc_size1)
+    x1,y1,median_1 = find_freq_dist(voc_size1)
     plt.plot(x1, y1, label = "Typical Developing Kids", linewidth=0.6)
     
-    x2,y2 = find_freq_dist(voc_size2)
+    x2,y2,median_2 = find_freq_dist(voc_size2)
     plt.plot(x2, y2, label = "Bilingual Kids", linewidth=0.6)
-    print(x2)
-    print(y2)
     
     plt.xlabel('Vocabulary sizes')
     plt.ylabel('Number of kids')
     plt.title('Child Vocabulary Distribution')
     
     x_min,x_max = find_lim(x1,x2)
-    print(x_min,x_max)
     y_min,y_max = find_lim(y1,y2)
 
     plt.xticks([x_min,x_min+(x_max-x_min)/2,x_max])
     plt.yticks([0, y_max/2,y_max])
 
+    ## plot median
+
+    plt.axvline(x=median_1,linewidth=0.5, color='gray', linestyle = "dashed")
+    plt.text(median_1+1, y_max, str(median_1))
+    plt.axvline(x=median_2,linewidth=0.5, color='gray', linestyle = 'dashed')
+    plt.text(median_2+1, y_max, str(median_2))
+
     plt.legend()
-    plt.savefig("analysis/result.png",dpi=100)
+    plt.savefig("analysis/result.png",dpi=200)
 
     plt.show()
     
@@ -217,8 +252,6 @@ def generate_original_corpus(CORPUS_0_FREQ_PATH, CORPUS_0_PATH):
     """
     df = pd.read_csv(CORPUS_0_FREQ_PATH).dropna()
     corpus_0 = np.array([])
-
-    pbar = tqdm.tqdm(total=len(df))
 
     for index, content in df.iterrows():
         sentence = content[0]
@@ -234,50 +267,55 @@ def generate_original_corpus(CORPUS_0_FREQ_PATH, CORPUS_0_PATH):
     return corpus_0
 
 
-def sample_w_replacement(corpus):
+# millions of words addressed to child 
+def input_voc(month):
+    '''finds the number of words a typical middle class child hears at a given age (in months)'''
+    return int(0.625*month*1000000)
+
+def sample_w_replacement(corpus, corpus_size):
     """
     :@param: a list of utterances
     :@return: a new list of utterances 
     """
-    n = len(corpus)
-    return np.random.choice(corpus,n)
+
+    return np.random.choice(corpus,corpus_size)
 
 
-def corpus_to_words(corpus):
+def corpus_to_word_freq(corpus):
     """
     given a corpus, return a dictionary of unique words and their frequencies
     :@param: a list of utterances
     :@return: a dictionary of unique words
     """
-    words = []
-    for sent in corpus:
-        sent = sent.replace("\'s","").lower().split(" ")
-        words += sent
-
-    words_dict = Counter(words)
-    words_dict = {k: v for k, v in sorted(words_dict.items(), key=lambda item: item[1])}
-    words_dict = {key:val for key, val in words_dict.items() if val > 10}
-    # with open("src/words/dev_freq.json","w") as file:
-        # json.dump(words_dict,file,indent=4)
-
-    return words_dict
+    text = []
+    for sentence in corpus:
+        words = sentence.split(" ")
+        if words:
+            text+=words
+    freq = FreqDist(text)
+    freq.pop("",None)
 
 
-def learn_vocabulary_size(corpus, learning_rate):
+    return freq
+
+
+def learn_vocabulary_size(corpus, lr_dict, selected_words):
     '''
-    Given a corpus and a learning rate, return learned words
+    Given a word_freq dictionary and a learning rate dictionary, return learned words
     '''
+    selected_words_freq = {k: v for k, v in corpus.items() if k in selected_words}
+    # print("%i word selected."%(len(selected_words_freq)))
 
-    learned_voc = []
-    # pbar = tqdm.tqdm(total=len(corpus))
+    learned = []
 
-    for word, freq in corpus.items():
-        probability = 1-math.pow((1-learning_rate),freq)
+    for k,v in selected_words_freq.items():
+            prob = 1-binom.cdf(0, v, lr_dict[k])
+            indicator = random.random()
+            if indicator < prob:
+                learned.append(k)
 
-        if probability >= 0.997:
-            learned_voc.append(word)
-        # pbar.update(1)
+    # print("Learned %i words from %i sample words sampled from %i unique words"%(len(learned),len(selected_words_freq), len(corpus)))
 
-    return learned_voc
+    return selected_words_freq,learned
 
 
