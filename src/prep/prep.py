@@ -10,9 +10,9 @@ def _find_cha_path(x):
     return 'data/'+"/".join(x.split("/")[1:])+'.cha'
 
 def _find_website(x):
-        xs = x.split("/")
-        newx = xs[1:3]
-        return "https://childes.talkbank.org/data/"+"/".join(newx)+".zip"
+    xs = x.split("/")
+    newx = xs[1:4]
+    return "https://childes.talkbank.org/data/"+"/".join(newx)+".zip"
 
 def prep_file(x):
     """
@@ -23,10 +23,9 @@ def prep_file(x):
     """
     # print(args.input_path)
     df = pd.read_excel(x, names=["path", "1", "2", "3", "4", "5","6","7","8"])
-
     df["website"] = df["path"].apply(lambda x: _find_website(x))
     websites = df["website"].unique()
-
+    print(websites)
     with open("websites.txt","w") as file:
         file.write("\n".join(websites))
     

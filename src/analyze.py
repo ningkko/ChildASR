@@ -27,6 +27,8 @@ from scipy.stats import binom
 
 from nltk.probability import FreqDist
 import statistics
+from nltk.stem.snowball import SnowballStemmer
+
 # import argparse
 
 # import enchant
@@ -46,24 +48,24 @@ def calc_freq(words):
     df.columns = ["word","count"]
     return df
 
-def find_eng_words(words):
-    """
-    :param: a list of words
-    :output: a pandas dataframe of unique english words and their frenquencies 
-    """
+# def find_eng_words(words):
+#     """
+#     :param: a list of words
+#     :output: a pandas dataframe of unique english words and their frenquencies 
+#     """
 
-    _dict={}
+#     _dict={}
 
-    l = Counter(words)
-    for k,v in l.items():
-        if k in nltk_eng_dict:
-            _dict[k]=v
+#     l = Counter(words)
+#     for k,v in l.items():
+#         if k in nltk_eng_dict:
+#             _dict[k]=v
 
-    _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
+#     _dict = dict(sorted(_dict.items(), key=lambda item: item[1], reverse=True))
     
-    df = pd.DataFrame(list(_dict.items()))
-    df.columns = ["word","count"]
-    return df
+#     df = pd.DataFrame(list(_dict.items()))
+#     df.columns = ["word","count"]
+#     return df
 
 def count_utterance_freq(utterances):
     """
@@ -78,12 +80,21 @@ def count_utterance_freq(utterances):
     df.columns = ["utterance","count"]
     return df
 
-def get_utterances_from_cha(corpus_name):
+def get_utterances_from_cha(corpus_name, lang):
     """
     This function reads all .cha files for a corpus and return all utterance including punctuations
     :return: all utterances (non-unique) appear in a corpus
     """
     all_utterance = []
+
+    if lang == "nor":
+        stemmer = SnowballStemmer("norwegian")
+    elif lang == "eng":
+        stemmer = SnowballStemmer("english")
+    elif lang == "ita":
+        stemmer = SnowballStemmer("italian")
+    else:
+        stemmer = None # no need for chinese
 
     file_path = corpus_name+"/*.cha"
     files = glob.glob(file_path)
@@ -99,7 +110,7 @@ def get_utterances_from_cha(corpus_name):
                 utts = [k[1] for k in eve.utterances(participant=p)]
                 clean_utts = []
                 for sentence in utts:
-                    clean_sent = cha_util.extract_words(sentence)
+                    clean_sent = cha_util.extract_words(sentence, stemmer)
                     if clean_sent:
                         clean_utts.append(clean_sent)
                 all_utterance += clean_utts
@@ -145,9 +156,9 @@ def get_words_from_cha(corpus_name):
 
     return all_words
 
-def get_utterance(corpus_name):
+def get_utterance(corpus_name, lang):
 
-    all_utterance = get_utterances_from_cha(corpus_name)
+    all_utterance = get_utterances_from_cha(corpus_name, lang)
     utterance_freq = count_utterance_freq(all_utterance)
 
     print("%s contains %i utterances."%(corpus_name, utterance_freq["count"].sum()))

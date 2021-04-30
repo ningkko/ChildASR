@@ -2,20 +2,24 @@ import string
 import re
 from nltk.corpus import words
 nltk_eng_dict = set(words.words())
-from pattern.text.en import singularize
+# from pattern.text.en import singularize
+# from nltk.stem.snowball import SnowballStemmer
 
+def clean(word, stemmer):
+    
 
-def clean(word):
     in_word_symbols = ["0","„","\"","(",")",":","?","!","ˌ","ˈ","^","&-","/","=","*",",","...","..","."," "]
     for symbol in in_word_symbols:
         if symbol in word:
             word = word.replace(symbol,"")
-    word = singularize(word)
-    if word in nltk_eng_dict:
-        return word
-    return ""
+    if stemmer:
+        word = stemmer.stem(word)
+    return word
+    # # uncomment this for english
+    # if word in nltk_eng_dict:
+        # return word
 
-def extract_words(sentence):
+def extract_words(sentence, stemmer):
     """
     See chapter 8 of the CHAT format paper
     """
@@ -52,17 +56,17 @@ def extract_words(sentence):
         ww = []
         if "_" in word:
             for w in word.split("_"):
-                clean_words.append(clean(w))
+                clean_words.append(clean(w, stemmer))
             continue
         elif "+" in word:
             for w in word.split("+"):
-                clean_words.append(clean(w))
+                clean_words.append(clean(w, stemmer))
             continue
         if "@" in word:
-            clean_words.append(clean(word.split("@")[0]))
+            clean_words.append(clean(word.split("@")[0], stemmer))
             continue
 
-        word = clean(word)
+        word = clean(word,stemmer)
 
         # if "+" in word:
             # print(word)

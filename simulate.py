@@ -20,17 +20,21 @@ month = args.month
 # CORPUS_0_PATH = "src/words/dev_utt.txt"
 # LEARNING_RATE = 0.1
 group = args.group
-dev_corpus_path = "corpora/000_dev.txt"
-bi_corpus_path = "corpora/000_bi.txt"
+dev_corpus_path = "corpora/dev_000.txt"
+bi_corpus_path = "corpora/bi_000.txt"
+# # norwegian
+factor = 5.336256180469715
+# chinese
+# factor = 3.7862052142969884
 
 
 INITIALIZE_BI = False
 if group == "dev":
     CORPUS_0_PATH = dev_corpus_path
-    corpus_size = int(analyze.input_voc(month)/3.687035554756014)
+    corpus_size = int(analyze.input_voc(month)/factor)
 
 else:
-    corpus_size = int(analyze.input_voc(month)/3.687035554756014/2)
+    corpus_size = int(analyze.input_voc(month)/factor/2)
     CORPUS_0_PATH = bi_corpus_path
     if not os.path.exists(bi_corpus_path):
         CORPUS_0_PATH = dev_corpus_path
@@ -77,6 +81,9 @@ def main():
     else:
         with open(CORPUS_0_PATH, "r") as file:
             corpus_0 = file.read().split("\n")  
+
+    if not os.path.exists("corpora/"+group):
+        os.mkdir("corpora/"+group)
 
     if INITIALIZE_BI:
         corpus_0 = analyze.sample_w_replacement(corpus_0, corpus_size)
